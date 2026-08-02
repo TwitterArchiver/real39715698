@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2076323562454208764",
+    "created_at": "2026-07-12T17:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T18:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076360995484881012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1909080357615607808",
+          "start": 0,
+          "username": "QMNsukiSaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076360995484881012",
+    "in_reply_to_user_id": "1909080357615607808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076360145295290826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QMNsukiSaya 严刑拷打"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2076323562454208764",
+        "created_at": "2026-07-12T17:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076360995484881012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1909080357615607808",
+              "start": 0,
+              "username": "QMNsukiSaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076360995484881012",
+        "in_reply_to_user_id": "1909080357615607808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076360145295290826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QMNsukiSaya 严刑拷打"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909080357615607808",
+        "conversation_id": "2076323562454208764",
+        "created_at": "2026-07-12T17:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076360145295290826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076360145295290826",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076323562454208764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 不是我干的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 201,
+          "like_count": 26490,
+          "listed_count": 1,
+          "media_count": 398,
+          "tweet_count": 3742
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T03:06:57.000Z",
+        "description": "我很神秘\n但是可以告诉你我是一个男的",
+        "id": "1909080357615607808",
+        "location": "不在你心里",
+        "name": "不是曲铭楠",
+        "pinned_tweet_id": "2058027012376444958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909080575593635840/cGS45qnd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 78,
+          "like_count": 17893,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 3524
+        },
+        "url": "",
+        "username": "QMNsukiSaya",
+        "verified": false
+      }
+    ]
+  }
+}

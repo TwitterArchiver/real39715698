@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2067208031260254706",
+    "created_at": "2026-06-17T11:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067208031260254706"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067208031260254706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天真的是忙完了 下午睡醒什么都没吃去学校接毕业的朋友 然后在她们学校两个人骑小电瓶双双摔了一跤 两个人摔的浑身是伤 大腿内侧还划了非常长一道伤口 然后加上一直没吃饭忙到现在 低血糖又犯了开始发晕 到家了还得再出门去药店买药 因为我的药吃完了 感觉下一秒就要晕过去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2067208031260254706",
+        "created_at": "2026-06-17T11:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067208031260254706"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067208031260254706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天真的是忙完了 下午睡醒什么都没吃去学校接毕业的朋友 然后在她们学校两个人骑小电瓶双双摔了一跤 两个人摔的浑身是伤 大腿内侧还划了非常长一道伤口 然后加上一直没吃饭忙到现在 低血糖又犯了开始发晕 到家了还得再出门去药店买药 因为我的药吃完了 感觉下一秒就要晕过去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 199,
+          "like_count": 24261,
+          "listed_count": 1,
+          "media_count": 355,
+          "tweet_count": 3423
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

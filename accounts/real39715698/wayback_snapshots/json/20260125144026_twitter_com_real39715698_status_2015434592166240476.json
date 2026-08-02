@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2015409041527451919",
+    "created_at": "2026-01-25T14:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T15:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015434592166240476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1948684123910144002",
+          "start": 0,
+          "username": "wanyj111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015434592166240476",
+    "in_reply_to_user_id": "1948684123910144002",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015425394007293994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanyj111 我在！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2015409041527451919",
+        "created_at": "2026-01-25T14:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T15:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015434592166240476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1948684123910144002",
+              "start": 0,
+              "username": "wanyj111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015434592166240476",
+        "in_reply_to_user_id": "1948684123910144002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015425394007293994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanyj111 我在！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948684123910144002",
+        "conversation_id": "2015409041527451919",
+        "created_at": "2026-01-25T14:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T15:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015425394007293994"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "吾皇",
+              "probability": 0.7402,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015425394007293994",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015409041527451919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 吾皇！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 75,
+          "like_count": 1070,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 631
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T09:58:04.000Z",
+        "description": "你再不回去迪士尼就要没公主了ε(*･ω･)_/ﾟ:･☆",
+        "id": "1948684123910144002",
+        "location": "浙江",
+        "name": "我知道你是一片阴郁的云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967173735330267136/7ZV3v8Sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 106,
+          "like_count": 436,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 445
+        },
+        "username": "wanyj111",
+        "verified": false
+      }
+    ]
+  }
+}

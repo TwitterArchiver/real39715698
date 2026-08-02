@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2061751700084699510",
+    "created_at": "2026-06-02T16:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061851782591258804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866426482459119616",
+          "start": 0,
+          "username": "JiangX16628"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061851782591258804",
+    "in_reply_to_user_id": "1866426482459119616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061851431968333954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiangX16628 其实我们射手出的就是敖隐或者狄仁杰 但是架不住把把菜 要么四个同时菜 要么射手正常 其他几个又开始无脑送 我真有点吃不消了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2061751700084699510",
+        "created_at": "2026-06-02T16:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061851782591258804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866426482459119616",
+              "start": 0,
+              "username": "JiangX16628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061851782591258804",
+        "in_reply_to_user_id": "1866426482459119616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061851431968333954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiangX16628 其实我们射手出的就是敖隐或者狄仁杰 但是架不住把把菜 要么四个同时菜 要么射手正常 其他几个又开始无脑送 我真有点吃不消了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866426482459119616",
+        "conversation_id": "2061751700084699510",
+        "created_at": "2026-06-02T16:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061851431968333954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061851431968333954",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061851068473225223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 除非遇到小龙人之类的消耗自保强的 其他跟元辅没啥适配性 还容易走位失误"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 196,
+          "like_count": 21363,
+          "listed_count": 1,
+          "media_count": 316,
+          "tweet_count": 3047
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T10:15:39.000Z",
+        "description": "有心栽花花不开\n向我提问：https://t.co/pPHolJUFpk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiang37330/",
+                "end": 36,
+                "expanded_url": "https://ngl.link/jiang37330/",
+                "start": 13,
+                "url": "https://t.co/pPHolJUFpk"
+              }
+            ]
+          }
+        },
+        "id": "1866426482459119616",
+        "location": "距离你0米",
+        "name": "错过是一种天赋",
+        "pinned_tweet_id": "2000557873689178470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880560213927120896/a3T02LNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 20,
+          "like_count": 1160,
+          "listed_count": 1,
+          "media_count": 392,
+          "tweet_count": 1656
+        },
+        "username": "JiangX16628",
+        "verified": false
+      }
+    ]
+  }
+}

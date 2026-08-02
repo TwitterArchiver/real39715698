@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1941766381499973669",
+    "created_at": "2025-07-06T07:53:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T08:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941767536133144782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902978487662809090",
+          "start": 0,
+          "username": "justin405332629"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941767536133144782",
+    "in_reply_to_user_id": "1902978487662809090",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941766381499973669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@justin405332629 ⭕22.6 也分我一碗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1941766381499973669",
+        "created_at": "2025-07-06T07:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T08:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941767536133144782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902978487662809090",
+              "start": 0,
+              "username": "justin405332629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941767536133144782",
+        "in_reply_to_user_id": "1902978487662809090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941766381499973669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justin405332629 ⭕22.6 也分我一碗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902978487662809090",
+        "conversation_id": "1941766381499973669",
+        "created_at": "2025-07-06T07:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T08:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941766381499973669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941766381499973669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是皮下女，什么时候给我⭕11.3，因为我要吃花甲粉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 63,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 91
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T07:00:11.000Z",
+        "description": "ENFP ｜长发男｜短发男｜不是男喘｜1i｜双子座♊｜可以叫我小玉｜链接是提问箱｜喜欢回关，因为想把这里当成朋友圈刷，会先看看内容｜随机分享生活和猫猫🐱🐱🐱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/justin405332629",
+                "end": 23,
+                "expanded_url": "https://ngl.link/justin405332629",
+                "start": 0,
+                "url": "https://t.co/AEMLOdMk4e"
+              }
+            ]
+          }
+        },
+        "id": "1902978487662809090",
+        "location": "森寒冬港",
+        "name": "广式双马尾",
+        "pinned_tweet_id": "1940964312774001022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937490111333310464/yj-PIzK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 342,
+          "like_count": 14342,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 3287
+        },
+        "url": "https://t.co/AEMLOdMk4e",
+        "username": "justin405332629",
+        "verified": false
+      }
+    ]
+  }
+}

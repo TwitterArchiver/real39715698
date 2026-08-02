@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2028000997566742779",
+    "created_at": "2026-03-01T09:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T10:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028038685992849524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1994105609789341696",
+          "start": 0,
+          "username": "imissmyegg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028038685992849524",
+    "in_reply_to_user_id": "1994105609789341696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028035200563966253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imissmyegg 没戳没戳！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2028035200563966253].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2028035200563966253",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2028035200563966253"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2028000997566742779",
+        "created_at": "2026-03-01T09:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T10:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028038685992849524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1994105609789341696",
+              "start": 0,
+              "username": "imissmyegg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028038685992849524",
+        "in_reply_to_user_id": "1994105609789341696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028035200563966253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imissmyegg 没戳没戳！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 86,
+          "like_count": 3012,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 994
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-27T18:06:48.000Z",
+        "description": "和我认识你会感到幸福吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tcxxstoutou",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tcxxstoutou",
+                "start": 0,
+                "url": "https://t.co/2vFQMUyjti"
+              }
+            ]
+          }
+        },
+        "id": "1994105609789341696",
+        "location": "📬匿名提问箱",
+        "name": "蛋小萌",
+        "pinned_tweet_id": "2025989306666696752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026704072586440709/sm7djmPx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 318,
+          "like_count": 2646,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1127
+        },
+        "url": "https://t.co/2vFQMUyjti",
+        "username": "imissmyegg",
+        "verified": false
+      }
+    ]
+  }
+}

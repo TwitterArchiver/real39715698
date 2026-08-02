@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943956914494484480"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "1943956917485023509",
+    "created_at": "2025-07-12T08:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T09:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943956917485023509"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v8SO64uOZq",
+          "end": 51,
+          "expanded_url": "https://x.com/real39715698/status/1943956917485023509/photo/1",
+          "media_key": "3_1943956914494484480",
+          "start": 28,
+          "url": "https://t.co/v8SO64uOZq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943956917485023509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们知豆不 美团今天请客喝奶茶 还送了汉堡的券鸡块的券 https://t.co/v8SO64uOZq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943956914494484480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvpSg6MbsAAcyH2.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943956914494484480"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "1943956917485023509",
+        "created_at": "2025-07-12T08:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T09:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943956917485023509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v8SO64uOZq",
+              "end": 51,
+              "expanded_url": "https://x.com/real39715698/status/1943956917485023509/photo/1",
+              "media_key": "3_1943956914494484480",
+              "start": 28,
+              "url": "https://t.co/v8SO64uOZq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943956917485023509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们知豆不 美团今天请客喝奶茶 还送了汉堡的券鸡块的券 https://t.co/v8SO64uOZq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 68,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 150
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

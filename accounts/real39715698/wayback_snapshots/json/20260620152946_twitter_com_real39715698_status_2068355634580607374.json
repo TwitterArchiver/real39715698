@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2067990575652188618",
+    "created_at": "2026-06-20T15:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068355634580607374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2026930479874846722",
+          "start": 0,
+          "username": "yy_7701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068355634580607374",
+    "in_reply_to_user_id": "2026930479874846722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068353977796972882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yy_7701 我喜欢鱼鱼&gt;&lt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2067990575652188618",
+        "created_at": "2026-06-20T15:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068355634580607374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2026930479874846722",
+              "start": 0,
+              "username": "yy_7701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068355634580607374",
+        "in_reply_to_user_id": "2026930479874846722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068353977796972882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yy_7701 我喜欢鱼鱼&gt;&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026930479874846722",
+        "conversation_id": "2067990575652188618",
+        "created_at": "2026-06-20T15:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068353977796972882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068353977796972882",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067990575652188618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 那我很开心了&gt;_&lt;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 197,
+          "like_count": 24331,
+          "listed_count": 1,
+          "media_count": 360,
+          "tweet_count": 3464
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T08:01:11.000Z",
+        "description": "4i dom 带脸照和简介私信我 不带不回 骚扰拉黑 发吊烂吊\n别叫妈妈 不爱听 私信随缘\n别找我互关 只关注感兴趣的 只加互关\n我女神@Qnb6yC7f8r83780",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 68,
+                "username": "Qnb6yC7f8r83780"
+              }
+            ]
+          }
+        },
+        "id": "2026930479874846722",
+        "location": "只加互关",
+        "name": "鱼鱼",
+        "pinned_tweet_id": "2068301780535165251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040775700215664641/W7ypSKr1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2645,
+          "following_count": 93,
+          "like_count": 4491,
+          "listed_count": 4,
+          "media_count": 49,
+          "tweet_count": 1054
+        },
+        "url": "",
+        "username": "yy_7701",
+        "verified": false
+      }
+    ]
+  }
+}

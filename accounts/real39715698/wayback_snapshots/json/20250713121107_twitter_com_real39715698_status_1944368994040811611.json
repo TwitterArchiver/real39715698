@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1944368994040811611",
+    "created_at": "2025-07-13T12:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T13:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944368994040811611"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1944368994040811611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好像有点耳背 谁语音给我发句宝宝亲亲试一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1944368994040811611",
+        "created_at": "2025-07-13T12:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T13:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944368994040811611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944368994040811611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像有点耳背 谁语音给我发句宝宝亲亲试一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 67,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 155
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

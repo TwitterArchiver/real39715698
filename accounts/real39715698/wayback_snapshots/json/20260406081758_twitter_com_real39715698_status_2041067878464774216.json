@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2041065795619623044",
+    "created_at": "2026-04-06T08:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T09:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041067878464774216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1853119011619487744",
+          "start": 0,
+          "username": "StarryLove_1005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041067878464774216",
+    "in_reply_to_user_id": "1853119011619487744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041065795619623044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarryLove_1005 好萌呀怎么这么萌宝宝🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2041065783271530496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNShA8aoAA2LTO.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2041065795619623044",
+        "created_at": "2026-04-06T08:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041067878464774216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853119011619487744",
+              "start": 0,
+              "username": "StarryLove_1005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041067878464774216",
+        "in_reply_to_user_id": "1853119011619487744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041065795619623044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryLove_1005 好萌呀怎么这么萌宝宝🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041065783271530496"
+          ]
+        },
+        "author_id": "1853119011619487744",
+        "conversation_id": "2041065795619623044",
+        "created_at": "2026-04-06T08:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041065795619623044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aqTSJFAHF6",
+              "end": 27,
+              "expanded_url": "https://x.com/StarryLove_1005/status/2041065795619623044/photo/1",
+              "media_key": "3_2041065783271530496",
+              "start": 4,
+              "url": "https://t.co/aqTSJFAHF6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041065795619623044",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑一下 https://t.co/aqTSJFAHF6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 127,
+          "like_count": 8944,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1584
+        },
+        "username": "real39715698",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-03T16:56:31.000Z",
+        "description": "謝謝你成為了我的幾分之幾@imsry4what",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "imsry4what"
+              }
+            ]
+          }
+        },
+        "id": "1853119011619487744",
+        "location": "没有🚪不聊天",
+        "name": "420",
+        "pinned_tweet_id": "2040706131128143908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033844672188321793/idJzNAyK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3732,
+          "following_count": 62,
+          "like_count": 5900,
+          "listed_count": 8,
+          "media_count": 78,
+          "tweet_count": 1779
+        },
+        "username": "StarryLove_1005",
+        "verified": false
+      }
+    ]
+  }
+}

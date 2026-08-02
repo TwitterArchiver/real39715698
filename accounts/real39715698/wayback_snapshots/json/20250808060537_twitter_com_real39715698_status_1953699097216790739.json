@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1953562953099395271",
+    "created_at": "2025-08-08T06:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T07:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953699097216790739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851514661105254403",
+          "start": 0,
+          "username": "Finger_999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953699097216790739",
+    "in_reply_to_user_id": "1851514661105254403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953562953099395271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Finger_999 这么可爱那我真得接一下，哥哥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_1953562877190975496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxxzFh1bsAgwsIN.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1953562953099395271",
+        "created_at": "2025-08-08T06:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T07:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953699097216790739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851514661105254403",
+              "start": 0,
+              "username": "Finger_999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953699097216790739",
+        "in_reply_to_user_id": "1851514661105254403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953562953099395271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Finger_999 这么可爱那我真得接一下，哥哥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953562877190975496"
+          ]
+        },
+        "author_id": "1851514661105254403",
+        "conversation_id": "1953562953099395271",
+        "created_at": "2025-08-07T21:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T22:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953562953099395271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qT9dv8WwL4",
+              "end": 60,
+              "expanded_url": "https://x.com/Finger_999/status/1953562953099395271/photo/1",
+              "media_key": "3_1953562877190975496",
+              "start": 37,
+              "url": "https://t.co/qT9dv8WwL4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953562953099395271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1220,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2000fo的福利roll几个这个行吗\n我喜欢玩jett 这个也蛮可爱的 https://t.co/qT9dv8WwL4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950788203742703617/m3VNyVQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 76,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 228
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T06:41:17.000Z",
+        "description": "世路多崎  人海辽阔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/finger71674",
+                "end": 23,
+                "expanded_url": "https://ngl.link/finger71674",
+                "start": 0,
+                "url": "https://t.co/bvvTeNDxjC"
+              }
+            ]
+          }
+        },
+        "id": "1851514661105254403",
+        "location": "桂",
+        "name": "Finger",
+        "pinned_tweet_id": "1941076906402803814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937675611369275393/BRDtbNZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 219,
+          "like_count": 6684,
+          "listed_count": 4,
+          "media_count": 56,
+          "tweet_count": 1245
+        },
+        "url": "https://t.co/bvvTeNDxjC",
+        "username": "Finger_999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2043364690160721999",
+    "created_at": "2026-04-12T16:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T17:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043367894948655547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2025142781707235328",
+          "start": 0,
+          "username": "guozhi266503"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043367894948655547",
+    "in_reply_to_user_id": "2025142781707235328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043367348728688810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guozhi266503 怎么又周一了！讨厌的周一！ᴛ ᴛ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2043364690160721999",
+        "created_at": "2026-04-12T16:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043367894948655547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2025142781707235328",
+              "start": 0,
+              "username": "guozhi266503"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043367894948655547",
+        "in_reply_to_user_id": "2025142781707235328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043367348728688810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guozhi266503 怎么又周一了！讨厌的周一！ᴛ ᴛ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025142781707235328",
+        "conversation_id": "2043364690160721999",
+        "created_at": "2026-04-12T16:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043367348728688810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043367348728688810",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043364690160721999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 我去我的时间被谁偷走了，咋又周一了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "你走后我的世界模糊一片 看心情过@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 152,
+          "like_count": 11059,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 1930
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T09:37:33.000Z",
+        "description": "22｜天秤｜超级无敌闲之人",
+        "id": "2025142781707235328",
+        "location": "广州",
+        "name": "笨蛋总是掉眼泪",
+        "pinned_tweet_id": "2041989589414580241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041934180943355904/kB9GaB4L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 32,
+          "like_count": 436,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 243
+        },
+        "username": "guozhi266503",
+        "verified": false
+      }
+    ]
+  }
+}

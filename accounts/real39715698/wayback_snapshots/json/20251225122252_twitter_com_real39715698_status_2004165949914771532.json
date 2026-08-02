@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2004165949914771532",
+    "created_at": "2025-12-25T12:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T13:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004165949914771532"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004165949914771532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天真的是我最倒霉的一天，我再也不会喜欢圣诞了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2004165949914771532",
+        "created_at": "2025-12-25T12:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T13:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004165949914771532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004165949914771532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天真的是我最倒霉的一天，我再也不会喜欢圣诞了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "希望你天天开心",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1990020111521272078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 73,
+          "like_count": 783,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 544
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

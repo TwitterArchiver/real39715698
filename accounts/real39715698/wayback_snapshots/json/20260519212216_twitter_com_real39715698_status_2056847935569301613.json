@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2056784748702580992",
+    "created_at": "2026-05-19T21:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T22:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056847935569301613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1700262671637999616",
+          "start": 0,
+          "username": "Cutexiovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056847935569301613",
+    "in_reply_to_user_id": "1700262671637999616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056784748702580992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Cutexiovo 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1742,
+        "media_key": "3_2056784737352769536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsq0kFbYAAOQoP.jpg",
+        "width": 1495
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2056784748702580992",
+        "created_at": "2026-05-19T21:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T22:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056847935569301613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1700262671637999616",
+              "start": 0,
+              "username": "Cutexiovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056847935569301613",
+        "in_reply_to_user_id": "1700262671637999616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056784748702580992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Cutexiovo 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056784737352769536"
+          ]
+        },
+        "author_id": "1700262671637999616",
+        "conversation_id": "2056784748702580992",
+        "created_at": "2026-05-19T17:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056784748702580992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WnavieI4UJ",
+              "end": 31,
+              "expanded_url": "https://x.com/Cutexiovo/status/2056784748702580992/photo/1",
+              "media_key": "3_2056784737352769536",
+              "start": 8,
+              "url": "https://t.co/WnavieI4UJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056784748702580992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "拍的像个男人。 https://t.co/WnavieI4UJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 185,
+          "like_count": 20512,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 2912
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T21:39:57.000Z",
+        "description": "(ˆ⸝⸝• ꇴ •ˆ)ε •⸝⸝ˆ)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xixiowo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xixiowo",
+                "start": 0,
+                "url": "https://t.co/pWfxXkENoj"
+              }
+            ]
+          }
+        },
+        "id": "1700262671637999616",
+        "name": "想变可爱",
+        "pinned_tweet_id": "2038290749855601004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040345693949431809/LK3YCa4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1180,
+          "following_count": 120,
+          "like_count": 11372,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1532
+        },
+        "url": "https://t.co/pWfxXkENoj",
+        "username": "Cutexiovo",
+        "verified": false
+      }
+    ]
+  }
+}

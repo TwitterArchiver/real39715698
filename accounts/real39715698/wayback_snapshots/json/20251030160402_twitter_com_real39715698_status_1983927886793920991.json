@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1983920933988348281",
+    "created_at": "2025-10-30T16:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T17:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983927886793920991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1715267898657447936",
+          "start": 0,
+          "username": "iwannauimissu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983927886793920991",
+    "in_reply_to_user_id": "1715267898657447936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983920933988348281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iwannauimissu 老公"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983920841730748416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4hNfona8AAi9eT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1983920933988348281",
+        "created_at": "2025-10-30T16:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T17:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983927886793920991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1715267898657447936",
+              "start": 0,
+              "username": "iwannauimissu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983927886793920991",
+        "in_reply_to_user_id": "1715267898657447936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983920933988348281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iwannauimissu 老公"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983920841730748416"
+          ]
+        },
+        "author_id": "1715267898657447936",
+        "conversation_id": "1983920933988348281",
+        "created_at": "2025-10-30T15:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T16:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983920933988348281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BP8eIRsxeF",
+              "end": 23,
+              "expanded_url": "https://x.com/iwannauimissu/status/1983920933988348281/photo/1",
+              "media_key": "3_1983920841730748416",
+              "start": 0,
+              "url": "https://t.co/BP8eIRsxeF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983920933988348281",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BP8eIRsxeF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1952695269616910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980654074484731904/B7DmcC9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 76,
+          "like_count": 413,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 391
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T07:25:21.000Z",
+        "description": "",
+        "id": "1715267898657447936",
+        "location": "浙江",
+        "name": "idontcare",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979905195099234304/wOsKD_6s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3099,
+          "following_count": 232,
+          "like_count": 5626,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 336
+        },
+        "username": "iwannauimissu",
+        "verified": false
+      }
+    ]
+  }
+}

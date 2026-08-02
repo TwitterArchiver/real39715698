@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047536374061178880",
+        "3_2047536374044315648",
+        "3_2047536381380136960",
+        "3_2047536395468861440"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2047536601551761522",
+    "created_at": "2026-04-24T04:42:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T05:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047536601551761522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ol27E4OGi",
+          "end": 79,
+          "expanded_url": "https://x.com/real39715698/status/2047536601551761522/photo/1",
+          "media_key": "3_2047536374061178880",
+          "start": 56,
+          "url": "https://t.co/0ol27E4OGi"
+        },
+        {
+          "display_url": "pic.x.com/0ol27E4OGi",
+          "end": 79,
+          "expanded_url": "https://x.com/real39715698/status/2047536601551761522/photo/1",
+          "media_key": "3_2047536374044315648",
+          "start": 56,
+          "url": "https://t.co/0ol27E4OGi"
+        },
+        {
+          "display_url": "pic.x.com/0ol27E4OGi",
+          "end": 79,
+          "expanded_url": "https://x.com/real39715698/status/2047536601551761522/photo/1",
+          "media_key": "3_2047536381380136960",
+          "start": 56,
+          "url": "https://t.co/0ol27E4OGi"
+        },
+        {
+          "display_url": "pic.x.com/0ol27E4OGi",
+          "end": 79,
+          "expanded_url": "https://x.com/real39715698/status/2047536601551761522/photo/1",
+          "media_key": "3_2047536395468861440",
+          "start": 56,
+          "url": "https://t.co/0ol27E4OGi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047536601551761522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然还有半个月才过生日，但是苯人已经在挑选生日蛋糕了。五选一，我选择困难症犯了拜托大家帮我一起选一下(＞﹏＜) https://t.co/0ol27E4OGi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047536374061178880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpPe-CboAAGpAA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1742,
+        "media_key": "3_2047536374044315648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpPe9-aUAAUWq7.jpg",
+        "width": 1216
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047536381380136960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpPfZTaEAAir_N.jpg",
+        "width": 1185
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047536395468861440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpPgNya8AAsqTa.jpg",
+        "width": 1111
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047536374061178880",
+            "3_2047536374044315648",
+            "3_2047536381380136960",
+            "3_2047536395468861440"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047536601551761522",
+        "created_at": "2026-04-24T04:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047536601551761522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ol27E4OGi",
+              "end": 79,
+              "expanded_url": "https://x.com/real39715698/status/2047536601551761522/photo/1",
+              "media_key": "3_2047536374061178880",
+              "start": 56,
+              "url": "https://t.co/0ol27E4OGi"
+            },
+            {
+              "display_url": "pic.x.com/0ol27E4OGi",
+              "end": 79,
+              "expanded_url": "https://x.com/real39715698/status/2047536601551761522/photo/1",
+              "media_key": "3_2047536374044315648",
+              "start": 56,
+              "url": "https://t.co/0ol27E4OGi"
+            },
+            {
+              "display_url": "pic.x.com/0ol27E4OGi",
+              "end": 79,
+              "expanded_url": "https://x.com/real39715698/status/2047536601551761522/photo/1",
+              "media_key": "3_2047536381380136960",
+              "start": 56,
+              "url": "https://t.co/0ol27E4OGi"
+            },
+            {
+              "display_url": "pic.x.com/0ol27E4OGi",
+              "end": 79,
+              "expanded_url": "https://x.com/real39715698/status/2047536601551761522/photo/1",
+              "media_key": "3_2047536395468861440",
+              "start": 56,
+              "url": "https://t.co/0ol27E4OGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047536601551761522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然还有半个月才过生日，但是苯人已经在挑选生日蛋糕了。五选一，我选择困难症犯了拜托大家帮我一起选一下(＞﹏＜) https://t.co/0ol27E4OGi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 174,
+          "like_count": 14533,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 2259
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

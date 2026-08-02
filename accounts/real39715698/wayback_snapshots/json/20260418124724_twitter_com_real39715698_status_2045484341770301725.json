@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045484326205190144"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2043708536417657162",
+    "created_at": "2026-04-18T12:47:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T13:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045484341770301725"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cgPlRwH2Xt",
+          "end": 97,
+          "expanded_url": "https://x.com/real39715698/status/2045484341770301725/photo/1",
+          "media_key": "3_2045484326205190144",
+          "start": 74,
+          "url": "https://t.co/cgPlRwH2Xt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045484341770301725",
+    "in_reply_to_user_id": "1473529668263628805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043708536417657162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "4.18 晚饭 蒜香鱼片 黄瓜炒鸡蛋 紫菜魔芋结汤 这个鱼片本来是没有腐竹的 室友想吃 我就加进去了 意外的下饭呀你是一个好腐竹(๑‾ ꇴ ‾๑) https://t.co/cgPlRwH2Xt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045484326205190144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMFKEEW8AAgnNr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045484326205190144"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2043708536417657162",
+        "created_at": "2026-04-18T12:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T13:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045484341770301725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cgPlRwH2Xt",
+              "end": 97,
+              "expanded_url": "https://x.com/real39715698/status/2045484341770301725/photo/1",
+              "media_key": "3_2045484326205190144",
+              "start": 74,
+              "url": "https://t.co/cgPlRwH2Xt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045484341770301725",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043708536417657162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "4.18 晚饭 蒜香鱼片 黄瓜炒鸡蛋 紫菜魔芋结汤 这个鱼片本来是没有腐竹的 室友想吃 我就加进去了 意外的下饭呀你是一个好腐竹(๑‾ ꇴ ‾๑) https://t.co/cgPlRwH2Xt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2043708536417657162",
+        "created_at": "2026-04-13T15:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043708536417657162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043708536417657162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3791,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小雨今天吃什么(｡ì _ í｡)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "还给我那些天真和眼泪@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 163,
+          "like_count": 12725,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 2129
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

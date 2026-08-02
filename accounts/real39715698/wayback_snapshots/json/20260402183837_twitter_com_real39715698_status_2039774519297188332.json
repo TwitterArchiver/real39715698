@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2039739191698067462",
+    "created_at": "2026-04-02T18:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T19:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039774519297188332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026700769689550848",
+          "start": 0,
+          "username": "Ningningn6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039774519297188332",
+    "in_reply_to_user_id": "2026700769689550848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039774288862220717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ningningn6 好呀好呀借兔兔吉言(๑&gt; &lt;๑）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2039739191698067462",
+        "created_at": "2026-04-02T18:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T19:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039774519297188332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026700769689550848",
+              "start": 0,
+              "username": "Ningningn6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039774519297188332",
+        "in_reply_to_user_id": "2026700769689550848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039774288862220717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ningningn6 好呀好呀借兔兔吉言(๑&gt; &lt;๑）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026700769689550848",
+        "conversation_id": "2039739191698067462",
+        "created_at": "2026-04-02T18:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T19:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039774288862220717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039774288862220717",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039739191698067462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 🫂🫂医院远离！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 118,
+          "like_count": 7844,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1470
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T16:49:09.000Z",
+        "description": "乱发的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yanyan79816",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yanyan79816",
+                "start": 0,
+                "url": "https://t.co/xL9WNAQti7"
+              }
+            ]
+          }
+        },
+        "id": "2026700769689550848",
+        "location": "ㅅㅂ",
+        "name": "偶尔萌经常坏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026701483249750016/pVPShU0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 89,
+          "like_count": 4699,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 591
+        },
+        "url": "https://t.co/xL9WNAQti7",
+        "username": "Ningningn6",
+        "verified": false
+      }
+    ]
+  }
+}

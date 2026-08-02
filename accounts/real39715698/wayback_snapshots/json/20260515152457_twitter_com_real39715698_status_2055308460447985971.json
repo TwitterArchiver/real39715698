@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2055302216312127676",
+    "created_at": "2026-05-15T15:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T16:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055308460447985971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1632008719406956547",
+          "start": 0,
+          "username": "Olivier62354822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055308460447985971",
+    "in_reply_to_user_id": "1632008719406956547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055307517400363451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Olivier62354822 耶！爱你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2055302216312127676",
+        "created_at": "2026-05-15T15:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055308460447985971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1632008719406956547",
+              "start": 0,
+              "username": "Olivier62354822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055308460447985971",
+        "in_reply_to_user_id": "1632008719406956547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055307517400363451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olivier62354822 耶！爱你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632008719406956547",
+        "conversation_id": "2055302216312127676",
+        "created_at": "2026-05-15T15:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055307517400363451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055307517400363451",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055302216312127676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 小雨赛高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 188,
+          "like_count": 19448,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 2803
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T13:23:06.000Z",
+        "description": "如果对话框有选项",
+        "id": "1632008719406956547",
+        "location": "60岁大爷外痔顺时针第六条褶",
+        "name": "生活将我反复捶打肉质如此q弹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043712216386404352/jZc2RQEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 15,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 284
+        },
+        "username": "Olivier62354822",
+        "verified": false
+      }
+    ]
+  }
+}

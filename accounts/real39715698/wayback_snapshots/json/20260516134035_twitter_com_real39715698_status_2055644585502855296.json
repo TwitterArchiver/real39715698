@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2055515586873151968",
+    "created_at": "2026-05-16T13:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055644585502855296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1539930409617608705",
+          "start": 0,
+          "username": "huasang999"
+        },
+        {
+          "end": 28,
+          "id": "1825463722485465088",
+          "start": 12,
+          "username": "nnt869240878184"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055644585502855296",
+    "in_reply_to_user_id": "1539930409617608705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055640479300190327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huasang999 @nnt869240878184 收到收到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2055515586873151968",
+        "created_at": "2026-05-16T13:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055644585502855296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1539930409617608705",
+              "start": 0,
+              "username": "huasang999"
+            },
+            {
+              "end": 28,
+              "id": "1825463722485465088",
+              "start": 12,
+              "username": "nnt869240878184"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055644585502855296",
+        "in_reply_to_user_id": "1539930409617608705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055640479300190327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huasang999 @nnt869240878184 收到收到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1539930409617608705",
+        "conversation_id": "2055515586873151968",
+        "created_at": "2026-05-16T13:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055640479300190327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1825463722485465088",
+              "start": 0,
+              "username": "nnt869240878184"
+            },
+            {
+              "end": 30,
+              "id": "1473529668263628805",
+              "start": 17,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055640479300190327",
+        "in_reply_to_user_id": "1825463722485465088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055515586873151968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nnt869240878184 @real39715698 快看这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 186,
+          "like_count": 19709,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 2824
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-23T11:16:51.000Z",
+        "description": "提问箱https://t.co/nwOpRVhFZc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B440344",
+                "end": 26,
+                "expanded_url": "https://ngl.link/%E6%B0%B440344",
+                "start": 3,
+                "url": "https://t.co/nwOpRVhFZc"
+              }
+            ]
+          }
+        },
+        "id": "1539930409617608705",
+        "location": "Tokyo-to, Japan",
+        "name": "花花",
+        "pinned_tweet_id": "2054972927913988313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034970163976798208/et0Z74sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 57,
+          "like_count": 2837,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 476
+        },
+        "username": "huasang999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T09:24:55.000Z",
+        "description": "分享美食美景，感受美好生活！有关必回，永不取关！图如侵删！",
+        "id": "1825463722485465088",
+        "location": "中国",
+        "name": "Anita(互fo100%)",
+        "pinned_tweet_id": "2044218145062433065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899965098229456897/lupwD-HQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8226,
+          "following_count": 8326,
+          "like_count": 14416,
+          "listed_count": 4,
+          "media_count": 2122,
+          "tweet_count": 2403
+        },
+        "username": "nnt869240878184",
+        "verified": false
+      }
+    ]
+  }
+}

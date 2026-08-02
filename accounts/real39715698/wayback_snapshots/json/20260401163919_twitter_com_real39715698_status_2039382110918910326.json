@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2039328989463113984",
+    "created_at": "2026-04-01T16:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039382110918910326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1845412363828330497",
+          "start": 0,
+          "username": "PreceiveWorld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039382110918910326",
+    "in_reply_to_user_id": "1845412363828330497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039381852142862504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PreceiveWorld 原来是这样(｡ì _ í｡)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2039328989463113984",
+        "created_at": "2026-04-01T16:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039382110918910326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1845412363828330497",
+              "start": 0,
+              "username": "PreceiveWorld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039382110918910326",
+        "in_reply_to_user_id": "1845412363828330497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039381852142862504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PreceiveWorld 原来是这样(｡ì _ í｡)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845412363828330497",
+        "conversation_id": "2039328989463113984",
+        "created_at": "2026-04-01T16:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039381852142862504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039381852142862504",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039381486240243764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 白大褂就是医生，逃避医生检查的小可爱说，我想和谈xxxxx，医生说，行，我们先做完检查，这样？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 113,
+          "like_count": 7505,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1420
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T10:33:12.000Z",
+        "description": "wandering",
+        "id": "1845412363828330497",
+        "name": "karen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908420085636882432/_FKkzn0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 689,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 430
+        },
+        "username": "PreceiveWorld",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1955964280161075338",
+    "created_at": "2025-08-14T12:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T13:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955964946690531538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1869932876084719617",
+          "start": 0,
+          "username": "Inosukee017"
+        },
+        {
+          "end": 28,
+          "id": "1855320637403025408",
+          "start": 13,
+          "username": "tudouhaochi111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955964946690531538",
+    "in_reply_to_user_id": "1869932876084719617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955964280161075338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inosukee017 @tudouhaochi111 我素第一！我来听啦！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 505375,
+        "height": 720,
+        "media_key": "13_1955963717566521349",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1955963717566521349/img/ELNrkJbffzfNUyJ2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955963717566521349/vid/avc1/320x320/ElGJsBadBvLL5vMt.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955963717566521349/vid/avc1/540x540/bIW6kqOwjt59VglK.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955963717566521349/vid/avc1/720x720/Ec8twcNXhu4DlvLj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1955963717566521349/pl/AgNBiqGcs4DnFJum.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1955964280161075338",
+        "created_at": "2025-08-14T12:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T13:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955964946690531538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1869932876084719617",
+              "start": 0,
+              "username": "Inosukee017"
+            },
+            {
+              "end": 28,
+              "id": "1855320637403025408",
+              "start": 13,
+              "username": "tudouhaochi111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955964946690531538",
+        "in_reply_to_user_id": "1869932876084719617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955964280161075338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inosukee017 @tudouhaochi111 我素第一！我来听啦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1955963717566521349"
+          ]
+        },
+        "author_id": "1869932876084719617",
+        "conversation_id": "1955964280161075338",
+        "created_at": "2025-08-14T12:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T13:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955964280161075338"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "男喘"
+            },
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "青年音"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "青年"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1855320637403025408",
+              "start": 21,
+              "username": "tudouhaochi111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N8gXQDijvN",
+              "end": 75,
+              "expanded_url": "https://x.com/Inosukee017/status/1955964280161075338/video/1",
+              "media_key": "13_1955963717566521349",
+              "start": 52,
+              "url": "https://t.co/N8gXQDijvN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955964280161075338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这么晚了还打电话过来 怎么了嘛\n\n台本老师@tudouhaochi111 \n\n#男喘 #青年音 #青年 https://t.co/N8gXQDijvN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950788203742703617/m3VNyVQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 79,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 258
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T02:28:44.000Z",
+        "description": "青年 接连麦 瓦🥣",
+        "id": "1869932876084719617",
+        "location": "🚪52",
+        "name": "Inosukee",
+        "pinned_tweet_id": "1934297618907312384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927959273163870212/bijajG3c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5166,
+          "following_count": 45,
+          "like_count": 267,
+          "listed_count": 6,
+          "media_count": 51,
+          "tweet_count": 123
+        },
+        "username": "Inosukee017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T18:45:05.000Z",
+        "description": "有喜欢的人了丨无小号丨文笔不好但爱写点性幻想🔞丨一只brat 丨可以叫我小面或者泥泥丨会分享好看的片子丨讨厌的评论会直接屏蔽丨金铲铲新手玩家丨无门槛丨不加v丨⚠️录本请私信我要授权",
+        "id": "1855320637403025408",
+        "name": "土豆泥泥面",
+        "pinned_tweet_id": "1954516420404121933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898738962975633408/gCCABuGU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18108,
+          "following_count": 186,
+          "like_count": 671,
+          "listed_count": 19,
+          "media_count": 153,
+          "tweet_count": 1412
+        },
+        "username": "tudouhaochi111",
+        "verified": false
+      }
+    ]
+  }
+}

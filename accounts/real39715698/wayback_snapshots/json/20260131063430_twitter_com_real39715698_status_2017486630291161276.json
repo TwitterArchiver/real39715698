@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2017486630291161276",
+    "created_at": "2026-01-31T06:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T07:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017486630291161276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1592865779241734144",
+          "start": 3,
+          "username": "yuanyuan774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017486630291161276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017462594898907256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuanyuan774: 怎么会有要和哥哥分开这么吓人的话 我做噩梦都做不出来 不能和哥哥聊天 没有哥哥友在身边 我就是离不开哥哥 离开了那我活着干啥我去哥哥你怎么把我一个人丢家里了 外面有人要你微信怎么办你要逼死我吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2017486630291161276",
+        "created_at": "2026-01-31T06:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T07:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017486630291161276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1592865779241734144",
+              "start": 3,
+              "username": "yuanyuan774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017486630291161276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017462594898907256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuanyuan774: 怎么会有要和哥哥分开这么吓人的话 我做噩梦都做不出来 不能和哥哥聊天 没有哥哥友在身边 我就是离不开哥哥 离开了那我活着干啥我去哥哥你怎么把我一个人丢家里了 外面有人要你微信怎么办你要逼死我吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592865779241734144",
+        "conversation_id": "2017462594898907256",
+        "created_at": "2026-01-31T04:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T05:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017462594898907256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017462594898907256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1081,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "怎么会有要和哥哥分开这么吓人的话 我做噩梦都做不出来 不能和哥哥聊天 没有哥哥友在身边 我就是离不开哥哥 离开了那我活着干啥我去哥哥你怎么把我一个人丢家里了 外面有人要你微信怎么办你要逼死我吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 78,
+          "like_count": 1298,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 712
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "小号 转喜欢看的片的。@CaTwTuoo。 关评推广自辩，除口令以外不看私信，52000好友位，",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "CaTwTuoo"
+              }
+            ]
+          }
+        },
+        "id": "1592865779241734144",
+        "location": "🥕",
+        "name": "你是不是欠",
+        "pinned_tweet_id": "2009044724024529042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006600139784228864/G9KATkPW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31571,
+          "following_count": 248,
+          "like_count": 25615,
+          "listed_count": 43,
+          "media_count": 1374,
+          "tweet_count": 26037
+        },
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

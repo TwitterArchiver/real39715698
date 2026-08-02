@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2075195394641019377",
+    "created_at": "2026-07-09T15:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T16:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075239860001194063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936481820608208897",
+          "start": 0,
+          "username": "tcxxstoutou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075239860001194063",
+    "in_reply_to_user_id": "1936481820608208897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075228963920924835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tcxxstoutou 求求天降一份正常工作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2075195394641019377",
+        "created_at": "2026-07-09T15:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075239860001194063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936481820608208897",
+              "start": 0,
+              "username": "tcxxstoutou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075239860001194063",
+        "in_reply_to_user_id": "1936481820608208897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075228963920924835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tcxxstoutou 求求天降一份正常工作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936481820608208897",
+        "conversation_id": "2075195394641019377",
+        "created_at": "2026-07-09T14:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075228963920924835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075228963920924835",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075195394641019377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 复读"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 199,
+          "like_count": 26397,
+          "listed_count": 1,
+          "media_count": 394,
+          "tweet_count": 3717
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T17:50:26.000Z",
+        "description": "时间静止 我将再次起飞",
+        "id": "1936481820608208897",
+        "location": "🚪309纯绿",
+        "name": "头头",
+        "pinned_tweet_id": "2071613073656533449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074922610983600129/3f5ycRdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4669,
+          "following_count": 324,
+          "like_count": 15376,
+          "listed_count": 3,
+          "media_count": 365,
+          "tweet_count": 5429
+        },
+        "url": "",
+        "username": "tcxxstoutou",
+        "verified": false
+      }
+    ]
+  }
+}

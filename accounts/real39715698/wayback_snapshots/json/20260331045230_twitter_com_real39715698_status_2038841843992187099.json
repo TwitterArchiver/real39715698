@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2038835653979590688",
+    "created_at": "2026-03-31T04:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T05:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038841843992187099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1956747526603988992",
+          "start": 0,
+          "username": "EMBMsb52Bt94136"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038841843992187099",
+    "in_reply_to_user_id": "1956747526603988992",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038840249833656589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EMBMsb52Bt94136 (๑°⌓°๑)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2038835653979590688",
+        "created_at": "2026-03-31T04:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T05:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038841843992187099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1956747526603988992",
+              "start": 0,
+              "username": "EMBMsb52Bt94136"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038841843992187099",
+        "in_reply_to_user_id": "1956747526603988992",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038840249833656589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EMBMsb52Bt94136 (๑°⌓°๑)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956747526603988992",
+        "conversation_id": "2038835653979590688",
+        "created_at": "2026-03-31T04:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T05:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038840249833656589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038840249833656589",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038835653979590688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 别闹了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 107,
+          "like_count": 6883,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1353
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T15:59:09.000Z",
+        "description": "",
+        "id": "1956747526603988992",
+        "name": "我不想吃早餐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012564020910272513/g8XCGPw1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 53,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "username": "EMBMsb52Bt94136",
+        "verified": false
+      }
+    ]
+  }
+}

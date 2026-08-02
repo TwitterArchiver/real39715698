@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2024441346304725265",
+    "created_at": "2026-02-19T15:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T16:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024510500420407375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936481820608208897",
+          "start": 0,
+          "username": "tcxxstoutou"
+        },
+        {
+          "end": 24,
+          "id": "1994105609789341696",
+          "start": 13,
+          "username": "imissmyegg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024510500420407375",
+    "in_reply_to_user_id": "1936481820608208897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024441346304725265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tcxxstoutou @imissmyegg 我来惹！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2024441346304725265",
+        "created_at": "2026-02-19T15:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024510500420407375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936481820608208897",
+              "start": 0,
+              "username": "tcxxstoutou"
+            },
+            {
+              "end": 24,
+              "id": "1994105609789341696",
+              "start": 13,
+              "username": "imissmyegg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024510500420407375",
+        "in_reply_to_user_id": "1936481820608208897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024441346304725265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tcxxstoutou @imissmyegg 我来惹！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936481820608208897",
+        "conversation_id": "2024441346304725265",
+        "created_at": "2026-02-19T11:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024441346304725265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1994105609789341696",
+              "start": 13,
+              "username": "imissmyegg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024441346304725265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1116,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有米有互关宝宝想关注我小号@imissmyegg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 81,
+          "like_count": 2017,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 899
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T17:50:26.000Z",
+        "description": "时间静止 我将再次起飞@imissmyegg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "imissmyegg"
+              }
+            ]
+          }
+        },
+        "id": "1936481820608208897",
+        "location": "偶是头头是农民妹是脆脆皮",
+        "name": "赛伊德",
+        "pinned_tweet_id": "2003427154764398769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024124092774019072/UX8JSHaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3991,
+          "following_count": 309,
+          "like_count": 14328,
+          "listed_count": 2,
+          "media_count": 311,
+          "tweet_count": 4629
+        },
+        "username": "tcxxstoutou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-27T18:06:48.000Z",
+        "description": "废话小号 仅过互关 不聊不约 谢谢！",
+        "id": "1994105609789341696",
+        "name": "蛋小妹",
+        "pinned_tweet_id": "1994107018811220351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024437047369580544/8_aDaHpB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 262,
+          "like_count": 1807,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 612
+        },
+        "username": "imissmyegg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2043967603698532744",
+    "created_at": "2026-04-14T08:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043970333494128942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907815020400197632",
+          "start": 0,
+          "username": "huahuahuaziw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043970333494128942",
+    "in_reply_to_user_id": "1907815020400197632",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043969193197072393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuahuaziw omg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2043967603698532744",
+        "created_at": "2026-04-14T08:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043970333494128942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907815020400197632",
+              "start": 0,
+              "username": "huahuahuaziw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043970333494128942",
+        "in_reply_to_user_id": "1907815020400197632",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043969193197072393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuahuaziw omg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907815020400197632",
+        "conversation_id": "2043967603698532744",
+        "created_at": "2026-04-14T08:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043969193197072393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043969193197072393",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043967603698532744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 omg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "你走后我的世界模糊一片 看心情过@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 155,
+          "like_count": 11445,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 1977
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T15:18:56.000Z",
+        "description": "熊。要认识很多很多美女。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huaziw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huaziw",
+                "start": 0,
+                "url": "https://t.co/tOv92M3GUF"
+              }
+            ]
+          }
+        },
+        "id": "1907815020400197632",
+        "name": "小暗",
+        "pinned_tweet_id": "2026010344842461444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025827054697246720/U9sLpgeH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 989,
+          "like_count": 9477,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 854
+        },
+        "url": "https://t.co/tOv92M3GUF",
+        "username": "huahuahuaziw",
+        "verified": false
+      }
+    ]
+  }
+}

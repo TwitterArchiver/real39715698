@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2041116075581133191",
+    "created_at": "2026-04-06T11:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T12:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041123570693312932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2024106537854349312",
+          "start": 0,
+          "username": "Nopmeast"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041123570693312932",
+    "in_reply_to_user_id": "2024106537854349312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041116075581133191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nopmeast 投撑伞去便利店买酒喝。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2041116075581133191",
+        "created_at": "2026-04-06T11:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041123570693312932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2024106537854349312",
+              "start": 0,
+              "username": "Nopmeast"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041123570693312932",
+        "in_reply_to_user_id": "2024106537854349312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041116075581133191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nopmeast 投撑伞去便利店买酒喝。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024106537854349312",
+        "conversation_id": "2041116075581133191",
+        "created_at": "2026-04-06T11:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041116075581133191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041116075581133191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "投票 我好想喝酒 我现在要不要顶着大雨去便利店买酒喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 127,
+          "like_count": 9013,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1595
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T12:59:58.000Z",
+        "description": "平等的爱所有人类 关注我只会少量刷出照片哦…….",
+        "id": "2024106537854349312",
+        "name": "大概JoJay",
+        "pinned_tweet_id": "2039005831312846864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040721022035611648/HqvvnIZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 512,
+          "like_count": 1390,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 506
+        },
+        "username": "Nopmeast",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T12:59:58.000Z",
+        "description": "平等的爱所有人类 关注我只会少量刷出照片哦…….",
+        "id": "2024106537854349312",
+        "name": "大概JoJay",
+        "pinned_tweet_id": "2039005831312846864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040721022035611648/HqvvnIZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 512,
+          "like_count": 1390,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 506
+        },
+        "username": "Nopmeast",
+        "verified": true
+      }
+    ]
+  }
+}

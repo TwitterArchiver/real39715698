@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2082630090924666961",
+    "created_at": "2026-07-30T11:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T12:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082784264647852441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2082156073373536257",
+          "start": 0,
+          "username": "cw0fn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082784264647852441",
+    "in_reply_to_user_id": "2082156073373536257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082776091987705915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cw0fn 哎，别哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2082630090924666961",
+        "created_at": "2026-07-30T11:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082784264647852441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2082156073373536257",
+              "start": 0,
+              "username": "cw0fn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082784264647852441",
+        "in_reply_to_user_id": "2082156073373536257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082776091987705915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cw0fn 哎，别哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082156073373536257",
+        "conversation_id": "2082630090924666961",
+        "created_at": "2026-07-30T10:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082776091987705915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082776091987705915",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082630090924666961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 我看到这个话想哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 213,
+          "like_count": 29367,
+          "listed_count": 1,
+          "media_count": 408,
+          "tweet_count": 3968
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-28T17:28:16.000Z",
+        "description": "",
+        "id": "2082156073373536257",
+        "location": "安徽人",
+        "name": "神人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082767387607404544/W32UnFqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 13,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "cw0fn",
+        "verified": false
+      }
+    ]
+  }
+}

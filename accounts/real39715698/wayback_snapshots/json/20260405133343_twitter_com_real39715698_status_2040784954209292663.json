@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2040782322891710852",
+    "created_at": "2026-04-05T13:33:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T14:33:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040784954209292663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1979251596501618688",
+          "start": 0,
+          "username": "noway4777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040784954209292663",
+    "in_reply_to_user_id": "1979251596501618688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040782322891710852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noway4777 每天被兔兔装在脑袋里好幸福呀⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2040782322891710852",
+        "created_at": "2026-04-05T13:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040784954209292663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1979251596501618688",
+              "start": 0,
+              "username": "noway4777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040784954209292663",
+        "in_reply_to_user_id": "1979251596501618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040782322891710852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noway4777 每天被兔兔装在脑袋里好幸福呀⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979251596501618688",
+        "conversation_id": "2040782322891710852",
+        "created_at": "2026-04-05T13:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040782322891710852"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040782322891710852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天一打开推特脑袋就开始报菜名一样…图图蛋蛋一一熙熙熊熊念念茵茵甜甜依依小雨言言幸幸畅畅财财若若…………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 127,
+          "like_count": 8718,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1563
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T18:22:21.000Z",
+        "description": "我学着不去担心的太远",
+        "id": "1979251596501618688",
+        "location": "世界正中",
+        "name": "欺负一只兔子",
+        "pinned_tweet_id": "2016710002405511479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039594382337433600/4QY_mttS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 138,
+          "like_count": 23270,
+          "listed_count": 0,
+          "media_count": 317,
+          "tweet_count": 8380
+        },
+        "username": "noway4777",
+        "verified": false
+      }
+    ]
+  }
+}

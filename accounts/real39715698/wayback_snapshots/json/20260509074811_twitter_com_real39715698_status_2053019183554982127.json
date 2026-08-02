@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2052780639204802971",
+    "created_at": "2026-05-09T07:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T08:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053019183554982127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755190552356962304",
+          "start": 0,
+          "username": "yy_520520520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053019183554982127",
+    "in_reply_to_user_id": "1755190552356962304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052845908300321271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yy_520520520 谢谢小鱼！小鱼也天天开心！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2052780639204802971",
+        "created_at": "2026-05-09T07:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053019183554982127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755190552356962304",
+              "start": 0,
+              "username": "yy_520520520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053019183554982127",
+        "in_reply_to_user_id": "1755190552356962304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052845908300321271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yy_520520520 谢谢小鱼！小鱼也天天开心！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755190552356962304",
+        "conversation_id": "2052780639204802971",
+        "created_at": "2026-05-08T20:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T21:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052845908300321271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052845908300321271",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052780639204802971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 生日快乐 一定要开心哦！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 185,
+          "like_count": 18084,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 2708
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T11:24:02.000Z",
+        "description": "自我介绍 不喜欢男的 聊骚 看片 钓鱼 背刺 忘本 聊h 死装 吃里扒外 装纯情 立人设 搞暧昧 白眼狼 pua 冷暴力 心机 自私虚伪 好吃懒做 无缝衔接 一次谈十个 素质低下 爱耍流氓 好色@xy_88888888另一个我 我没说过我长得好看",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 97,
+                "username": "xy_88888888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%B1%BC52936",
+                "start": 0,
+                "url": "https://t.co/V62AvDXRzh"
+              }
+            ]
+          }
+        },
+        "id": "1755190552356962304",
+        "location": "-",
+        "name": "女朋友出轨了兄弟女朋友的表弟",
+        "pinned_tweet_id": "2044507482719195268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040294694337581056/fr5TwWLS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 66,
+          "like_count": 672,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 514
+        },
+        "url": "https://t.co/V62AvDXRzh",
+        "username": "yy_520520520",
+        "verified": false
+      }
+    ]
+  }
+}

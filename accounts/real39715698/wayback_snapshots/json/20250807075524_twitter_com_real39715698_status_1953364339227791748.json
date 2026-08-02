@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1953364339227791748",
+    "created_at": "2025-08-07T07:55:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T08:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953364339227791748"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LuvSic02274433…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/LuvSic02274433/status/1875819081523458275",
+          "start": 11,
+          "url": "https://t.co/TZHwmep5wp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953364339227791748",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875819081523458275",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要再听一万年ˆㅅˆ https://t.co/TZHwmep5wp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 107583,
+        "height": 720,
+        "media_key": "7_1875818729008984069",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1875818729008984069/pu/img/3yjrH3w8VXHK5CgS.jpg",
+        "public_metrics": {
+          "view_count": 22156
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1875818729008984069/pu/vid/avc1/480x270/SEdtU3zjikpOXSEZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1875818729008984069/pu/vid/avc1/640x360/AG2oPpt780mIJHSI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1875818729008984069/pu/vid/avc1/1280x720/8fVAbh7So5mDNVhy.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1875818729008984069/pu/pl/W_9H9kJFJydMl1i3.m3u8?tag=12&v=a6c"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1953364339227791748",
+        "created_at": "2025-08-07T07:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T08:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953364339227791748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LuvSic02274433…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/LuvSic02274433/status/1875819081523458275",
+              "start": 11,
+              "url": "https://t.co/TZHwmep5wp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953364339227791748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875819081523458275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要再听一万年ˆㅅˆ https://t.co/TZHwmep5wp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1875818729008984069"
+          ]
+        },
+        "author_id": "1577510555551956993",
+        "conversation_id": "1875819081523458275",
+        "created_at": "2025-01-05T08:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T09:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875819081523458275"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "情歌"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "梁静茹"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "青年音"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Or8WliZpAt",
+              "end": 128,
+              "expanded_url": "https://x.com/LuvSic02274433/status/1875819081523458275/video/1",
+              "media_key": "7_1875818729008984069",
+              "start": 105,
+              "url": "https://t.co/Or8WliZpAt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875819081523458275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 179017,
+          "like_count": 568,
+          "quote_count": 7,
+          "reply_count": 65,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "“你写给我 我的第一首歌\n            你和我 十指紧扣 默写前奏\n                                           可是那然后呢”\n\n#情歌 #梁静茹 #青年音 https://t.co/Or8WliZpAt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950788203742703617/m3VNyVQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 76,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 226
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-05T04:06:47.000Z",
+        "description": "至少还在上坡路上｜推荐自用蜂鸟vpn：https://t.co/8ARScuzJZ2｜小小的老子@iiiamwhatusee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "iiiamwhatusee"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 42,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=hWet1hiQ",
+                "start": 19,
+                "url": "https://t.co/8ARScuzJZ2"
+              }
+            ]
+          }
+        },
+        "id": "1577510555551956993",
+        "location": "我们不会相见",
+        "name": "黑色剑士",
+        "pinned_tweet_id": "1936638601917559271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921493259827957760/0dtxwwrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13333,
+          "following_count": 320,
+          "like_count": 2235,
+          "listed_count": 24,
+          "media_count": 134,
+          "tweet_count": 3811
+        },
+        "username": "LuvSic02274433",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1974935386385518974",
+    "created_at": "2025-10-06T19:32:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T20:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975283106342183062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1274453862330494977",
+          "start": 0,
+          "username": "Betrayao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975283106342183062",
+    "in_reply_to_user_id": "1274453862330494977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974967337507008528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Betrayao 上号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1974935386385518974",
+        "created_at": "2025-10-06T19:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T20:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975283106342183062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1274453862330494977",
+              "start": 0,
+              "username": "Betrayao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975283106342183062",
+        "in_reply_to_user_id": "1274453862330494977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974967337507008528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Betrayao 上号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1274453862330494977",
+        "conversation_id": "1974935386385518974",
+        "created_at": "2025-10-05T22:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T23:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974967337507008528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974967337507008528",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974935386385518974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 上号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950788203742703617/m3VNyVQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 76,
+          "like_count": 323,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 306
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-20T21:27:46.000Z",
+        "description": "太大了 不想发 怕有些人嫉妒",
+        "id": "1274453862330494977",
+        "name": "，",
+        "pinned_tweet_id": "1509251893104881664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926990397940658176/n1iFcE9F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 3494,
+          "like_count": 2294,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 980
+        },
+        "username": "Betrayao",
+        "verified": false
+      }
+    ]
+  }
+}

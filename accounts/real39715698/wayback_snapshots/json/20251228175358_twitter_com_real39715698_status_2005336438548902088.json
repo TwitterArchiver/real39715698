@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2005336438548902088",
+    "created_at": "2025-12-28T17:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T18:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005336438548902088"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2005336438548902088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "睡不着的时候总是在偷偷哭 哭到累了就睡着了 每天都重复这个流程"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2005336438548902088",
+        "created_at": "2025-12-28T17:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T18:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005336438548902088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005336438548902088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡不着的时候总是在偷偷哭 哭到累了就睡着了 每天都重复这个流程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "希望你天天开心",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 72,
+          "like_count": 803,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 550
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

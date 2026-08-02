@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056439231690784768"
+      ],
+      "media_source_tweet_id": [
+        "2056439234018603029"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "2056445065682411580",
+    "created_at": "2026-05-18T18:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T19:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056445065682411580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1583636097937993729",
+          "start": 3,
+          "username": "huzi76473556"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SOPZfyFH2X",
+          "end": 72,
+          "expanded_url": "https://x.com/huzi76473556/status/2056439234018603029/photo/1",
+          "media_key": "3_2056439231690784768",
+          "start": 49,
+          "url": "https://t.co/SOPZfyFH2X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056445065682411580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056439234018603029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huzi76473556: 互关回家好不好。帮熊转转。熊的账号好像现在关注不了。谢谢。。 https://t.co/SOPZfyFH2X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1111,
+        "media_key": "3_2056439231690784768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInwlfMbQAAAMdy.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056439231690784768"
+          ],
+          "media_source_tweet_id": [
+            "2056439234018603029"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "2056445065682411580",
+        "created_at": "2026-05-18T18:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T19:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056445065682411580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1583636097937993729",
+              "start": 3,
+              "username": "huzi76473556"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SOPZfyFH2X",
+              "end": 72,
+              "expanded_url": "https://x.com/huzi76473556/status/2056439234018603029/photo/1",
+              "media_key": "3_2056439231690784768",
+              "start": 49,
+              "url": "https://t.co/SOPZfyFH2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056445065682411580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056439234018603029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huzi76473556: 互关回家好不好。帮熊转转。熊的账号好像现在关注不了。谢谢。。 https://t.co/SOPZfyFH2X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056439231690784768"
+          ]
+        },
+        "author_id": "1583636097937993729",
+        "conversation_id": "2056439234018603029",
+        "created_at": "2026-05-18T18:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T19:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056439234018603029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SOPZfyFH2X",
+              "end": 54,
+              "expanded_url": "https://x.com/huzi76473556/status/2056439234018603029/photo/1",
+              "media_key": "3_2056439231690784768",
+              "start": 31,
+              "url": "https://t.co/SOPZfyFH2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056439234018603029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "互关回家好不好。帮熊转转。熊的账号好像现在关注不了。谢谢。。 https://t.co/SOPZfyFH2X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 186,
+          "like_count": 20208,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 2880
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T01:47:51.000Z",
+        "description": "我好难过。",
+        "id": "1583636097937993729",
+        "name": "小暗二世。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056391662667190272/1bvuB1hg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 49,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "username": "huzi76473556",
+        "verified": false
+      }
+    ]
+  }
+}

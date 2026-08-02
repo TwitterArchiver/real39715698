@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2055344663780073561",
+    "created_at": "2026-05-16T19:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T20:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055733813771465203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1867321618651131906",
+          "start": 0,
+          "username": "vvan7777777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055733813771465203",
+    "in_reply_to_user_id": "1867321618651131906",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055708465826598993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vvan7777777 哇哇哇哇哇！！好多巨大菜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 931,
+        "media_key": "3_2055708462672457728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdX9IdbMAApip6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 931,
+        "media_key": "3_2055708462605336576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdX9INbAAAiRCL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 931,
+        "media_key": "3_2055708462991200256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdX9Jpa0AA-p3-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 931,
+        "media_key": "3_2055708463251279872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdX9KnbUAAmDK5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2055344663780073561",
+        "created_at": "2026-05-16T19:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055733813771465203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1867321618651131906",
+              "start": 0,
+              "username": "vvan7777777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055733813771465203",
+        "in_reply_to_user_id": "1867321618651131906",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055708465826598993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vvan7777777 哇哇哇哇哇！！好多巨大菜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055708462672457728",
+            "3_2055708462605336576",
+            "3_2055708462991200256",
+            "3_2055708463251279872"
+          ]
+        },
+        "author_id": "1867321618651131906",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055344663780073561",
+        "created_at": "2026-05-16T17:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055708465826598993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YMq7MLSX68",
+              "end": 37,
+              "expanded_url": "https://x.com/vvan7777777/status/2055708465826598993/photo/1",
+              "media_key": "3_2055708462672457728",
+              "start": 14,
+              "url": "https://t.co/YMq7MLSX68"
+            },
+            {
+              "display_url": "pic.x.com/YMq7MLSX68",
+              "end": 37,
+              "expanded_url": "https://x.com/vvan7777777/status/2055708465826598993/photo/1",
+              "media_key": "3_2055708462605336576",
+              "start": 14,
+              "url": "https://t.co/YMq7MLSX68"
+            },
+            {
+              "display_url": "pic.x.com/YMq7MLSX68",
+              "end": 37,
+              "expanded_url": "https://x.com/vvan7777777/status/2055708465826598993/photo/1",
+              "media_key": "3_2055708462991200256",
+              "start": 14,
+              "url": "https://t.co/YMq7MLSX68"
+            },
+            {
+              "display_url": "pic.x.com/YMq7MLSX68",
+              "end": 37,
+              "expanded_url": "https://x.com/vvan7777777/status/2055708465826598993/photo/1",
+              "media_key": "3_2055708463251279872",
+              "start": 14,
+              "url": "https://t.co/YMq7MLSX68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055708465826598993",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055344663780073561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 https://t.co/YMq7MLSX68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 186,
+          "like_count": 19797,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 2839
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T21:32:36.000Z",
+        "description": "我要幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/x7777777",
+                "end": 23,
+                "expanded_url": "https://ngl.link/x7777777",
+                "start": 0,
+                "url": "https://t.co/0xlxtZOBX4"
+              }
+            ]
+          }
+        },
+        "id": "1867321618651131906",
+        "name": "x7777777",
+        "pinned_tweet_id": "2008998125512610302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000274203656765440/6vg__MkF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 62,
+          "like_count": 4136,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/0xlxtZOBX4",
+        "username": "vvan7777777",
+        "verified": false
+      }
+    ]
+  }
+}

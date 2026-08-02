@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2034245457908768950",
+    "created_at": "2026-03-18T14:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T15:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034271191008231662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1385592677492686991",
+          "start": 0,
+          "username": "Ykawsog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034271191008231662",
+    "in_reply_to_user_id": "1385592677492686991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034245457908768950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ykawsog 把绿袍袍给我再给我五毛钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2034245457908768950",
+        "created_at": "2026-03-18T14:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T15:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034271191008231662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1385592677492686991",
+              "start": 0,
+              "username": "Ykawsog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034271191008231662",
+        "in_reply_to_user_id": "1385592677492686991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034245457908768950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ykawsog 把绿袍袍给我再给我五毛钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385592677492686991",
+        "conversation_id": "2034245457908768950",
+        "created_at": "2026-03-18T12:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T13:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034245457908768950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034245457908768950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "限时出售绿袍袍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 94,
+          "like_count": 4519,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1115
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-23T13:53:37.000Z",
+        "description": "别不幸福",
+        "id": "1385592677492686991",
+        "name": "下雪",
+        "pinned_tweet_id": "1951076712676282699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974812834249994240/kMop3uq__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 3374,
+          "like_count": 13226,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 10791
+        },
+        "username": "Ykawsog",
+        "verified": false
+      }
+    ]
+  }
+}

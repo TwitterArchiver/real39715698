@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2022530165835018712",
+    "created_at": "2026-02-14T04:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T05:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022530165835018712"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022530165835018712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好吧 我承认 其实我是小猫变的 最喜欢跟可爱的你贴贴没事就喜欢蹭蹭你 主动找你 有什么事都会第一个想到你你不理我的时候我就想蹭蹭你 让你理理我你理我我还是想蹭蹭你 蹭完之后趁你不注意再偷偷亲你一口 如果你生气了 我就眯起眼睛笑着说对不起 然后亲你说我爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2022530165835018712",
+        "created_at": "2026-02-14T04:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T05:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022530165835018712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022530165835018712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吧 我承认 其实我是小猫变的 最喜欢跟可爱的你贴贴没事就喜欢蹭蹭你 主动找你 有什么事都会第一个想到你你不理我的时候我就想蹭蹭你 让你理理我你理我我还是想蹭蹭你 蹭完之后趁你不注意再偷偷亲你一口 如果你生气了 我就眯起眼睛笑着说对不起 然后亲你说我爱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 80,
+          "like_count": 1821,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 857
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

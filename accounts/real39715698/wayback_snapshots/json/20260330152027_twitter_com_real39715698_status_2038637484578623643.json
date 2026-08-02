@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2038636733357756730",
+    "created_at": "2026-03-30T15:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T16:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038637484578623643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1700262671637999616",
+          "start": 0,
+          "username": "Cutexiovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038637484578623643",
+    "in_reply_to_user_id": "1700262671637999616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038636733357756730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cutexiovo 溪溪宝宝也是！我要亲你一百下！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2038636733357756730",
+        "created_at": "2026-03-30T15:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038637484578623643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1700262671637999616",
+              "start": 0,
+              "username": "Cutexiovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038637484578623643",
+        "in_reply_to_user_id": "1700262671637999616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038636733357756730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cutexiovo 溪溪宝宝也是！我要亲你一百下！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700262671637999616",
+        "conversation_id": "2038636733357756730",
+        "created_at": "2026-03-30T15:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038636733357756730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038636733357756730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的互关都是很温柔细腻的可爱小宝宝。喜欢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 107,
+          "like_count": 6772,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1343
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T21:39:57.000Z",
+        "description": "(′。-ω(-ω-。`) @Puffey0v0只过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "Puffey0v0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xixiowo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xixiowo",
+                "start": 0,
+                "url": "https://t.co/pWfxXkENoj"
+              }
+            ]
+          }
+        },
+        "id": "1700262671637999616",
+        "location": "🚪88纯绿过小号关注+v",
+        "name": "想变可爱",
+        "pinned_tweet_id": "2038290749855601004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038618544251043840/VSSMHr9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 102,
+          "like_count": 7852,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 677
+        },
+        "url": "https://t.co/pWfxXkENoj",
+        "username": "Cutexiovo",
+        "verified": false
+      }
+    ]
+  }
+}

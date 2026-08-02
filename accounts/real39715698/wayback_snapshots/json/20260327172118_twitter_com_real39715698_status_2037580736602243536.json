@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2037579736298463254",
+    "created_at": "2026-03-27T17:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T18:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037580736602243536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1771433925635874816",
+          "start": 0,
+          "username": "cxl331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037580736602243536",
+    "in_reply_to_user_id": "1771433925635874816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037579736298463254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxl331 生日快乐呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2037579729977671682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbv-AbbAAIPjFc.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2037579736298463254",
+        "created_at": "2026-03-27T17:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T18:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037580736602243536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1771433925635874816",
+              "start": 0,
+              "username": "cxl331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037580736602243536",
+        "in_reply_to_user_id": "1771433925635874816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037579736298463254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxl331 生日快乐呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037579729977671682"
+          ]
+        },
+        "author_id": "1771433925635874816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037579736298463254",
+        "created_at": "2026-03-27T17:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T18:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037579736298463254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pLTVHOJvw0",
+              "end": 31,
+              "expanded_url": "https://x.com/cxl331/status/2037579736298463254/photo/1",
+              "media_key": "3_2037579729977671682",
+              "start": 8,
+              "url": "https://t.co/pLTVHOJvw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037579736298463254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝我生日快乐！ https://t.co/pLTVHOJvw0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 97,
+          "like_count": 5749,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1238
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T07:09:05.000Z",
+        "description": "喜欢善良的人！我是心理委员！请狠狠的给我发私信🙇我会认真回复的！ switch 万岁不是iiii可以接受 谁陪我打永劫无间，俺是市标季莹莹大王🤤🤤🤤",
+        "id": "1771433925635874816",
+        "location": "成都",
+        "name": "Spoil",
+        "pinned_tweet_id": "1905458608466526238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912449429451247618/8fMO4VHJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 679,
+          "like_count": 3307,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 610
+        },
+        "username": "cxl331",
+        "verified": false
+      }
+    ]
+  }
+}

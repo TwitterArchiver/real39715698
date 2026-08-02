@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2039969804128514188",
+    "created_at": "2026-04-03T07:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T08:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039969948135809088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1455934423614963716",
+          "start": 0,
+          "username": "jack26116326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039969948135809088",
+    "in_reply_to_user_id": "1455934423614963716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039969804128514188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jack26116326 我就说福州怎么一直下雨ᴛ ᴛ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2039969804128514188",
+        "created_at": "2026-04-03T07:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T08:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039969948135809088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1455934423614963716",
+              "start": 0,
+              "username": "jack26116326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039969948135809088",
+        "in_reply_to_user_id": "1455934423614963716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039969804128514188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jack26116326 我就说福州怎么一直下雨ᴛ ᴛ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455934423614963716",
+        "conversation_id": "2039969804128514188",
+        "created_at": "2026-04-03T07:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T08:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039969804128514188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039969804128514188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起 是我的忧郁导致一直下雨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 118,
+          "like_count": 7974,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1483
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T16:26:38.000Z",
+        "description": "瓦历史神一接中三下三代打接陪玩其他游戏看情况接 点单私我\n小号@1tsallmyfault",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "1tsallmyfault"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xkkk16579",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xkkk16579",
+                "start": 0,
+                "url": "https://t.co/Ym5WMKEryV"
+              }
+            ]
+          }
+        },
+        "id": "1455934423614963716",
+        "location": "🚪18",
+        "name": "xkkk",
+        "pinned_tweet_id": "2032381590773576164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032125757036883968/CcHYWLyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 78,
+          "like_count": 1720,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 796
+        },
+        "url": "https://t.co/Ym5WMKEryV",
+        "username": "jack26116326",
+        "verified": false
+      }
+    ]
+  }
+}

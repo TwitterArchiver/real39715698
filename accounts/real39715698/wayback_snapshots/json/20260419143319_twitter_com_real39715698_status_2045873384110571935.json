@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2045737679070105659",
+    "created_at": "2026-04-19T14:33:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045873384110571935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1578608293529927681",
+          "start": 0,
+          "username": "JWagi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045873384110571935",
+    "in_reply_to_user_id": "1578608293529927681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045737679070105659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JWagi_ 宝宝我刚打到第三章，我感觉还可以，偶尔有突脸微恐元素，然后有一个追逐战，还可以还可以我觉得还挺好玩的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2045737679070105659",
+        "created_at": "2026-04-19T14:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045873384110571935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1578608293529927681",
+              "start": 0,
+              "username": "JWagi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045873384110571935",
+        "in_reply_to_user_id": "1578608293529927681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045737679070105659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JWagi_ 宝宝我刚打到第三章，我感觉还可以，偶尔有突脸微恐元素，然后有一个追逐战，还可以还可以我觉得还挺好玩的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578608293529927681",
+        "conversation_id": "2045737679070105659",
+        "created_at": "2026-04-19T05:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045737679070105659"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045737679070105659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1052,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿有宝宝玩了女吊吗 想玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "还给我那些天真和眼泪@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 166,
+          "like_count": 13180,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 2187
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-08T04:48:53.000Z",
+        "description": "剑网三有爱玩家 | 因为你的爱我才能迈向明天 | Welcome To My World |🚪2800",
+        "id": "1578608293529927681",
+        "name": "温纯",
+        "pinned_tweet_id": "2041281297524613211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045432159734013952/0rfm3mqn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5236,
+          "following_count": 351,
+          "like_count": 7255,
+          "listed_count": 10,
+          "media_count": 358,
+          "tweet_count": 6095
+        },
+        "username": "JWagi_",
+        "verified": false
+      }
+    ]
+  }
+}

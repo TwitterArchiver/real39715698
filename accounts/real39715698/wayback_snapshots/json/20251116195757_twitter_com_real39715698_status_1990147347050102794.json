@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1990147347050102794",
+    "created_at": "2025-11-16T19:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T20:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990147347050102794"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1990147347050102794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个X更新完之后为什么语言自动变成了英文 还改不回中文。。 啥意思啊 看着我好难受啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1990147347050102794",
+        "created_at": "2025-11-16T19:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T20:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990147347050102794"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990147347050102794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个X更新完之后为什么语言自动变成了英文 还改不回中文。。 啥意思啊 看着我好难受啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1952695269616910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990014207287508992/I8TKk0DW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 78,
+          "like_count": 523,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 475
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

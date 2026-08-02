@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2024828496703549700",
+    "created_at": "2026-02-20T12:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T13:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024828496703549700"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024828496703549700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没错我就是粘人精，如果你不让我黏我会化成一滩水蒸发掉，我要变成一粒米饭疯狂黏你，不小心被你吃掉也没关系，我是狗皮膏药，我是黏鼠板，就算把我撕扯下来也会有我附着过的痕迹，休想把我甩掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2024828496703549700",
+        "created_at": "2026-02-20T12:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024828496703549700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024828496703549700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没错我就是粘人精，如果你不让我黏我会化成一滩水蒸发掉，我要变成一粒米饭疯狂黏你，不小心被你吃掉也没关系，我是狗皮膏药，我是黏鼠板，就算把我撕扯下来也会有我附着过的痕迹，休想把我甩掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 82,
+          "like_count": 2052,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 904
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

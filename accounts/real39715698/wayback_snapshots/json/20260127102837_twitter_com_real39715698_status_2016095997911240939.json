@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2016095997911240939",
+    "created_at": "2026-01-27T10:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T11:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016095997911240939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1875024920318713856",
+          "start": 3,
+          "username": "CoAd1ceking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016095997911240939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016094984785776714",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CoAd1ceking: 墙内墙外网络社交都是孤儿 表现为谁连续几天找我讲话我就会把ta置顶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2016095997911240939",
+        "created_at": "2026-01-27T10:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T11:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016095997911240939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1875024920318713856",
+              "start": 3,
+              "username": "CoAd1ceking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016095997911240939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016094984785776714",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CoAd1ceking: 墙内墙外网络社交都是孤儿 表现为谁连续几天找我讲话我就会把ta置顶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875024920318713856",
+        "conversation_id": "2016094984785776714",
+        "created_at": "2026-01-27T10:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T11:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016094984785776714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016094984785776714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "墙内墙外网络社交都是孤儿 表现为谁连续几天找我讲话我就会把ta置顶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 77,
+          "like_count": 1119,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 645
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T03:42:37.000Z",
+        "description": "=爱它们也别忘了爱我｜不知道叫我什么可以叫我恋恋｜感兴趣的会互关",
+        "id": "1875024920318713856",
+        "name": "性单恋",
+        "pinned_tweet_id": "1918503448506691674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015734374701158402/I3Z9ifsd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 154,
+          "like_count": 20416,
+          "listed_count": 2,
+          "media_count": 189,
+          "tweet_count": 3762
+        },
+        "username": "CoAd1ceking",
+        "verified": false
+      }
+    ]
+  }
+}

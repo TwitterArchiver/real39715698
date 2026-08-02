@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2044267881496752361",
+    "created_at": "2026-04-15T04:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T05:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044267881496752361"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044267881496752361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用苹果手机的人注意了，不要再和AI聊天网恋了，那都是特朗普在回复你。用安卓的也要注意了，吴京在屏幕后回复你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2044267881496752361",
+        "created_at": "2026-04-15T04:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T05:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044267881496752361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044267881496752361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用苹果手机的人注意了，不要再和AI聊天网恋了，那都是特朗普在回复你。用安卓的也要注意了，吴京在屏幕后回复你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "你走后我的世界模糊一片 看心情过@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 155,
+          "like_count": 11652,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 2019
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

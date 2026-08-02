@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2026144159938318356",
+    "created_at": "2026-02-24T03:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T04:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026144159938318356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/recsetuaiano/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/recsetuaiano/status/2026134905386860992",
+          "start": 7,
+          "url": "https://t.co/FOuG8dVBAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026144159938318356",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026134905386860992",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哥哥…哥哥… https://t.co/FOuG8dVBAI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 665,
+        "media_key": "3_2026134896624984064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5G9Bxa4AAZjZ2.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2026144159938318356",
+        "created_at": "2026-02-24T03:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T04:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026144159938318356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/recsetuaiano/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/recsetuaiano/status/2026134905386860992",
+              "start": 7,
+              "url": "https://t.co/FOuG8dVBAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026144159938318356",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026134905386860992",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哥哥…哥哥… https://t.co/FOuG8dVBAI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026134896624984064"
+          ]
+        },
+        "author_id": "1591013944897904640",
+        "conversation_id": "2026134905386860992",
+        "created_at": "2026-02-24T03:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T04:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026134905386860992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gMaagcTJxh",
+              "end": 23,
+              "expanded_url": "https://x.com/recsetuaiano/status/2026134905386860992/photo/1",
+              "media_key": "3_2026134896624984064",
+              "start": 0,
+              "url": "https://t.co/gMaagcTJxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026134905386860992",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 600,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gMaagcTJxh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 87,
+          "like_count": 2432,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 958
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T10:24:30.000Z",
+        "description": "幸福健康",
+        "id": "1591013944897904640",
+        "name": "Kncore",
+        "pinned_tweet_id": "1895181947800084834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956068111305912320/4-Cc0Ztz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95521,
+          "following_count": 99,
+          "like_count": 26817,
+          "listed_count": 90,
+          "media_count": 102,
+          "tweet_count": 370
+        },
+        "username": "recsetuaiano",
+        "verified": false
+      }
+    ]
+  }
+}

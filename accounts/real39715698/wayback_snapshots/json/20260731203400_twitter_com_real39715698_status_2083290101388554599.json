@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2083241422397059086",
+    "created_at": "2026-07-31T20:34:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T21:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083290101388554599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2036731606107611136",
+          "start": 0,
+          "username": "Charon6l1p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083290101388554599",
+    "in_reply_to_user_id": "2036731606107611136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083251426613215661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Charon6l1p 尊嘟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2083241422397059086",
+        "created_at": "2026-07-31T20:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T21:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083290101388554599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2036731606107611136",
+              "start": 0,
+              "username": "Charon6l1p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083290101388554599",
+        "in_reply_to_user_id": "2036731606107611136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083251426613215661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Charon6l1p 尊嘟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036731606107611136",
+        "conversation_id": "2083241422397059086",
+        "created_at": "2026-07-31T18:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T19:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083251426613215661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083251426613215661",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083241422397059086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 不信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 210,
+          "like_count": 29640,
+          "listed_count": 1,
+          "media_count": 409,
+          "tweet_count": 4000
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T09:08:25.000Z",
+        "description": "在读音乐牲，喜欢自己哼点歌🤤关注我会随机掉落语音条",
+        "id": "2036731606107611136",
+        "location": "尼尔瓦纳",
+        "name": "迷路的美汁源",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140207179227136/BkEK1AyY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 12,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 261
+        },
+        "url": "",
+        "username": "Charon6l1p",
+        "verified": false
+      }
+    ]
+  }
+}

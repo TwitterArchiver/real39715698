@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2042988359392591919",
+    "created_at": "2026-04-11T15:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T16:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042988818618552735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024546708030705664",
+          "start": 0,
+          "username": "heiheiwzzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042988818618552735",
+    "in_reply_to_user_id": "2024546708030705664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042988359392591919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heiheiwzzl 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12433,
+        "height": 720,
+        "media_key": "13_2042988274269196288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042988274269196288/img/Yoq1xgkhScB7FPiD.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042988274269196288/vid/avc1/480x270/vGyt_gAvS7WRrIpm.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042988274269196288/vid/avc1/640x360/fFBifaQte-oaz11n.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042988274269196288/vid/avc1/1280x720/FwMROz8bhiyh4RXu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042988274269196288/pl/4mRHGF304Y46TeLn.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2042988359392591919",
+        "created_at": "2026-04-11T15:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042988818618552735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024546708030705664",
+              "start": 0,
+              "username": "heiheiwzzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042988818618552735",
+        "in_reply_to_user_id": "2024546708030705664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042988359392591919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heiheiwzzl 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042988274269196288"
+          ]
+        },
+        "author_id": "2024546708030705664",
+        "conversation_id": "2042988359392591919",
+        "created_at": "2026-04-11T15:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042988359392591919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/12pxH7aktl",
+              "end": 38,
+              "expanded_url": "https://x.com/heiheiwzzl/status/2042988359392591919/video/1",
+              "media_key": "13_2042988274269196288",
+              "start": 15,
+              "url": "https://t.co/12pxH7aktl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042988359392591919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我标记了点开就不能骂我了o。 https://t.co/12pxH7aktl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "你走后我的世界模糊一片 看心情过@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 148,
+          "like_count": 10675,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1847
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T18:08:55.000Z",
+        "description": "我只是一个可怜的性压抑萧厨女也不会有🚪不要再问我约不约线下了…",
+        "id": "2024546708030705664",
+        "name": "宝宝",
+        "pinned_tweet_id": "2040373558262841783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024938872166330368/jtVQI1MT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3893,
+          "following_count": 62,
+          "like_count": 4450,
+          "listed_count": 5,
+          "media_count": 64,
+          "tweet_count": 447
+        },
+        "username": "heiheiwzzl",
+        "verified": false
+      }
+    ]
+  }
+}

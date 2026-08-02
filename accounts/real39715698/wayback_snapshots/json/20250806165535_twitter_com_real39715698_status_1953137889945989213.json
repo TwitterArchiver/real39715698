@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1931296695813332992"
+      ],
+      "media_source_tweet_id": [
+        "1931297080594542807"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "1953137889945989213",
+    "created_at": "2025-08-06T16:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T17:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953137889945989213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "987915282688585728",
+          "start": 3,
+          "username": "lessAria_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5tE4g38ILn",
+          "end": 51,
+          "expanded_url": "https://x.com/lessAria_/status/1931297080594542807/video/1",
+          "media_key": "13_1931296695813332992",
+          "start": 28,
+          "url": "https://t.co/5tE4g38ILn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953137889945989213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931297080594542807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lessAria_: 我只想让你回到最初的吉伊 https://t.co/5tE4g38ILn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 101351,
+        "height": 1112,
+        "media_key": "13_1931296695813332992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1931296695813332992/img/HLu8I7Xrz6kmM7kU.jpg",
+        "public_metrics": {
+          "view_count": 465
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931296695813332992/vid/avc1/320x494/GyVEi56BSHMzkub1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931296695813332992/vid/avc1/480x740/V99lx3hNIe6JAGjw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931296695813332992/vid/avc1/720x1112/VsscKfKiXfp9vUH5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1931296695813332992/pl/XOCHmbpphFgDmb_k.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1931296695813332992"
+          ],
+          "media_source_tweet_id": [
+            "1931297080594542807"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "1953137889945989213",
+        "created_at": "2025-08-06T16:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T17:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953137889945989213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "987915282688585728",
+              "start": 3,
+              "username": "lessAria_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5tE4g38ILn",
+              "end": 51,
+              "expanded_url": "https://x.com/lessAria_/status/1931297080594542807/video/1",
+              "media_key": "13_1931296695813332992",
+              "start": 28,
+              "url": "https://t.co/5tE4g38ILn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953137889945989213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931297080594542807",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lessAria_: 我只想让你回到最初的吉伊 https://t.co/5tE4g38ILn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1931296695813332992"
+          ]
+        },
+        "author_id": "987915282688585728",
+        "conversation_id": "1931297080594542807",
+        "created_at": "2025-06-07T10:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T11:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931297080594542807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5tE4g38ILn",
+              "end": 36,
+              "expanded_url": "https://x.com/lessAria_/status/1931297080594542807/video/1",
+              "media_key": "13_1931296695813332992",
+              "start": 13,
+              "url": "https://t.co/5tE4g38ILn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931297080594542807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2466,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我只想让你回到最初的吉伊 https://t.co/5tE4g38ILn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950788203742703617/m3VNyVQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 76,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 220
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-22T04:45:32.000Z",
+        "description": "时常在地牢里放肆高歌 偶尔也在派对蜷缩睡觉Z☡zᶻ@gotty617 📬匿名向我说任何的链接⬇以及本人⬆️睡觉中，我不怎么打呼噜/// ♪ ♪ ♪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "gotty617"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xingququan.com/jioutiti",
+                "end": 23,
+                "expanded_url": "https://www.xingququan.com/jioutiti",
+                "start": 0,
+                "url": "https://t.co/iWAoxxyisF"
+              }
+            ]
+          }
+        },
+        "id": "987915282688585728",
+        "location": "互联网",
+        "name": "Gott",
+        "pinned_tweet_id": "1847355929983144003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871962637313150976/27mPJaxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 765,
+          "like_count": 34345,
+          "listed_count": 5,
+          "media_count": 428,
+          "tweet_count": 5965
+        },
+        "url": "https://t.co/iWAoxxyisF",
+        "username": "lessAria_",
+        "verified": false
+      }
+    ]
+  }
+}

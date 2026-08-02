@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2042246899571503314",
+    "created_at": "2026-04-10T00:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T01:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042393014459613408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1959892946926649344",
+          "start": 0,
+          "username": "Kiss_Yu_Forever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042393014459613408",
+    "in_reply_to_user_id": "1959892946926649344",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042278422446051547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiss_Yu_Forever (｡ì _ í｡)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "16_2042278410026717191",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HFehZLoXkAc0bzT.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HFehZLoXkAc0bzT.mp4"
+          }
+        ],
+        "width": 280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2042246899571503314",
+        "created_at": "2026-04-10T00:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T01:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042393014459613408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1959892946926649344",
+              "start": 0,
+              "username": "Kiss_Yu_Forever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042393014459613408",
+        "in_reply_to_user_id": "1959892946926649344",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042278422446051547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiss_Yu_Forever (｡ì _ í｡)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2042278410026717191"
+          ]
+        },
+        "author_id": "1959892946926649344",
+        "conversation_id": "2042246899571503314",
+        "created_at": "2026-04-09T16:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042278422446051547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ViRdvdJFYa",
+              "end": 37,
+              "expanded_url": "https://x.com/Kiss_Yu_Forever/status/2042278422446051547/photo/1",
+              "media_key": "16_2042278410026717191",
+              "start": 14,
+              "url": "https://t.co/ViRdvdJFYa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042278422446051547",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042246899571503314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 https://t.co/ViRdvdJFYa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 145,
+          "like_count": 10141,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1764
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T08:17:58.000Z",
+        "description": "幸福请降临小妤手心",
+        "id": "1959892946926649344",
+        "location": "我的床",
+        "name": "春刻雨🌧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025647411516063744/3qa8UBjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 295,
+          "like_count": 486,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 340
+        },
+        "username": "Kiss_Yu_Forever",
+        "verified": false
+      }
+    ]
+  }
+}

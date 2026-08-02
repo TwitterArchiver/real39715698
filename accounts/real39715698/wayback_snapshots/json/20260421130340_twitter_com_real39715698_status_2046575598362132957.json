@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2046570640082338017",
+    "created_at": "2026-04-21T13:03:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T14:03:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046575598362132957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911163396168577024",
+          "start": 0,
+          "username": "Gaiyou6Giao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046575598362132957",
+    "in_reply_to_user_id": "1911163396168577024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046574765331427432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gaiyou6Giao 说得好我就这么窝囊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2046570640082338017",
+        "created_at": "2026-04-21T13:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046575598362132957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911163396168577024",
+              "start": 0,
+              "username": "Gaiyou6Giao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046575598362132957",
+        "in_reply_to_user_id": "1911163396168577024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046574765331427432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gaiyou6Giao 说得好我就这么窝囊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911163396168577024",
+        "conversation_id": "2046570640082338017",
+        "created_at": "2026-04-21T13:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046574765331427432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046574765331427432",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046570640082338017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 真吃坏肚子了也会偷偷的咽下这口气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "还给我那些天真和眼泪@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 172,
+          "like_count": 13792,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 2211
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T21:04:05.000Z",
+        "description": "",
+        "id": "1911163396168577024",
+        "name": "蛋家军",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006787773043453956/z4C-cqPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 111,
+          "like_count": 4447,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 104
+        },
+        "username": "Gaiyou6Giao",
+        "verified": false
+      }
+    ]
+  }
+}

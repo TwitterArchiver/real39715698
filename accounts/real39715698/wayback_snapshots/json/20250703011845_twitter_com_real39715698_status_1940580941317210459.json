@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1940580941317210459",
+    "created_at": "2025-07-03T01:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T02:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940580941317210459"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1940580941317210459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一起床就听见惊天噩耗 上班搭子离职了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1940580941317210459",
+        "created_at": "2025-07-03T01:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T02:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940580941317210459"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940580941317210459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一起床就听见惊天噩耗 上班搭子离职了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933977754120474624/RWP6FLXG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 60,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 63
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

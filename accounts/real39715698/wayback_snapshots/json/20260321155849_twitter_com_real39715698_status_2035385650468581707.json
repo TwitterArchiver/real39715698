@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2035362183572607073",
+    "created_at": "2026-03-21T15:58:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T16:58:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035385650468581707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028969671270252547",
+          "start": 0,
+          "username": "brandon_ha4433"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035385650468581707",
+    "in_reply_to_user_id": "2028969671270252547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035383295064899817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brandon_ha4433 联盟传奇我也不会 福星还可以哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2035362183572607073",
+        "created_at": "2026-03-21T15:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T16:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035385650468581707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028969671270252547",
+              "start": 0,
+              "username": "brandon_ha4433"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035385650468581707",
+        "in_reply_to_user_id": "2028969671270252547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035383295064899817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brandon_ha4433 联盟传奇我也不会 福星还可以哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028969671270252547",
+        "conversation_id": "2035362183572607073",
+        "created_at": "2026-03-21T15:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T16:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035383295064899817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035383295064899817",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035381263402688823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 联盟传奇还好一点这个我真的不太会🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 93,
+          "like_count": 4924,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1153
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T23:04:08.000Z",
+        "description": "",
+        "id": "2028969671270252547",
+        "name": "温柔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035062385103577089/c0FhfedB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "brandon_ha4433",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1983739703187968243",
+    "created_at": "2025-10-30T07:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T08:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983795961429364939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1937334914808184834",
+          "start": 0,
+          "username": "VitaminC0327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983795961429364939",
+    "in_reply_to_user_id": "1937334914808184834",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983739703187968243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VitaminC0327 88"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1983739694946058240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4eovgQaAAAafWx.jpg",
+        "width": 767
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1983739694879043584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4eovgAbcAA7xTF.jpg",
+        "width": 755
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1983739694874816519",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4eovf_a8AcpzII.jpg",
+        "width": 780
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1983739694879010822",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4eovgAa8AYPo_h.jpg",
+        "width": 830
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1983739703187968243",
+        "created_at": "2025-10-30T07:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T08:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983795961429364939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937334914808184834",
+              "start": 0,
+              "username": "VitaminC0327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983795961429364939",
+        "in_reply_to_user_id": "1937334914808184834",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983739703187968243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VitaminC0327 88"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983739694946058240",
+            "3_1983739694879043584",
+            "3_1983739694874816519",
+            "3_1983739694879010822"
+          ]
+        },
+        "author_id": "1937334914808184834",
+        "conversation_id": "1983739703187968243",
+        "created_at": "2025-10-30T03:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T04:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983739703187968243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zhZu1xWkUz",
+              "end": 39,
+              "expanded_url": "https://x.com/VitaminC0327/status/1983739703187968243/photo/1",
+              "media_key": "3_1983739694946058240",
+              "start": 16,
+              "url": "https://t.co/zhZu1xWkUz"
+            },
+            {
+              "display_url": "pic.x.com/zhZu1xWkUz",
+              "end": 39,
+              "expanded_url": "https://x.com/VitaminC0327/status/1983739703187968243/photo/1",
+              "media_key": "3_1983739694879043584",
+              "start": 16,
+              "url": "https://t.co/zhZu1xWkUz"
+            },
+            {
+              "display_url": "pic.x.com/zhZu1xWkUz",
+              "end": 39,
+              "expanded_url": "https://x.com/VitaminC0327/status/1983739703187968243/photo/1",
+              "media_key": "3_1983739694874816519",
+              "start": 16,
+              "url": "https://t.co/zhZu1xWkUz"
+            },
+            {
+              "display_url": "pic.x.com/zhZu1xWkUz",
+              "end": 39,
+              "expanded_url": "https://x.com/VitaminC0327/status/1983739703187968243/photo/1",
+              "media_key": "3_1983739694879010822",
+              "start": 16,
+              "url": "https://t.co/zhZu1xWkUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983739703187968243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1073,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要！！！！！！！！！！！！！ https://t.co/zhZu1xWkUz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1952695269616910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980654074484731904/B7DmcC9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 76,
+          "like_count": 409,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 387
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T02:20:19.000Z",
+        "description": "碎碎念｜分享日常｜喜欢和礼貌的宝宝一起玩耍｜纯绿｜我眼熟的互关可来找我加v｜自认为是高p｜我帖子会很多 甚至刷屏 介意勿关注可屏蔽｜只过眼熟经常互动的互关@JellyVitaminC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "JellyVitaminC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vitaminc0327",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vitaminc0327",
+                "start": 0,
+                "url": "https://t.co/AFsuEF1NBQ"
+              }
+            ]
+          }
+        },
+        "id": "1937334914808184834",
+        "location": "^ ^等你读懂我的隐喻 等我们的心脏共鸣^ ^",
+        "name": "VitaminC",
+        "pinned_tweet_id": "1970117470397853787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961282585948262400/RRe1el0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6940,
+          "following_count": 491,
+          "like_count": 5426,
+          "listed_count": 14,
+          "media_count": 548,
+          "tweet_count": 10694
+        },
+        "url": "https://t.co/AFsuEF1NBQ",
+        "username": "VitaminC0327",
+        "verified": false
+      }
+    ]
+  }
+}

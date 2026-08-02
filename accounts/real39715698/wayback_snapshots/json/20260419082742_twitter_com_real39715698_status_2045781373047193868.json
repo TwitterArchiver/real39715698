@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2045768826814631957",
+    "created_at": "2026-04-19T08:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T09:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045781373047193868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1728310366038568960",
+          "start": 0,
+          "username": "Ahe_Ovi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045781373047193868",
+    "in_reply_to_user_id": "1728310366038568960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045781068268351529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ahe_Ovi 我也是…我重新卸载又下载最新版的说我出错 然后下旧版不让我登陆 我现在只能用网页版 好绝望…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2045768826814631957",
+        "created_at": "2026-04-19T08:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045781373047193868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1728310366038568960",
+              "start": 0,
+              "username": "Ahe_Ovi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045781373047193868",
+        "in_reply_to_user_id": "1728310366038568960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045781068268351529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahe_Ovi 我也是…我重新卸载又下载最新版的说我出错 然后下旧版不让我登陆 我现在只能用网页版 好绝望…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728310366038568960",
+        "conversation_id": "2045768826814631957",
+        "created_at": "2026-04-19T08:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045781068268351529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045781068268351529",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045780501009416429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 对...好绝望吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "还给我那些天真和眼泪@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 165,
+          "like_count": 13045,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 2173
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T07:11:24.000Z",
+        "description": "看我不爽你就去死^^",
+        "id": "1728310366038568960",
+        "name": "不要捏^",
+        "pinned_tweet_id": "2015847251189604406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017276699906641920/DLZxAr22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3934,
+          "following_count": 748,
+          "like_count": 34926,
+          "listed_count": 9,
+          "media_count": 541,
+          "tweet_count": 10549
+        },
+        "username": "Ahe_Ovi",
+        "verified": false
+      }
+    ]
+  }
+}

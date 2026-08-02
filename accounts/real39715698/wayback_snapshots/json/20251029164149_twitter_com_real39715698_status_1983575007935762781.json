@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1983558939980828935",
+    "created_at": "2025-10-29T16:41:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T17:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983575007935762781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1778896067171655680",
+          "start": 0,
+          "username": "Pop0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983575007935762781",
+    "in_reply_to_user_id": "1778896067171655680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983558939980828935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pop0v0 我去 一次也没刷到我 不如把关注点了吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1983558939980828935",
+        "created_at": "2025-10-29T16:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T17:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983575007935762781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1778896067171655680",
+              "start": 0,
+              "username": "Pop0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983575007935762781",
+        "in_reply_to_user_id": "1778896067171655680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983558939980828935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pop0v0 我去 一次也没刷到我 不如把关注点了吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778896067171655680",
+        "conversation_id": "1983558939980828935",
+        "created_at": "2025-10-29T15:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T16:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983558939980828935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983558939980828935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2288,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去 刷到我这么多次 不如把关注点了吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1952695269616910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980654074484731904/B7DmcC9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 76,
+          "like_count": 400,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 383
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T21:20:57.000Z",
+        "description": "05 直男｜盗图存图替我挡灾 4000+｜不约不谈不加不收口令",
+        "id": "1778896067171655680",
+        "name": "鱿鱼男主",
+        "pinned_tweet_id": "1979561751990730806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982052334273212416/bSefx0Sz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 259,
+          "like_count": 13782,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 454
+        },
+        "username": "Pop0v0",
+        "verified": false
+      }
+    ]
+  }
+}

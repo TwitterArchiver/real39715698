@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2039747966353961114",
+    "created_at": "2026-04-03T06:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T07:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039954614972518464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028430373458456576",
+          "start": 0,
+          "username": "o65518kuguagua"
+        }
+      ],
+      "urls": [
+        {
+          "description": "通过一组简单的问题了解您的性取向在象限图上的坐标位置，快来试试看吧！",
+          "display_url": "arealme.com/sexuality-orie…",
+          "end": 39,
+          "expanded_url": "https://www.arealme.com/sexuality-orientation-test/cn/",
+          "start": 16,
+          "status": 200,
+          "title": "性取向坐标测试",
+          "unwound_url": "https://www.arealme.com/sexuality-orientation-test/cn/",
+          "url": "https://t.co/xUOQBCD3oW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039954614972518464",
+    "in_reply_to_user_id": "2028430373458456576",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039930158975713423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o65518kuguagua https://t.co/xUOQBCD3oW诶是这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2039747966353961114",
+        "created_at": "2026-04-03T06:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T07:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039954614972518464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ],
+          "urls": [
+            {
+              "description": "通过一组简单的问题了解您的性取向在象限图上的坐标位置，快来试试看吧！",
+              "display_url": "arealme.com/sexuality-orie…",
+              "end": 39,
+              "expanded_url": "https://www.arealme.com/sexuality-orientation-test/cn/",
+              "start": 16,
+              "status": 200,
+              "title": "性取向坐标测试",
+              "unwound_url": "https://www.arealme.com/sexuality-orientation-test/cn/",
+              "url": "https://t.co/xUOQBCD3oW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039954614972518464",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039930158975713423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua https://t.co/xUOQBCD3oW诶是这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039747966353961114",
+        "created_at": "2026-04-03T04:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039930158975713423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039930158975713423",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039747966353961114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 求链接"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 118,
+          "like_count": 7903,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1473
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 319,
+          "like_count": 3292,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1069
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066125823300792320",
+        "3_2066125841462140928"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "2066126031195701440",
+    "created_at": "2026-06-14T11:50:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T12:50:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066126031195701440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q4OtHi7aao",
+          "end": 45,
+          "expanded_url": "https://x.com/real39715698/status/2066126031195701440/photo/1",
+          "media_key": "3_2066125823300792320",
+          "start": 22,
+          "url": "https://t.co/q4OtHi7aao"
+        },
+        {
+          "display_url": "pic.x.com/q4OtHi7aao",
+          "end": 45,
+          "expanded_url": "https://x.com/real39715698/status/2066126031195701440/photo/1",
+          "media_key": "3_2066125841462140928",
+          "start": 22,
+          "url": "https://t.co/q4OtHi7aao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066126031195701440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "邪恶人格纯粹就是我化身比格在小号里撕咬空气 https://t.co/q4OtHi7aao"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1598,
+        "media_key": "3_2066125823300792320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxafU8a8AAxVQW.jpg",
+        "width": 1216
+      },
+      {
+        "height": 1582,
+        "media_key": "3_2066125841462140928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxagYmbIAAN_C-.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066125823300792320",
+            "3_2066125841462140928"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "2066126031195701440",
+        "created_at": "2026-06-14T11:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066126031195701440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q4OtHi7aao",
+              "end": 45,
+              "expanded_url": "https://x.com/real39715698/status/2066126031195701440/photo/1",
+              "media_key": "3_2066125823300792320",
+              "start": 22,
+              "url": "https://t.co/q4OtHi7aao"
+            },
+            {
+              "display_url": "pic.x.com/q4OtHi7aao",
+              "end": 45,
+              "expanded_url": "https://x.com/real39715698/status/2066126031195701440/photo/1",
+              "media_key": "3_2066125841462140928",
+              "start": 22,
+              "url": "https://t.co/q4OtHi7aao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066126031195701440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "邪恶人格纯粹就是我化身比格在小号里撕咬空气 https://t.co/q4OtHi7aao"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 197,
+          "like_count": 23507,
+          "listed_count": 1,
+          "media_count": 347,
+          "tweet_count": 3322
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

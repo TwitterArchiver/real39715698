@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2037927376945066178",
+    "created_at": "2026-03-28T16:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T17:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037930213737431446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026700769689550848",
+          "start": 0,
+          "username": "Ningningn6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037930213737431446",
+    "in_reply_to_user_id": "2026700769689550848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037929478941561319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ningningn6 我也是…其实我刚刚都点开外卖平台了…但是一直在痛…太坏了 っ ̯ -｡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2037927376945066178",
+        "created_at": "2026-03-28T16:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T17:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037930213737431446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026700769689550848",
+              "start": 0,
+              "username": "Ningningn6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037930213737431446",
+        "in_reply_to_user_id": "2026700769689550848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037929478941561319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ningningn6 我也是…其实我刚刚都点开外卖平台了…但是一直在痛…太坏了 っ ̯ -｡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026700769689550848",
+        "conversation_id": "2037927376945066178",
+        "created_at": "2026-03-28T16:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T17:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037929478941561319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037929478941561319",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037929060966559786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 我一有这个想法它就痛一下！可恶至极ㅠㅠ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 101,
+          "like_count": 5915,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1262
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T16:49:09.000Z",
+        "description": "T^T",
+        "id": "2026700769689550848",
+        "location": "ㅅㅂ",
+        "name": "偶尔萌经常坏",
+        "pinned_tweet_id": "2029934105832673358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026701483249750016/pVPShU0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 83,
+          "like_count": 3831,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 449
+        },
+        "username": "Ningningn6",
+        "verified": false
+      }
+    ]
+  }
+}

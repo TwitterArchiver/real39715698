@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1941918658688901494",
+    "created_at": "2025-07-07T16:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T17:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942254561814872228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863041923604180992",
+          "start": 0,
+          "username": "leow_0508"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942254561814872228",
+    "in_reply_to_user_id": "1863041923604180992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941918658688901494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leow_0508 恁想俺不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1941918658688901494",
+        "created_at": "2025-07-07T16:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T17:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942254561814872228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863041923604180992",
+              "start": 0,
+              "username": "leow_0508"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942254561814872228",
+        "in_reply_to_user_id": "1863041923604180992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941918658688901494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leow_0508 恁想俺不"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863041923604180992",
+        "conversation_id": "1941918658688901494",
+        "created_at": "2025-07-06T17:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T18:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941918658688901494"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941918658688901494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 17984,
+          "like_count": 224,
+          "quote_count": 2,
+          "reply_count": 32,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "妮儿，在干甚么呢？俺想你嘞，能不能给俺发个扣扣消息，俺这一天就盼着泥这一条消息，泥能给俺发一发，说说心里话不？俺一天不跟你说，俺一天就想滴不行，想滴不行俺就干不了活，干不了活俺咋赚钱养泥嘞，妮儿，就给俺发条消息吧，俺真滴忒想你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 63,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 101
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T02:06:44.000Z",
+        "description": "师范在读，高中生初中生有什么需要帮助的可以直接私信我， 来这里主要想找人聊天或交朋友，心情好会发红包 小号 @kikikiw0320 🤓☝️互关可以来。性别男，爱好女，男的找我请过🚪，我是直男，过🚪了也不陪你聊天🌚不给我打钱还骚扰我的男同领取毕业旅行大礼包🤓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "kikikiw0320"
+              }
+            ]
+          }
+        },
+        "id": "1863041923604180992",
+        "location": "天天开心",
+        "name": "Leo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892661925818810369/BSDA1LEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1780,
+          "following_count": 1466,
+          "like_count": 17866,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 3082
+        },
+        "username": "leow_0508",
+        "verified": false
+      }
+    ]
+  }
+}

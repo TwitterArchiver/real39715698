@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026994441207390208"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026994449671446563",
+    "created_at": "2026-02-26T12:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T13:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026994449671446563"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oujccScORt",
+          "end": 31,
+          "expanded_url": "https://x.com/real39715698/status/2026994449671446563/photo/1",
+          "media_key": "3_2026994441207390208",
+          "start": 8,
+          "url": "https://t.co/oujccScORt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026994449671446563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又开始了这个人 https://t.co/oujccScORt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_2026994441207390208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFUtG3boAAv784.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026994441207390208"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026994449671446563",
+        "created_at": "2026-02-26T12:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T13:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026994449671446563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oujccScORt",
+              "end": 31,
+              "expanded_url": "https://x.com/real39715698/status/2026994449671446563/photo/1",
+              "media_key": "3_2026994441207390208",
+              "start": 8,
+              "url": "https://t.co/oujccScORt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026994449671446563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又开始了这个人 https://t.co/oujccScORt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 88,
+          "like_count": 2684,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 990
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

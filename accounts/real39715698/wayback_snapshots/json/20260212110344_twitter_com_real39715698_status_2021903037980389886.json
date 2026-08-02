@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2021900211355103368",
+    "created_at": "2026-02-12T11:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T12:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021903037980389886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1875024920318713856",
+          "start": 0,
+          "username": "Exh4ustOfL0v3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021903037980389886",
+    "in_reply_to_user_id": "1875024920318713856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021900211355103368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Exh4ustOfL0v3 可以加v吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2021900211355103368",
+        "created_at": "2026-02-12T11:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021903037980389886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1875024920318713856",
+              "start": 0,
+              "username": "Exh4ustOfL0v3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021903037980389886",
+        "in_reply_to_user_id": "1875024920318713856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021900211355103368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exh4ustOfL0v3 可以加v吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875024920318713856",
+        "conversation_id": "2021900211355103368",
+        "created_at": "2026-02-12T10:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021900211355103368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pp74154174/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/pp74154174/status/2021585416315347112",
+              "start": 6,
+              "url": "https://t.co/Y7lAmitIic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021900211355103368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021585416315347112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是这种道理 https://t.co/Y7lAmitIic"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 80,
+          "like_count": 1745,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 845
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T03:42:37.000Z",
+        "description": "=草莓摇摇奶昔真的好喝｜不知道叫我什么可以叫我恋恋｜",
+        "id": "1875024920318713856",
+        "name": "性单恋",
+        "pinned_tweet_id": "1918503448506691674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021900386618261504/ijX6tNFe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 172,
+          "like_count": 22968,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 4130
+        },
+        "username": "Exh4ustOfL0v3",
+        "verified": false
+      }
+    ]
+  }
+}

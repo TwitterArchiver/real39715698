@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2052229581432889514",
+    "created_at": "2026-05-07T04:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T05:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052247956452225152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2026680668365991936",
+          "start": 0,
+          "username": "Sakee1106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052247956452225152",
+    "in_reply_to_user_id": "2026680668365991936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052229581432889514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakee1106 哎是真的 我每次上班因为身体不舒服请假都很愧疚然后担心组内成员蛐蛐我，然后疯狂道歉不敢看领导消息…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2052229581432889514",
+        "created_at": "2026-05-07T04:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052247956452225152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2026680668365991936",
+              "start": 0,
+              "username": "Sakee1106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052247956452225152",
+        "in_reply_to_user_id": "2026680668365991936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052229581432889514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakee1106 哎是真的 我每次上班因为身体不舒服请假都很愧疚然后担心组内成员蛐蛐我，然后疯狂道歉不敢看领导消息…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026680668365991936",
+        "conversation_id": "2052229581432889514",
+        "created_at": "2026-05-07T03:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052229581432889514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052229581432889514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 438,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得中式教育带给人最深的烙印就是愧疚感。昨天我感冒发烧了，已经特别不舒服，却还在犹豫要不要请假，怕耽误工作进度。硬着头皮请假从昨晚睡到现在，第一反应不是舒服而是担心，我真的会因为半天没去工作而感到愧疚，并且会担心有人说闲话，说我只知道休息偷懒。好可怕的心理。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 183,
+          "like_count": 17609,
+          "listed_count": 1,
+          "media_count": 270,
+          "tweet_count": 2629
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T15:28:30.000Z",
+        "description": "漂流在世界 的另一边",
+        "id": "2026680668365991936",
+        "name": "王宇昊",
+        "pinned_tweet_id": "2050631920367894741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042607302763778056/PeTxbluy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1673,
+          "following_count": 69,
+          "like_count": 5246,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 842
+        },
+        "url": "",
+        "username": "Sakee1106",
+        "verified": false
+      }
+    ]
+  }
+}

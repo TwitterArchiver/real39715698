@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2024157134645244112",
+    "created_at": "2026-02-18T16:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T17:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024157134645244112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1991790939590012930",
+          "start": 3,
+          "username": "dedan657"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024157134645244112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024115637128503712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dedan657: 没名分的醋，吃起来最酸了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2024157134645244112",
+        "created_at": "2026-02-18T16:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024157134645244112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1991790939590012930",
+              "start": 3,
+              "username": "dedan657"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024157134645244112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024115637128503712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dedan657: 没名分的醋，吃起来最酸了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991790939590012930",
+        "conversation_id": "2024115637128503712",
+        "created_at": "2026-02-18T13:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024115637128503712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024115637128503712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2224,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "没名分的醋，吃起来最酸了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 80,
+          "like_count": 1979,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 894
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T08:49:16.000Z",
+        "description": "https://t.co/maMwXgJl5l｜不约不聊骚｜我的推推空间爱发啥发啥",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dedan30079",
+                "end": 23,
+                "expanded_url": "http://ngl.link/dedan30079",
+                "start": 0,
+                "url": "https://t.co/maMwXgJl5l"
+              }
+            ]
+          }
+        },
+        "id": "1991790939590012930",
+        "name": "地蛋",
+        "pinned_tweet_id": "2023296205648990318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004588340478459904/DPT5ISQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 78,
+          "like_count": 4882,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 3210
+        },
+        "username": "dedan657",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2065432854528692425",
+    "created_at": "2026-06-13T10:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065747483905651169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2057859262018367490",
+          "start": 0,
+          "username": "Lily_Zz68927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065747483905651169",
+    "in_reply_to_user_id": "2057859262018367490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065731373445648837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lily_Zz68927 我马上上一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2065432854528692425",
+        "created_at": "2026-06-13T10:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065747483905651169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2057859262018367490",
+              "start": 0,
+              "username": "Lily_Zz68927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065747483905651169",
+        "in_reply_to_user_id": "2057859262018367490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065731373445648837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lily_Zz68927 我马上上一个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057859262018367490",
+        "conversation_id": "2065432854528692425",
+        "created_at": "2026-06-13T09:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065731373445648837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065731373445648837",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065432854528692425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 你家有团购不，我周末自己去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 196,
+          "like_count": 23242,
+          "listed_count": 1,
+          "media_count": 341,
+          "tweet_count": 3258
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T16:24:10.000Z",
+        "description": "06☆标准天秤IN/SFP 个人偏向纯种小画家                       🚪66纯绿https://t.co/GJBUU0xm8w",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/llllllily_927",
+                "end": 74,
+                "expanded_url": "https://ngl.link/llllllily_927",
+                "start": 51,
+                "url": "https://t.co/GJBUU0xm8w"
+              }
+            ]
+          }
+        },
+        "id": "2057859262018367490",
+        "location": "＜100m",
+        "name": "Lliy",
+        "pinned_tweet_id": "2063193431346974855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057860684764061696/RzNp1xLa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 74,
+          "like_count": 1064,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 372
+        },
+        "username": "Lily_Zz68927",
+        "verified": false
+      }
+    ]
+  }
+}

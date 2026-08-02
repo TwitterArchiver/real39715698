@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2013776001839288397",
+    "created_at": "2026-01-21T00:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T01:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013776001839288397"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2013776001839288397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想你，想你时刻想我。赌气和你也无法说出狠话。想你每天不要那么烦 想成为一个理智的大人看看是否能分担你的一部分烦恼。有时候会想变成能蜷缩着躺你床头的猫，或者你手指间夹的烟，再或者你周围的一切"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2013776001839288397",
+        "created_at": "2026-01-21T00:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T01:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013776001839288397"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013776001839288397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想你，想你时刻想我。赌气和你也无法说出狠话。想你每天不要那么烦 想成为一个理智的大人看看是否能分担你的一部分烦恼。有时候会想变成能蜷缩着躺你床头的猫，或者你手指间夹的烟，再或者你周围的一切"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 73,
+          "like_count": 984,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 609
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

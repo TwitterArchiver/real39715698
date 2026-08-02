@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2029068647558463824",
+    "created_at": "2026-03-04T05:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T06:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029068937326125539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1455934423614963716",
+          "start": 0,
+          "username": "jack26116326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029068937326125539",
+    "in_reply_to_user_id": "1455934423614963716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029068647558463824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jack26116326 吃饭了吗？早饭呢？午饭呢？ 晚饭呢？打算什么时候睡觉？ 困吗？不困吗？ 要熬夜吗？不回答我吗？ 不读消息吗？为什么不读？ 嫌我烦吗？ 不想回答吗？ 干什么呢？不告诉我？ 有很想我吗？ 有那么喜欢我吗？ 心情怎么样？ 开心吗？ 不开心吗？ 郁闷吗？想跟我通电话吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2029068647558463824",
+        "created_at": "2026-03-04T05:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T06:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029068937326125539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1455934423614963716",
+              "start": 0,
+              "username": "jack26116326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029068937326125539",
+        "in_reply_to_user_id": "1455934423614963716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029068647558463824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jack26116326 吃饭了吗？早饭呢？午饭呢？ 晚饭呢？打算什么时候睡觉？ 困吗？不困吗？ 要熬夜吗？不回答我吗？ 不读消息吗？为什么不读？ 嫌我烦吗？ 不想回答吗？ 干什么呢？不告诉我？ 有很想我吗？ 有那么喜欢我吗？ 心情怎么样？ 开心吗？ 不开心吗？ 郁闷吗？想跟我通电话吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455934423614963716",
+        "conversation_id": "2029068647558463824",
+        "created_at": "2026-03-04T05:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T06:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029068647558463824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029068647558463824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃饭了吗？早饭呢？午饭呢？ 晚饭呢？打算什么时候睡觉？ 困吗？不困吗？ 要熬夜吗？不回答我吗？ 不读消息吗？为什么不读？ 嫌我烦吗？ 不想回答吗？ 干什么呢？不告诉我？ 有很想我吗？ 有那么喜欢我吗？ 心情怎么样？ 开心吗？ 不开心吗？ 郁闷吗？想跟我通电话吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 87,
+          "like_count": 3253,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1017
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T16:26:38.000Z",
+        "description": "我要杀了所有骗我的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xkkk16579",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xkkk16579",
+                "start": 0,
+                "url": "https://t.co/Ym5WMKEryV"
+              }
+            ]
+          }
+        },
+        "id": "1455934423614963716",
+        "name": "xkkk",
+        "pinned_tweet_id": "2029023321304830248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024114539537760256/mdQyfzCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 45,
+          "like_count": 1068,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 421
+        },
+        "url": "https://t.co/Ym5WMKEryV",
+        "username": "jack26116326",
+        "verified": false
+      }
+    ]
+  }
+}

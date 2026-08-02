@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2025745072797659467",
+    "created_at": "2026-02-23T01:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T02:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025745072797659467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1862884625833660416",
+          "start": 3,
+          "username": "kuololxhssc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025745072797659467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025580141301407985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuololxhssc: 我感觉有人对我有占有欲其实我是非常爽的😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2025745072797659467",
+        "created_at": "2026-02-23T01:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T02:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025745072797659467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1862884625833660416",
+              "start": 3,
+              "username": "kuololxhssc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025745072797659467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025580141301407985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuololxhssc: 我感觉有人对我有占有欲其实我是非常爽的😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862884625833660416",
+        "conversation_id": "2025580141301407985",
+        "created_at": "2026-02-22T14:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025580141301407985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025580141301407985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4089,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉有人对我有占有欲其实我是非常爽的😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 86,
+          "like_count": 2268,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 930
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T15:41:30.000Z",
+        "description": "喜欢发点碎碎念  可以喊我小薄荷😋｜我素超级无敌恋哥癖｜猫猫教万岁万岁万万岁！｜不要找我聊骚谢谢",
+        "id": "1862884625833660416",
+        "location": "/ᐠ ｡‸ ｡ᐟ\\",
+        "name": "听我说",
+        "pinned_tweet_id": "2023711645349085376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022241831443136513/gQ-FF0KC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 127,
+          "like_count": 295,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 162
+        },
+        "username": "kuololxhssc",
+        "verified": false
+      }
+    ]
+  }
+}

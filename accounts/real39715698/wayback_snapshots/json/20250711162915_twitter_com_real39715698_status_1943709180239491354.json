@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943709174430380038",
+        "3_1943709173923155968",
+        "3_1943709173973479424",
+        "3_1943709174371872769"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1943709180239491354",
+    "created_at": "2025-07-11T16:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T17:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943709180239491354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0RodKfTQiU",
+          "end": 44,
+          "expanded_url": "https://x.com/real39715698/status/1943709180239491354/photo/1",
+          "media_key": "3_1943709174430380038",
+          "start": 21,
+          "url": "https://t.co/0RodKfTQiU"
+        },
+        {
+          "display_url": "pic.x.com/0RodKfTQiU",
+          "end": 44,
+          "expanded_url": "https://x.com/real39715698/status/1943709180239491354/photo/1",
+          "media_key": "3_1943709173923155968",
+          "start": 21,
+          "url": "https://t.co/0RodKfTQiU"
+        },
+        {
+          "display_url": "pic.x.com/0RodKfTQiU",
+          "end": 44,
+          "expanded_url": "https://x.com/real39715698/status/1943709180239491354/photo/1",
+          "media_key": "3_1943709173973479424",
+          "start": 21,
+          "url": "https://t.co/0RodKfTQiU"
+        },
+        {
+          "display_url": "pic.x.com/0RodKfTQiU",
+          "end": 44,
+          "expanded_url": "https://x.com/real39715698/status/1943709180239491354/photo/1",
+          "media_key": "3_1943709174371872769",
+          "start": 21,
+          "url": "https://t.co/0RodKfTQiU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943709180239491354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "^^如果最后一张图对我没有恶意 我很抱歉 https://t.co/0RodKfTQiU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1074,
+        "media_key": "3_1943709174430380038",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvlxMiiXMAYVcDg.jpg",
+        "width": 1216
+      },
+      {
+        "height": 1018,
+        "media_key": "3_1943709173923155968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvlxMgpbkAAEK7Z.jpg",
+        "width": 1216
+      },
+      {
+        "height": 1141,
+        "media_key": "3_1943709173973479424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvlxMg1bcAA4cT2.jpg",
+        "width": 1216
+      },
+      {
+        "height": 1139,
+        "media_key": "3_1943709174371872769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvlxMiUacAEA4RN.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943709174430380038",
+            "3_1943709173923155968",
+            "3_1943709173973479424",
+            "3_1943709174371872769"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1943709180239491354",
+        "created_at": "2025-07-11T16:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T17:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943709180239491354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0RodKfTQiU",
+              "end": 44,
+              "expanded_url": "https://x.com/real39715698/status/1943709180239491354/photo/1",
+              "media_key": "3_1943709174430380038",
+              "start": 21,
+              "url": "https://t.co/0RodKfTQiU"
+            },
+            {
+              "display_url": "pic.x.com/0RodKfTQiU",
+              "end": 44,
+              "expanded_url": "https://x.com/real39715698/status/1943709180239491354/photo/1",
+              "media_key": "3_1943709173923155968",
+              "start": 21,
+              "url": "https://t.co/0RodKfTQiU"
+            },
+            {
+              "display_url": "pic.x.com/0RodKfTQiU",
+              "end": 44,
+              "expanded_url": "https://x.com/real39715698/status/1943709180239491354/photo/1",
+              "media_key": "3_1943709173973479424",
+              "start": 21,
+              "url": "https://t.co/0RodKfTQiU"
+            },
+            {
+              "display_url": "pic.x.com/0RodKfTQiU",
+              "end": 44,
+              "expanded_url": "https://x.com/real39715698/status/1943709180239491354/photo/1",
+              "media_key": "3_1943709174371872769",
+              "start": 21,
+              "url": "https://t.co/0RodKfTQiU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943709180239491354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "^^如果最后一张图对我没有恶意 我很抱歉 https://t.co/0RodKfTQiU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 67,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 146
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

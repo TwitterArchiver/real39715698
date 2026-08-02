@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2024307039519068307",
+    "created_at": "2026-02-19T05:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T06:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024361282795950330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1748759181572653057",
+          "start": 0,
+          "username": "gotty617"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024361282795950330",
+    "in_reply_to_user_id": "1748759181572653057",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024307039519068307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gotty617 辛苦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2024307039519068307",
+        "created_at": "2026-02-19T05:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024361282795950330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1748759181572653057",
+              "start": 0,
+              "username": "gotty617"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024361282795950330",
+        "in_reply_to_user_id": "1748759181572653057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024307039519068307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gotty617 辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748759181572653057",
+        "conversation_id": "2024307039519068307",
+        "created_at": "2026-02-19T02:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024307039519068307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sans_king_510/…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/sans_king_510/status/2024168112615207340",
+              "start": 143,
+              "url": "https://t.co/uIqTjcvart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024307039519068307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 105,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024168112615207340",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我承认我就是很俗地想找到这样的评论，我如愿了。\n不知该怎么描绘母亲对我的影响、所带来的东西，她骂过很多很令人难忘的话，明显不是气话的程度。其中一句是初三我和她说妈妈 我感觉我真的好奇怪，我的心里可能出现了些问题 我可以去看心理医生吗。母亲回答：我们都没看 你还看上了？你压力有我们大吗 https://t.co/uIqTjcvart"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 80,
+          "like_count": 1993,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 895
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:27:45.000Z",
+        "description": "不必在意的普通人@lessAria_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "lessAria_"
+              }
+            ]
+          }
+        },
+        "id": "1748759181572653057",
+        "name": "戈多",
+        "pinned_tweet_id": "1832470909505945816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748764437773774849/pXvAy5WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 51,
+          "like_count": 6987,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 1144
+        },
+        "username": "gotty617",
+        "verified": false
+      }
+    ]
+  }
+}

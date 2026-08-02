@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1943340726961799669",
+    "created_at": "2025-07-10T21:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T22:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943416303462814080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1829232127793344515",
+          "start": 0,
+          "username": "zyy_xun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943416303462814080",
+    "in_reply_to_user_id": "1829232127793344515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943340726961799669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyy_xun 生日快乐大蒜！希望你今天变成开朗阳光的大蒜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1943340726961799669",
+        "created_at": "2025-07-10T21:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T22:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943416303462814080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1829232127793344515",
+              "start": 0,
+              "username": "zyy_xun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943416303462814080",
+        "in_reply_to_user_id": "1829232127793344515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943340726961799669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyy_xun 生日快乐大蒜！希望你今天变成开朗阳光的大蒜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829232127793344515",
+        "conversation_id": "1943340726961799669",
+        "created_at": "2025-07-10T16:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T17:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943340726961799669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943340726961799669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7962,
+          "like_count": 88,
+          "quote_count": 1,
+          "reply_count": 102,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是大蒜的生日！你们可以给我一句祝福吗🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 67,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 131
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:58:36.000Z",
+        "description": "一颗什么都发的大蒜🧄欢迎大家来找我玩！           大蒜非常喜欢一颗叫低温的青苹果🍏！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zyy80540",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zyy80540",
+                "start": 0,
+                "url": "https://t.co/nRXzVnb074"
+              }
+            ]
+          }
+        },
+        "id": "1829232127793344515",
+        "location": "泥土里",
+        "name": "忧郁的大蒜",
+        "pinned_tweet_id": "1941213967873106260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939406513287598080/Rgvhxh_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 211,
+          "like_count": 1089,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 977
+        },
+        "url": "https://t.co/nRXzVnb074",
+        "username": "zyy_xun",
+        "verified": false
+      }
+    ]
+  }
+}

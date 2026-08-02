@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2082463281260974193",
+    "created_at": "2026-07-29T14:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082477939283919127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1685828863979577344",
+          "start": 0,
+          "username": "Xue_ga0128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082477939283919127",
+    "in_reply_to_user_id": "1685828863979577344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082469867299770593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xue_ga0128 宝宝请吃🤲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2082463281260974193",
+        "created_at": "2026-07-29T14:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082477939283919127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685828863979577344",
+              "start": 0,
+              "username": "Xue_ga0128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082477939283919127",
+        "in_reply_to_user_id": "1685828863979577344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082469867299770593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xue_ga0128 宝宝请吃🤲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685828863979577344",
+        "conversation_id": "2082463281260974193",
+        "created_at": "2026-07-29T14:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082469867299770593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082469867299770593",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082463281260974193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 好饿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 211,
+          "like_count": 29184,
+          "listed_count": 1,
+          "media_count": 408,
+          "tweet_count": 3937
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T01:45:05.000Z",
+        "description": "06｜大二｜Enfp｜不约！晚上在线！礼貌的私信我都会回！ 喜欢贴贴！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/emhf2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/emhf2",
+                "start": 0,
+                "url": "https://t.co/RIDj909Jg9"
+              }
+            ]
+          }
+        },
+        "id": "1685828863979577344",
+        "location": "🚪",
+        "name": "EmhF",
+        "pinned_tweet_id": "2081351494922797259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033788533618745344/122D-tp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2901,
+          "following_count": 135,
+          "like_count": 17882,
+          "listed_count": 5,
+          "media_count": 129,
+          "tweet_count": 1891
+        },
+        "url": "https://t.co/RIDj909Jg9",
+        "username": "Xue_ga0128",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2081756556895592937",
+    "created_at": "2026-07-27T15:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T16:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081757490694459606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2069458500867198976",
+          "start": 0,
+          "username": "SunghaFong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081757490694459606",
+    "in_reply_to_user_id": "2069458500867198976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081756556895592937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SunghaFong 给你买一双筷子去和他们一起吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2081756556895592937",
+        "created_at": "2026-07-27T15:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081757490694459606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2069458500867198976",
+              "start": 0,
+              "username": "SunghaFong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081757490694459606",
+        "in_reply_to_user_id": "2069458500867198976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081756556895592937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SunghaFong 给你买一双筷子去和他们一起吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069458500867198976",
+        "conversation_id": "2081756556895592937",
+        "created_at": "2026-07-27T15:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081756556895592937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081756556895592937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠舍友一人一桶泡面啥意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 209,
+          "like_count": 28720,
+          "listed_count": 1,
+          "media_count": 404,
+          "tweet_count": 3888
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-23T16:35:28.000Z",
+        "description": "让感受回归行动",
+        "id": "2069458500867198976",
+        "name": "Huxley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079246911442501632/GdxYjFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 52,
+          "like_count": 1997,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 388
+        },
+        "url": "",
+        "username": "SunghaFong",
+        "verified": false
+      }
+    ]
+  }
+}

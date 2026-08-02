@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1939970498747597182",
+    "created_at": "2025-07-01T17:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T18:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940097410862391381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1734598399327088640",
+          "start": 0,
+          "username": "ln2umerical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940097410862391381",
+    "in_reply_to_user_id": "1734598399327088640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939970498747597182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ln2umerical 老婆转过去"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48066,
+        "height": 720,
+        "media_key": "7_1939970468338880512",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1939970468338880512/pu/img/ONa5sXiBPxyoPL9B.jpg",
+        "public_metrics": {
+          "view_count": 1514
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1939970468338880512/pu/vid/avc1/320x320/OOqGGqr8oaJIhFjw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1939970468338880512/pu/vid/avc1/540x540/sgCxykWp5xOsUTJe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1939970468338880512/pu/vid/avc1/720x720/0udma0CvU1Vqzu4P.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1939970468338880512/pu/pl/0QqbvseAlajmPgDw.m3u8?tag=12&v=809"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1939970498747597182",
+        "created_at": "2025-07-01T17:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T18:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940097410862391381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1734598399327088640",
+              "start": 0,
+              "username": "ln2umerical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940097410862391381",
+        "in_reply_to_user_id": "1734598399327088640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939970498747597182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ln2umerical 老婆转过去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1939970468338880512"
+          ]
+        },
+        "author_id": "1734598399327088640",
+        "conversation_id": "1939970498747597182",
+        "created_at": "2025-07-01T08:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T09:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939970498747597182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Im3ObPBaaF",
+              "end": 45,
+              "expanded_url": "https://x.com/ln2umerical/status/1939970498747597182/video/1",
+              "media_key": "7_1939970468338880512",
+              "start": 22,
+              "url": "https://t.co/Im3ObPBaaF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939970498747597182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4656,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次发这种，大家多多提建议好吗。好的🥺🥺 https://t.co/Im3ObPBaaF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933977754120474624/RWP6FLXG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 60,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 58
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T15:37:47.000Z",
+        "description": "07/男生/想到啥发啥/互关宝宝来加我v😽 /    \n畅联世界！无广告干扰，机场节点随便挑，自用蜂鸟VPN\nhttps://t.co/3t28hH2Mrc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 78,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=w0eaXhwD",
+                "start": 55,
+                "url": "https://t.co/3t28hH2Mrc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/being88129",
+                "end": 23,
+                "expanded_url": "https://ngl.link/being88129",
+                "start": 0,
+                "url": "https://t.co/mZpOgIfr35"
+              }
+            ]
+          }
+        },
+        "id": "1734598399327088640",
+        "name": "北",
+        "pinned_tweet_id": "1930867043198554210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734598546262003712/kRkc1y0b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 184,
+          "like_count": 15401,
+          "listed_count": 7,
+          "media_count": 303,
+          "tweet_count": 8798
+        },
+        "url": "https://t.co/mZpOgIfr35",
+        "username": "ln2umerical",
+        "verified": false
+      }
+    ]
+  }
+}

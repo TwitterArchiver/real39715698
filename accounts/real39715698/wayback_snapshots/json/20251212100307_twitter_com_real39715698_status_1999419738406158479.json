@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1999369688330174550",
+    "created_at": "2025-12-12T10:03:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T11:03:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999419738406158479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936481820608208897",
+          "start": 0,
+          "username": "tcxxstoutou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999419738406158479",
+    "in_reply_to_user_id": "1936481820608208897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999369688330174550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tcxxstoutou 怎么有如此萌物"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3133,
+        "height": 1280,
+        "media_key": "13_1999369629303779328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1999369629303779328/img/1Sz1_P0DyFMo7aJ4.jpg",
+        "public_metrics": {
+          "view_count": 150
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999369629303779328/vid/avc1/320x568/fWlvypvhUhnyBsO6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999369629303779328/vid/avc1/480x852/HjgHh5Iy4Y43LYkr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999369629303779328/vid/avc1/720x1280/IZUBGogizvQ14L9O.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1999369629303779328/pl/yS97wMRb0INZUt27.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1999369688330174550",
+        "created_at": "2025-12-12T10:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999419738406158479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936481820608208897",
+              "start": 0,
+              "username": "tcxxstoutou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999419738406158479",
+        "in_reply_to_user_id": "1936481820608208897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999369688330174550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tcxxstoutou 怎么有如此萌物"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1999369629303779328"
+          ]
+        },
+        "author_id": "1936481820608208897",
+        "conversation_id": "1999369688330174550",
+        "created_at": "2025-12-12T06:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T07:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999369688330174550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b5hnr67MVr",
+              "end": 27,
+              "expanded_url": "https://x.com/tcxxstoutou/status/1999369688330174550/video/1",
+              "media_key": "13_1999369629303779328",
+              "start": 4,
+              "url": "https://t.co/b5hnr67MVr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999369688330174550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 548,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们好 https://t.co/b5hnr67MVr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "说了再见才发现再也见不到",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1990020111521272078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 77,
+          "like_count": 718,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 509
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T17:50:26.000Z",
+        "description": "hi人 祝看到这条的你生活舒心又如意^^｜蛋小妹@imissmyegg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "imissmyegg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tcxxstoutou",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tcxxstoutou",
+                "start": 0,
+                "url": "https://t.co/IIgb8GMacO"
+              }
+            ]
+          }
+        },
+        "id": "1936481820608208897",
+        "name": "农民妹",
+        "pinned_tweet_id": "1983960481644868068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997518972451950592/w-j_7YdM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2690,
+          "following_count": 203,
+          "like_count": 10270,
+          "listed_count": 5,
+          "media_count": 296,
+          "tweet_count": 2974
+        },
+        "url": "https://t.co/IIgb8GMacO",
+        "username": "tcxxstoutou",
+        "verified": false
+      }
+    ]
+  }
+}

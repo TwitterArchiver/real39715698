@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1949858080675475797",
+    "created_at": "2025-07-29T16:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T17:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950235120394522888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1738574538143944704",
+          "start": 0,
+          "username": "camolla357565"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950235120394522888",
+    "in_reply_to_user_id": "1738574538143944704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949858080675475797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@camolla357565 收到camolla老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1949858080675475797",
+        "created_at": "2025-07-29T16:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T17:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950235120394522888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1738574538143944704",
+              "start": 0,
+              "username": "camolla357565"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950235120394522888",
+        "in_reply_to_user_id": "1738574538143944704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949858080675475797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@camolla357565 收到camolla老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738574538143944704",
+        "conversation_id": "1949858080675475797",
+        "created_at": "2025-07-28T15:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T16:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949858080675475797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949858080675475797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5401,
+          "like_count": 89,
+          "quote_count": 1,
+          "reply_count": 53,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人只点赞不互动。我测试一下看没看我推的内容。认真读完的人回复收到。控制欲犯了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 73,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 191
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T14:57:33.000Z",
+        "description": "全世界最讨厌洗衣服的人 错别字大王 喜欢我可以给我打点钱 不会玩任何游戏 可以叫我小c",
+        "id": "1738574538143944704",
+        "name": "camolla",
+        "pinned_tweet_id": "1937031991838605729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932671469106151424/QL38Aw8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 154,
+          "like_count": 7728,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 3554
+        },
+        "username": "camolla357565",
+        "verified": false
+      }
+    ]
+  }
+}

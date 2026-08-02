@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2040706960694353978",
+    "created_at": "2026-04-05T08:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T09:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040707970342986030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2026930479874846722",
+          "start": 0,
+          "username": "yy_7701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040707970342986030",
+    "in_reply_to_user_id": "2026930479874846722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040706960694353978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yy_7701 姐姐我的手机也坏了收不到你的消息ᴛ ᴛ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2040706960694353978",
+        "created_at": "2026-04-05T08:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040707970342986030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2026930479874846722",
+              "start": 0,
+              "username": "yy_7701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040707970342986030",
+        "in_reply_to_user_id": "2026930479874846722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040706960694353978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yy_7701 姐姐我的手机也坏了收不到你的消息ᴛ ᴛ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026930479874846722",
+        "conversation_id": "2040706960694353978",
+        "created_at": "2026-04-05T08:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040706960694353978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040706960694353978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐姐我手机好像坏了 为什么收不到你的信息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 124,
+          "like_count": 8608,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 1554
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T08:01:11.000Z",
+        "description": "4i | 私信随缘 | 谢谢喜欢",
+        "id": "2026930479874846722",
+        "location": "纯绿🚪88",
+        "name": "鱼鱼",
+        "pinned_tweet_id": "2040164672062824791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031708331912699904/3EWNatA1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 88,
+          "like_count": 1916,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 436
+        },
+        "username": "yy_7701",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040032786166546432"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2040032793842041341",
+    "created_at": "2026-04-03T11:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T12:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040032793842041341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dh9na86anU",
+          "end": 33,
+          "expanded_url": "https://x.com/real39715698/status/2040032793842041341/photo/1",
+          "media_key": "3_2040032786166546432",
+          "start": 10,
+          "url": "https://t.co/Dh9na86anU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040032793842041341",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯嗯嗯世一元辅大王 https://t.co/Dh9na86anU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_2040032786166546432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-nAq2bgAAStBi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040032786166546432"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040032793842041341",
+        "created_at": "2026-04-03T11:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040032793842041341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dh9na86anU",
+              "end": 33,
+              "expanded_url": "https://x.com/real39715698/status/2040032793842041341/photo/1",
+              "media_key": "3_2040032786166546432",
+              "start": 10,
+              "url": "https://t.co/Dh9na86anU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040032793842041341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯嗯嗯世一元辅大王 https://t.co/Dh9na86anU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 118,
+          "like_count": 8058,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1489
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

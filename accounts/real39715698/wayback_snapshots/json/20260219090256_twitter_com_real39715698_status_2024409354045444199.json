@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2024076709214236975",
+    "created_at": "2026-02-19T09:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T10:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024409354045444199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1891867182080065536",
+          "start": 0,
+          "username": "Boyatvt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024409354045444199",
+    "in_reply_to_user_id": "1891867182080065536",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024393016484778485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Boyatvt (๑‾ ꇴ ‾๑)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2024076709214236975",
+        "created_at": "2026-02-19T09:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024409354045444199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1891867182080065536",
+              "start": 0,
+              "username": "Boyatvt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024409354045444199",
+        "in_reply_to_user_id": "1891867182080065536",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024393016484778485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Boyatvt (๑‾ ꇴ ‾๑)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891867182080065536",
+        "conversation_id": "2024076709214236975",
+        "created_at": "2026-02-19T07:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024393016484778485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024393016484778485",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024076709214236975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 这么厉害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 80,
+          "like_count": 1994,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 897
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T15:07:47.000Z",
+        "description": "我只是个宅",
+        "id": "1891867182080065536",
+        "name": "伯牙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963203963987410944/1amWLbSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 109,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 29
+        },
+        "username": "Boyatvt",
+        "verified": false
+      }
+    ]
+  }
+}

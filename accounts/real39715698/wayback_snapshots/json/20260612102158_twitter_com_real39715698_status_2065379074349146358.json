@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2065203230037148018",
+    "created_at": "2026-06-12T10:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065379074349146358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1949894636446920704",
+          "start": 0,
+          "username": "sssssad_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065379074349146358",
+    "in_reply_to_user_id": "1949894636446920704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065372837398118849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sssssad_ovo 好耶宝宝！你也要天天开心呀(&gt;﹏&lt;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2065203230037148018",
+        "created_at": "2026-06-12T10:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065379074349146358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1949894636446920704",
+              "start": 0,
+              "username": "sssssad_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065379074349146358",
+        "in_reply_to_user_id": "1949894636446920704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065372837398118849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sssssad_ovo 好耶宝宝！你也要天天开心呀(&gt;﹏&lt;)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949894636446920704",
+        "conversation_id": "2065203230037148018",
+        "created_at": "2026-06-12T09:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065372837398118849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065372837398118849",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065203230037148018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 小雨天天开心🫳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 197,
+          "like_count": 22993,
+          "listed_count": 1,
+          "media_count": 337,
+          "tweet_count": 3206
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-28T18:08:29.000Z",
+        "description": "圈地自萌中…🫧💬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sssssad_ovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sssssad_ovo",
+                "start": 0,
+                "url": "https://t.co/NNwxAiXG9u"
+              }
+            ]
+          }
+        },
+        "id": "1949894636446920704",
+        "name": "我们可以就这样纠缠一辈子吗",
+        "pinned_tweet_id": "2038962084990661104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019257938305773574/lkwOnWvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 82,
+          "like_count": 3816,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 905
+        },
+        "url": "https://t.co/NNwxAiXG9u",
+        "username": "sssssad_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

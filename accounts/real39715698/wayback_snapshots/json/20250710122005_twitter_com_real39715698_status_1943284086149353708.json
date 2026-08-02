@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1943276173980848634",
+    "created_at": "2025-07-10T12:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T13:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943284086149353708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862557266890956800",
+          "start": 0,
+          "username": "lzb_haishui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943284086149353708",
+    "in_reply_to_user_id": "1862557266890956800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943276173980848634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzb_haishui 那你转过去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 443,
+        "media_key": "3_1943276171736879104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvfnYdzbkAAPr1B.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1943276173980848634",
+        "created_at": "2025-07-10T12:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T13:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943284086149353708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862557266890956800",
+              "start": 0,
+              "username": "lzb_haishui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943284086149353708",
+        "in_reply_to_user_id": "1862557266890956800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943276173980848634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzb_haishui 那你转过去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943276171736879104"
+          ]
+        },
+        "author_id": "1862557266890956800",
+        "conversation_id": "1943276173980848634",
+        "created_at": "2025-07-10T11:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T12:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943276173980848634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y0a0pHc0W8",
+              "end": 33,
+              "expanded_url": "https://x.com/lzb_haishui/status/1943276173980848634/photo/1",
+              "media_key": "3_1943276171736879104",
+              "start": 10,
+              "url": "https://t.co/Y0a0pHc0W8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943276173980848634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 343,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再这样我就去当男娘 https://t.co/Y0a0pHc0W8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 67,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 129
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T18:00:42.000Z",
+        "description": "当朋友圈发",
+        "id": "1862557266890956800",
+        "location": "🚪52/88/188/388/520",
+        "name": "拉屎通畅大王",
+        "pinned_tweet_id": "1926284374053372153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941329370133544960/rj7Pin-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6830,
+          "following_count": 484,
+          "like_count": 22281,
+          "listed_count": 8,
+          "media_count": 97,
+          "tweet_count": 3658
+        },
+        "username": "lzb_haishui",
+        "verified": false
+      }
+    ]
+  }
+}

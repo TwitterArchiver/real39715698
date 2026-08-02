@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2026325852934537217"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "2026325875462168803",
+    "created_at": "2026-02-24T15:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T16:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026325875462168803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nqSQJNDBNe",
+          "end": 55,
+          "expanded_url": "https://x.com/real39715698/status/2026325875462168803/video/1",
+          "media_key": "7_2026325852934537217",
+          "start": 32,
+          "url": "https://t.co/nqSQJNDBNe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026325875462168803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "诗朗诵版大舌头。到最后脑袋突然宕机导致变成真的大舌头^ - ^ https://t.co/nqSQJNDBNe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36500,
+        "height": 1280,
+        "media_key": "7_2026325852934537217",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2026325852934537217/pu/img/p3ddzrs4XGearEa8.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026325852934537217/pu/vid/avc1/320x568/H8ArcIOtkpzwKCx2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026325852934537217/pu/vid/avc1/480x852/YMYcuEda_Y0ytqnd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026325852934537217/pu/vid/avc1/720x1280/xhe8BVYBGyllAtBQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2026325852934537217/pu/pl/czyPO6B0mPkV9kvO.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2026325852934537217"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "2026325875462168803",
+        "created_at": "2026-02-24T15:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026325875462168803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nqSQJNDBNe",
+              "end": 55,
+              "expanded_url": "https://x.com/real39715698/status/2026325875462168803/video/1",
+              "media_key": "7_2026325852934537217",
+              "start": 32,
+              "url": "https://t.co/nqSQJNDBNe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026325875462168803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诗朗诵版大舌头。到最后脑袋突然宕机导致变成真的大舌头^ - ^ https://t.co/nqSQJNDBNe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 88,
+          "like_count": 2509,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 969
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

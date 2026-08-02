@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055246173464907776"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "2055213373089026272",
+    "created_at": "2026-05-15T11:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T12:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055246197187830241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1759061197264130048",
+          "start": 0,
+          "username": "zici369218"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KuluiWpxpB",
+          "end": 41,
+          "expanded_url": "https://x.com/real39715698/status/2055246197187830241/photo/1",
+          "media_key": "3_2055246173464907776",
+          "start": 18,
+          "url": "https://t.co/KuluiWpxpB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055246197187830241",
+    "in_reply_to_user_id": "1759061197264130048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055213373089026272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zici369218 俺也一样。 https://t.co/KuluiWpxpB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2688,
+        "media_key": "3_2055246173464907776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWzgW9bUAAf36a.jpg",
+        "width": 1216
+      },
+      {
+        "height": 2091,
+        "media_key": "3_2055213365564444672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWVqsAakAA_qL8.jpg",
+        "width": 1273
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055246173464907776"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "2055213373089026272",
+        "created_at": "2026-05-15T11:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055246197187830241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1759061197264130048",
+              "start": 0,
+              "username": "zici369218"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KuluiWpxpB",
+              "end": 41,
+              "expanded_url": "https://x.com/real39715698/status/2055246197187830241/photo/1",
+              "media_key": "3_2055246173464907776",
+              "start": 18,
+              "url": "https://t.co/KuluiWpxpB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055246197187830241",
+        "in_reply_to_user_id": "1759061197264130048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055213373089026272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zici369218 俺也一样。 https://t.co/KuluiWpxpB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055213365564444672"
+          ]
+        },
+        "author_id": "1759061197264130048",
+        "conversation_id": "2055213373089026272",
+        "created_at": "2026-05-15T09:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055213373089026272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZUubZaHRvv",
+              "end": 29,
+              "expanded_url": "https://x.com/zici369218/status/2055213373089026272/photo/1",
+              "media_key": "3_2055213365564444672",
+              "start": 6,
+              "url": "https://t.co/ZUubZaHRvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055213373089026272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "意料之中。 https://t.co/ZUubZaHRvv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 186,
+          "like_count": 19300,
+          "listed_count": 1,
+          "media_count": 289,
+          "tweet_count": 2788
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T03:44:18.000Z",
+        "description": "我到底是不是你的全世界？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zici87532",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zici87532",
+                "start": 0,
+                "url": "https://t.co/niPLoAJulI"
+              }
+            ]
+          }
+        },
+        "id": "1759061197264130048",
+        "location": "栗子大王🌰",
+        "name": "阿瑾",
+        "pinned_tweet_id": "1999501543322653017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052761283460837376/chOPzbOx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 147,
+          "like_count": 6594,
+          "listed_count": 2,
+          "media_count": 330,
+          "tweet_count": 5346
+        },
+        "url": "https://t.co/niPLoAJulI",
+        "username": "zici369218",
+        "verified": false
+      }
+    ]
+  }
+}

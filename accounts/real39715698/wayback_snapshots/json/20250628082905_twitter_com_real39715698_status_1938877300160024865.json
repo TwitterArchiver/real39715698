@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1938877300160024865",
+    "created_at": "2025-06-28T08:29:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T09:29:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938877300160024865"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1938877300160024865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这条抽八个人谈恋爱吧，一人一天，剩下一个怕有人请假哈，你们也知道我很少搞这种纯报复社会的活动的，基本上几年才搞一次，机会真的是很难得，想参与的直接扣1就可以免费参与"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1938877300160024865",
+        "created_at": "2025-06-28T08:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T09:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938877300160024865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938877300160024865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这条抽八个人谈恋爱吧，一人一天，剩下一个怕有人请假哈，你们也知道我很少搞这种纯报复社会的活动的，基本上几年才搞一次，机会真的是很难得，想参与的直接扣1就可以免费参与"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933977754120474624/RWP6FLXG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 52,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 27
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

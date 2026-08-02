@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2067596085393281059",
+    "created_at": "2026-06-18T13:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067600946658685384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024546708030705664",
+          "start": 0,
+          "username": "heiheiwzzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067600946658685384",
+    "in_reply_to_user_id": "2024546708030705664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067600431069692332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heiheiwzzl 是这样的 哎🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2067596085393281059",
+        "created_at": "2026-06-18T13:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067600946658685384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024546708030705664",
+              "start": 0,
+              "username": "heiheiwzzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067600946658685384",
+        "in_reply_to_user_id": "2024546708030705664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067600431069692332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heiheiwzzl 是这样的 哎🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024546708030705664",
+        "conversation_id": "2067596085393281059",
+        "created_at": "2026-06-18T13:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067600431069692332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067600431069692332",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067596085393281059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 我至今仍然感觉自己十六七…被困在高中了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 199,
+          "like_count": 24041,
+          "listed_count": 1,
+          "media_count": 359,
+          "tweet_count": 3440
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T18:08:55.000Z",
+        "description": "我只是一个可怜的性压抑萧厨女也不会有🚪不要再问我约不约线下了…",
+        "id": "2024546708030705664",
+        "name": "宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024938872166330368/jtVQI1MT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11557,
+          "following_count": 57,
+          "like_count": 9931,
+          "listed_count": 33,
+          "media_count": 102,
+          "tweet_count": 633
+        },
+        "url": "",
+        "username": "heiheiwzzl",
+        "verified": false
+      }
+    ]
+  }
+}

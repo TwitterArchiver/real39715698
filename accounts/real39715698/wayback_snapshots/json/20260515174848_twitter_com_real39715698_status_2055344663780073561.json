@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055344511413608449",
+        "3_2055344635439206400"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055344663780073561",
+    "created_at": "2026-05-15T17:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T18:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055344663780073561"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CmTWHTThvG",
+          "end": 46,
+          "expanded_url": "https://x.com/real39715698/status/2055344663780073561/photo/1",
+          "media_key": "3_2055344511413608449",
+          "start": 23,
+          "url": "https://t.co/CmTWHTThvG"
+        },
+        {
+          "display_url": "pic.x.com/CmTWHTThvG",
+          "end": 46,
+          "expanded_url": "https://x.com/real39715698/status/2055344663780073561/photo/1",
+          "media_key": "3_2055344635439206400",
+          "start": 23,
+          "url": "https://t.co/CmTWHTThvG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055344663780073561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没人陪我 我就这样上号种地跟我的超大蓝莓合影 https://t.co/CmTWHTThvG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2055344511413608449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYM8YXbYAEF_gG.jpg",
+        "width": 2688
+      },
+      {
+        "height": 1216,
+        "media_key": "3_2055344635439206400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYNDmZb0AAUh_z.jpg",
+        "width": 2688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055344511413608449",
+            "3_2055344635439206400"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055344663780073561",
+        "created_at": "2026-05-15T17:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055344663780073561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CmTWHTThvG",
+              "end": 46,
+              "expanded_url": "https://x.com/real39715698/status/2055344663780073561/photo/1",
+              "media_key": "3_2055344511413608449",
+              "start": 23,
+              "url": "https://t.co/CmTWHTThvG"
+            },
+            {
+              "display_url": "pic.x.com/CmTWHTThvG",
+              "end": 46,
+              "expanded_url": "https://x.com/real39715698/status/2055344663780073561/photo/1",
+              "media_key": "3_2055344635439206400",
+              "start": 23,
+              "url": "https://t.co/CmTWHTThvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055344663780073561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人陪我 我就这样上号种地跟我的超大蓝莓合影 https://t.co/CmTWHTThvG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 189,
+          "like_count": 19540,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 2812
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

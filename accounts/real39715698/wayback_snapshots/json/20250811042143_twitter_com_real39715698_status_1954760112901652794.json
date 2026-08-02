@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1954749018736873598",
+    "created_at": "2025-08-11T04:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T05:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954760112901652794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851514661105254403",
+          "start": 0,
+          "username": "Finger_999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954760112901652794",
+    "in_reply_to_user_id": "1851514661105254403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954749018736873598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Finger_999 没有中奖QAQ 希望下次幸运轮到我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954749007231913984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyCp3YkbEAAbl-4.jpg",
+        "width": 946
+      },
+      {
+        "height": 629,
+        "media_key": "3_1954749007248666624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyCp3YoasAAzwq7.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1954749018736873598",
+        "created_at": "2025-08-11T04:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T05:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954760112901652794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851514661105254403",
+              "start": 0,
+              "username": "Finger_999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954760112901652794",
+        "in_reply_to_user_id": "1851514661105254403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954749018736873598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Finger_999 没有中奖QAQ 希望下次幸运轮到我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954749007231913984",
+            "3_1954749007248666624"
+          ]
+        },
+        "author_id": "1851514661105254403",
+        "conversation_id": "1954749018736873598",
+        "created_at": "2025-08-11T03:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T04:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954749018736873598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YqZuwBFOr8",
+              "end": 27,
+              "expanded_url": "https://x.com/Finger_999/status/1954749018736873598/photo/1",
+              "media_key": "3_1954749007231913984",
+              "start": 4,
+              "url": "https://t.co/YqZuwBFOr8"
+            },
+            {
+              "display_url": "pic.x.com/YqZuwBFOr8",
+              "end": 27,
+              "expanded_url": "https://x.com/Finger_999/status/1954749018736873598/photo/1",
+              "media_key": "3_1954749007248666624",
+              "start": 4,
+              "url": "https://t.co/YqZuwBFOr8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954749018736873598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽完了 https://t.co/YqZuwBFOr8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950788203742703617/m3VNyVQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 77,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 244
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T06:41:17.000Z",
+        "description": "世路多崎  人海辽阔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/finger71674",
+                "end": 23,
+                "expanded_url": "https://ngl.link/finger71674",
+                "start": 0,
+                "url": "https://t.co/bvvTeNDxjC"
+              }
+            ]
+          }
+        },
+        "id": "1851514661105254403",
+        "location": "桂",
+        "name": "Finger",
+        "pinned_tweet_id": "1941076906402803814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937675611369275393/BRDtbNZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2197,
+          "following_count": 219,
+          "like_count": 6745,
+          "listed_count": 4,
+          "media_count": 59,
+          "tweet_count": 1259
+        },
+        "url": "https://t.co/bvvTeNDxjC",
+        "username": "Finger_999",
+        "verified": false
+      }
+    ]
+  }
+}

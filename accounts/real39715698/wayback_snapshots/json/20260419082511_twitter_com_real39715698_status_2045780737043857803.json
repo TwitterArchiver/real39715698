@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2045713273153306713",
+    "created_at": "2026-04-19T08:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T09:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045780737043857803"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045780737043857803",
+    "in_reply_to_user_id": "1473529668263628805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045713273153306713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呃但是最烦的是我app登不上去不能跟互关在sps里玩了 因为我网页版没有声音不知道为什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2045713273153306713",
+        "created_at": "2026-04-19T08:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045780737043857803"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045780737043857803",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045713273153306713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃但是最烦的是我app登不上去不能跟互关在sps里玩了 因为我网页版没有声音不知道为什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2045713273153306713",
+        "created_at": "2026-04-19T03:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T04:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045713273153306713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045713273153306713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1158,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "更新了一下app还更出问题了 感觉这个号迟早要完 目前只能用网页版挂着看看 如果有互关想加联系方式的非常欢迎&gt;&lt;因为我也不确定哪天这个号会不会就突然登不上来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "还给我那些天真和眼泪@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 165,
+          "like_count": 13041,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 2172
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

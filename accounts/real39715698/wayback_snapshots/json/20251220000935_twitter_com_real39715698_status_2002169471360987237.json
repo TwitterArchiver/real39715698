@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2001995917013160307",
+    "created_at": "2025-12-20T00:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T01:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002169471360987237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1849385218198691840",
+          "start": 0,
+          "username": "yvlinling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002169471360987237",
+    "in_reply_to_user_id": "1849385218198691840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001995917013160307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yvlinling 我要我要ᗜ 𖥦 ᗜ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1875,
+        "media_key": "3_2001995910419771393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8iErGpa8AECLPC.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1814,
+        "media_key": "3_2001995910411321345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8iErGnaAAEf8Cj.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2001995917013160307",
+        "created_at": "2025-12-20T00:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T01:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002169471360987237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1849385218198691840",
+              "start": 0,
+              "username": "yvlinling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002169471360987237",
+        "in_reply_to_user_id": "1849385218198691840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001995917013160307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvlinling 我要我要ᗜ 𖥦 ᗜ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001995910419771393",
+            "3_2001995910411321345"
+          ]
+        },
+        "author_id": "1849385218198691840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2001995917013160307",
+        "created_at": "2025-12-19T12:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T13:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001995917013160307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6OgJcoZii",
+              "end": 119,
+              "expanded_url": "https://x.com/yvlinling/status/2001995917013160307/photo/1",
+              "media_key": "3_2001995910419771393",
+              "start": 96,
+              "url": "https://t.co/z6OgJcoZii"
+            },
+            {
+              "display_url": "pic.x.com/z6OgJcoZii",
+              "end": 119,
+              "expanded_url": "https://x.com/yvlinling/status/2001995917013160307/photo/1",
+              "media_key": "3_2001995910411321345",
+              "start": 96,
+              "url": "https://t.co/z6OgJcoZii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001995917013160307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4990,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 82,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好的我又来抽奖了 给大家准备点圣诞礼物-⩊-\n\n1.科颜氏金盏花保湿水（这个只给互关抽）\n2.好利来乳酸菌半熟芝士两盒\n3.麦当劳折现🧧50 *10\n\n关注➕评论参加 圣诞节当天开 我爱泥萌 https://t.co/z6OgJcoZii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "希望你天天开心",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1990020111521272078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 71,
+          "like_count": 769,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 538
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T09:39:50.000Z",
+        "description": "男的。",
+        "id": "1849385218198691840",
+        "name": "雨霖铃",
+        "pinned_tweet_id": "1855167563585495050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991195201877233664/lVpcCs4R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1952,
+          "following_count": 371,
+          "like_count": 35893,
+          "listed_count": 5,
+          "media_count": 241,
+          "tweet_count": 11091
+        },
+        "username": "yvlinling",
+        "verified": false
+      }
+    ]
+  }
+}

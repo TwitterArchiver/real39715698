@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1951612779129151673",
+    "created_at": "2025-08-02T12:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T13:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951614531811295509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1509356069658656771",
+          "start": 0,
+          "username": "nidexinhaoleng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951614531811295509",
+    "in_reply_to_user_id": "1509356069658656771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951612779129151673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nidexinhaoleng 我想doi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1951612779129151673",
+        "created_at": "2025-08-02T12:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T13:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951614531811295509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1509356069658656771",
+              "start": 0,
+              "username": "nidexinhaoleng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951614531811295509",
+        "in_reply_to_user_id": "1509356069658656771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951612779129151673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nidexinhaoleng 我想doi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509356069658656771",
+        "conversation_id": "1951612779129151673",
+        "created_at": "2025-08-02T11:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T12:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951612779129151673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951612779129151673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想doi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950788203742703617/m3VNyVQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 74,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 203
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-31T02:25:17.000Z",
+        "description": "无人在意",
+        "id": "1509356069658656771",
+        "location": "下水道",
+        "name": "退后",
+        "pinned_tweet_id": "1851661299455008895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898790183576932352/seTBtG3u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3192,
+          "following_count": 83,
+          "like_count": 346,
+          "listed_count": 7,
+          "media_count": 19,
+          "tweet_count": 174
+        },
+        "username": "nidexinhaoleng",
+        "verified": false
+      }
+    ]
+  }
+}

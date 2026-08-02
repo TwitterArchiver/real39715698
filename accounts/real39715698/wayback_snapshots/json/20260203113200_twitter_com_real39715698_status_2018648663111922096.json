@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2018647662216765831",
+    "created_at": "2026-02-03T11:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T12:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018648663111922096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1949735161698103296",
+          "start": 0,
+          "username": "Snow9uria1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018648663111922096",
+    "in_reply_to_user_id": "1949735161698103296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018647662216765831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow9uria1 不是故意不理你的，你讲话太可爱了，我需要冷静"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2018647662216765831",
+        "created_at": "2026-02-03T11:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T12:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018648663111922096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1949735161698103296",
+              "start": 0,
+              "username": "Snow9uria1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018648663111922096",
+        "in_reply_to_user_id": "1949735161698103296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018647662216765831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow9uria1 不是故意不理你的，你讲话太可爱了，我需要冷静"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949735161698103296",
+        "conversation_id": "2018647662216765831",
+        "created_at": "2026-02-03T11:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T12:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018647662216765831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018647662216765831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有放置只是在思考高情商回复结果忘回了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 78,
+          "like_count": 1436,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 763
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-28T07:34:31.000Z",
+        "description": "",
+        "id": "1949735161698103296",
+        "name": "玻璃心有错吗",
+        "pinned_tweet_id": "2016574927164600679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017899589165318145/aprjY82D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 86,
+          "like_count": 5985,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1492
+        },
+        "username": "Snow9uria1",
+        "verified": false
+      }
+    ]
+  }
+}

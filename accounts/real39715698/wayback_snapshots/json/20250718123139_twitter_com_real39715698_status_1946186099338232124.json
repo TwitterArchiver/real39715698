@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1945871561841606833",
+    "created_at": "2025-07-18T12:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T13:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946186099338232124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851514661105254403",
+          "start": 0,
+          "username": "Finger_999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946186099338232124",
+    "in_reply_to_user_id": "1851514661105254403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945871561841606833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Finger_999 刚下班就刷到了我要开始干坏事了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 751417,
+        "height": 720,
+        "media_key": "13_1945864641219112960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1945864641219112960/img/fk2AYU7g3N2fH_X-.jpg",
+        "public_metrics": {
+          "view_count": 7404
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945864641219112960/vid/avc1/320x320/OqiTGvXVJtn4ubv6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945864641219112960/vid/avc1/540x540/djlaSA2zF6YkOHmR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945864641219112960/vid/avc1/720x720/yDJrkJYiKZSYGHR9.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1945864641219112960/pl/gbHsajTvRtsD4nhM.m3u8?tag=14&v=863"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1945871561841606833",
+        "created_at": "2025-07-18T12:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T13:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946186099338232124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851514661105254403",
+              "start": 0,
+              "username": "Finger_999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946186099338232124",
+        "in_reply_to_user_id": "1851514661105254403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945871561841606833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Finger_999 刚下班就刷到了我要开始干坏事了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1945864641219112960"
+          ]
+        },
+        "author_id": "1851514661105254403",
+        "conversation_id": "1945871561841606833",
+        "created_at": "2025-07-17T15:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T16:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945871561841606833"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "男喘"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "青年音"
+            },
+            {
+              "end": 99,
+              "start": 94,
+              "tag": "1i小狗"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sNlP0RPAw5",
+              "end": 127,
+              "expanded_url": "https://x.com/Finger_999/status/1945871561841606833/video/1",
+              "media_key": "13_1945864641219112960",
+              "start": 104,
+              "url": "https://t.co/sNlP0RPAw5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945871561841606833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 17867,
+          "like_count": 352,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "明明是小狗又喜欢被叫妈妈 到底谁是小狗\n\n（对不起我有点晕说了有些小宝宝不喜欢的词 对羞辱比较挑的我们下次再听好吗）\n\n自己在家声音很大 不过这次手机录的有润滑液的声音\n#男喘 #青年音 #1i小狗 #羞辱 https://t.co/sNlP0RPAw5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 69,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 170
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T06:41:17.000Z",
+        "description": "世路多崎  人海辽阔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/finger71674",
+                "end": 23,
+                "expanded_url": "https://ngl.link/finger71674",
+                "start": 0,
+                "url": "https://t.co/bvvTeNDxjC"
+              }
+            ]
+          }
+        },
+        "id": "1851514661105254403",
+        "location": "桂",
+        "name": "Finger",
+        "pinned_tweet_id": "1941076906402803814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937675611369275393/BRDtbNZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 201,
+          "like_count": 6313,
+          "listed_count": 5,
+          "media_count": 40,
+          "tweet_count": 1061
+        },
+        "url": "https://t.co/bvvTeNDxjC",
+        "username": "Finger_999",
+        "verified": false
+      }
+    ]
+  }
+}

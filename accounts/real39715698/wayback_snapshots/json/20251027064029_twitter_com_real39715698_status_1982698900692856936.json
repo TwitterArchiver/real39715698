@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982698893260316672"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1982675553036689533",
+    "created_at": "2025-10-27T06:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T07:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982698900692856936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1778896067171655680",
+          "start": 0,
+          "username": "Pop0v0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j44ROpFirG",
+          "end": 31,
+          "expanded_url": "https://x.com/real39715698/status/1982698900692856936/photo/1",
+          "media_key": "3_1982698893260316672",
+          "start": 8,
+          "url": "https://t.co/j44ROpFirG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982698900692856936",
+    "in_reply_to_user_id": "1778896067171655680",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982675553036689533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pop0v0 https://t.co/j44ROpFirG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1690,
+        "media_key": "3_1982698893260316672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4P2I31XYAAWZh3.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982698893260316672"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1982675553036689533",
+        "created_at": "2025-10-27T06:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T07:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982698900692856936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1778896067171655680",
+              "start": 0,
+              "username": "Pop0v0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j44ROpFirG",
+              "end": 31,
+              "expanded_url": "https://x.com/real39715698/status/1982698900692856936/photo/1",
+              "media_key": "3_1982698893260316672",
+              "start": 8,
+              "url": "https://t.co/j44ROpFirG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982698900692856936",
+        "in_reply_to_user_id": "1778896067171655680",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982675553036689533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pop0v0 https://t.co/j44ROpFirG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778896067171655680",
+        "conversation_id": "1982675553036689533",
+        "created_at": "2025-10-27T05:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T06:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982675553036689533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982675553036689533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3143,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "万圣节你cos茶包 我可以泡你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1952695269616910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980654074484731904/B7DmcC9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 77,
+          "like_count": 387,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 374
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T21:20:57.000Z",
+        "description": "05 直男｜盗图存图替我挡灾 4000+｜不约不谈不加不收口令",
+        "id": "1778896067171655680",
+        "name": "鱿鱼男主",
+        "pinned_tweet_id": "1979561751990730806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982052334273212416/bSefx0Sz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 241,
+          "like_count": 12770,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 348
+        },
+        "username": "Pop0v0",
+        "verified": false
+      }
+    ]
+  }
+}

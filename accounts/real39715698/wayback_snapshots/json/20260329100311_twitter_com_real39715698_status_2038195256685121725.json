@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2038195226595270656"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "2038195256685121725",
+    "created_at": "2026-03-29T10:03:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T11:03:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038195256685121725"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bU6rblnHsS",
+          "end": 38,
+          "expanded_url": "https://x.com/real39715698/status/2038195256685121725/video/1",
+          "media_key": "7_2038195226595270656",
+          "start": 15,
+          "url": "https://t.co/bU6rblnHsS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038195256685121725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "依旧rl不分吧。这个小学生。 https://t.co/bU6rblnHsS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45633,
+        "height": 1076,
+        "media_key": "7_2038195226595270656",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2038195226595270656/pu/img/Sag2gZfD-BPmVA7g.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038195226595270656/pu/vid/avc1/320x596/XxOj700p7dMkcJti.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038195226595270656/pu/vid/avc1/480x896/IVhRHH68-vN-OIKJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038195226595270656/pu/vid/avc1/576x1076/v6NizJv3TYcDpbjT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2038195226595270656/pu/pl/2UHwQuZusST0whJC.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2038195226595270656"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "2038195256685121725",
+        "created_at": "2026-03-29T10:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038195256685121725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bU6rblnHsS",
+              "end": 38,
+              "expanded_url": "https://x.com/real39715698/status/2038195256685121725/video/1",
+              "media_key": "7_2038195226595270656",
+              "start": 15,
+              "url": "https://t.co/bU6rblnHsS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038195256685121725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧rl不分吧。这个小学生。 https://t.co/bU6rblnHsS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 102,
+          "like_count": 6118,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 1275
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

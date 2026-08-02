@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1943652159578615886",
+    "created_at": "2025-07-11T14:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T15:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943676837139214397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1906240823886516224",
+          "start": 0,
+          "username": "fuuu555u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943676837139214397",
+    "in_reply_to_user_id": "1906240823886516224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943668967278834026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuuu555u 嘿嘿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 491,
+        "media_key": "3_1943668963973767168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvlMn-6boAAMkY2.jpg",
+        "width": 507
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1943652159578615886",
+        "created_at": "2025-07-11T14:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T15:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943676837139214397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1906240823886516224",
+              "start": 0,
+              "username": "fuuu555u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943676837139214397",
+        "in_reply_to_user_id": "1906240823886516224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943668967278834026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuuu555u 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943668963973767168"
+          ]
+        },
+        "author_id": "1906240823886516224",
+        "conversation_id": "1943652159578615886",
+        "created_at": "2025-07-11T13:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T14:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943668967278834026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k65vFs1gMD",
+              "end": 37,
+              "expanded_url": "https://x.com/fuuu555u/status/1943668967278834026/photo/1",
+              "media_key": "3_1943668963973767168",
+              "start": 14,
+              "url": "https://t.co/k65vFs1gMD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943668967278834026",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943652159578615886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 https://t.co/k65vFs1gMD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 67,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 145
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T07:03:49.000Z",
+        "description": "匿名箱  https://t.co/HkCaSwSmCt\n\n     私信没回就是不感兴趣｜不擅长主动聊天｜不kp｜聊骚是看我性趣｜三分钟热度｜本人均不对私信发出的任何一句话负责｜#可恶#丑陋#愚笨#木讷#恶毒#小气#懒",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ff5551",
+                "end": 28,
+                "expanded_url": "https://ngl.link/ff5551",
+                "start": 5,
+                "url": "https://t.co/HkCaSwSmCt"
+              }
+            ]
+          }
+        },
+        "id": "1906240823886516224",
+        "location": "🚪357000 ︱有学生证打七折︱防止小孩误食",
+        "name": "芙芙",
+        "pinned_tweet_id": "1934593327690842506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930624814706024448/-4PjFrDm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 6,
+          "like_count": 650,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 418
+        },
+        "username": "fuuu555u",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2041374314184983034",
+    "created_at": "2026-04-08T04:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T05:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041739866434842975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1884900377679822848",
+          "start": 0,
+          "username": "JW124127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041739866434842975",
+    "in_reply_to_user_id": "1884900377679822848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041696839716762108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JW124127 接接接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2041374314184983034",
+        "created_at": "2026-04-08T04:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041739866434842975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884900377679822848",
+              "start": 0,
+              "username": "JW124127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041739866434842975",
+        "in_reply_to_user_id": "1884900377679822848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041696839716762108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JW124127 接接接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884900377679822848",
+        "conversation_id": "2041374314184983034",
+        "created_at": "2026-04-08T01:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041696839716762108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041696839716762108",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041374314184983034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 接收款码1314.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 132,
+          "like_count": 9589,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1686
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T09:44:16.000Z",
+        "description": "女高 喜欢碎碎念 喜欢有礼貌的宝宝^ω^",
+        "id": "1884900377679822848",
+        "location": "本人在la 🚪66r  天天开心～/•᷅•᷄\\୭",
+        "name": "Y",
+        "pinned_tweet_id": "2008112029459181862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023497088953352192/VKcs52v4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 32,
+          "like_count": 1397,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 1525
+        },
+        "username": "JW124127",
+        "verified": false
+      }
+    ]
+  }
+}

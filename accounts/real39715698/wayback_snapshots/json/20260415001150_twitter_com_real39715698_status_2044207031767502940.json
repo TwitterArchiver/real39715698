@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2044207031767502940",
+    "created_at": "2026-04-15T00:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T01:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044207031767502940"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044207031767502940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就是要和那种很黏我、很喜欢我、很在乎我、很宠我的人在一起，才会变得萌萌的。不然就这个焦虑症发作一天疑神疑鬼感觉对面不喜欢我了，开始作作作。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2044207031767502940",
+        "created_at": "2026-04-15T00:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T01:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044207031767502940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044207031767502940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就是要和那种很黏我、很喜欢我、很在乎我、很宠我的人在一起，才会变得萌萌的。不然就这个焦虑症发作一天疑神疑鬼感觉对面不喜欢我了，开始作作作。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "你走后我的世界模糊一片 看心情过@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 154,
+          "like_count": 11627,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 2004
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

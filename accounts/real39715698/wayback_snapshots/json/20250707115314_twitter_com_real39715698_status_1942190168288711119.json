@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1942173325960294908",
+    "created_at": "2025-07-07T11:53:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T12:53:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942190168288711119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1869932876084719617",
+          "start": 0,
+          "username": "Inosukee017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942190168288711119",
+    "in_reply_to_user_id": "1869932876084719617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942173325960294908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inosukee017 我的也是T^T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1942173325960294908",
+        "created_at": "2025-07-07T11:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T12:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942190168288711119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1869932876084719617",
+              "start": 0,
+              "username": "Inosukee017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942190168288711119",
+        "in_reply_to_user_id": "1869932876084719617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942173325960294908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inosukee017 我的也是T^T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869932876084719617",
+        "conversation_id": "1942173325960294908",
+        "created_at": "2025-07-07T10:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T11:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942173325960294908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942173325960294908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的私信怎么全是阳痿早泄短小的字眼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 62,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 96
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T02:28:44.000Z",
+        "description": "青年 接连麦 瓦🥣",
+        "id": "1869932876084719617",
+        "location": "🚪52",
+        "name": "Inosukee",
+        "pinned_tweet_id": "1934297618907312384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927959273163870212/bijajG3c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3858,
+          "following_count": 45,
+          "like_count": 256,
+          "listed_count": 7,
+          "media_count": 40,
+          "tweet_count": 100
+        },
+        "username": "Inosukee017",
+        "verified": false
+      }
+    ]
+  }
+}

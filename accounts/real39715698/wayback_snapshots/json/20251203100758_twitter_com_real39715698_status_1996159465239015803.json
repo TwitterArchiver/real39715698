@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996159457110392832"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "1996159465239015803",
+    "created_at": "2025-12-03T10:07:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T11:07:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996159465239015803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jX5UbwU3aq",
+          "end": 23,
+          "expanded_url": "https://x.com/real39715698/status/1996159465239015803/photo/1",
+          "media_key": "3_1996159457110392832",
+          "start": 0,
+          "url": "https://t.co/jX5UbwU3aq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996159465239015803",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 90,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/jX5UbwU3aq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1390,
+        "media_key": "3_1996159457110392832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7PIczwaAAAVtRQ.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996159457110392832"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "1996159465239015803",
+        "created_at": "2025-12-03T10:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T11:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996159465239015803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jX5UbwU3aq",
+              "end": 23,
+              "expanded_url": "https://x.com/real39715698/status/1996159465239015803/photo/1",
+              "media_key": "3_1996159457110392832",
+              "start": 0,
+              "url": "https://t.co/jX5UbwU3aq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996159465239015803",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jX5UbwU3aq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "说了再见才发现再也见不到",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1990047104321122696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 76,
+          "like_count": 637,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 485
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

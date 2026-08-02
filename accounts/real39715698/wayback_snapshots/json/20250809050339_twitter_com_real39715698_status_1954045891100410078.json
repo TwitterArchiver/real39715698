@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1954024393916789112",
+    "created_at": "2025-08-09T05:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T06:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954045891100410078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1644395180055724041",
+          "start": 0,
+          "username": "sukiyaki_99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954045891100410078",
+    "in_reply_to_user_id": "1644395180055724041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954024393916789112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sukiyaki_99 我的私信怎么空空如也？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1587,
+        "media_key": "3_1954024388376059904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx4W1A-a4AAIIhW.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1954024393916789112",
+        "created_at": "2025-08-09T05:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T06:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954045891100410078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1644395180055724041",
+              "start": 0,
+              "username": "sukiyaki_99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954045891100410078",
+        "in_reply_to_user_id": "1644395180055724041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954024393916789112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sukiyaki_99 我的私信怎么空空如也？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954024388376059904"
+          ]
+        },
+        "author_id": "1644395180055724041",
+        "conversation_id": "1954024393916789112",
+        "created_at": "2025-08-09T03:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T04:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954024393916789112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oo7iXZfQTK",
+              "end": 70,
+              "expanded_url": "https://x.com/sukiyaki_99/status/1954024393916789112/photo/1",
+              "media_key": "3_1954024388376059904",
+              "start": 47,
+              "url": "https://t.co/oo7iXZfQTK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954024393916789112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 720,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo福利～\n我做了一个反向粉丝福利，我将不停给你们发屌照，你们必须充会员我才会停止。 https://t.co/oo7iXZfQTK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950788203742703617/m3VNyVQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 76,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 233
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T17:42:28.000Z",
+        "description": "直男｜碎碎念 经常擦边｜薄肌｜省流请看highlight｜喜欢会回关 无照不回^_^｜+v打钱。收atm奴。",
+        "id": "1644395180055724041",
+        "location": "5.2km",
+        "name": "狂炫寿喜锅",
+        "pinned_tweet_id": "1934076864936718432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935516847375634434/8Na5e5CN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 173,
+          "like_count": 3963,
+          "listed_count": 4,
+          "media_count": 37,
+          "tweet_count": 620
+        },
+        "username": "sukiyaki_99",
+        "verified": true
+      }
+    ]
+  }
+}

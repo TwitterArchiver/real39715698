@@ -1,0 +1,29 @@
+{
+  "name": "real",
+  "username": "@real39715698",
+  "bio": "我的邪恶比格人格@Miao991ovo https://ngl.link/real81029",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 19,
+        "start": 8,
+        "username": "Miao991ovo"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "ngl.link/real81029",
+        "end": 43,
+        "expanded_url": "https://ngl.link/real81029",
+        "start": 20,
+        "url": "https://t.co/FMgiCVkkWR"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg"
+}

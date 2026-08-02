@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2057101670405038383",
+    "created_at": "2026-05-20T14:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057103479542550730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "998605023830593539",
+          "start": 0,
+          "username": "ROSSMARYAGUIRR2"
+        },
+        {
+          "end": 26,
+          "id": "2042512011456843779",
+          "start": 17,
+          "username": "JTtrz1vr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057103479542550730",
+    "in_reply_to_user_id": "998605023830593539",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057101670405038383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ROSSMARYAGUIRR2 @JTtrz1vr 幸福了呀！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2057101670405038383].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2057101670405038383",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2057101670405038383"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2057101670405038383",
+        "created_at": "2026-05-20T14:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057103479542550730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "998605023830593539",
+              "start": 0,
+              "username": "ROSSMARYAGUIRR2"
+            },
+            {
+              "end": 26,
+              "id": "2042512011456843779",
+              "start": 17,
+              "username": "JTtrz1vr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057103479542550730",
+        "in_reply_to_user_id": "998605023830593539",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057101670405038383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ROSSMARYAGUIRR2 @JTtrz1vr 幸福了呀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 186,
+          "like_count": 20402,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 2916
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-21T16:42:45.000Z",
+        "description": "我以为我是你的唯一｜本体@MmeTuT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 12,
+                "username": "MmeTuT"
+              }
+            ]
+          }
+        },
+        "id": "998605023830593539",
+        "name": "小风铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050644281992630272/PuSRPw4E_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 1,
+          "like_count": 967,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 627
+        },
+        "username": "ROSSMARYAGUIRR2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T07:57:26.000Z",
+        "description": "",
+        "id": "2042512011456843779",
+        "name": "小添",
+        "pinned_tweet_id": "2056464699341029441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042512388151480324/XPXqpbHy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 2,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 54
+        },
+        "username": "JTtrz1vr",
+        "verified": false
+      }
+    ]
+  }
+}

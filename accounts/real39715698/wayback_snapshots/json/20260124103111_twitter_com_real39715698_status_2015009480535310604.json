@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2015009480535310604",
+    "created_at": "2026-01-24T10:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T11:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015009480535310604"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015009480535310604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "找一个很神圣的搭子：\n1.必须是那种会说出莫名其妙发言的傻福\n2.不能嫌弃我是辣条音\n3.很爱玩农 一叫就上号\n4.必须一直鸟我一直找我玩\n5.不能菜 因为我很菜\n6.必须是社交孤儿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2015009480535310604",
+        "created_at": "2026-01-24T10:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T11:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015009480535310604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015009480535310604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找一个很神圣的搭子：\n1.必须是那种会说出莫名其妙发言的傻福\n2.不能嫌弃我是辣条音\n3.很爱玩农 一叫就上号\n4.必须一直鸟我一直找我玩\n5.不能菜 因为我很菜\n6.必须是社交孤儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 73,
+          "like_count": 1045,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 624
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

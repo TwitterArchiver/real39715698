@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2071930339015221488",
+    "created_at": "2026-06-30T12:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071931908909576554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1885021581153320961",
+          "start": 0,
+          "username": "xiaoyu12178"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071931908909576554",
+    "in_reply_to_user_id": "1885021581153320961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071930339015221488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyu12178 是坏男孩就把衣服脱了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13950,
+        "height": 720,
+        "media_key": "13_2071930180596056064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071930180596056064/img/TYy0iNQGEEKG2Q9r.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071930180596056064/vid/avc1/480x270/rYMvToBlHEcjCoTo.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071930180596056064/vid/avc1/640x360/eaR6TNzAUIlWME-b.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071930180596056064/vid/avc1/1280x720/QWH4v6esSeH1K7hI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071930180596056064/pl/Xw8us9QPMJIedD2w.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2071930339015221488",
+        "created_at": "2026-06-30T12:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071931908909576554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1885021581153320961",
+              "start": 0,
+              "username": "xiaoyu12178"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071931908909576554",
+        "in_reply_to_user_id": "1885021581153320961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071930339015221488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyu12178 是坏男孩就把衣服脱了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071930180596056064"
+          ]
+        },
+        "author_id": "1885021581153320961",
+        "conversation_id": "2071930339015221488",
+        "created_at": "2026-06-30T12:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071930339015221488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XY8Jh6xINp",
+              "end": 32,
+              "expanded_url": "https://x.com/xiaoyu12178/status/2071930339015221488/video/1",
+              "media_key": "13_2071930180596056064",
+              "start": 9,
+              "url": "https://t.co/XY8Jh6xINp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071930339015221488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宽松衣服下... https://t.co/XY8Jh6xINp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 200,
+          "like_count": 25465,
+          "listed_count": 1,
+          "media_count": 378,
+          "tweet_count": 3607
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T17:45:50.000Z",
+        "description": "ENFJ sw 巨蟹 直男 杭州 露出人格@xiaoyuxxx127 介意勿关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "xiaoyuxxx127"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%B1%BC%E5%8D%B7",
+                "start": 0,
+                "url": "https://t.co/dqVtBKWDBq"
+              }
+            ]
+          }
+        },
+        "id": "1885021581153320961",
+        "name": "小鱼卷",
+        "pinned_tweet_id": "1970055773242966481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068686487324127232/keIUDQBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 298,
+          "like_count": 37887,
+          "listed_count": 3,
+          "media_count": 604,
+          "tweet_count": 6311
+        },
+        "url": "https://t.co/dqVtBKWDBq",
+        "username": "xiaoyu12178",
+        "verified": false
+      }
+    ]
+  }
+}

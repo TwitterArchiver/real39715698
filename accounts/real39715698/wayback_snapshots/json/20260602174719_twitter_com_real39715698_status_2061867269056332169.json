@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2061751700084699510",
+    "created_at": "2026-06-02T17:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T18:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061867269056332169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2051728858835980288",
+          "start": 0,
+          "username": "hutaolove4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061867269056332169",
+    "in_reply_to_user_id": "2051728858835980288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061861581085196655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hutaolove4i 哦哦哦哦哦哦哦哦哦哦又在这里歧视上了全世界就你能赢可以了吗 看我玩朵莉亚不爽就去死啊就把手机砸了就看不到了行吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2061751700084699510",
+        "created_at": "2026-06-02T17:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061867269056332169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2051728858835980288",
+              "start": 0,
+              "username": "hutaolove4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061867269056332169",
+        "in_reply_to_user_id": "2051728858835980288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061861581085196655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hutaolove4i 哦哦哦哦哦哦哦哦哦哦又在这里歧视上了全世界就你能赢可以了吗 看我玩朵莉亚不爽就去死啊就把手机砸了就看不到了行吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051728858835980288",
+        "conversation_id": "2061751700084699510",
+        "created_at": "2026-06-02T17:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061861581085196655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061861581085196655",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061751700084699510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 你都玩蓝色生物了，还想赢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 196,
+          "like_count": 21385,
+          "listed_count": 1,
+          "media_count": 316,
+          "tweet_count": 3052
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T18:21:56.000Z",
+        "description": "",
+        "id": "2051728858835980288",
+        "name": "tao hu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051731838062780416/s6HtXqb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 761,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 504
+        },
+        "username": "hutaolove4i",
+        "verified": false
+      }
+    ]
+  }
+}

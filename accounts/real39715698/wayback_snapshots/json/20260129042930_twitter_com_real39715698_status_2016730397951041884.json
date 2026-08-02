@@ -1,0 +1,55 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2016730397951041884",
+    "created_at": "2026-01-29T04:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T05:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "entities": {},
+    "geo": {},
+    "id": "2016730397951041884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我发誓我不会再爱上哥哥 如果再爱上我再发誓"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 78,
+          "like_count": 1218,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 681
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

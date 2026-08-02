@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2040700473569906992",
+    "created_at": "2026-04-05T08:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T09:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040701177575424348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1771433925635874816",
+          "start": 0,
+          "username": "cxl331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040701177575424348",
+    "in_reply_to_user_id": "1771433925635874816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040700473569906992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxl331 咋啦？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2040700473569906992",
+        "created_at": "2026-04-05T08:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040701177575424348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1771433925635874816",
+              "start": 0,
+              "username": "cxl331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040701177575424348",
+        "in_reply_to_user_id": "1771433925635874816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040700473569906992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxl331 咋啦？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771433925635874816",
+        "conversation_id": "2040700473569906992",
+        "created_at": "2026-04-05T07:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040700473569906992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040700473569906992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我有一点点不想活了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 124,
+          "like_count": 8595,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 1549
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T07:09:05.000Z",
+        "description": "白羊座｜Enfj｜喜欢女生｜喜欢善良的人！｜我是心理委员！请狠狠的给我发私信🙇我会认真回复的～｜switch 万岁｜谁陪我打永劫无间，俺是市标季莹莹大王🤤🤤🤤",
+        "id": "1771433925635874816",
+        "location": "成都",
+        "name": "Spoil",
+        "pinned_tweet_id": "1905458608466526238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912449429451247618/8fMO4VHJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 700,
+          "like_count": 4350,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 726
+        },
+        "username": "cxl331",
+        "verified": false
+      }
+    ]
+  }
+}

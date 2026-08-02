@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2078024164636783032",
+    "created_at": "2026-07-17T07:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T08:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078024859163275401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1945883898468315136",
+          "start": 0,
+          "username": "tciimynarcoq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078024859163275401",
+    "in_reply_to_user_id": "1945883898468315136",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078024164636783032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tciimynarcoq 👂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2078024164636783032].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2078024164636783032",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2078024164636783032"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2078024164636783032",
+        "created_at": "2026-07-17T07:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078024859163275401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1945883898468315136",
+              "start": 0,
+              "username": "tciimynarcoq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078024859163275401",
+        "in_reply_to_user_id": "1945883898468315136",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078024164636783032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tciimynarcoq 👂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 202,
+          "like_count": 27191,
+          "listed_count": 1,
+          "media_count": 403,
+          "tweet_count": 3803
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T16:31:34.000Z",
+        "description": "你降落后我的世界转晴",
+        "id": "1945883898468315136",
+        "name": "小寡妇上坟",
+        "pinned_tweet_id": "2066573957277651156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048765733426069505/gUyGcs3D_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 30,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 2131
+        },
+        "url": "",
+        "username": "tciimynarcoq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2039969059031355876",
+    "created_at": "2026-04-03T07:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T08:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039969583730507859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1875622919201513472",
+          "start": 0,
+          "username": "Donot_cry0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039969583730507859",
+    "in_reply_to_user_id": "1875622919201513472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039969059031355876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Donot_cry0v0 好帅这个小小英雄"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 473,
+        "media_key": "3_2039969052194635776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE9tC3TaAAAyrtd.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2039969059031355876",
+        "created_at": "2026-04-03T07:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T08:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039969583730507859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1875622919201513472",
+              "start": 0,
+              "username": "Donot_cry0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039969583730507859",
+        "in_reply_to_user_id": "1875622919201513472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039969059031355876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Donot_cry0v0 好帅这个小小英雄"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039969052194635776"
+          ]
+        },
+        "author_id": "1875622919201513472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039969059031355876",
+        "created_at": "2026-04-03T07:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T08:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039969059031355876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dwmRdUjU83",
+              "end": 27,
+              "expanded_url": "https://x.com/Donot_cry0v0/status/2039969059031355876/photo/1",
+              "media_key": "3_2039969052194635776",
+              "start": 4,
+              "url": "https://t.co/dwmRdUjU83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039969059031355876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你懂的 https://t.co/dwmRdUjU83"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 118,
+          "like_count": 7973,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1482
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-04T19:18:54.000Z",
+        "description": "我们只能知道对方一半的事情",
+        "id": "1875622919201513472",
+        "name": "Minato",
+        "pinned_tweet_id": "2037461186262728913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032262721979490305/Pcbk_VZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 92,
+          "like_count": 1561,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 567
+        },
+        "username": "Donot_cry0v0",
+        "verified": false
+      }
+    ]
+  }
+}

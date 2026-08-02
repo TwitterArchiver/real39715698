@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1940250244064891134",
+    "created_at": "2025-07-02T12:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T13:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940383280806920622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1368288042281181184",
+          "start": 0,
+          "username": "pink_jug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940383280806920622",
+    "in_reply_to_user_id": "1368288042281181184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940250244064891134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pink_jug 唱的尊好听"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48993,
+        "height": 984,
+        "media_key": "13_1940250130994597888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1940250130994597888/img/ozgxC3db8vmvpTb9.jpg",
+        "public_metrics": {
+          "view_count": 80
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940250130994597888/vid/avc1/320x436/qMu44eBnydzmwId1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940250130994597888/vid/avc1/480x656/e9tKcy7m4EoHdYYp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940250130994597888/vid/avc1/720x984/mC7--Lg6dfGeFlKz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1940250130994597888/pl/cVfAFazJdxscTM2i.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1940250244064891134",
+        "created_at": "2025-07-02T12:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T13:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940383280806920622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1368288042281181184",
+              "start": 0,
+              "username": "pink_jug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940383280806920622",
+        "in_reply_to_user_id": "1368288042281181184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940250244064891134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pink_jug 唱的尊好听"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1940250130994597888"
+          ]
+        },
+        "author_id": "1368288042281181184",
+        "conversation_id": "1940250244064891134",
+        "created_at": "2025-07-02T03:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T04:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940250244064891134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ans7P4JbL",
+              "end": 23,
+              "expanded_url": "https://x.com/pink_jug/status/1940250244064891134/video/1",
+              "media_key": "13_1940250130994597888",
+              "start": 0,
+              "url": "https://t.co/2ans7P4JbL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940250244064891134",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2ans7P4JbL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933977754120474624/RWP6FLXG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 60,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 60
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-06T19:51:15.000Z",
+        "description": "",
+        "id": "1368288042281181184",
+        "name": "男主",
+        "pinned_tweet_id": "1720383545024422064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933806291933347840/48Qu1gGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5125,
+          "following_count": 699,
+          "like_count": 1698,
+          "listed_count": 8,
+          "media_count": 5,
+          "tweet_count": 8
+        },
+        "username": "pink_jug",
+        "verified": false
+      }
+    ]
+  }
+}

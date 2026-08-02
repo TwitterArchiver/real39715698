@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2063900502006608359",
+    "created_at": "2026-06-08T12:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T13:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063962881650217150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1633926462184263685",
+          "start": 0,
+          "username": "_Desire2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063962881650217150",
+    "in_reply_to_user_id": "1633926462184263685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063900502006608359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Desire2 太在意别人的看法就会变成别人的裤衩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2063900502006608359",
+        "created_at": "2026-06-08T12:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063962881650217150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1633926462184263685",
+              "start": 0,
+              "username": "_Desire2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063962881650217150",
+        "in_reply_to_user_id": "1633926462184263685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063900502006608359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Desire2 太在意别人的看法就会变成别人的裤衩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1633926462184263685",
+        "conversation_id": "2063900502006608359",
+        "created_at": "2026-06-08T08:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063900502006608359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063900502006608359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "旁人的眼光就是膀胱  太在意别人的看法就是拿别人的尿洗脸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 196,
+          "like_count": 22100,
+          "listed_count": 1,
+          "media_count": 329,
+          "tweet_count": 3154
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T20:23:20.000Z",
+        "description": "“我与我周旋久，宁作我”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_desire22",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_desire22",
+                "start": 0,
+                "url": "https://t.co/VF2aHx0ln6"
+              }
+            ]
+          }
+        },
+        "id": "1633926462184263685",
+        "location": "海王星",
+        "name": "只鱼",
+        "pinned_tweet_id": "1876657992218882190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892237025035816960/Ja0GfowM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2804,
+          "following_count": 406,
+          "like_count": 14390,
+          "listed_count": 13,
+          "media_count": 1649,
+          "tweet_count": 7736
+        },
+        "url": "https://t.co/VF2aHx0ln6",
+        "username": "_Desire2",
+        "verified": false
+      }
+    ]
+  }
+}

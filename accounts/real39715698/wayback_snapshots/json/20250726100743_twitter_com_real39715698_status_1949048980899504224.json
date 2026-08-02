@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949048977867018241"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "1949048980899504224",
+    "created_at": "2025-07-26T10:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T11:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949048980899504224"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hIh6CVGaWr",
+          "end": 103,
+          "expanded_url": "https://x.com/real39715698/status/1949048980899504224/photo/1",
+          "media_key": "3_1949048977867018241",
+          "start": 80,
+          "url": "https://t.co/hIh6CVGaWr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949048980899504224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本来不想加微信 死活让我给你加一个 加之前说了我不打电话 上来就一直给我弹语音 我不想回还每天问我为什么不回 然后正常了没两秒钟又打电话给我 是不是脑子有问题 https://t.co/hIh6CVGaWr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949048977867018241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwxpuAeaEAEv1gs.jpg",
+        "width": 933
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949048977867018241"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "1949048980899504224",
+        "created_at": "2025-07-26T10:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T11:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949048980899504224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hIh6CVGaWr",
+              "end": 103,
+              "expanded_url": "https://x.com/real39715698/status/1949048980899504224/photo/1",
+              "media_key": "3_1949048977867018241",
+              "start": 80,
+              "url": "https://t.co/hIh6CVGaWr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949048980899504224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来不想加微信 死活让我给你加一个 加之前说了我不打电话 上来就一直给我弹语音 我不想回还每天问我为什么不回 然后正常了没两秒钟又打电话给我 是不是脑子有问题 https://t.co/hIh6CVGaWr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 73,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 182
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

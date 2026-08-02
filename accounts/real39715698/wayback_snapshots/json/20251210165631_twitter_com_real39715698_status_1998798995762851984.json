@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1998778646337606075",
+    "created_at": "2025-12-10T16:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T17:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998798995762851984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "987915282688585728",
+          "start": 0,
+          "username": "lessAria_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998798995762851984",
+    "in_reply_to_user_id": "987915282688585728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998778646337606075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lessAria_ 许愿的那个是我哈哈哈哈 我是真的很想多听gott唱情歌 苦情歌也可以🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 555630,
+        "height": 1280,
+        "media_key": "13_1998776965143343105",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998776965143343105/img/KXmyLIdoL_IaDxFS.jpg",
+        "public_metrics": {
+          "view_count": 44
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998776965143343105/vid/avc1/320x694/j3vTuNnkwhZzSF9H.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998776965143343105/vid/avc1/480x1040/lA1MOqMCXEuG33IA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998776965143343105/vid/avc1/590x1280/oMABnombEh2le6iE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1998776965143343105/pl/VB7mHKJJ0L9eKVZi.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1998778646337606075",
+        "created_at": "2025-12-10T16:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T17:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998798995762851984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "987915282688585728",
+              "start": 0,
+              "username": "lessAria_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998798995762851984",
+        "in_reply_to_user_id": "987915282688585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998778646337606075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lessAria_ 许愿的那个是我哈哈哈哈 我是真的很想多听gott唱情歌 苦情歌也可以🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998776965143343105"
+          ]
+        },
+        "author_id": "987915282688585728",
+        "conversation_id": "1998778646337606075",
+        "created_at": "2025-12-10T15:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T16:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998778646337606075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nwpp2bjIih",
+              "end": 32,
+              "expanded_url": "https://x.com/lessAria_/status/1998778646337606075/video/1",
+              "media_key": "13_1998776965143343105",
+              "start": 9,
+              "url": "https://t.co/nwpp2bjIih"
+            },
+            {
+              "display_url": "x.com/lessaria_/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/lessaria_/status/1830293913455972379",
+              "start": 33,
+              "url": "https://t.co/GPnDh1MXfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998778646337606075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 436,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830293913455972379",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天想要早点睡~ https://t.co/nwpp2bjIih https://t.co/GPnDh1MXfc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "说了再见才发现再也见不到",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1990020111521272078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 78,
+          "like_count": 706,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 504
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-22T04:45:32.000Z",
+        "description": "时常在地牢里放肆高歌 偶尔也在派对蜷缩睡觉Z☡zᶻ@gotty617 📬匿名向我说任何的链接⬇以及本人⬆️睡觉中，我不怎么打呼噜//    ♪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "gotty617"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xingququan.com/jioutiti",
+                "end": 23,
+                "expanded_url": "https://www.xingququan.com/jioutiti",
+                "start": 0,
+                "url": "https://t.co/iWAoxxyisF"
+              }
+            ]
+          }
+        },
+        "id": "987915282688585728",
+        "location": "互联网",
+        "name": "Gott",
+        "pinned_tweet_id": "1847355929983144003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996894816731549696/NMOrx3fC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 758,
+          "like_count": 38915,
+          "listed_count": 5,
+          "media_count": 480,
+          "tweet_count": 6243
+        },
+        "url": "https://t.co/iWAoxxyisF",
+        "username": "lessAria_",
+        "verified": false
+      }
+    ]
+  }
+}

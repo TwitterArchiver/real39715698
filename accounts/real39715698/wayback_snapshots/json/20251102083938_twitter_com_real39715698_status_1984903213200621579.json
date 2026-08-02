@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984903207710302208"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "1984903213200621579",
+    "created_at": "2025-11-02T08:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T09:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984903213200621579"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YF6sWBFlic",
+          "end": 23,
+          "expanded_url": "https://x.com/real39715698/status/1984903213200621579/photo/1",
+          "media_key": "3_1984903207710302208",
+          "start": 0,
+          "url": "https://t.co/YF6sWBFlic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984903213200621579",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/YF6sWBFlic"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1012,
+        "media_key": "3_1984903207710302208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4vK83EbIAAGqH7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984903207710302208"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "1984903213200621579",
+        "created_at": "2025-11-02T08:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T09:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984903213200621579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YF6sWBFlic",
+              "end": 23,
+              "expanded_url": "https://x.com/real39715698/status/1984903213200621579/photo/1",
+              "media_key": "3_1984903207710302208",
+              "start": 0,
+              "url": "https://t.co/YF6sWBFlic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984903213200621579",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YF6sWBFlic"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1952695269616910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980654074484731904/B7DmcC9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 76,
+          "like_count": 426,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 403
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

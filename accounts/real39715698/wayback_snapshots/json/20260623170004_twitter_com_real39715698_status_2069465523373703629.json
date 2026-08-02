@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2069387173116432605",
+    "created_at": "2026-06-23T17:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T18:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069465523373703629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1798606667573014528",
+          "start": 0,
+          "username": "asukumofufu1122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069465523373703629",
+    "in_reply_to_user_id": "1798606667573014528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069458532492251560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asukumofufu1122 爱你(๑‾ ꇴ ‾๑)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2069387173116432605",
+        "created_at": "2026-06-23T17:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069465523373703629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1798606667573014528",
+              "start": 0,
+              "username": "asukumofufu1122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069465523373703629",
+        "in_reply_to_user_id": "1798606667573014528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069458532492251560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asukumofufu1122 爱你(๑‾ ꇴ ‾๑)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798606667573014528",
+        "conversation_id": "2069387173116432605",
+        "created_at": "2026-06-23T16:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069458532492251560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069458532492251560",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069387173116432605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 其实是小雨本来就很萌！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 200,
+          "like_count": 24837,
+          "listed_count": 1,
+          "media_count": 364,
+          "tweet_count": 3515
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T06:43:51.000Z",
+        "description": "能让你开心一些就好，不必在意我，大家努力生活就好。\n希望我一直是一个人，就算哭了也不会有人发现",
+        "id": "1798606667573014528",
+        "location": "我会一直在的",
+        "name": "沐子蜜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062177341271601152/jG0FaqA7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 19,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "asukumofufu1122",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950535199550554112"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "1950535201899134981",
+    "created_at": "2025-07-30T12:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T13:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950535201899134981"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Ja0dDvZ4n",
+          "end": 29,
+          "expanded_url": "https://x.com/real39715698/status/1950535201899134981/photo/1",
+          "media_key": "3_1950535199550554112",
+          "start": 6,
+          "url": "https://t.co/7Ja0dDvZ4n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950535201899134981",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "⌯'ㅅ'⌯ https://t.co/7Ja0dDvZ4n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 494,
+        "media_key": "3_1950535199550554112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxGxbfsbQAACelg.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950535199550554112"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "1950535201899134981",
+        "created_at": "2025-07-30T12:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T13:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950535201899134981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Ja0dDvZ4n",
+              "end": 29,
+              "expanded_url": "https://x.com/real39715698/status/1950535201899134981/photo/1",
+              "media_key": "3_1950535199550554112",
+              "start": 6,
+              "url": "https://t.co/7Ja0dDvZ4n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950535201899134981",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⌯'ㅅ'⌯ https://t.co/7Ja0dDvZ4n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 74,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 193
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

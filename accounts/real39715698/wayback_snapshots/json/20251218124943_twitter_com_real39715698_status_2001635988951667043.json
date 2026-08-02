@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2001635988951667043",
+    "created_at": "2025-12-18T12:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T13:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001635988951667043"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AkaNpc/status/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/AkaNpc/status/2001539939251687639",
+          "start": 3,
+          "url": "https://t.co/W25XSedtFk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001635988951667043",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001539939251687639",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯！ https://t.co/W25XSedtFk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2001635988951667043",
+        "created_at": "2025-12-18T12:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T13:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001635988951667043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AkaNpc/status/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/AkaNpc/status/2001539939251687639",
+              "start": 3,
+              "url": "https://t.co/W25XSedtFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001635988951667043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001539939251687639",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯！ https://t.co/W25XSedtFk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864468641305251844",
+        "conversation_id": "2001539939251687639",
+        "created_at": "2025-12-18T06:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T07:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001539939251687639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001539939251687639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 19427,
+          "like_count": 246,
+          "quote_count": 10,
+          "reply_count": 38,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "大家注意了！每天都在发段子碎念的都是没恋爱谈的！这种朋友是最值得交的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "希望你天天开心",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1990020111521272078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 72,
+          "like_count": 764,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 538
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T00:35:51.000Z",
+        "description": "做S会笑场，做M会还手☁️全是网上段子&日常美食🍽️ 唯一大号｜小号@AkaNpc2｜仅此两号慎防受骗 ☺︎｜｜粤/国｜叫我小曼就好🗿｜📸｜🎧｜保持禮貌 唔該 ｜‼️置顶锁评推广自行分辨‼️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 34,
+                "username": "AkaNpc2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/album/4m5WJ461…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/album/4m5WJ461G2KsDfjTwKarF8?si=qFKUWWJ2TSe-tNV_ELwQtQ",
+                "start": 0,
+                "url": "https://t.co/Oy9GMmbvRm"
+              }
+            ]
+          }
+        },
+        "id": "1864468641305251844",
+        "location": "CK律師樓｜置顶锁评推广请自辨🤖｜🚪77",
+        "name": "曼醬⋆౨ৎ˚⟡˖ ࣪",
+        "pinned_tweet_id": "2001598490066219219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996281484987265024/qwEt6czg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11765,
+          "following_count": 131,
+          "like_count": 10445,
+          "listed_count": 17,
+          "media_count": 154,
+          "tweet_count": 2938
+        },
+        "url": "https://t.co/Oy9GMmbvRm",
+        "username": "AkaNpc",
+        "verified": false
+      }
+    ]
+  }
+}

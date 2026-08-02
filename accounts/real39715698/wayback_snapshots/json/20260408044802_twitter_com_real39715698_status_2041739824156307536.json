@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2041374314184983034",
+    "created_at": "2026-04-08T04:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T05:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041739824156307536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1864686240882413570",
+          "start": 0,
+          "username": "Ccccccandy_m_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041739824156307536",
+    "in_reply_to_user_id": "1864686240882413570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041620549508722714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ccccccandy_m_ 会有的！祝老师马上暴富！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2041374314184983034",
+        "created_at": "2026-04-08T04:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041739824156307536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1864686240882413570",
+              "start": 0,
+              "username": "Ccccccandy_m_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041739824156307536",
+        "in_reply_to_user_id": "1864686240882413570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041620549508722714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ccccccandy_m_ 会有的！祝老师马上暴富！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864686240882413570",
+        "conversation_id": "2041374314184983034",
+        "created_at": "2026-04-07T20:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T21:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041620549508722714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041620549508722714",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041374314184983034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 其实 我小号没钱 大号也没有。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 132,
+          "like_count": 9588,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1685
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T15:00:29.000Z",
+        "description": "超级爆炸雷霆大苹果 \n分享乱七八糟的生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qqqqqqqxtao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qqqqqqqxtao",
+                "start": 0,
+                "url": "https://t.co/B9blXRW3Ju"
+              }
+            ]
+          }
+        },
+        "id": "1864686240882413570",
+        "location": "52🚪V聊天半绿/52+88🚪开放神人朋友圈只有傻逼文案",
+        "name": "苹果垫脑！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039050594711998464/SqA4RlBP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 34,
+          "like_count": 7369,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1716
+        },
+        "url": "https://t.co/B9blXRW3Ju",
+        "username": "Ccccccandy_m_",
+        "verified": false
+      }
+    ]
+  }
+}

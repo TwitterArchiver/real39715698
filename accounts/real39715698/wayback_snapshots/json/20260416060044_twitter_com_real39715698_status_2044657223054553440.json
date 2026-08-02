@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2044657223054553440",
+    "created_at": "2026-04-16T06:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T07:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044657223054553440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuololxhssc/st…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/kuololxhssc/status/2044631860131885505",
+          "start": 19,
+          "url": "https://t.co/FEtqjyEbmQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044657223054553440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044631860131885505",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果我有老公我一定会天天缠着他发骚… https://t.co/FEtqjyEbmQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2044657223054553440",
+        "created_at": "2026-04-16T06:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044657223054553440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuololxhssc/st…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/kuololxhssc/status/2044631860131885505",
+              "start": 19,
+              "url": "https://t.co/FEtqjyEbmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044657223054553440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044631860131885505",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果我有老公我一定会天天缠着他发骚… https://t.co/FEtqjyEbmQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862884625833660416",
+        "conversation_id": "2044631860131885505",
+        "created_at": "2026-04-16T04:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T05:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044631860131885505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044631860131885505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 559,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我有老公我一定会天天缠着他发骚…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "还给我那些天真和眼泪@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 158,
+          "like_count": 12053,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 2066
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T15:41:30.000Z",
+        "description": "喜欢发点碎碎念  可以喊我小薄荷😋｜我素超级无敌恋哥癖｜猫猫教万岁万岁万万岁！｜不要找我聊骚谢谢",
+        "id": "1862884625833660416",
+        "location": "૮₍ˊᗜˋ₎ა",
+        "name": "听我说",
+        "pinned_tweet_id": "2037110519459700947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041011647280803840/2pcXC-rI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 126,
+          "like_count": 252,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "kuololxhssc",
+        "verified": false
+      }
+    ]
+  }
+}

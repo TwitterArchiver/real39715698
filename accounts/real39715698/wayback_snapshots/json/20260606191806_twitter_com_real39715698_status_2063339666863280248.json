@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2063339666863280248",
+    "created_at": "2026-06-06T19:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T20:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063339666863280248"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cici70456714/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/cici70456714/status/2063301659036680440",
+          "start": 7,
+          "url": "https://t.co/4H96s7AEdR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063339666863280248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063301659036680440",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们是知己啊 https://t.co/4H96s7AEdR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1252,
+        "media_key": "3_2063301650463535104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJR61RbMAAIwdn.jpg",
+        "width": 1133
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2063339666863280248",
+        "created_at": "2026-06-06T19:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T20:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063339666863280248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cici70456714/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/cici70456714/status/2063301659036680440",
+              "start": 7,
+              "url": "https://t.co/4H96s7AEdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063339666863280248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063301659036680440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们是知己啊 https://t.co/4H96s7AEdR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063301650463535104"
+          ]
+        },
+        "author_id": "1563010655053312005",
+        "conversation_id": "2063301659036680440",
+        "created_at": "2026-06-06T16:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063301659036680440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GsY3sbhor2",
+              "end": 28,
+              "expanded_url": "https://x.com/cici70456714/status/2063301659036680440/photo/1",
+              "media_key": "3_2063301650463535104",
+              "start": 5,
+              "url": "https://t.co/GsY3sbhor2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063301659036680440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3186,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的xp https://t.co/GsY3sbhor2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 197,
+          "like_count": 21881,
+          "listed_count": 1,
+          "media_count": 328,
+          "tweet_count": 3138
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-26T03:49:58.000Z",
+        "description": "",
+        "id": "1563010655053312005",
+        "name": "cici",
+        "pinned_tweet_id": "1747702554971300054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731878585588441088/dv0R4J22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7929,
+          "following_count": 81,
+          "like_count": 519,
+          "listed_count": 41,
+          "media_count": 128,
+          "tweet_count": 493
+        },
+        "username": "cici70456714",
+        "verified": false
+      }
+    ]
+  }
+}

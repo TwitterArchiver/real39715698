@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1975513911471534552",
+    "created_at": "2025-10-07T10:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T11:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975513911471534552"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1975513911471534552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有的卖片的有没有良心？把片描述的非常之香艳，我像个农村人一样买过来迫不及待打开结果两个人叫的像驴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1975513911471534552",
+        "created_at": "2025-10-07T10:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T11:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975513911471534552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975513911471534552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有的卖片的有没有良心？把片描述的非常之香艳，我像个农村人一样买过来迫不及待打开结果两个人叫的像驴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950788203742703617/m3VNyVQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 73,
+          "like_count": 333,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 311
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

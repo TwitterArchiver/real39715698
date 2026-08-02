@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2062137887102263475",
+    "created_at": "2026-06-04T09:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T10:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062462418111128018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1961807461444411392",
+          "start": 0,
+          "username": "nini1973846"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062462418111128018",
+    "in_reply_to_user_id": "1961807461444411392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062453416010694718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nini1973846 好耶宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2062137887102263475",
+        "created_at": "2026-06-04T09:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062462418111128018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1961807461444411392",
+              "start": 0,
+              "username": "nini1973846"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062462418111128018",
+        "in_reply_to_user_id": "1961807461444411392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062453416010694718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nini1973846 好耶宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961807461444411392",
+        "conversation_id": "2062137887102263475",
+        "created_at": "2026-06-04T08:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062453416010694718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062453416010694718",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062137887102263475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 我也不去🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 196,
+          "like_count": 21558,
+          "listed_count": 1,
+          "media_count": 319,
+          "tweet_count": 3082
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T15:05:47.000Z",
+        "description": "155 37kg/sub/一个很敏感的人.\n🚪88 388 520不约 不线下😾互关可以来找我玩.",
+        "id": "1961807461444411392",
+        "location": "接定制",
+        "name": "椰子汁ᶻ𝗓𐰁",
+        "pinned_tweet_id": "2039399117500400109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961809721738072064/Oh5bu5_2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5459,
+          "following_count": 478,
+          "like_count": 9600,
+          "listed_count": 12,
+          "media_count": 49,
+          "tweet_count": 381
+        },
+        "username": "nini1973846",
+        "verified": false
+      }
+    ]
+  }
+}

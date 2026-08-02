@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1983928350226944111",
+    "created_at": "2025-10-30T16:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T17:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983928350226944111"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983928350226944111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得人都应该有自己独立的人格不应该依附谁用谁做自己的精神支柱生活，每个人都有自己的生活不是吗我们……卧槽你不理我了我不活了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1983928350226944111",
+        "created_at": "2025-10-30T16:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T17:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983928350226944111"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983928350226944111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得人都应该有自己独立的人格不应该依附谁用谁做自己的精神支柱生活，每个人都有自己的生活不是吗我们……卧槽你不理我了我不活了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1952695269616910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980654074484731904/B7DmcC9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 76,
+          "like_count": 413,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 392
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

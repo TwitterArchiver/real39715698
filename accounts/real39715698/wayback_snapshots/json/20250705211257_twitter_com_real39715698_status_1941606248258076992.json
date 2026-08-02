@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1941606248258076992",
+    "created_at": "2025-07-05T21:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T22:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941606248258076992"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "男喘"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "粗口"
+        },
+        {
+          "end": 109,
+          "start": 106,
+          "tag": "调教"
+        },
+        {
+          "end": 113,
+          "start": 110,
+          "tag": "反差"
+        },
+        {
+          "end": 119,
+          "start": 115,
+          "tag": "女性向"
+        },
+        {
+          "end": 124,
+          "start": 120,
+          "tag": "青年音"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "喷水"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1612854174714302466",
+          "start": 3,
+          "username": "gu87734192"
+        },
+        {
+          "end": 84,
+          "id": "1874843348340740096",
+          "start": 73,
+          "username": "YIXING1123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941606248258076992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933558945572139377",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gu87734192: 【死对头被戒指破防了】\n（后面没声音是为了凑10min发长视频）\n“这就高潮了？你的耐力也不怎么样嘛”\n台本老师 @YIXING1123\n⚠️吃醋爆炒，无套内射\n\n#男喘 ＃粗口 ＃调教 ＃反差  #女性向 ＃青年音 #喷水 https://t.…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1941606248258076992].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1941606248258076992",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1941606248258076992"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 600749,
+        "height": 712,
+        "media_key": "13_1933558660934086658",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1933558660934086658/img/GGbFz_rwUbvqL7Cg.jpg",
+        "public_metrics": {
+          "view_count": 7027
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933558660934086658/vid/avc1/320x474/CWNmSL3-YMBaQkr4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933558660934086658/vid/avc1/480x712/t_GIxIUOqN4xpLps.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1933558660934086658/pl/0W-hk1fJsensH82Y.m3u8?tag=14"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1933558660934086658"
+          ]
+        },
+        "author_id": "1612854174714302466",
+        "conversation_id": "1933558945572139377",
+        "created_at": "2025-06-13T16:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T17:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933558945572139377"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "男喘"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "粗口"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "调教"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "反差"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "女性向"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "青年音"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "喷水"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 68,
+              "id": "1874843348340740096",
+              "start": 57,
+              "username": "YIXING1123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L3vBRiGIhw",
+              "end": 136,
+              "expanded_url": "https://x.com/gu87734192/status/1933558945572139377/video/1",
+              "media_key": "13_1933558660934086658",
+              "start": 113,
+              "url": "https://t.co/L3vBRiGIhw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933558945572139377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 19759,
+          "like_count": 319,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "【死对头被戒指破防了】\n（后面没声音是为了凑10min发长视频）\n“这就高潮了？你的耐力也不怎么样嘛”\n台本老师 @YIXING1123\n⚠️吃醋爆炒，无套内射\n\n#男喘 ＃粗口 ＃调教 ＃反差  #女性向 ＃青年音 #喷水 https://t.co/L3vBRiGIhw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 63,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 87
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T16:49:50.000Z",
+        "description": "接定制 加v有🚪66\n接陪🥣\n抖音 21943386284\n匿名箱:  https://t.co/feCyxvpgDl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gu8773419221",
+                "end": 59,
+                "expanded_url": "https://ngl.link/gu8773419221",
+                "start": 36,
+                "url": "https://t.co/feCyxvpgDl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gu87734192.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://gu87734192.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/HjWcbeecYw"
+              }
+            ]
+          }
+        },
+        "id": "1612854174714302466",
+        "location": "河南",
+        "name": "念",
+        "pinned_tweet_id": "1878996127103803653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766545216583196672/aC28okYz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20300,
+          "following_count": 63,
+          "like_count": 1188,
+          "listed_count": 31,
+          "media_count": 301,
+          "tweet_count": 1520
+        },
+        "url": "https://t.co/HjWcbeecYw",
+        "username": "gu87734192",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T15:41:33.000Z",
+        "description": "台本娘｜可以叫我小一｜INFP｜随缘更新｜文字🚫带入现生｜是社恐不是高冷｜💡全部台本请主页搜索台本导览｜匿名箱https://t.co/fAK3LEbEMz｜防走丢屁话小号@XIAOYIXING01 （只过眼熟）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 86,
+                "username": "XIAOYIXING01"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yixing1123",
+                "end": 78,
+                "expanded_url": "https://ngl.link/yixing1123",
+                "start": 55,
+                "url": "https://t.co/fAK3LEbEMz"
+              }
+            ]
+          }
+        },
+        "id": "1874843348340740096",
+        "name": "一星（住下水道版）",
+        "pinned_tweet_id": "1940378251538706781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932474821184794625/EAvt77DZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11424,
+          "following_count": 103,
+          "like_count": 6616,
+          "listed_count": 9,
+          "media_count": 247,
+          "tweet_count": 1458
+        },
+        "username": "YIXING1123",
+        "verified": false
+      }
+    ]
+  }
+}

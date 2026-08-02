@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2054796741430620160"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "2054796801421807693",
+    "created_at": "2026-05-14T05:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T06:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054796801421807693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OTYa9Z76d6",
+          "end": 40,
+          "expanded_url": "https://x.com/real39715698/status/2054796801421807693/video/1",
+          "media_key": "13_2054796741430620160",
+          "start": 17,
+          "url": "https://t.co/OTYa9Z76d6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054796801421807693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看我的歌单就知道我真的听的很杂🚬 https://t.co/OTYa9Z76d6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17472,
+        "height": 1280,
+        "media_key": "13_2054796741430620160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054796741430620160/img/o9TFFhH71BI1x-Pi.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054796741430620160/vid/avc1/320x708/T5SHGGTnCfeyFTCp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054796741430620160/vid/avc1/480x1062/QPkOpjO2-kbth2_G.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054796741430620160/vid/avc1/578x1280/lofTR-pfREB7HSHV.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054796741430620160/pl/zvvxct95LLjEe2v7.m3u8?tag=14"
+          }
+        ],
+        "width": 578
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054796741430620160"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "2054796801421807693",
+        "created_at": "2026-05-14T05:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054796801421807693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTYa9Z76d6",
+              "end": 40,
+              "expanded_url": "https://x.com/real39715698/status/2054796801421807693/video/1",
+              "media_key": "13_2054796741430620160",
+              "start": 17,
+              "url": "https://t.co/OTYa9Z76d6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054796801421807693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看我的歌单就知道我真的听的很杂🚬 https://t.co/OTYa9Z76d6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 187,
+          "like_count": 19060,
+          "listed_count": 1,
+          "media_count": 286,
+          "tweet_count": 2766
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

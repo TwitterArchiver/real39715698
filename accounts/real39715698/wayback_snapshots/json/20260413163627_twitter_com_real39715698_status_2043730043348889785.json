@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2043662269326967028",
+    "created_at": "2026-04-13T16:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T17:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043730043348889785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2022040558580248577",
+          "start": 0,
+          "username": "qianyi05dawang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043730043348889785",
+    "in_reply_to_user_id": "2022040558580248577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043729783792775398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianyi05dawang 肯定可以的 加油呀(｡ì _ í｡)保佑你不要碰到神人队友"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_2043729721952006144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFzJWp3bcAA1DFr.jpg",
+        "width": 2712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2043662269326967028",
+        "created_at": "2026-04-13T16:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043730043348889785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2022040558580248577",
+              "start": 0,
+              "username": "qianyi05dawang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043730043348889785",
+        "in_reply_to_user_id": "2022040558580248577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043729783792775398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianyi05dawang 肯定可以的 加油呀(｡ì _ í｡)保佑你不要碰到神人队友"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043729721952006144"
+          ]
+        },
+        "author_id": "2022040558580248577",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043662269326967028",
+        "created_at": "2026-04-13T16:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043729783792775398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ezA8qjHY8v",
+              "end": 67,
+              "expanded_url": "https://x.com/qianyi05dawang/status/2043729783792775398/photo/1",
+              "media_key": "3_2043729721952006144",
+              "start": 44,
+              "url": "https://t.co/ezA8qjHY8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043729783792775398",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043729286771945940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 那我先抓紧自己坐下牢看看能不能先自己上王者星耀吧，好痛苦。 https://t.co/ezA8qjHY8v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "你走后我的世界模糊一片 看心情过@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 157,
+          "like_count": 11324,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 1970
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T20:10:24.000Z",
+        "description": "我不饿的时候也在大吃特吃，事到如今，先来碗咸蛋黄拌面吃吃？",
+        "id": "2022040558580248577",
+        "location": "Seoul",
+        "name": "来碗咸蛋黄拌面吧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022211811878330368/-ScQeMNb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 92,
+          "like_count": 1862,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 846
+        },
+        "username": "qianyi05dawang",
+        "verified": false
+      }
+    ]
+  }
+}

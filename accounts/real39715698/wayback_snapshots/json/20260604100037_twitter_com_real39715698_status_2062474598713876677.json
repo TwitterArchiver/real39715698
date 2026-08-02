@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2062471067399336413",
+    "created_at": "2026-06-04T10:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062474598713876677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1985353024244793345",
+          "start": 0,
+          "username": "Bitterpearlbird"
+        },
+        {
+          "end": 30,
+          "id": "1610251842910396418",
+          "start": 17,
+          "username": "daqiuqiubing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062474598713876677",
+    "in_reply_to_user_id": "1985353024244793345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062471067399336413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bitterpearlbird @daqiuqiubing 好萌好萌好萌呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2062471055806263296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9ef3DbcAA_mer.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2062471067399336413",
+        "created_at": "2026-06-04T10:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062474598713876677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1985353024244793345",
+              "start": 0,
+              "username": "Bitterpearlbird"
+            },
+            {
+              "end": 30,
+              "id": "1610251842910396418",
+              "start": 17,
+              "username": "daqiuqiubing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062474598713876677",
+        "in_reply_to_user_id": "1985353024244793345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062471067399336413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bitterpearlbird @daqiuqiubing 好萌好萌好萌呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062471055806263296"
+          ]
+        },
+        "author_id": "1985353024244793345",
+        "conversation_id": "2062471067399336413",
+        "created_at": "2026-06-04T09:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062471067399336413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1610251842910396418",
+              "start": 0,
+              "username": "daqiuqiubing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rcjfAxGsEy",
+              "end": 37,
+              "expanded_url": "https://x.com/Bitterpearlbird/status/2062471067399336413/photo/1",
+              "media_key": "3_2062471055806263296",
+              "start": 14,
+              "url": "https://t.co/rcjfAxGsEy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062471067399336413",
+        "in_reply_to_user_id": "1610251842910396418",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@daqiuqiubing https://t.co/rcjfAxGsEy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 196,
+          "like_count": 21578,
+          "listed_count": 1,
+          "media_count": 319,
+          "tweet_count": 3084
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T14:27:54.000Z",
+        "description": "Komm,süsser Tod\n这个世界好坏但是姐姐会带我走@StarryLove_1005\n接地陪\n好友位88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "StarryLove_1005"
+              }
+            ]
+          }
+        },
+        "id": "1985353024244793345",
+        "location": "北京",
+        "name": "珍珠鸟",
+        "pinned_tweet_id": "2017848011024675046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020454920315654145/-RaDH-dC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3488,
+          "following_count": 428,
+          "like_count": 29842,
+          "listed_count": 4,
+          "media_count": 305,
+          "tweet_count": 2774
+        },
+        "username": "Bitterpearlbird",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-03T12:28:59.000Z",
+        "description": "宇宙爆炸时的余晖 高三是一种心态 日常 梦想是摄影师 谁能给我点钱 直的1/4…文明上网",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ziyushengdai?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ziyushengdai?igsh=Y2J0b2k0bW5pbmcz&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/BjXJEPGpzQ"
+              }
+            ]
+          }
+        },
+        "id": "1610251842910396418",
+        "location": "发现我了",
+        "name": "紫芋圣代",
+        "pinned_tweet_id": "1793286585821130893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738869445114667008/0LKUxeB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 206,
+          "like_count": 6277,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 814
+        },
+        "url": "https://t.co/BjXJEPGpzQ",
+        "username": "daqiuqiubing",
+        "verified": false
+      }
+    ]
+  }
+}

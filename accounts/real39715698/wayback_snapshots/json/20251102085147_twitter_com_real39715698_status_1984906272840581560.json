@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984906270374297600"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "1984906272840581560",
+    "created_at": "2025-11-02T08:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T09:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984906272840581560"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3KAbMu5mON",
+          "end": 46,
+          "expanded_url": "https://x.com/real39715698/status/1984906272840581560/photo/1",
+          "media_key": "3_1984906270374297600",
+          "start": 23,
+          "url": "https://t.co/3KAbMu5mON"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984906272840581560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我这么萌 感觉和我聊过天的人没理由不喜欢我啊 https://t.co/3KAbMu5mON"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1012,
+        "media_key": "3_1984906270374297600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4vNvIYbAAAxR2e.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984906270374297600"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "1984906272840581560",
+        "created_at": "2025-11-02T08:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T09:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984906272840581560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3KAbMu5mON",
+              "end": 46,
+              "expanded_url": "https://x.com/real39715698/status/1984906272840581560/photo/1",
+              "media_key": "3_1984906270374297600",
+              "start": 23,
+              "url": "https://t.co/3KAbMu5mON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984906272840581560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这么萌 感觉和我聊过天的人没理由不喜欢我啊 https://t.co/3KAbMu5mON"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1952695269616910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980654074484731904/B7DmcC9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 76,
+          "like_count": 426,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 402
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

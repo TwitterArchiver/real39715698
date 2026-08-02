@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2039576678981304590",
+    "created_at": "2026-04-02T05:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T06:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039577110315139506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1979251596501618688",
+          "start": 0,
+          "username": "noway4777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039577110315139506",
+    "in_reply_to_user_id": "1979251596501618688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039576678981304590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noway4777 好萌呀！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039576661973450752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4IKv0awAA5IQP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2005,
+        "media_key": "3_2039576661939929088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4IKvsbQAAaeDl.jpg",
+        "width": 1650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2039576678981304590",
+        "created_at": "2026-04-02T05:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T06:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039577110315139506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1979251596501618688",
+              "start": 0,
+              "username": "noway4777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039577110315139506",
+        "in_reply_to_user_id": "1979251596501618688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039576678981304590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noway4777 好萌呀！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039576661973450752",
+            "3_2039576661939929088"
+          ]
+        },
+        "author_id": "1979251596501618688",
+        "conversation_id": "2039576678981304590",
+        "created_at": "2026-04-02T05:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T06:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039576678981304590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CoFjtfUdhH",
+              "end": 47,
+              "expanded_url": "https://x.com/noway4777/status/2039576678981304590/photo/1",
+              "media_key": "3_2039576661973450752",
+              "start": 24,
+              "url": "https://t.co/CoFjtfUdhH"
+            },
+            {
+              "display_url": "pic.x.com/CoFjtfUdhH",
+              "end": 47,
+              "expanded_url": "https://x.com/noway4777/status/2039576678981304590/photo/1",
+              "media_key": "3_2039576661939929088",
+              "start": 24,
+              "url": "https://t.co/CoFjtfUdhH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039576678981304590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你喜欢长发还是短发姐姐还是妹妹我都可以努力呀… https://t.co/CoFjtfUdhH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 116,
+          "like_count": 7623,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1436
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T18:22:21.000Z",
+        "description": "我学着不去担心的太远",
+        "id": "1979251596501618688",
+        "location": "世界正中",
+        "name": "欺负一只兔子",
+        "pinned_tweet_id": "2016710002405511479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038953921071489024/2zyBVafH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 136,
+          "like_count": 22686,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 8269
+        },
+        "username": "noway4777",
+        "verified": false
+      }
+    ]
+  }
+}

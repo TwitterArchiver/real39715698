@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2043292787190407426",
+    "created_at": "2026-04-12T12:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T13:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043307706610835682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1423159820308258820",
+          "start": 0,
+          "username": "npc5200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043307706610835682",
+    "in_reply_to_user_id": "1423159820308258820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043298212501660088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@npc5200 谢谢你ᴛ ᴛ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2043292787190407426",
+        "created_at": "2026-04-12T12:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043307706610835682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1423159820308258820",
+              "start": 0,
+              "username": "npc5200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043307706610835682",
+        "in_reply_to_user_id": "1423159820308258820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043298212501660088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@npc5200 谢谢你ᴛ ᴛ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423159820308258820",
+        "conversation_id": "2043292787190407426",
+        "created_at": "2026-04-12T12:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043298212501660088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043298212501660088",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043292787190407426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 声音很萌呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "你走后我的世界模糊一片 看心情过@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 152,
+          "like_count": 10946,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 1900
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T05:52:10.000Z",
+        "description": "无趣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "777703.xyz",
+                "end": 23,
+                "expanded_url": "https://777703.xyz/",
+                "start": 0,
+                "url": "https://t.co/tC7QGTksnm"
+              }
+            ]
+          }
+        },
+        "id": "1423159820308258820",
+        "location": "个人博客：",
+        "name": "npc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790390688523440128/rJu67uZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 28,
+          "like_count": 3092,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1504
+        },
+        "url": "https://t.co/tC7QGTksnm",
+        "username": "npc5200",
+        "verified": false
+      }
+    ]
+  }
+}

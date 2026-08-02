@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2057129854311846131",
+    "created_at": "2026-05-20T17:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T18:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057152757157830929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1908850461891026945",
+          "start": 0,
+          "username": "qwykoou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057152757157830929",
+    "in_reply_to_user_id": "1908850461891026945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057129854311846131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwykoou 生日快乐呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2057129854311846131",
+        "created_at": "2026-05-20T17:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057152757157830929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1908850461891026945",
+              "start": 0,
+              "username": "qwykoou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057152757157830929",
+        "in_reply_to_user_id": "1908850461891026945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057129854311846131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwykoou 生日快乐呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908850461891026945",
+        "conversation_id": "2057129854311846131",
+        "created_at": "2026-05-20T16:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057129854311846131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057129854311846131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 345,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希望这个小湫19岁干一行行一行🥺以后再也不能说自己18岁了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 187,
+          "like_count": 20418,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 2923
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T11:53:17.000Z",
+        "description": "我素小湫/小咪｜07女大在读｜不收🚪不闲聊｜这里什么都发｜小狗碎碎念账号",
+        "id": "1908850461891026945",
+        "name": "愈合",
+        "pinned_tweet_id": "2026604947043995930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044103811808276483/4oUebaKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 221,
+          "like_count": 3398,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1469
+        },
+        "username": "qwykoou",
+        "verified": false
+      }
+    ]
+  }
+}

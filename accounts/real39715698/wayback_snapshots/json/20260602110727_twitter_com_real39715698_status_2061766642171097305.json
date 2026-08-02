@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2061751700084699510",
+    "created_at": "2026-06-02T11:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061766642171097305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1886423551424561152",
+          "start": 0,
+          "username": "hi3861198529833"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061766642171097305",
+    "in_reply_to_user_id": "1886423551424561152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061763479414149442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hi3861198529833 你说的我清楚 我1.1少司缘1.2元辅 谁能想到把把排4个队友都是猪 我不说我自己很厉害吧 但是不能这么不像人吧他们四个 五把里三把没前排的情况下 四楼还要硬藏个李元芳去打野 其他几个也都没开智"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2061751700084699510",
+        "created_at": "2026-06-02T11:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061766642171097305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886423551424561152",
+              "start": 0,
+              "username": "hi3861198529833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061766642171097305",
+        "in_reply_to_user_id": "1886423551424561152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061763479414149442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hi3861198529833 你说的我清楚 我1.1少司缘1.2元辅 谁能想到把把排4个队友都是猪 我不说我自己很厉害吧 但是不能这么不像人吧他们四个 五把里三把没前排的情况下 四楼还要硬藏个李元芳去打野 其他几个也都没开智"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886423551424561152",
+        "conversation_id": "2061751700084699510",
+        "created_at": "2026-06-02T10:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061763479414149442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061763479414149442",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061762793909764283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 少思缘强度是有的，而且有一点自己的节奏，前期伤害也可观，这样说吧，你玩元辅10把输7把，你玩少思缘会少输两把 并且打的会很舒服，我是玩射手的，只能说在不确定射手非常菜的情况下还是保射手，不要去乱游走，射手是打伤害的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 196,
+          "like_count": 21284,
+          "listed_count": 1,
+          "media_count": 314,
+          "tweet_count": 3035
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T14:36:44.000Z",
+        "description": "你今天拉屎了嘛",
+        "id": "1886423551424561152",
+        "location": "还",
+        "name": "还（huan）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887181596396298241/nF0VHkgX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 1446,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2352
+        },
+        "username": "hi3861198529833",
+        "verified": false
+      }
+    ]
+  }
+}

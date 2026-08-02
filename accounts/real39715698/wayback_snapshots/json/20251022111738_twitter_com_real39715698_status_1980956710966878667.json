@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980956707510427648"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1980956710966878667",
+    "created_at": "2025-10-22T11:17:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T12:17:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980956710966878667"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CbqIgQOkKT",
+          "end": 23,
+          "expanded_url": "https://x.com/real39715698/status/1980956710966878667/photo/1",
+          "media_key": "3_1980956707510427648",
+          "start": 0,
+          "url": "https://t.co/CbqIgQOkKT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980956710966878667",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/CbqIgQOkKT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1690,
+        "media_key": "3_1980956707510427648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G33FoUKWIAAYjiQ.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980956707510427648"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1980956710966878667",
+        "created_at": "2025-10-22T11:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T12:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980956710966878667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CbqIgQOkKT",
+              "end": 23,
+              "expanded_url": "https://x.com/real39715698/status/1980956710966878667/photo/1",
+              "media_key": "3_1980956707510427648",
+              "start": 0,
+              "url": "https://t.co/CbqIgQOkKT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980956710966878667",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CbqIgQOkKT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980654074484731904/B7DmcC9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 74,
+          "like_count": 371,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 355
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

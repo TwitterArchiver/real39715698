@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2077013333514105221",
+    "created_at": "2026-07-14T12:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077014328155439405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2023797826741039108",
+          "start": 0,
+          "username": "UnikYoung"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077014328155439405",
+    "in_reply_to_user_id": "2023797826741039108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077013333514105221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UnikYoung 我们挑个黄道吉日走吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2077013333514105221",
+        "created_at": "2026-07-14T12:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077014328155439405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2023797826741039108",
+              "start": 0,
+              "username": "UnikYoung"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077014328155439405",
+        "in_reply_to_user_id": "2023797826741039108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077013333514105221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UnikYoung 我们挑个黄道吉日走吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023797826741039108",
+        "conversation_id": "2077013333514105221",
+        "created_at": "2026-07-14T12:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077013333514105221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077013333514105221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经不想找工作了 想赶紧找个好日子赶紧走了 已经把boss和58当抖音刷了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 200,
+          "like_count": 26715,
+          "listed_count": 1,
+          "media_count": 403,
+          "tweet_count": 3769
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T16:33:08.000Z",
+        "description": "。",
+        "id": "2023797826741039108",
+        "location": "北京 重庆",
+        "name": "Kaneki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042486428907814913/jfdgl2lR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 32,
+          "like_count": 3309,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "UnikYoung",
+        "verified": false
+      }
+    ]
+  }
+}

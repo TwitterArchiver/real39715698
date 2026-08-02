@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2017504141996920993",
+    "created_at": "2026-01-31T07:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T08:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017504141996920993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lovelangpics/s…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/lovelangpics/status/2016911941294321810",
+          "start": 68,
+          "url": "https://t.co/Oa0ifRVx7f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017504141996920993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016911941294321810",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要亲嘴。我要亲嘴我要亲嘴我要这样亲嘴我要亲嘴我要亲嘴我要亲嘴我要亲嘴我要亲嘴我要亲嘴我要亲嘴我要亲嘴我要亲嘴我要亲嘴我要亲嘴我要亲嘴 https://t.co/Oa0ifRVx7f"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10959,
+        "height": 1280,
+        "media_key": "13_2016911877893177344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016911877893177344/img/pFfbFGENBrSuxREB.jpg",
+        "public_metrics": {
+          "view_count": 194366
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016911877893177344/vid/avc1/320x568/smAMxSHBgXCeT5nT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016911877893177344/vid/avc1/480x852/Dnz_N2JnGzVaIURa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016911877893177344/vid/avc1/720x1280/4DrWhdcU-UOrImSK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016911877893177344/pl/mZau4ZhRdHr7G6Vr.m3u8?v=cbd"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2017504141996920993",
+        "created_at": "2026-01-31T07:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T08:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017504141996920993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lovelangpics/s…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/lovelangpics/status/2016911941294321810",
+              "start": 68,
+              "url": "https://t.co/Oa0ifRVx7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017504141996920993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016911941294321810",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要亲嘴。我要亲嘴我要亲嘴我要这样亲嘴我要亲嘴我要亲嘴我要亲嘴我要亲嘴我要亲嘴我要亲嘴我要亲嘴我要亲嘴我要亲嘴我要亲嘴我要亲嘴我要亲嘴 https://t.co/Oa0ifRVx7f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016911877893177344"
+          ]
+        },
+        "author_id": "1419765455892385800",
+        "conversation_id": "2016911941294321810",
+        "created_at": "2026-01-29T16:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T17:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016911941294321810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xl7G5WBF6E",
+              "end": 23,
+              "expanded_url": "https://x.com/lovelangpics/status/2016911941294321810/video/1",
+              "media_key": "13_2016911877893177344",
+              "start": 0,
+              "url": "https://t.co/Xl7G5WBF6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016911941294321810",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1560,
+          "impression_count": 355733,
+          "like_count": 10014,
+          "quote_count": 84,
+          "reply_count": 21,
+          "retweet_count": 950
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Xl7G5WBF6E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 78,
+          "like_count": 1303,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 713
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-26T21:04:08.000Z",
+        "description": "couple photos & videos\nour love language in frames 💘 follow for more",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://x.com",
+                "start": 0,
+                "url": "https://t.co/DcviamXfIn"
+              }
+            ]
+          }
+        },
+        "id": "1419765455892385800",
+        "location": "New York, USA",
+        "name": "love language",
+        "pinned_tweet_id": "2015465902116843690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008278704925937665/ZJYh21fd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18590,
+          "following_count": 0,
+          "like_count": 7048,
+          "listed_count": 18,
+          "media_count": 48,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/DcviamXfIn",
+        "username": "lovelangpics",
+        "verified": true
+      }
+    ]
+  }
+}

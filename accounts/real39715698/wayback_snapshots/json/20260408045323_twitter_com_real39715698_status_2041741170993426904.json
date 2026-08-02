@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2041576419445350635",
+    "created_at": "2026-04-08T04:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T05:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041741170993426904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878860725701263360",
+          "start": 0,
+          "username": "shnooki347821"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041741170993426904",
+    "in_reply_to_user_id": "1878860725701263360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041718669856927882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shnooki347821 ᴛ ᴛ真的有点伤心了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2041576419445350635",
+        "created_at": "2026-04-08T04:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041741170993426904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878860725701263360",
+              "start": 0,
+              "username": "shnooki347821"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041741170993426904",
+        "in_reply_to_user_id": "1878860725701263360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041718669856927882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shnooki347821 ᴛ ᴛ真的有点伤心了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878860725701263360",
+        "conversation_id": "2041576419445350635",
+        "created_at": "2026-04-08T03:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T04:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041718669856927882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041718669856927882",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041576419445350635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 她绝对故意的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 132,
+          "like_count": 9610,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1694
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T17:44:53.000Z",
+        "description": "骂你是你该的臭婊婊\n看我鸟不鸟你\nhttps://t.co/0sEuVC0oDD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sn99567",
+                "end": 40,
+                "expanded_url": "https://ngl.link/sn99567",
+                "start": 17,
+                "url": "https://t.co/0sEuVC0oDD"
+              }
+            ]
+          }
+        },
+        "id": "1878860725701263360",
+        "location": "韩国首尔",
+        "name": "shnooki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034281458156834816/lMrPgqV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 171,
+          "like_count": 1963,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 283
+        },
+        "username": "shnooki347821",
+        "verified": false
+      }
+    ]
+  }
+}

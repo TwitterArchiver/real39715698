@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2063300895572631914",
+    "created_at": "2026-06-07T12:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063598387744965074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1759061197264130048",
+          "start": 0,
+          "username": "zici369218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063598387744965074",
+    "in_reply_to_user_id": "1759061197264130048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063460458867388472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zici369218 哦哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1879,
+        "media_key": "3_2063460456162029568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLiWimacAAdr6M.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2063300895572631914",
+        "created_at": "2026-06-07T12:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063598387744965074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1759061197264130048",
+              "start": 0,
+              "username": "zici369218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063598387744965074",
+        "in_reply_to_user_id": "1759061197264130048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063460458867388472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zici369218 哦哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063460456162029568"
+          ]
+        },
+        "author_id": "1759061197264130048",
+        "conversation_id": "2063300895572631914",
+        "created_at": "2026-06-07T03:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063460458867388472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4uXfqMcPx",
+              "end": 40,
+              "expanded_url": "https://x.com/zici369218/status/2063460458867388472/photo/1",
+              "media_key": "3_2063460456162029568",
+              "start": 17,
+              "url": "https://t.co/n4uXfqMcPx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063460458867388472",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063300895572631914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 哦哦 https://t.co/n4uXfqMcPx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 198,
+          "like_count": 21918,
+          "listed_count": 1,
+          "media_count": 328,
+          "tweet_count": 3136
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T03:44:18.000Z",
+        "description": "社交孤儿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zici87532",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zici87532",
+                "start": 0,
+                "url": "https://t.co/niPLoAJulI"
+              }
+            ]
+          }
+        },
+        "id": "1759061197264130048",
+        "location": "我是栗子大王🌰",
+        "name": "雨",
+        "pinned_tweet_id": "2058735813651730880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052761283460837376/chOPzbOx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 142,
+          "like_count": 7429,
+          "listed_count": 2,
+          "media_count": 345,
+          "tweet_count": 5554
+        },
+        "url": "https://t.co/niPLoAJulI",
+        "username": "zici369218",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2041516859590389806",
+    "created_at": "2026-04-08T04:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T05:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041739550494720030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2000517576317870080",
+          "start": 0,
+          "username": "Colin560250"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041739550494720030",
+    "in_reply_to_user_id": "2000517576317870080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041728223290257628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Colin560250 老师你才是！！老师你主页那个看着好好吃(๑&gt; &lt;๑）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2041516859590389806",
+        "created_at": "2026-04-08T04:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041739550494720030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2000517576317870080",
+              "start": 0,
+              "username": "Colin560250"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041739550494720030",
+        "in_reply_to_user_id": "2000517576317870080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041728223290257628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Colin560250 老师你才是！！老师你主页那个看着好好吃(๑&gt; &lt;๑）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000517576317870080",
+        "conversation_id": "2041516859590389806",
+        "created_at": "2026-04-08T04:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041728223290257628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041728223290257628",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041516859590389806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 厨神n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 132,
+          "like_count": 9584,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1683
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T10:45:42.000Z",
+        "description": "人幸福的话 猫怎么都可以啦 /•᷅•᷄\\୭/🚪520/🔮/匿名：https://t.co/xGLE8F8iZ1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/colin15020",
+                "end": 55,
+                "expanded_url": "https://ngl.link/colin15020",
+                "start": 32,
+                "url": "https://t.co/xGLE8F8iZ1"
+              }
+            ]
+          }
+        },
+        "id": "2000517576317870080",
+        "location": "黑色玫瑰 ",
+        "name": "Colin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000517717254914048/0_qT9rJG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 9,
+          "like_count": 3707,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 480
+        },
+        "username": "Colin560250",
+        "verified": false
+      }
+    ]
+  }
+}

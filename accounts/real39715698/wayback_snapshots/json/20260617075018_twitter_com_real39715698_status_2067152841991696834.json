@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2067063541178446274",
+    "created_at": "2026-06-17T07:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T08:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067152841991696834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1819030510053834752",
+          "start": 0,
+          "username": "Tarsal4sA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067152841991696834",
+    "in_reply_to_user_id": "1819030510053834752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067112027496050727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tarsal4sA 真的好难"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2067063541178446274",
+        "created_at": "2026-06-17T07:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067152841991696834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1819030510053834752",
+              "start": 0,
+              "username": "Tarsal4sA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067152841991696834",
+        "in_reply_to_user_id": "1819030510053834752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067112027496050727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tarsal4sA 真的好难"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819030510053834752",
+        "conversation_id": "2067063541178446274",
+        "created_at": "2026-06-17T05:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067112027496050727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067112027496050727",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067063541178446274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 睡个好觉好难"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 199,
+          "like_count": 24237,
+          "listed_count": 1,
+          "media_count": 355,
+          "tweet_count": 3419
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T15:20:56.000Z",
+        "description": "明天见|@VFTS3824只过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "VFTS3824"
+              }
+            ]
+          }
+        },
+        "id": "1819030510053834752",
+        "name": "不要被命运找到",
+        "pinned_tweet_id": "2065403728396501023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066902754090487808/jw9CKtii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 37,
+          "like_count": 6249,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 202
+        },
+        "username": "Tarsal4sA",
+        "verified": false
+      }
+    ]
+  }
+}

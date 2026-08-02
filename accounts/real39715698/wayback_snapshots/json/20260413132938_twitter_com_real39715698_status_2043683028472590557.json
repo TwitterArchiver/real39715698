@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2043681387761590423",
+    "created_at": "2026-04-13T13:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T14:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043683028472590557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1869932876084719617",
+          "start": 0,
+          "username": "Inosukee017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043683028472590557",
+    "in_reply_to_user_id": "1869932876084719617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043681387761590423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inosukee017 终于等到你——"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 235500,
+        "height": 720,
+        "media_key": "13_2043681206785679360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043681206785679360/img/S5UJUkXENYSFNvhj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043681206785679360/vid/avc1/320x320/fJT4idt8pDRglm6d.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043681206785679360/vid/avc1/540x540/pCdh4aSvM2vK7SIg.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043681206785679360/vid/avc1/720x720/k9awauHXB3IQKPfl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043681206785679360/pl/fJ1F-1junWz89c5p.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2043681387761590423",
+        "created_at": "2026-04-13T13:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043683028472590557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1869932876084719617",
+              "start": 0,
+              "username": "Inosukee017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043683028472590557",
+        "in_reply_to_user_id": "1869932876084719617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043681387761590423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inosukee017 终于等到你——"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043681206785679360"
+          ]
+        },
+        "author_id": "1869932876084719617",
+        "conversation_id": "2043681387761590423",
+        "created_at": "2026-04-13T13:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043681387761590423"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "男喘"
+            },
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "青年音"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oOzdl2afwf",
+              "end": 38,
+              "expanded_url": "https://x.com/Inosukee017/status/2043681387761590423/video/1",
+              "media_key": "13_2043681206785679360",
+              "start": 15,
+              "url": "https://t.co/oOzdl2afwf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043681387761590423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 31,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那个实录\n\n#男喘 #青年音 https://t.co/oOzdl2afwf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "你走后我的世界模糊一片 看心情过@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 154,
+          "like_count": 11241,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 1949
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T02:28:44.000Z",
+        "description": "青年 接连麦 定制 瓦apex🥣 匿名https://t.co/0UYiFGGVdD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inosukee63538",
+                "end": 42,
+                "expanded_url": "https://ngl.link/inosukee63538",
+                "start": 19,
+                "url": "https://t.co/0UYiFGGVdD"
+              }
+            ]
+          }
+        },
+        "id": "1869932876084719617",
+        "location": "🚪52/88（好友位/好友位+音频）",
+        "name": "Inosukee",
+        "pinned_tweet_id": "1934297618907312384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010015677659422720/cQJM5bIt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8760,
+          "following_count": 54,
+          "like_count": 420,
+          "listed_count": 10,
+          "media_count": 101,
+          "tweet_count": 376
+        },
+        "username": "Inosukee017",
+        "verified": false
+      }
+    ]
+  }
+}

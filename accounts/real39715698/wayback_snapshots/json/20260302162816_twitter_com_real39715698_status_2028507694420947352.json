@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2028000997566742779",
+    "created_at": "2026-03-02T16:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T17:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028507694420947352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1684585047926636546",
+          "start": 0,
+          "username": "Cyrilips"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028507694420947352",
+    "in_reply_to_user_id": "1684585047926636546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028504470548881454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyrilips 没错…就是潮潮的身上感觉也黏乎乎的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2028000997566742779",
+        "created_at": "2026-03-02T16:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T17:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028507694420947352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1684585047926636546",
+              "start": 0,
+              "username": "Cyrilips"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028507694420947352",
+        "in_reply_to_user_id": "1684585047926636546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028504470548881454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyrilips 没错…就是潮潮的身上感觉也黏乎乎的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684585047926636546",
+        "conversation_id": "2028000997566742779",
+        "created_at": "2026-03-02T16:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T17:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028504470548881454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028504470548881454",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028000997566742779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 真的太潮了…睡醒浑身不舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 86,
+          "like_count": 3151,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1008
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T15:22:45.000Z",
+        "description": "本人已精神阳痿。",
+        "id": "1684585047926636546",
+        "name": "凡士林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028367431916535808/nOXGarFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 101,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 32
+        },
+        "username": "Cyrilips",
+        "verified": false
+      }
+    ]
+  }
+}

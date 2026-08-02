@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059201737018470400"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "2059202605839163461",
+    "created_at": "2026-05-26T09:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T10:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059202605839163461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t3VLaYKV3f",
+          "end": 139,
+          "expanded_url": "https://x.com/real39715698/status/2059202605839163461/photo/1",
+          "media_key": "3_2059201737018470400",
+          "start": 116,
+          "url": "https://t.co/t3VLaYKV3f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059202605839163461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "榨菜的话一般我就放一包 肉丝会放的比较多 调味品我说的都是适量是因为我都是比较随意的去放然后再尝一口根据咸淡考虑要不要再添 然后汤底调味的话盐不用太多因为榨菜的话本来就是有底味的 希望可以帮到这位提问的小宝宝(&gt;﹏&lt;) https://t.co/t3VLaYKV3f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1607,
+        "media_key": "3_2059201737018470400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPBEdfacAAZ9DJ.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059201737018470400"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "2059202605839163461",
+        "created_at": "2026-05-26T09:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059202605839163461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t3VLaYKV3f",
+              "end": 139,
+              "expanded_url": "https://x.com/real39715698/status/2059202605839163461/photo/1",
+              "media_key": "3_2059201737018470400",
+              "start": 116,
+              "url": "https://t.co/t3VLaYKV3f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059202605839163461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "榨菜的话一般我就放一包 肉丝会放的比较多 调味品我说的都是适量是因为我都是比较随意的去放然后再尝一口根据咸淡考虑要不要再添 然后汤底调味的话盐不用太多因为榨菜的话本来就是有底味的 希望可以帮到这位提问的小宝宝(&gt;﹏&lt;) https://t.co/t3VLaYKV3f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 190,
+          "like_count": 20717,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 2977
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

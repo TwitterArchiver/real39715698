@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979570794398093315",
+        "3_1979570775641169921",
+        "3_1979570775704166400",
+        "3_1979570776123621376"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1979570813809610863",
+    "created_at": "2025-10-18T15:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T16:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979570813809610863"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/At5ZzQ7nZf",
+          "end": 38,
+          "expanded_url": "https://x.com/real39715698/status/1979570813809610863/photo/1",
+          "media_key": "3_1979570794398093315",
+          "start": 15,
+          "url": "https://t.co/At5ZzQ7nZf"
+        },
+        {
+          "display_url": "pic.x.com/At5ZzQ7nZf",
+          "end": 38,
+          "expanded_url": "https://x.com/real39715698/status/1979570813809610863/photo/1",
+          "media_key": "3_1979570775641169921",
+          "start": 15,
+          "url": "https://t.co/At5ZzQ7nZf"
+        },
+        {
+          "display_url": "pic.x.com/At5ZzQ7nZf",
+          "end": 38,
+          "expanded_url": "https://x.com/real39715698/status/1979570813809610863/photo/1",
+          "media_key": "3_1979570775704166400",
+          "start": 15,
+          "url": "https://t.co/At5ZzQ7nZf"
+        },
+        {
+          "display_url": "pic.x.com/At5ZzQ7nZf",
+          "end": 38,
+          "expanded_url": "https://x.com/real39715698/status/1979570813809610863/photo/1",
+          "media_key": "3_1979570776123621376",
+          "start": 15,
+          "url": "https://t.co/At5ZzQ7nZf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979570813809610863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "万水千山 你愿意陪我一起看吗 https://t.co/At5ZzQ7nZf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1979570794398093315",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3jZJjfWEAMadf1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1979570775641169921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3jZIdnWIAEhtTZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1979570775704166400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3jZId2XYAAerA-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1979570776123621376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3jZIfaXwAAcam8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979570794398093315",
+            "3_1979570775641169921",
+            "3_1979570775704166400",
+            "3_1979570776123621376"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979570813809610863",
+        "created_at": "2025-10-18T15:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T16:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979570813809610863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/At5ZzQ7nZf",
+              "end": 38,
+              "expanded_url": "https://x.com/real39715698/status/1979570813809610863/photo/1",
+              "media_key": "3_1979570794398093315",
+              "start": 15,
+              "url": "https://t.co/At5ZzQ7nZf"
+            },
+            {
+              "display_url": "pic.x.com/At5ZzQ7nZf",
+              "end": 38,
+              "expanded_url": "https://x.com/real39715698/status/1979570813809610863/photo/1",
+              "media_key": "3_1979570775641169921",
+              "start": 15,
+              "url": "https://t.co/At5ZzQ7nZf"
+            },
+            {
+              "display_url": "pic.x.com/At5ZzQ7nZf",
+              "end": 38,
+              "expanded_url": "https://x.com/real39715698/status/1979570813809610863/photo/1",
+              "media_key": "3_1979570775704166400",
+              "start": 15,
+              "url": "https://t.co/At5ZzQ7nZf"
+            },
+            {
+              "display_url": "pic.x.com/At5ZzQ7nZf",
+              "end": 38,
+              "expanded_url": "https://x.com/real39715698/status/1979570813809610863/photo/1",
+              "media_key": "3_1979570776123621376",
+              "start": 15,
+              "url": "https://t.co/At5ZzQ7nZf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979570813809610863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "万水千山 你愿意陪我一起看吗 https://t.co/At5ZzQ7nZf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976786561594540033/rLUf_jU__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 73,
+          "like_count": 351,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 339
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

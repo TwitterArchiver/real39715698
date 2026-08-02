@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045534673905094656"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045535039862214949",
+    "created_at": "2026-04-18T16:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T17:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045535039862214949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LJwmB7yv4f",
+          "end": 62,
+          "expanded_url": "https://x.com/real39715698/status/2045535039862214949/photo/1",
+          "media_key": "3_2045534673905094656",
+          "start": 39,
+          "url": "https://t.co/LJwmB7yv4f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045535039862214949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这没赢凭什么凭什么凭什么啊啊啊第一名一个三星腕豪给我翻盘了我恨你啊啊啊啊啊啊 https://t.co/LJwmB7yv4f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_2045534673905094656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMy8r3bkAA7hG2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045534673905094656"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045535039862214949",
+        "created_at": "2026-04-18T16:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045535039862214949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LJwmB7yv4f",
+              "end": 62,
+              "expanded_url": "https://x.com/real39715698/status/2045535039862214949/photo/1",
+              "media_key": "3_2045534673905094656",
+              "start": 39,
+              "url": "https://t.co/LJwmB7yv4f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045535039862214949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这没赢凭什么凭什么凭什么啊啊啊第一名一个三星腕豪给我翻盘了我恨你啊啊啊啊啊啊 https://t.co/LJwmB7yv4f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "还给我那些天真和眼泪@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 163,
+          "like_count": 12810,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 2140
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

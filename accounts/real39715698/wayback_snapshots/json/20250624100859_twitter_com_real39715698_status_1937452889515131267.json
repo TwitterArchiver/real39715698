@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1937447295420870887",
+    "created_at": "2025-06-24T10:08:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T11:08:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937452889515131267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1612854174714302466",
+          "start": 0,
+          "username": "gu87734192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937452889515131267",
+    "in_reply_to_user_id": "1612854174714302466",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937447295420870887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu87734192 想你，哥哥"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19866,
+        "height": 720,
+        "media_key": "7_1937447282364100608",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1937447282364100608/pu/img/zSXLhoSEAUDn643N.jpg",
+        "public_metrics": {
+          "view_count": 70
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937447282364100608/pu/vid/avc1/320x320/a3uoHFDdry4ex4Je.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937447282364100608/pu/vid/avc1/540x540/53KBkeT1epWyM70Z.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937447282364100608/pu/vid/avc1/720x720/rkxWf9dd1p6IXvq8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1937447282364100608/pu/pl/rSUhcCTorr_LtJau.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1937447295420870887",
+        "created_at": "2025-06-24T10:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T11:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937452889515131267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1612854174714302466",
+              "start": 0,
+              "username": "gu87734192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937452889515131267",
+        "in_reply_to_user_id": "1612854174714302466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937447295420870887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu87734192 想你，哥哥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1937447282364100608"
+          ]
+        },
+        "author_id": "1612854174714302466",
+        "conversation_id": "1937447295420870887",
+        "created_at": "2025-06-24T09:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T10:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937447295420870887"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "配音"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "青年音"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "录音"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "清水"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IxWCNznEna",
+              "end": 52,
+              "expanded_url": "https://x.com/gu87734192/status/1937447295420870887/video/1",
+              "media_key": "7_1937447282364100608",
+              "start": 29,
+              "url": "https://t.co/IxWCNznEna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937447295420870887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 190,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那你呢 想不想见我？\n#配音  #青年音 #录音 ＃清水 https://t.co/IxWCNznEna"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933977754120474624/RWP6FLXG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 49,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T16:49:50.000Z",
+        "description": "接定制 加v有🚪66\n接陪🥣\n抖音 21943386284\n匿名箱:  https://t.co/feCyxvpgDl\n自用喵叽加速器 高速 稳定 强推：https://t.co/LkGaa7s2XN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gu8773419221",
+                "end": 59,
+                "expanded_url": "https://ngl.link/gu8773419221",
+                "start": 36,
+                "url": "https://t.co/feCyxvpgDl"
+              },
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 100,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=MCRkRBkO",
+                "start": 77,
+                "url": "https://t.co/LkGaa7s2XN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gu87734192.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://gu87734192.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/HjWcbeecYw"
+              }
+            ]
+          }
+        },
+        "id": "1612854174714302466",
+        "location": "河南",
+        "name": "念",
+        "pinned_tweet_id": "1878996127103803653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766545216583196672/aC28okYz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19635,
+          "following_count": 61,
+          "like_count": 1142,
+          "listed_count": 31,
+          "media_count": 288,
+          "tweet_count": 1418
+        },
+        "url": "https://t.co/HjWcbeecYw",
+        "username": "gu87734192",
+        "verified": false
+      }
+    ]
+  }
+}

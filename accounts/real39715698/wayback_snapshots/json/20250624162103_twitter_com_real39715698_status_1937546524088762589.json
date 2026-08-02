@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1937544666880311544",
+    "created_at": "2025-06-24T16:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T17:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937546524088762589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1665736966925860865",
+          "start": 0,
+          "username": "llllzzzyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937546524088762589",
+    "in_reply_to_user_id": "1665736966925860865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937545735865794853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@llllzzzyy 我没有T^T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1937544666880311544",
+        "created_at": "2025-06-24T16:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T17:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937546524088762589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1665736966925860865",
+              "start": 0,
+              "username": "llllzzzyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937546524088762589",
+        "in_reply_to_user_id": "1665736966925860865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937545735865794853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@llllzzzyy 我没有T^T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665736966925860865",
+        "conversation_id": "1937544666880311544",
+        "created_at": "2025-06-24T16:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T17:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937545735865794853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937545735865794853",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937544666880311544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 又钓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933977754120474624/RWP6FLXG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 49,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-05T15:07:20.000Z",
+        "description": "07 天秤isfp  接陪🥣 有想听的歌可以和我提提 欢迎私信找我聊天",
+        "id": "1665736966925860865",
+        "location": "Hubei",
+        "name": "trust",
+        "pinned_tweet_id": "1829862443306401888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820914303320649731/ItnCpA3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 103,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 111
+        },
+        "username": "llllzzzyy",
+        "verified": false
+      }
+    ]
+  }
+}

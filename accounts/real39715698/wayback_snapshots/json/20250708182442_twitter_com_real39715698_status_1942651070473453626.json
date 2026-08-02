@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1942651070473453626",
+    "created_at": "2025-07-08T18:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T19:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942651070473453626"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1942651070473453626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老公理我的时候我就专心舔老公 老公不理我我就懂事的出轨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1942651070473453626",
+        "created_at": "2025-07-08T18:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T19:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942651070473453626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942651070473453626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老公理我的时候我就专心舔老公 老公不理我我就懂事的出轨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 65,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 108
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

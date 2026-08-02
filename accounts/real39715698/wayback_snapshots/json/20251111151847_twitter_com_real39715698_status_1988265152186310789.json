@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1988262214910824952",
+    "created_at": "2025-11-11T15:18:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T16:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988265152186310789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1577510555551956993",
+          "start": 0,
+          "username": "LuvSic02274433"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988265152186310789",
+    "in_reply_to_user_id": "1577510555551956993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988262214910824952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuvSic02274433 老公我会一直关注你的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1988262214910824952",
+        "created_at": "2025-11-11T15:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T16:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988265152186310789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1577510555551956993",
+              "start": 0,
+              "username": "LuvSic02274433"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988265152186310789",
+        "in_reply_to_user_id": "1577510555551956993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988262214910824952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuvSic02274433 老公我会一直关注你的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577510555551956993",
+        "conversation_id": "1988262214910824952",
+        "created_at": "2025-11-11T15:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T16:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988262214910824952"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988262214910824952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关们取关的时候双取一下 总刷到发现被单取了我也不好意思说，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1952695269616910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987938157346848768/2Mnt4Bbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 78,
+          "like_count": 488,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 444
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-05T04:06:47.000Z",
+        "description": "至少还在上坡路上｜推荐自用蜂鸟vpn：https://t.co/8ARScuzJZ2｜小小的老子@iiiamwhatusee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "iiiamwhatusee"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 42,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=hWet1hiQ",
+                "start": 19,
+                "url": "https://t.co/8ARScuzJZ2"
+              }
+            ]
+          }
+        },
+        "id": "1577510555551956993",
+        "location": "我们不会相见",
+        "name": "黑色剑士",
+        "pinned_tweet_id": "1930621743950905661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921493259827957760/0dtxwwrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12894,
+          "following_count": 329,
+          "like_count": 2032,
+          "listed_count": 25,
+          "media_count": 146,
+          "tweet_count": 4037
+        },
+        "username": "LuvSic02274433",
+        "verified": false
+      }
+    ]
+  }
+}

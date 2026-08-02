@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015456411401281536"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "2015456418250531288",
+    "created_at": "2026-01-25T16:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T17:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015456418250531288"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QsOMBZ4Jrd",
+          "end": 32,
+          "expanded_url": "https://x.com/real39715698/status/2015456418250531288/photo/1",
+          "media_key": "3_2015456411401281536",
+          "start": 9,
+          "url": "https://t.co/QsOMBZ4Jrd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015456418250531288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？你以为我不想吗 https://t.co/QsOMBZ4Jrd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1427,
+        "media_key": "3_2015456411401281536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_hW7YXbYAA581B.jpg",
+        "width": 1186
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015456411401281536"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "2015456418250531288",
+        "created_at": "2026-01-25T16:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T17:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015456418250531288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QsOMBZ4Jrd",
+              "end": 32,
+              "expanded_url": "https://x.com/real39715698/status/2015456418250531288/photo/1",
+              "media_key": "3_2015456411401281536",
+              "start": 9,
+              "url": "https://t.co/QsOMBZ4Jrd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015456418250531288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？你以为我不想吗 https://t.co/QsOMBZ4Jrd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 75,
+          "like_count": 1073,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 633
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

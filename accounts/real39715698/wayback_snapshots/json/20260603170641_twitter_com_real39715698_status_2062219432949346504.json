@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2062190435498647616",
+    "created_at": "2026-06-03T17:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062219432949346504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2014445924043653122",
+          "start": 0,
+          "username": "94894426uu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062219432949346504",
+    "in_reply_to_user_id": "2014445924043653122",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062209500367716443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@94894426uu 笨人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2062190435498647616",
+        "created_at": "2026-06-03T17:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062219432949346504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2014445924043653122",
+              "start": 0,
+              "username": "94894426uu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062219432949346504",
+        "in_reply_to_user_id": "2014445924043653122",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062209500367716443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@94894426uu 笨人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014445924043653122",
+        "conversation_id": "2062190435498647616",
+        "created_at": "2026-06-03T16:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062209500367716443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062209500367716443",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062190435498647616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 笨人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 195,
+          "like_count": 21483,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 3073
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T21:12:01.000Z",
+        "description": "你闹麻一点，我难绷一点",
+        "id": "2014445924043653122",
+        "name": "uu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036828534342352896/L5YgEEvo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 24,
+          "like_count": 1163,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 302
+        },
+        "username": "94894426uu",
+        "verified": false
+      }
+    ]
+  }
+}

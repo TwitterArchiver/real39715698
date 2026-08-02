@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2016558585694867668",
+    "created_at": "2026-01-28T17:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T18:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016566904358654043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1951323429841543171",
+          "start": 0,
+          "username": "afuuuk15494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016566904358654043",
+    "in_reply_to_user_id": "1951323429841543171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016566653635744170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@afuuuk15494 基本上是这样的哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2016558585694867668",
+        "created_at": "2026-01-28T17:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T18:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016566904358654043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951323429841543171",
+              "start": 0,
+              "username": "afuuuk15494"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016566904358654043",
+        "in_reply_to_user_id": "1951323429841543171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016566653635744170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afuuuk15494 基本上是这样的哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951323429841543171",
+        "conversation_id": "2016558585694867668",
+        "created_at": "2026-01-28T17:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T18:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016566653635744170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016566653635744170",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016558585694867668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 玩元辅圣杯一出自动解锁胜利"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 78,
+          "like_count": 1201,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 673
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T16:45:46.000Z",
+        "description": "",
+        "id": "1951323429841543171",
+        "location": "中国",
+        "name": "Nothing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951400555177484288/5TbtMo5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 88,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "afuuuk15494",
+        "verified": false
+      }
+    ]
+  }
+}

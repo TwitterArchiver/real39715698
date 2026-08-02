@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2036659791070920865",
+    "created_at": "2026-03-25T04:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T05:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036659791070920865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1560927630752247808",
+          "start": 3,
+          "username": "Yurainl1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036659791070920865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036617585916268635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yurainl1: 我社交方式就是有人给我点赞我去他主页逛一圈然后看见感兴趣的就点赞。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2036659791070920865",
+        "created_at": "2026-03-25T04:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036659791070920865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560927630752247808",
+              "start": 3,
+              "username": "Yurainl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036659791070920865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036617585916268635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yurainl1: 我社交方式就是有人给我点赞我去他主页逛一圈然后看见感兴趣的就点赞。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560927630752247808",
+        "conversation_id": "2036617585916268635",
+        "created_at": "2026-03-25T01:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T02:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036617585916268635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036617585916268635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我社交方式就是有人给我点赞我去他主页逛一圈然后看见感兴趣的就点赞。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 96,
+          "like_count": 5359,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1197
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T09:55:12.000Z",
+        "description": "等湿透的心听雨声｜不关注勿扰^ω^",
+        "id": "1560927630752247808",
+        "location": "0.1km",
+        "name": "乱篇",
+        "pinned_tweet_id": "2011728476416713152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026937275020619776/DGccCN2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2604,
+          "following_count": 77,
+          "like_count": 4087,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 188
+        },
+        "username": "Yurainl1",
+        "verified": false
+      }
+    ]
+  }
+}

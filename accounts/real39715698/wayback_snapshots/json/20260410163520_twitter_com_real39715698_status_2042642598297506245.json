@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042642586754777088"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042642598297506245",
+    "created_at": "2026-04-10T16:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T17:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042642598297506245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gPVcdoVDwJ",
+          "end": 27,
+          "expanded_url": "https://x.com/real39715698/status/2042642598297506245/photo/1",
+          "media_key": "3_2042642586754777088",
+          "start": 4,
+          "url": "https://t.co/gPVcdoVDwJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042642598297506245",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哦哦。 https://t.co/gPVcdoVDwJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2208,
+        "media_key": "3_2042642586754777088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjsnDqagAARVkZ.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042642586754777088"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042642598297506245",
+        "created_at": "2026-04-10T16:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042642598297506245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gPVcdoVDwJ",
+              "end": 27,
+              "expanded_url": "https://x.com/real39715698/status/2042642598297506245/photo/1",
+              "media_key": "3_2042642586754777088",
+              "start": 4,
+              "url": "https://t.co/gPVcdoVDwJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042642598297506245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦哦。 https://t.co/gPVcdoVDwJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "你走后我的世界模糊一片 只过顺眼的@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 147,
+          "like_count": 10428,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 1810
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

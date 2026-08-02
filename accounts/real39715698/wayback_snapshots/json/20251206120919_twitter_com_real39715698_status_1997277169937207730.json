@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997277166699180032"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1997277169937207730",
+    "created_at": "2025-12-06T12:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T13:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997277169937207730"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mXmLIhKDmd",
+          "end": 36,
+          "expanded_url": "https://x.com/real39715698/status/1997277169937207730/photo/1",
+          "media_key": "3_1997277166699180032",
+          "start": 13,
+          "url": "https://t.co/mXmLIhKDmd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997277169937207730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁吃了我做的饭我就娶了谁 https://t.co/mXmLIhKDmd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997277166699180032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7fBAEcacAAEBP1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997277166699180032"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1997277169937207730",
+        "created_at": "2025-12-06T12:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T13:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997277169937207730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mXmLIhKDmd",
+              "end": 36,
+              "expanded_url": "https://x.com/real39715698/status/1997277169937207730/photo/1",
+              "media_key": "3_1997277166699180032",
+              "start": 13,
+              "url": "https://t.co/mXmLIhKDmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997277169937207730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁吃了我做的饭我就娶了谁 https://t.co/mXmLIhKDmd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "说了再见才发现再也见不到",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1990047104321122696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 74,
+          "like_count": 657,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 493
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1999456204280725669",
+    "created_at": "2025-12-12T12:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T13:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999456204280725669"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/me0vvo/status/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/me0vvo/status/1998823118505414839",
+          "start": 4,
+          "url": "https://t.co/C4Me1ZPKiR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999456204280725669",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998823118505414839",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "同意之 https://t.co/C4Me1ZPKiR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1999456204280725669",
+        "created_at": "2025-12-12T12:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T13:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999456204280725669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/me0vvo/status/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/me0vvo/status/1998823118505414839",
+              "start": 4,
+              "url": "https://t.co/C4Me1ZPKiR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999456204280725669",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998823118505414839",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同意之 https://t.co/C4Me1ZPKiR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924196042293288960",
+        "conversation_id": "1998823118505414839",
+        "created_at": "2025-12-10T18:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T19:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998823118505414839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998823118505414839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 436902,
+          "like_count": 2052,
+          "quote_count": 40,
+          "reply_count": 97,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "老公爸爸哥哥这三个称呼真的很扫 到了上头的时候我的使用方法就变成两两随机组合使用 希望有人能懂这个爽感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "说了再见才发现再也见不到",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1990020111521272078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 77,
+          "like_count": 722,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 512
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T20:11:11.000Z",
+        "description": "我害怕神人",
+        "id": "1924196042293288960",
+        "name": "KiTi",
+        "pinned_tweet_id": "1979935583435686050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924216727681871872/HITxGnw5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2839,
+          "following_count": 0,
+          "like_count": 1974,
+          "listed_count": 3,
+          "media_count": 11,
+          "tweet_count": 55
+        },
+        "username": "me0vvo",
+        "verified": false
+      }
+    ]
+  }
+}

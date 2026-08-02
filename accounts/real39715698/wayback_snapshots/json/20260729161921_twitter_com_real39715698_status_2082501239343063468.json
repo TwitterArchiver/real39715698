@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2082500493297975504",
+    "created_at": "2026-07-29T16:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T17:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082501239343063468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1932860965521141760",
+          "start": 0,
+          "username": "wduui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082501239343063468",
+    "in_reply_to_user_id": "1932860965521141760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082500493297975504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wduui 猪了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2082500493297975504",
+        "created_at": "2026-07-29T16:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082501239343063468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1932860965521141760",
+              "start": 0,
+              "username": "wduui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082501239343063468",
+        "in_reply_to_user_id": "1932860965521141760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082500493297975504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wduui 猪了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932860965521141760",
+        "conversation_id": "2082500493297975504",
+        "created_at": "2026-07-29T16:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082500493297975504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082500493297975504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我珍惜你的方式猪了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 211,
+          "like_count": 29212,
+          "listed_count": 1,
+          "media_count": 408,
+          "tweet_count": 3942
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-11T18:02:28.000Z",
+        "description": "滚",
+        "id": "1932860965521141760",
+        "name": "随地大小鱼",
+        "pinned_tweet_id": "2036426778659660225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932861196530749440/4wfyjFMW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 187,
+          "like_count": 5768,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1050
+        },
+        "url": "",
+        "username": "wduui",
+        "verified": false
+      }
+    ]
+  }
+}

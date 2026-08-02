@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017460308781027328",
+        "3_2017460309976363008"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2017460322601242828",
+    "created_at": "2026-01-31T04:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T05:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017460322601242828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rYhAJeXZTa",
+          "end": 31,
+          "expanded_url": "https://x.com/real39715698/status/2017460322601242828/photo/1",
+          "media_key": "3_2017460308781027328",
+          "start": 8,
+          "url": "https://t.co/rYhAJeXZTa"
+        },
+        {
+          "display_url": "pic.x.com/rYhAJeXZTa",
+          "end": 31,
+          "expanded_url": "https://x.com/real39715698/status/2017460322601242828/photo/1",
+          "media_key": "3_2017460309976363008",
+          "start": 8,
+          "url": "https://t.co/rYhAJeXZTa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017460322601242828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跟朋友开嗓中🤓 https://t.co/rYhAJeXZTa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017460308781027328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_91dj1X0AA4uab.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017460309976363008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_91doSXMAAbNem.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017460308781027328",
+            "3_2017460309976363008"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017460322601242828",
+        "created_at": "2026-01-31T04:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T05:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017460322601242828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rYhAJeXZTa",
+              "end": 31,
+              "expanded_url": "https://x.com/real39715698/status/2017460322601242828/photo/1",
+              "media_key": "3_2017460308781027328",
+              "start": 8,
+              "url": "https://t.co/rYhAJeXZTa"
+            },
+            {
+              "display_url": "pic.x.com/rYhAJeXZTa",
+              "end": 31,
+              "expanded_url": "https://x.com/real39715698/status/2017460322601242828/photo/1",
+              "media_key": "3_2017460309976363008",
+              "start": 8,
+              "url": "https://t.co/rYhAJeXZTa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017460322601242828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟朋友开嗓中🤓 https://t.co/rYhAJeXZTa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 78,
+          "like_count": 1297,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 711
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

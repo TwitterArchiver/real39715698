@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2065590034535960578",
+    "created_at": "2026-06-13T00:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T01:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065590803310034945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1875024920318713856",
+          "start": 0,
+          "username": "Exh4ustOfL0v3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065590803310034945",
+    "in_reply_to_user_id": "1875024920318713856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065590533960192412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Exh4ustOfL0v3 可能共情了我那条帖子说的暴露狂呗 被戳痛了就要攻击我这个无辜的小女孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2065590034535960578",
+        "created_at": "2026-06-13T00:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065590803310034945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1875024920318713856",
+              "start": 0,
+              "username": "Exh4ustOfL0v3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065590803310034945",
+        "in_reply_to_user_id": "1875024920318713856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065590533960192412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exh4ustOfL0v3 可能共情了我那条帖子说的暴露狂呗 被戳痛了就要攻击我这个无辜的小女孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875024920318713856",
+        "conversation_id": "2065590034535960578",
+        "created_at": "2026-06-13T00:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065590533960192412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065590533960192412",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065590034535960578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 这种阴恻恻攻击别人的最贱了😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 197,
+          "like_count": 23208,
+          "listed_count": 1,
+          "media_count": 340,
+          "tweet_count": 3246
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T03:42:37.000Z",
+        "description": "天空你是否知晓一切",
+        "id": "1875024920318713856",
+        "name": "性单恋",
+        "pinned_tweet_id": "1918503448506691674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063918195589935104/gSRwVs2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 188,
+          "like_count": 23432,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 4389
+        },
+        "username": "Exh4ustOfL0v3",
+        "verified": false
+      }
+    ]
+  }
+}

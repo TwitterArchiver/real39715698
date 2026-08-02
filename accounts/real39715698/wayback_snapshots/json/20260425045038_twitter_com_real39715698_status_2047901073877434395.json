@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2047878799623406002",
+    "created_at": "2026-04-25T04:50:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T05:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047901073877434395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1728310366038568960",
+          "start": 0,
+          "username": "Ahe_Ovi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047901073877434395",
+    "in_reply_to_user_id": "1728310366038568960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047878799623406002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Ahe_Ovi 人好多我等了三个小时了还没拿到ᴛ ᴛ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2047878799623406002",
+        "created_at": "2026-04-25T04:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047901073877434395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1728310366038568960",
+              "start": 0,
+              "username": "Ahe_Ovi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047901073877434395",
+        "in_reply_to_user_id": "1728310366038568960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047878799623406002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Ahe_Ovi 人好多我等了三个小时了还没拿到ᴛ ᴛ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728310366038568960",
+        "conversation_id": "2047878799623406002",
+        "created_at": "2026-04-25T03:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047878799623406002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047878799623406002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "…没买到崩铁的联名呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 172,
+          "like_count": 14781,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 2291
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T07:11:24.000Z",
+        "description": "看我不爽你就去死^^",
+        "id": "1728310366038568960",
+        "name": "不要捏^",
+        "pinned_tweet_id": "2015847251189604406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017276699906641920/DLZxAr22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4165,
+          "following_count": 776,
+          "like_count": 36895,
+          "listed_count": 9,
+          "media_count": 527,
+          "tweet_count": 10773
+        },
+        "username": "Ahe_Ovi",
+        "verified": false
+      }
+    ]
+  }
+}

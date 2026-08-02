@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2052780639204802971",
+    "created_at": "2026-05-09T07:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T08:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053020313135579529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2039693224353374208",
+          "start": 0,
+          "username": "Mimircwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053020313135579529",
+    "in_reply_to_user_id": "2039693224353374208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052973632830492844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mimircwu 谢谢你呀Mimi小宝宝！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2052780639204802971",
+        "created_at": "2026-05-09T07:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053020313135579529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2039693224353374208",
+              "start": 0,
+              "username": "Mimircwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053020313135579529",
+        "in_reply_to_user_id": "2039693224353374208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052973632830492844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mimircwu 谢谢你呀Mimi小宝宝！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039693224353374208",
+        "conversation_id": "2052780639204802971",
+        "created_at": "2026-05-09T04:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052973632830492844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052973632830492844",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052780639204802971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 生日快乐呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 185,
+          "like_count": 18093,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 2717
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T13:16:02.000Z",
+        "description": "🧃喜欢体型差 大奶 薄肌 大的都喜欢",
+        "id": "2039693224353374208",
+        "name": "Mimi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039693566759616512/iZIic-wU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 131,
+          "like_count": 564,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 203
+        },
+        "username": "Mimircwu",
+        "verified": false
+      }
+    ]
+  }
+}

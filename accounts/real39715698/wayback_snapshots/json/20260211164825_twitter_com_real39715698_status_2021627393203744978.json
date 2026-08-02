@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2021625616613966011",
+    "created_at": "2026-02-11T16:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T17:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021627393203744978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1949735161698103296",
+          "start": 0,
+          "username": "imsry4what"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021627393203744978",
+    "in_reply_to_user_id": "1949735161698103296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021626550198972570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imsry4what 抱抱宝宝，你可以用温水装袋或者毛巾温水打湿敷一下腰腹好像会有点缓解这个酸痛，可以试一下！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2021625616613966011",
+        "created_at": "2026-02-11T16:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T17:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021627393203744978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1949735161698103296",
+              "start": 0,
+              "username": "imsry4what"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021627393203744978",
+        "in_reply_to_user_id": "1949735161698103296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021626550198972570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imsry4what 抱抱宝宝，你可以用温水装袋或者毛巾温水打湿敷一下腰腹好像会有点缓解这个酸痛，可以试一下！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949735161698103296",
+        "conversation_id": "2021625616613966011",
+        "created_at": "2026-02-11T16:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T17:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021626550198972570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021626550198972570",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021626247969898696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 好难受&gt;_&lt;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 80,
+          "like_count": 1726,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 842
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-28T07:34:31.000Z",
+        "description": "不卡不连不陪聊不打游戏头像丑的不要跟我讲话好烦",
+        "id": "1949735161698103296",
+        "name": "请问你是",
+        "pinned_tweet_id": "2016574927164600679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017899589165318145/aprjY82D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 88,
+          "like_count": 6383,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 1591
+        },
+        "username": "imsry4what",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2052724700405715093",
+    "created_at": "2026-05-08T13:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T14:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052737227579588819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1534758614065627136",
+          "start": 0,
+          "username": "Daxiedewu11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052737227579588819",
+    "in_reply_to_user_id": "1534758614065627136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052724700405715093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Daxiedewu11 天呐这个粉看着好美味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052724692549767168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHy-O2kaEAAv9FA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2052724700405715093",
+        "created_at": "2026-05-08T13:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052737227579588819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1534758614065627136",
+              "start": 0,
+              "username": "Daxiedewu11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052737227579588819",
+        "in_reply_to_user_id": "1534758614065627136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052724700405715093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Daxiedewu11 天呐这个粉看着好美味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052724692549767168"
+          ]
+        },
+        "author_id": "1534758614065627136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052724700405715093",
+        "created_at": "2026-05-08T12:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052724700405715093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qI5UT7oXni",
+              "end": 29,
+              "expanded_url": "https://x.com/Daxiedewu11/status/2052724700405715093/photo/1",
+              "media_key": "3_2052724692549767168",
+              "start": 6,
+              "url": "https://t.co/qI5UT7oXni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052724700405715093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "饿了恰个粉 https://t.co/qI5UT7oXni"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 183,
+          "like_count": 17959,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 2662
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-09T04:46:00.000Z",
+        "description": "ENFJ ｜直男｜运动&做饭",
+        "id": "1534758614065627136",
+        "location": "上海",
+        "name": "大写的巫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990332961565323266/_U8owkmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 18,
+          "like_count": 3854,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 626
+        },
+        "username": "Daxiedewu11",
+        "verified": false
+      }
+    ]
+  }
+}

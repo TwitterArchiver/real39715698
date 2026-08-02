@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2017509428149538927",
+    "created_at": "2026-01-31T08:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T09:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017511933617037489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1875024920318713856",
+          "start": 0,
+          "username": "CoAd1ceking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017511933617037489",
+    "in_reply_to_user_id": "1875024920318713856",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017509428149538927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CoAd1ceking no——"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2017509428149538927",
+        "created_at": "2026-01-31T08:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T09:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017511933617037489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1875024920318713856",
+              "start": 0,
+              "username": "CoAd1ceking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017511933617037489",
+        "in_reply_to_user_id": "1875024920318713856",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017509428149538927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoAd1ceking no——"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875024920318713856",
+        "conversation_id": "2017509428149538927",
+        "created_at": "2026-01-31T08:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T09:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017509428149538927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017509428149538927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。我眼镜不会特么落在网吧了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 78,
+          "like_count": 1309,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 714
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T03:42:37.000Z",
+        "description": "=我永远在你眼里是那种家伙｜不知道叫我什么可以叫我恋恋｜",
+        "id": "1875024920318713856",
+        "name": "性单恋",
+        "pinned_tweet_id": "1918503448506691674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017482361546608640/Y-4A6OhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 165,
+          "like_count": 21656,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 3936
+        },
+        "username": "CoAd1ceking",
+        "verified": false
+      }
+    ]
+  }
+}

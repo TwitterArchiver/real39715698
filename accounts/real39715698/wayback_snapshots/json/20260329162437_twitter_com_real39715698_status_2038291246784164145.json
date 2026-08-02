@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2038232223850389671",
+    "created_at": "2026-03-29T16:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T17:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038291246784164145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1700262671637999616",
+          "start": 0,
+          "username": "Cutexiovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038291246784164145",
+    "in_reply_to_user_id": "1700262671637999616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038289208788558318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cutexiovo 我知道啦宝宝！其实我已经没有很在意他了！只是心里一直很介意他当时最后给我不联系的理由是因为我看起来太喜欢他了，然后有被他说的这个影响到心态ᴛ ᴛ当然现在肯定没有喜欢他或者还在意他啦！谢谢溪溪宝宝安慰我呀(๑&gt; &lt;๑）我亲亲你亲亲你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2038232223850389671",
+        "created_at": "2026-03-29T16:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038291246784164145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1700262671637999616",
+              "start": 0,
+              "username": "Cutexiovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038291246784164145",
+        "in_reply_to_user_id": "1700262671637999616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038289208788558318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cutexiovo 我知道啦宝宝！其实我已经没有很在意他了！只是心里一直很介意他当时最后给我不联系的理由是因为我看起来太喜欢他了，然后有被他说的这个影响到心态ᴛ ᴛ当然现在肯定没有喜欢他或者还在意他啦！谢谢溪溪宝宝安慰我呀(๑&gt; &lt;๑）我亲亲你亲亲你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700262671637999616",
+        "conversation_id": "2038232223850389671",
+        "created_at": "2026-03-29T16:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038289208788558318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038289208788558318",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038232223850389671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 因为他是坏b找女朋友只为自己爽。这种自私鬼我们不用太去在意他的宝宝。我们小雨雨这么可爱这么萌这么好的一个小女孩会遇到更好的，不要再因为那些无关紧要的垃圾影响自己的好心情了小宝宝 亲亲你呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 101,
+          "like_count": 6256,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1298
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T21:39:57.000Z",
+        "description": "(′。-ω(-ω-。`) @Puffey0v0只过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "Puffey0v0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xixiowo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xixiowo",
+                "start": 0,
+                "url": "https://t.co/pWfxXkENoj"
+              }
+            ]
+          }
+        },
+        "id": "1700262671637999616",
+        "location": "🚪88纯绿过小号关注+v",
+        "name": "想变可爱",
+        "pinned_tweet_id": "2035419769797746845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032155018737168384/LK3EMLGE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 102,
+          "like_count": 7651,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 650
+        },
+        "url": "https://t.co/pWfxXkENoj",
+        "username": "Cutexiovo",
+        "verified": false
+      }
+    ]
+  }
+}

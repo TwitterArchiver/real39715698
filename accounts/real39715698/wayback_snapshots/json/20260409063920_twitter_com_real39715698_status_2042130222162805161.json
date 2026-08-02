@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2042128863971700887",
+    "created_at": "2026-04-09T06:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T07:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042130222162805161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1804213612619403271",
+          "start": 0,
+          "username": "Yenian001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042130222162805161",
+    "in_reply_to_user_id": "1804213612619403271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042128863971700887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yenian001 我这种极品辣条音可以叫吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2042128863971700887",
+        "created_at": "2026-04-09T06:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042130222162805161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1804213612619403271",
+              "start": 0,
+              "username": "Yenian001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042130222162805161",
+        "in_reply_to_user_id": "1804213612619403271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042128863971700887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yenian001 我这种极品辣条音可以叫吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804213612619403271",
+        "conversation_id": "2042128863971700887",
+        "created_at": "2026-04-09T06:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042128863971700887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042128863971700887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇塞…语音功能终于又回来了，我命令所有青年音立刻马上打开聊天框叫妈妈，声音难听的不许来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 140,
+          "like_count": 10040,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1748
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T18:03:58.000Z",
+        "description": "该怎么形容小婷呢 可爱的 天真的 灵动的 独一无二的",
+        "id": "1804213612619403271",
+        "name": "你坏也好可爱",
+        "pinned_tweet_id": "2041166521519734974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991539613043945483/BptXYN1n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 55,
+          "like_count": 474,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 285
+        },
+        "username": "Yenian001",
+        "verified": false
+      }
+    ]
+  }
+}

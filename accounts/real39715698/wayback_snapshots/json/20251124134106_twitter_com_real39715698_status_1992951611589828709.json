@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1992951611589828709",
+    "created_at": "2025-11-24T13:41:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T14:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992951611589828709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/buyaochilea/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/buyaochilea/status/1991837753605226723",
+          "start": 16,
+          "url": "https://t.co/nXzhOBps65"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992951611589828709",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991837753605226723",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我有恋哥癖我有恋哥癖我有恋哥癖 https://t.co/nXzhOBps65"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1991837732835131392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Rt3WPbgAAS8Sf.jpg",
+        "width": 706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1992951611589828709",
+        "created_at": "2025-11-24T13:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992951611589828709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/buyaochilea/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/buyaochilea/status/1991837753605226723",
+              "start": 16,
+              "url": "https://t.co/nXzhOBps65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992951611589828709",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991837753605226723",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我有恋哥癖我有恋哥癖我有恋哥癖 https://t.co/nXzhOBps65"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991837732835131392"
+          ]
+        },
+        "author_id": "1653083358254235648",
+        "conversation_id": "1991837753605226723",
+        "created_at": "2025-11-21T11:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T12:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991837753605226723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iTwtKhHGT4",
+              "end": 23,
+              "expanded_url": "https://x.com/buyaochilea/status/1991837753605226723/photo/1",
+              "media_key": "3_1991837732835131392",
+              "start": 0,
+              "url": "https://t.co/iTwtKhHGT4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991837753605226723",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1136,
+          "impression_count": 688839,
+          "like_count": 10924,
+          "quote_count": 19,
+          "reply_count": 74,
+          "retweet_count": 252
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iTwtKhHGT4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1952695269616910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990014207287508992/I8TKk0DW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 81,
+          "like_count": 598,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 471
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T17:06:17.000Z",
+        "description": "bg写手｜不授权｜🚫任何形式的抄袭/抄梗/融梗/借梗/AI🚫｜食用前请看【亮点】｜约稿私信@tounaolengjing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "tounaolengjing"
+              }
+            ]
+          }
+        },
+        "id": "1653083358254235648",
+        "location": "不接推广/商务",
+        "name": "别头脑发热了",
+        "pinned_tweet_id": "1925096582569198016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983192973644091392/2vrseD7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177188,
+          "following_count": 23,
+          "like_count": 1511,
+          "listed_count": 164,
+          "media_count": 255,
+          "tweet_count": 777
+        },
+        "username": "buyaochilea",
+        "verified": true
+      }
+    ]
+  }
+}

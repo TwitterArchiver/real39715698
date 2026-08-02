@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2007852520899817756",
+    "created_at": "2026-01-04T16:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T17:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007852520899817756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1809861863804723200",
+          "start": 3,
+          "username": "wegi0613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007852520899817756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007498848181359046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wegi0613: 今年你一共叫了182500次哥哥，恭喜提名“没了哥哥我真不行”奖。有35860次在叫完“哥哥”之后，你会说“我想你了”。你热衷于在任何地方喊哥哥，在过去的一年里有99%的时间你遇到事情就喊哥。有一天很特别，凌晨3:35你还在说“哥哥我爱你”，你的恋哥…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2007852520899817756",
+        "created_at": "2026-01-04T16:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T17:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007852520899817756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1809861863804723200",
+              "start": 3,
+              "username": "wegi0613"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007852520899817756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007498848181359046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wegi0613: 今年你一共叫了182500次哥哥，恭喜提名“没了哥哥我真不行”奖。有35860次在叫完“哥哥”之后，你会说“我想你了”。你热衷于在任何地方喊哥哥，在过去的一年里有99%的时间你遇到事情就喊哥。有一天很特别，凌晨3:35你还在说“哥哥我爱你”，你的恋哥…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809861863804723200",
+        "conversation_id": "2007498848181359046",
+        "created_at": "2026-01-03T17:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T18:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007498848181359046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007498848181359046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 11426,
+          "like_count": 327,
+          "quote_count": 16,
+          "reply_count": 1,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "今年你一共叫了182500次哥哥，恭喜提名“没了哥哥我真不行”奖。有35860次在叫完“哥哥”之后，你会说“我想你了”。你热衷于在任何地方喊哥哥，在过去的一年里有99%的时间你遇到事情就喊哥。有一天很特别，凌晨3:35你还在说“哥哥我爱你”，你的恋哥专注度超越99%的妹妹，新的一年和哥哥继续幸福地在一起吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "希望你天天开心",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 72,
+          "like_count": 822,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 563
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T08:08:32.000Z",
+        "description": "我不是开玩笑我是真的有傻逼恐惧症我看到傻逼的话就有种嗓子眼被堵上的感觉喘不上气来头像炸了一样但我还是要忍受着傻逼活下去啊我又不能把他们都杀掉不想死的话亲们都闭上嘴好好生活吧",
+        "id": "1809861863804723200",
+        "name": "wegi",
+        "pinned_tweet_id": "2001813724039110671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972252482362658816/oXpiw33J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 93,
+          "like_count": 11155,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2447
+        },
+        "username": "wegi0613",
+        "verified": false
+      }
+    ]
+  }
+}

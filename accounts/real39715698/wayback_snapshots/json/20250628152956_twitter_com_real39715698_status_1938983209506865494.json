@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1938975696833200483",
+    "created_at": "2025-06-28T15:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T16:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938983209506865494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1612854174714302466",
+          "start": 0,
+          "username": "gu87734192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938983209506865494",
+    "in_reply_to_user_id": "1612854174714302466",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 690,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938975696833200483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu87734192 听的我真是爽死了哥哥^^"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 615833,
+        "height": 480,
+        "media_key": "13_1938975555103412224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938975555103412224/img/Nwwh6uR4mCzg50MU.jpg",
+        "public_metrics": {
+          "view_count": 8843
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938975555103412224/vid/avc1/320x320/I7OLjW1z8Bd-nlyc.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938975555103412224/vid/avc1/480x480/elyGDKEFYgmxuQBW.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938975555103412224/pl/xX3zZG5q_uoVFYQt.m3u8?tag=14&v=084"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1938975696833200483",
+        "created_at": "2025-06-28T15:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T16:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938983209506865494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1612854174714302466",
+              "start": 0,
+              "username": "gu87734192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938983209506865494",
+        "in_reply_to_user_id": "1612854174714302466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 690,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938975696833200483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu87734192 听的我真是爽死了哥哥^^"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938975555103412224"
+          ]
+        },
+        "author_id": "1612854174714302466",
+        "conversation_id": "1938975696833200483",
+        "created_at": "2025-06-28T15:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T16:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938975696833200483"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "男喘"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "纯喘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/74UXfZEQuQ",
+              "end": 39,
+              "expanded_url": "https://x.com/gu87734192/status/1938975696833200483/video/1",
+              "media_key": "13_1938975555103412224",
+              "start": 16,
+              "url": "https://t.co/74UXfZEQuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938975696833200483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 24008,
+          "like_count": 354,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "超绝纯喘来了！\n#男喘 ＃纯喘 https://t.co/74UXfZEQuQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933977754120474624/RWP6FLXG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 53,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 31
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T16:49:50.000Z",
+        "description": "接定制 加v有🚪66\n接陪🥣\n抖音 21943386284\n匿名箱:  https://t.co/feCyxvpgDl\n自用喵叽加速器 高速 稳定 强推：https://t.co/LkGaa7s2XN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gu8773419221",
+                "end": 59,
+                "expanded_url": "https://ngl.link/gu8773419221",
+                "start": 36,
+                "url": "https://t.co/feCyxvpgDl"
+              },
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 100,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=MCRkRBkO",
+                "start": 77,
+                "url": "https://t.co/LkGaa7s2XN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gu87734192.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://gu87734192.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/HjWcbeecYw"
+              }
+            ]
+          }
+        },
+        "id": "1612854174714302466",
+        "location": "河南",
+        "name": "念",
+        "pinned_tweet_id": "1878996127103803653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766545216583196672/aC28okYz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19787,
+          "following_count": 59,
+          "like_count": 1155,
+          "listed_count": 31,
+          "media_count": 293,
+          "tweet_count": 1458
+        },
+        "url": "https://t.co/HjWcbeecYw",
+        "username": "gu87734192",
+        "verified": false
+      }
+    ]
+  }
+}

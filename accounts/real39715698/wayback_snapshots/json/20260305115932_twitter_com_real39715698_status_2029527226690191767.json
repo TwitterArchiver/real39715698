@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2029526786246324241",
+    "created_at": "2026-03-05T11:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T12:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029527226690191767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1455934423614963716",
+          "start": 0,
+          "username": "jack26116326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029527226690191767",
+    "in_reply_to_user_id": "1455934423614963716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029526786246324241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jack26116326 我之前看他们说是和平分手的前任（双方没有发展新关系）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2029526786246324241",
+        "created_at": "2026-03-05T11:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T12:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029527226690191767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1455934423614963716",
+              "start": 0,
+              "username": "jack26116326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029527226690191767",
+        "in_reply_to_user_id": "1455934423614963716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029526786246324241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jack26116326 我之前看他们说是和平分手的前任（双方没有发展新关系）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455934423614963716",
+        "conversation_id": "2029526786246324241",
+        "created_at": "2026-03-05T11:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T12:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029526786246324241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029526786246324241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界上怎么没有可以卖萌可以犯贱还能调情的关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 87,
+          "like_count": 3359,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1027
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T16:26:38.000Z",
+        "description": "瓦历史神一接中三下三代打接陪玩其他游戏看情况接 点单私我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xkkk16579",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xkkk16579",
+                "start": 0,
+                "url": "https://t.co/Ym5WMKEryV"
+              }
+            ]
+          }
+        },
+        "id": "1455934423614963716",
+        "location": "🚪18",
+        "name": "xkkk",
+        "pinned_tweet_id": "2029023321304830248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024114539537760256/mdQyfzCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 49,
+          "like_count": 1100,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 435
+        },
+        "url": "https://t.co/Ym5WMKEryV",
+        "username": "jack26116326",
+        "verified": false
+      }
+    ]
+  }
+}

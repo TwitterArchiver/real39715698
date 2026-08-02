@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2030643181680030150",
+    "created_at": "2026-03-08T13:53:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T14:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030643181680030150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2002241057241907200",
+          "start": 3,
+          "username": "xiaoxiongOvO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030643181680030150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030630100765659416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoxiongOvO_: 我喜欢我能强烈感觉到对方是喜欢我的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2030643181680030150",
+        "created_at": "2026-03-08T13:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T14:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030643181680030150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2002241057241907200",
+              "start": 3,
+              "username": "xiaoxiongOvO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030643181680030150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030630100765659416",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoxiongOvO_: 我喜欢我能强烈感觉到对方是喜欢我的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002241057241907200",
+        "conversation_id": "2030630100765659416",
+        "created_at": "2026-03-08T13:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T14:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030630100765659416"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030630100765659416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢我能强烈感觉到对方是喜欢我的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 89,
+          "like_count": 3638,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1044
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T04:54:10.000Z",
+        "description": "鹅鸭杀梦女 文案复制来的",
+        "id": "2002241057241907200",
+        "location": "纯绿🚪88",
+        "name": "小熊（鹅鸭杀何时统治地球）",
+        "pinned_tweet_id": "2014653827384016985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015334768427327488/88zT6ZTd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 48,
+          "like_count": 5398,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 3580
+        },
+        "username": "xiaoxiongOvO_",
+        "verified": false
+      }
+    ]
+  }
+}

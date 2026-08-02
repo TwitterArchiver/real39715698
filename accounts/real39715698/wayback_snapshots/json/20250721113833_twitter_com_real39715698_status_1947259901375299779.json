@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1947248390057640350",
+    "created_at": "2025-07-21T11:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T12:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947259901375299779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1926113681240100864",
+          "start": 0,
+          "username": "Yebishu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947259901375299779",
+    "in_reply_to_user_id": "1926113681240100864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947248390057640350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yebishu_ 宝宝宠宠我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1947248390057640350",
+        "created_at": "2025-07-21T11:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T12:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947259901375299779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1926113681240100864",
+              "start": 0,
+              "username": "Yebishu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947259901375299779",
+        "in_reply_to_user_id": "1926113681240100864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947248390057640350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yebishu_ 宝宝宠宠我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926113681240100864",
+        "conversation_id": "1947248390057640350",
+        "created_at": "2025-07-21T10:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T11:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947248390057640350"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947248390057640350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2863,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小蛋糕们，你们真不许叫男喘老公了，咱就爱听的听听，也别花钱！！想给男喘花钱就把那个钱拿去做慈善！被迫又看到一个男喘长相和吨位，是北🌊的两倍宽...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 70,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 173
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T03:11:12.000Z",
+        "description": "只和有道德的人玩｜骂我替我挡灾",
+        "id": "1926113681240100864",
+        "name": "树莓卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946592963309535232/i4uAZuyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 5,
+          "like_count": 753,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 116
+        },
+        "username": "Yebishu_",
+        "verified": false
+      }
+    ]
+  }
+}

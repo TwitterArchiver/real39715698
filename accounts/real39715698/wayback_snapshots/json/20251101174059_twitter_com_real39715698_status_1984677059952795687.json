@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1984673784541122602",
+    "created_at": "2025-11-01T17:40:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T18:40:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984677059952795687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1778896067171655680",
+          "start": 0,
+          "username": "Pop0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984677059952795687",
+    "in_reply_to_user_id": "1778896067171655680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984673784541122602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pop0v0 煮啵我的也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1984673784541122602",
+        "created_at": "2025-11-01T17:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T18:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984677059952795687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1778896067171655680",
+              "start": 0,
+              "username": "Pop0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984677059952795687",
+        "in_reply_to_user_id": "1778896067171655680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984673784541122602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pop0v0 煮啵我的也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778896067171655680",
+        "conversation_id": "1984673784541122602",
+        "created_at": "2025-11-01T17:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T18:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984673784541122602"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984673784541122602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主播 为什么给我上的幸福链接是盗版"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1952695269616910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980654074484731904/B7DmcC9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 76,
+          "like_count": 424,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 400
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T21:20:57.000Z",
+        "description": "盗图存图替我挡灾 4000+",
+        "id": "1778896067171655680",
+        "name": "鱿鱼男主",
+        "pinned_tweet_id": "1979561751990730806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984286792217243648/WR2M2S1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 269,
+          "like_count": 14564,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 599
+        },
+        "username": "Pop0v0",
+        "verified": false
+      }
+    ]
+  }
+}

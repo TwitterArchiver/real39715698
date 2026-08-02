@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1974468218388713734",
+    "created_at": "2025-10-04T18:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T19:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974548549812748486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1869932876084719617",
+          "start": 0,
+          "username": "Inosukee017"
+        },
+        {
+          "end": 28,
+          "id": "1855320637403025408",
+          "start": 13,
+          "username": "tudouhaochi111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974548549812748486",
+    "in_reply_to_user_id": "1869932876084719617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974468218388713734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inosukee017 @tudouhaochi111 想你了哥哥 就这个兄妹骨爽🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 420708,
+        "height": 720,
+        "media_key": "13_1974468026386022400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1974468026386022400/img/VAnz_0IvPjYH9X6L.jpg",
+        "public_metrics": {
+          "view_count": 1761
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974468026386022400/vid/avc1/320x320/cVXv7T4UdqUUyGes.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974468026386022400/vid/avc1/540x540/eAohiqELd7xW69W2.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974468026386022400/vid/avc1/720x720/p_1e1QEeWZDmwsVP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1974468026386022400/pl/bLwFiznTNVzgGaot.m3u8?v=792"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1974468218388713734",
+        "created_at": "2025-10-04T18:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T19:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974548549812748486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1869932876084719617",
+              "start": 0,
+              "username": "Inosukee017"
+            },
+            {
+              "end": 28,
+              "id": "1855320637403025408",
+              "start": 13,
+              "username": "tudouhaochi111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974548549812748486",
+        "in_reply_to_user_id": "1869932876084719617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974468218388713734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inosukee017 @tudouhaochi111 想你了哥哥 就这个兄妹骨爽🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1974468026386022400"
+          ]
+        },
+        "author_id": "1869932876084719617",
+        "conversation_id": "1974468218388713734",
+        "created_at": "2025-10-04T13:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T14:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974468218388713734"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "男喘"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "青年音"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "青年"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1855320637403025408",
+              "start": 20,
+              "username": "tudouhaochi111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UzkMTvnrGu",
+              "end": 74,
+              "expanded_url": "https://x.com/Inosukee017/status/1974468218388713734/video/1",
+              "media_key": "13_1974468026386022400",
+              "start": 51,
+              "url": "https://t.co/UzkMTvnrGu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974468218388713734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 5267,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "兄妹又怎么样…能操爽你就够了\n\n台本老师@tudouhaochi111 \n\n#男喘 #青年音 #青年 https://t.co/UzkMTvnrGu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950788203742703617/m3VNyVQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 78,
+          "like_count": 319,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 302
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T02:28:44.000Z",
+        "description": "青年 接连麦 瓦🥣 匿名https://t.co/HImSeDm26m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inosukee62241",
+                "end": 35,
+                "expanded_url": "https://ngl.link/inosukee62241",
+                "start": 12,
+                "url": "https://t.co/HImSeDm26m"
+              }
+            ]
+          }
+        },
+        "id": "1869932876084719617",
+        "location": "🚪52/188（52好友位/188定制音频*3 周更）",
+        "name": "Inosukee",
+        "pinned_tweet_id": "1934297618907312384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927959273163870212/bijajG3c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6238,
+          "following_count": 42,
+          "like_count": 271,
+          "listed_count": 7,
+          "media_count": 62,
+          "tweet_count": 175
+        },
+        "username": "Inosukee017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T18:45:05.000Z",
+        "description": "有喜欢的人了丨无小号丨文笔不好但爱写点性幻想🔞丨一只brat 丨可以叫我小面或者泥泥丨讨厌的评论会直接屏蔽丨无门槛丨不加v丨⚠️录本请私信我要授权",
+        "id": "1855320637403025408",
+        "name": "土豆泥泥面",
+        "pinned_tweet_id": "1969009859015094686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898738962975633408/gCCABuGU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23677,
+          "following_count": 190,
+          "like_count": 789,
+          "listed_count": 27,
+          "media_count": 234,
+          "tweet_count": 1744
+        },
+        "username": "tudouhaochi111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041063872149487617"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2041063880676487340",
+    "created_at": "2026-04-06T08:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T09:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041063880676487340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PTnMz4mH9S",
+          "end": 34,
+          "expanded_url": "https://x.com/real39715698/status/2041063880676487340/photo/1",
+          "media_key": "3_2041063872149487617",
+          "start": 11,
+          "url": "https://t.co/PTnMz4mH9S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041063880676487340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "四个小女孩飙高音中。 https://t.co/PTnMz4mH9S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041063872149487617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNQxxdagAE38I-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041063872149487617"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041063880676487340",
+        "created_at": "2026-04-06T08:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041063880676487340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PTnMz4mH9S",
+              "end": 34,
+              "expanded_url": "https://x.com/real39715698/status/2041063880676487340/photo/1",
+              "media_key": "3_2041063872149487617",
+              "start": 11,
+              "url": "https://t.co/PTnMz4mH9S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041063880676487340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "四个小女孩飙高音中。 https://t.co/PTnMz4mH9S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 127,
+          "like_count": 8942,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1583
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

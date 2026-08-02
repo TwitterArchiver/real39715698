@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2014740840170795082",
+    "created_at": "2026-01-23T16:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T17:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014742130288406941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1596108836750135296",
+          "start": 0,
+          "username": "Neverlatebb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014742130288406941",
+    "in_reply_to_user_id": "1596108836750135296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014741379633852674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neverlatebb 其实是我的业绩很好🤓上个月业绩第一呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2014740840170795082",
+        "created_at": "2026-01-23T16:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T17:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014742130288406941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1596108836750135296",
+              "start": 0,
+              "username": "Neverlatebb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014742130288406941",
+        "in_reply_to_user_id": "1596108836750135296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014741379633852674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neverlatebb 其实是我的业绩很好🤓上个月业绩第一呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596108836750135296",
+        "conversation_id": "2014740840170795082",
+        "created_at": "2026-01-23T16:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T17:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014741379633852674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014741379633852674",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014740840170795082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 果然加班还是值得的吧！hhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 73,
+          "like_count": 1033,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 621
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T11:49:42.000Z",
+        "description": "Attention is all you need",
+        "id": "1596108836750135296",
+        "name": "Lay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958112196254416896/YAcvGK7j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 16,
+          "like_count": 997,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 238
+        },
+        "username": "Neverlatebb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2049748038403657739",
+    "created_at": "2026-04-30T07:15:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T08:15:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049749526031061002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049445875517423616",
+          "start": 0,
+          "username": "fuka0419o0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049749526031061002",
+    "in_reply_to_user_id": "2049445875517423616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049749326109589949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuka0419o0 不是喜不喜欢女孩的问题啊 这个梦太恶俗了 在梦里我的几把断了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2049748038403657739",
+        "created_at": "2026-04-30T07:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049749526031061002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049445875517423616",
+              "start": 0,
+              "username": "fuka0419o0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049749526031061002",
+        "in_reply_to_user_id": "2049445875517423616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049749326109589949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuka0419o0 不是喜不喜欢女孩的问题啊 这个梦太恶俗了 在梦里我的几把断了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049445875517423616",
+        "conversation_id": "2049748038403657739",
+        "created_at": "2026-04-30T07:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049749326109589949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049749326109589949",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049748038403657739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 該不會其實喜歡女的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 177,
+          "like_count": 16202,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 2488
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T11:11:34.000Z",
+        "description": "全橋相移\n新帳號，不是詐騙不是機器人。23歲男的，搞電路的。夢想是玩遍世界。喜歡創作，但就像便祕一樣有東西出不來。",
+        "id": "2049445875517423616",
+        "name": "LLC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049450220807917568/27DgzlDE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 91,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 68
+        },
+        "username": "fuka0419o0",
+        "verified": false
+      }
+    ]
+  }
+}

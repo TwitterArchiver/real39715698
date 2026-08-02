@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2047364529869492259",
+    "created_at": "2026-04-23T17:21:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T18:21:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047365343308583017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2040418548909268992",
+          "start": 0,
+          "username": "catdogwlrd123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047365343308583017",
+    "in_reply_to_user_id": "2040418548909268992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047364529869492259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catdogwlrd123 棒！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2047364529869492259].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2047364529869492259",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2047364529869492259"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2047364529869492259",
+        "created_at": "2026-04-23T17:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047365343308583017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2040418548909268992",
+              "start": 0,
+              "username": "catdogwlrd123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047365343308583017",
+        "in_reply_to_user_id": "2040418548909268992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047364529869492259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catdogwlrd123 棒！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 174,
+          "like_count": 14492,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 2256
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T13:20:02.000Z",
+        "description": "神之忧郁",
+        "id": "2040418548909268992",
+        "name": "dio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043913867563282432/6Y7CFN1Y_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 0,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 228
+        },
+        "username": "catdogwlrd123",
+        "verified": false
+      }
+    ]
+  }
+}

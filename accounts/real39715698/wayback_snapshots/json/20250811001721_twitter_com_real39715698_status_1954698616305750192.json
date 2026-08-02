@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1954592282784772257",
+    "created_at": "2025-08-11T00:17:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T01:17:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954698616305750192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1835071451273347074",
+          "start": 0,
+          "username": "chapin3234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954698616305750192",
+    "in_reply_to_user_id": "1835071451273347074",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954595831962800576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chapin3234 玩呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1954592282784772257",
+        "created_at": "2025-08-11T00:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T01:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954698616305750192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1835071451273347074",
+              "start": 0,
+              "username": "chapin3234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954698616305750192",
+        "in_reply_to_user_id": "1835071451273347074",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954595831962800576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chapin3234 玩呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835071451273347074",
+        "conversation_id": "1954592282784772257",
+        "created_at": "2025-08-10T17:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T18:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954595831962800576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954595831962800576",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954592282784772257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 所以还玩吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950788203742703617/m3VNyVQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 78,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 242
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T21:42:04.000Z",
+        "description": "我爱发啥发啥/来提问https://t.co/pSHoqE4OJU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chapin61393",
+                "end": 33,
+                "expanded_url": "https://ngl.link/chapin61393",
+                "start": 10,
+                "url": "https://t.co/pSHoqE4OJU"
+              }
+            ]
+          }
+        },
+        "id": "1835071451273347074",
+        "name": "超人不会飞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954110668569006080/-ECjQSU1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 107,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 88
+        },
+        "username": "chapin3234",
+        "verified": false
+      }
+    ]
+  }
+}

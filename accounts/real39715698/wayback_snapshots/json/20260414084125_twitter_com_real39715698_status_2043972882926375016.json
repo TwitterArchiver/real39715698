@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2043970198466855380",
+    "created_at": "2026-04-14T08:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043972882926375016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1875024920318713856",
+          "start": 0,
+          "username": "Exh4ustOfL0v3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043972882926375016",
+    "in_reply_to_user_id": "1875024920318713856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043970198466855380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Exh4ustOfL0v3 其实我床上经验很丰富的，也有过很多床伴，比如我的棉被，我的空调被，我的夏凉被，我的毛毯，我的记忆棉枕头，我的靠枕和我哥哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2043970198466855380",
+        "created_at": "2026-04-14T08:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043972882926375016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1875024920318713856",
+              "start": 0,
+              "username": "Exh4ustOfL0v3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043972882926375016",
+        "in_reply_to_user_id": "1875024920318713856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043970198466855380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exh4ustOfL0v3 其实我床上经验很丰富的，也有过很多床伴，比如我的棉被，我的空调被，我的夏凉被，我的毛毯，我的记忆棉枕头，我的靠枕和我哥哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875024920318713856",
+        "conversation_id": "2043970198466855380",
+        "created_at": "2026-04-14T08:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043970198466855380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043970198466855380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我床上经验很丰富的，也有过很多床伴，比如我的棉被，我的空调被，我的夏凉被，我的毛毯，我的记忆棉枕头，我的靠枕和我妹妹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "你走后我的世界模糊一片 看心情过@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 155,
+          "like_count": 11458,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 1978
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T03:42:37.000Z",
+        "description": "我不喜欢疼痛",
+        "id": "1875024920318713856",
+        "name": "性单恋",
+        "pinned_tweet_id": "1918503448506691674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043866037691789312/Hsj8t-xX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 161,
+          "like_count": 22845,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 4222
+        },
+        "username": "Exh4ustOfL0v3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1940794639902298210",
+    "created_at": "2025-07-03T16:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T17:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940805069827645791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1894851192179826688",
+          "start": 0,
+          "username": "7y6U0k49Eu66649"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940805069827645791",
+    "in_reply_to_user_id": "1894851192179826688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940800560057536843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7y6U0k49Eu66649 不是很推荐 改得乱七八糟的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1940794639902298210",
+        "created_at": "2025-07-03T16:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T17:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940805069827645791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1894851192179826688",
+              "start": 0,
+              "username": "7y6U0k49Eu66649"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940805069827645791",
+        "in_reply_to_user_id": "1894851192179826688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940800560057536843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7y6U0k49Eu66649 不是很推荐 改得乱七八糟的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894851192179826688",
+        "conversation_id": "1940794639902298210",
+        "created_at": "2025-07-03T15:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T16:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940800560057536843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940800560057536843",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940794639902298210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 现在还推荐回坑吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933977754120474624/RWP6FLXG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 62,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 65
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T20:45:22.000Z",
+        "description": "",
+        "id": "1894851192179826688",
+        "name": "魏启",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894854275508953089/yyirfIxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 7,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 671
+        },
+        "username": "7y6U0k49Eu66649",
+        "verified": false
+      }
+    ]
+  }
+}

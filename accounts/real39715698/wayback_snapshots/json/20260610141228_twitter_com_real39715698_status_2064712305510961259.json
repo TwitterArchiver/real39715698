@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2064710663721615729",
+    "created_at": "2026-06-10T14:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064712305510961259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1759061197264130048",
+          "start": 0,
+          "username": "zici369218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064712305510961259",
+    "in_reply_to_user_id": "1759061197264130048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064710663721615729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zici369218 叽里咕噜说的啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2064710663721615729",
+        "created_at": "2026-06-10T14:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064712305510961259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1759061197264130048",
+              "start": 0,
+              "username": "zici369218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064712305510961259",
+        "in_reply_to_user_id": "1759061197264130048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064710663721615729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zici369218 叽里咕噜说的啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759061197264130048",
+        "conversation_id": "2064710663721615729",
+        "created_at": "2026-06-10T14:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064710663721615729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064710663721615729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小师妹说我一个合体期偷了她的筑基丹，全宗上下都一眼看出来这是弱智绿茶行为；\n但是她的筑基丹确实是我偷的，就为了好玩；\n其实全宗上下都知道是我偷的，因为每个弟子入门时我都偷过；\n然而他们必须说小师妹是诬陷我，因为谁站出来我下次就会偷谁的东西，他们还拿我没办法。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 200,
+          "like_count": 22579,
+          "listed_count": 1,
+          "media_count": 333,
+          "tweet_count": 3187
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T03:44:18.000Z",
+        "description": "社交孤儿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zici87532",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zici87532",
+                "start": 0,
+                "url": "https://t.co/niPLoAJulI"
+              }
+            ]
+          }
+        },
+        "id": "1759061197264130048",
+        "location": "我的世界在下雨",
+        "name": "雨",
+        "pinned_tweet_id": "2058735813651730880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063684754252472320/s3DHohpA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 142,
+          "like_count": 7480,
+          "listed_count": 2,
+          "media_count": 342,
+          "tweet_count": 5567
+        },
+        "url": "https://t.co/niPLoAJulI",
+        "username": "zici369218",
+        "verified": false
+      }
+    ]
+  }
+}

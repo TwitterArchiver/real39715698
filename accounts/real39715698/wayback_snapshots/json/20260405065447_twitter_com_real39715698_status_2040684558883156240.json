@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2040675720469565613",
+    "created_at": "2026-04-05T06:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T07:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040684558883156240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1836956509223395328",
+          "start": 0,
+          "username": "wee30o8369"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040684558883156240",
+    "in_reply_to_user_id": "1836956509223395328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040683209546141769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wee30o8369 谢谢你呀老师 -⩊-"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2040675720469565613",
+        "created_at": "2026-04-05T06:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T07:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040684558883156240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1836956509223395328",
+              "start": 0,
+              "username": "wee30o8369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040684558883156240",
+        "in_reply_to_user_id": "1836956509223395328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040683209546141769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wee30o8369 谢谢你呀老师 -⩊-"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836956509223395328",
+        "conversation_id": "2040675720469565613",
+        "created_at": "2026-04-05T06:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T07:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040683209546141769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040683209546141769",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040675720469565613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 小雨，你任性、无理取闹、都没关系，你怎么样都可爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 124,
+          "like_count": 8567,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1546
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T02:32:23.000Z",
+        "description": "ENTJ每日发狂 纯发狂 我是直男直男 不约 不互看 不要问我奇怪的问题 别说奇怪的话 只是来发泄 想喵喵天可以直接私 欢迎把我当树洞\n提问⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/weeo57180",
+                "end": 23,
+                "expanded_url": "https://ngl.link/weeo57180",
+                "start": 0,
+                "url": "https://t.co/aX1X2fZcCZ"
+              }
+            ]
+          }
+        },
+        "id": "1836956509223395328",
+        "name": "Weeo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008205349036380160/DXLy2eu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 101,
+          "like_count": 256,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 139
+        },
+        "url": "https://t.co/aX1X2fZcCZ",
+        "username": "wee30o8369",
+        "verified": false
+      }
+    ]
+  }
+}

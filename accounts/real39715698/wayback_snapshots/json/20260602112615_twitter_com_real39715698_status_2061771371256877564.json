@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2061751700084699510",
+    "created_at": "2026-06-02T11:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061771371256877564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2060080877192015872",
+          "start": 0,
+          "username": "Xgdiww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061771371256877564",
+    "in_reply_to_user_id": "2060080877192015872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061770728840823197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xgdiww 我基本都在1-2楼出的 射手其实还好吧 大部分出的都是跟元辅适配的 但是这个射手玩不玩的好就另说了ᴛ ᴛ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2061751700084699510",
+        "created_at": "2026-06-02T11:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061771371256877564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2060080877192015872",
+              "start": 0,
+              "username": "Xgdiww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061771371256877564",
+        "in_reply_to_user_id": "2060080877192015872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061770728840823197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xgdiww 我基本都在1-2楼出的 射手其实还好吧 大部分出的都是跟元辅适配的 但是这个射手玩不玩的好就另说了ᴛ ᴛ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060080877192015872",
+        "conversation_id": "2061751700084699510",
+        "created_at": "2026-06-02T11:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061770728840823197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061770728840823197",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061751700084699510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 元辅比较吃射手，没有合适的射手逆风了还说干嘛选个元辅哈哈，遇到公孙离这种盾都套不上哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 196,
+          "like_count": 21296,
+          "listed_count": 1,
+          "media_count": 314,
+          "tweet_count": 3039
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T19:29:22.000Z",
+        "description": "",
+        "id": "2060080877192015872",
+        "name": "X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060338005387399168/RHJqCY46_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 10,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "Xgdiww",
+        "verified": false
+      }
+    ]
+  }
+}

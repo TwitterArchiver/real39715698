@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1983587760352194809",
+    "created_at": "2025-10-29T17:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T18:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983587760352194809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1948779307045978112",
+          "start": 3,
+          "username": "Wo2luosifen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983587760352194809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983492764240355809",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wo2luosifen: 亲爱的薄肌男：\n        见字如晤，展信舒颜。\n        喜欢你大概是这个世界上，最独断最没有道理的事了，不是权衡利弊，不是见色起意，而是突然间有了一个你让我牵肠挂肚，割舍不下。你是我安稳岁月里的节外生枝，是我平淡生活里的日月星辰。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1983587760352194809",
+        "created_at": "2025-10-29T17:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T18:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983587760352194809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1948779307045978112",
+              "start": 3,
+              "username": "Wo2luosifen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983587760352194809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983492764240355809",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wo2luosifen: 亲爱的薄肌男：\n        见字如晤，展信舒颜。\n        喜欢你大概是这个世界上，最独断最没有道理的事了，不是权衡利弊，不是见色起意，而是突然间有了一个你让我牵肠挂肚，割舍不下。你是我安稳岁月里的节外生枝，是我平淡生活里的日月星辰。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948779307045978112",
+        "conversation_id": "1983492764240355809",
+        "created_at": "2025-10-29T11:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T12:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983492764240355809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983492764240355809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "亲爱的薄肌男：\n        见字如晤，展信舒颜。\n        喜欢你大概是这个世界上，最独断最没有道理的事了，不是权衡利弊，不是见色起意，而是突然间有了一个你让我牵肠挂肚，割舍不下。你是我安稳岁月里的节外生枝，是我平淡生活里的日月星辰。\n       不管是清晨的日出，还是正午的小憩，又或是漫天星辰的夜晚，我都想和你一起度过。别怀疑我为什么喜欢你，就像鱼恋着海，鸟儿恋着天空，我也不太懂这是什么道理，我想这就好像呼吸，不用练习，只因为是你。\n      遇见你是故事的开始，走到底是余生的欢喜。有一个喜欢的人真是太好了。我浪费光阴虚度岁月的时候，觉得人间不过如此。\n         宝宝，我想了解你的童年， 你过去的伤痛和喜悦， 我偷偷听你喜欢的歌默默记下你的每一个不经意间透露出来的爱好和习惯关注你的星座，喜欢的花，去看你爱看的电影，截图保存关于你的一切，给你买你想吃的东西，  研究你家附近有什么好吃的餐馆或者适合拍照打卡的店铺 ，我爱你，连同你的脆弱庸俗和阴暗面一起。对了，我能摸摸吗。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 8087,
+          "like_count": 103,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "亲爱的薄肌男：\n        见字如晤，展信舒颜。\n        喜欢你大概是这个世界上，最独断最没有道理的事了，不是权衡利弊，不是见色起意，而是突然间有了一个你让我牵肠挂肚，割舍不下。你是我安稳岁月里的节外生枝，是我平淡生活里的日月星辰。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1952695269616910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980654074484731904/B7DmcC9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 76,
+          "like_count": 404,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 385
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T16:16:27.000Z",
+        "description": "超级碎碎念bot 不约不聊不线下不恋不回私信不礼貌回关我不会提供情绪价值 @Ffbbgg00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "Ffbbgg00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iuuio16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iuuio16",
+                "start": 0,
+                "url": "https://t.co/oqtlQVhlDa"
+              }
+            ]
+          }
+        },
+        "id": "1948779307045978112",
+        "location": "关评置顶为推广‼️",
+        "name": "做饭总被烫",
+        "pinned_tweet_id": "1966419446307918085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963483712278171648/e-95DtmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4053,
+          "following_count": 413,
+          "like_count": 44081,
+          "listed_count": 4,
+          "media_count": 403,
+          "tweet_count": 17042
+        },
+        "url": "https://t.co/oqtlQVhlDa",
+        "username": "Wo2luosifen",
+        "verified": true
+      }
+    ]
+  }
+}

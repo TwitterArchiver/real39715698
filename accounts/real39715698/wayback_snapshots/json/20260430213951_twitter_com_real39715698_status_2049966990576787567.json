@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2049958521614279026",
+    "created_at": "2026-04-30T21:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T22:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049966990576787567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1967577014594117632",
+          "start": 0,
+          "username": "Emptymirrror"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049966990576787567",
+    "in_reply_to_user_id": "1967577014594117632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049966244695273632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Emptymirrror 我玩95更是老八走掉。其实我一直研究不明白怎么玩。乱玩一通吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2049958521614279026",
+        "created_at": "2026-04-30T21:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T22:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049966990576787567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1967577014594117632",
+              "start": 0,
+              "username": "Emptymirrror"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049966990576787567",
+        "in_reply_to_user_id": "1967577014594117632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049966244695273632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Emptymirrror 我玩95更是老八走掉。其实我一直研究不明白怎么玩。乱玩一通吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967577014594117632",
+        "conversation_id": "2049958521614279026",
+        "created_at": "2026-04-30T21:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T22:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049966244695273632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049966244695273632",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049965519571435574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 尝试一下玩95之类的呢 应该能更好上分🧐 加油"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 178,
+          "like_count": 16400,
+          "listed_count": 1,
+          "media_count": 255,
+          "tweet_count": 2525
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T13:11:43.000Z",
+        "description": "infp 04 ♓️",
+        "id": "1967577014594117632",
+        "name": "Emp1yovo",
+        "pinned_tweet_id": "2048887458847445040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045060428317982720/RH1hLdUQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 647,
+          "like_count": 5154,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 91
+        },
+        "username": "Emptymirrror",
+        "verified": false
+      }
+    ]
+  }
+}

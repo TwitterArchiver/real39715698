@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2040037078206226573",
+    "created_at": "2026-04-03T12:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T13:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040037808891699656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026700769689550848",
+          "start": 0,
+          "username": "Ningningn6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040037808891699656",
+    "in_reply_to_user_id": "2026700769689550848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040037078206226573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ningningn6 妈妈。我可以埋一下吗妈妈。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2040037063308066816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-q5ocbwAAmBJv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2040037078206226573",
+        "created_at": "2026-04-03T12:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T13:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040037808891699656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026700769689550848",
+              "start": 0,
+              "username": "Ningningn6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040037808891699656",
+        "in_reply_to_user_id": "2026700769689550848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040037078206226573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ningningn6 妈妈。我可以埋一下吗妈妈。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040037063308066816"
+          ]
+        },
+        "author_id": "2026700769689550848",
+        "conversation_id": "2040037078206226573",
+        "created_at": "2026-04-03T12:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T13:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040037078206226573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZJ8NCzSf0s",
+              "end": 33,
+              "expanded_url": "https://x.com/Ningningn6/status/2040037078206226573/photo/1",
+              "media_key": "3_2040037063308066816",
+              "start": 10,
+              "url": "https://t.co/ZJ8NCzSf0s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040037078206226573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么都不干纯发骚。 https://t.co/ZJ8NCzSf0s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 118,
+          "like_count": 8105,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 1492
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T16:49:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yanyan79816",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yanyan79816",
+                "start": 0,
+                "url": "https://t.co/xL9WNAQti7"
+              }
+            ]
+          }
+        },
+        "id": "2026700769689550848",
+        "location": "ㅅㅂ",
+        "name": "偶尔萌经常坏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026701483249750016/pVPShU0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 88,
+          "like_count": 4831,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 609
+        },
+        "url": "https://t.co/xL9WNAQti7",
+        "username": "Ningningn6",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2005682900814180533",
+    "created_at": "2025-12-29T16:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T17:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005682900814180533"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2005682900814180533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我经常会在心里暗暗生气对方没有给我同等的好，我对关系有很严重的分级，我对你特殊的话，你就该也对我特别啊。每次就这样暗自较劲越想越生气然后开始伤心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2005682900814180533",
+        "created_at": "2025-12-29T16:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T17:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005682900814180533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005682900814180533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我经常会在心里暗暗生气对方没有给我同等的好，我对关系有很严重的分级，我对你特殊的话，你就该也对我特别啊。每次就这样暗自较劲越想越生气然后开始伤心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "希望你天天开心",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 72,
+          "like_count": 806,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 552
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

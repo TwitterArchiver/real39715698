@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2055641594205016205",
+    "created_at": "2026-05-16T14:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055650144180380151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1979251596501618688",
+          "start": 0,
+          "username": "foreverabbit77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055650144180380151",
+    "in_reply_to_user_id": "1979251596501618688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055641594205016205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foreverabbit77 世界上怎么有这么萌的兔子，我晕了要兔兔亲亲才能好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055641576081432576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcbH0fboAA63Ct.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2055641594205016205",
+        "created_at": "2026-05-16T14:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055650144180380151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979251596501618688",
+              "start": 0,
+              "username": "foreverabbit77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055650144180380151",
+        "in_reply_to_user_id": "1979251596501618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055641594205016205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foreverabbit77 世界上怎么有这么萌的兔子，我晕了要兔兔亲亲才能好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055641576081432576"
+          ]
+        },
+        "author_id": "1979251596501618688",
+        "conversation_id": "2055641594205016205",
+        "created_at": "2026-05-16T13:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055641594205016205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BjuVGHEPti",
+              "end": 39,
+              "expanded_url": "https://x.com/foreverabbit77/status/2055641594205016205/photo/1",
+              "media_key": "3_2055641576081432576",
+              "start": 16,
+              "url": "https://t.co/BjuVGHEPti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055641594205016205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了见到明天的你所以活过了今天 https://t.co/BjuVGHEPti"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 186,
+          "like_count": 19711,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 2826
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T18:22:21.000Z",
+        "description": "自私无聊只和笨蛋玩",
+        "id": "1979251596501618688",
+        "location": "世界正中",
+        "name": "欺负一只兔子？",
+        "pinned_tweet_id": "2051717745662976491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055088344443535360/x5QXPRE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 118,
+          "like_count": 30800,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 10413
+        },
+        "username": "foreverabbit77",
+        "verified": false
+      }
+    ]
+  }
+}

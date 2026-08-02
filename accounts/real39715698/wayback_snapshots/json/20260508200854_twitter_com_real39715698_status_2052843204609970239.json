@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2052780639204802971",
+    "created_at": "2026-05-08T20:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T21:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052843204609970239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1923558555287945217",
+          "start": 0,
+          "username": "xxxx04xoxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052843204609970239",
+    "in_reply_to_user_id": "1923558555287945217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052839762663506204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxx04xoxo 谢谢你呀小宝宝！早点休息！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2052780639204802971",
+        "created_at": "2026-05-08T20:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T21:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052843204609970239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1923558555287945217",
+              "start": 0,
+              "username": "xxxx04xoxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052843204609970239",
+        "in_reply_to_user_id": "1923558555287945217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052839762663506204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxx04xoxo 谢谢你呀小宝宝！早点休息！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923558555287945217",
+        "conversation_id": "2052780639204802971",
+        "created_at": "2026-05-08T19:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T20:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052839762663506204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052839762663506204",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052780639204802971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 生日快乐^o^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 185,
+          "like_count": 18067,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 2705
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-17T01:58:00.000Z",
+        "description": "早安，午安，晚安",
+        "id": "1923558555287945217",
+        "name": "xx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022705122221211648/E3JCStZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3520,
+          "following_count": 8,
+          "like_count": 597,
+          "listed_count": 34,
+          "media_count": 74,
+          "tweet_count": 265
+        },
+        "username": "xxxx04xoxo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2025776367519031665",
+    "created_at": "2026-02-23T03:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T04:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025776367519031665"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/real81029",
+          "end": 23,
+          "expanded_url": "https://ngl.link/real81029",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2016567130402279425/f8zJBFv1?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2016567130402279425/f8zJBFv1?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "@real: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/real81029",
+          "url": "https://t.co/isazGPBag5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025776367519031665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/isazGPBag5 有没有人能跟我说说话 我这个里面全是人机。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2025776367519031665",
+        "created_at": "2026-02-23T03:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T04:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025776367519031665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/real81029",
+              "end": 23,
+              "expanded_url": "https://ngl.link/real81029",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2016567130402279425/f8zJBFv1?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2016567130402279425/f8zJBFv1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "@real: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/real81029",
+              "url": "https://t.co/isazGPBag5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025776367519031665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/isazGPBag5 有没有人能跟我说说话 我这个里面全是人机。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 86,
+          "like_count": 2275,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 932
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2051299705918050362",
+    "created_at": "2026-05-04T14:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T15:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051306085467017597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1481762141564661761",
+          "start": 0,
+          "username": "iiuyfz1200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051306085467017597",
+    "in_reply_to_user_id": "1481762141564661761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051304165834641788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiuyfz1200 没错！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2051299705918050362",
+        "created_at": "2026-05-04T14:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T15:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051306085467017597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1481762141564661761",
+              "start": 0,
+              "username": "iiuyfz1200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051306085467017597",
+        "in_reply_to_user_id": "1481762141564661761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051304165834641788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiuyfz1200 没错！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481762141564661761",
+        "conversation_id": "2051299705918050362",
+        "created_at": "2026-05-04T14:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T15:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051304165834641788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051304165834641788",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051299705918050362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 谈不到这样的我不会罢休的😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 178,
+          "like_count": 17076,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 2595
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-13T22:56:51.000Z",
+        "description": "你是拍拍屁股走了，那我呢？我也要拍拍你的屁股",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iiuyfz1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iiuyfz1",
+                "start": 0,
+                "url": "https://t.co/WFI9Z6Ytoh"
+              }
+            ]
+          }
+        },
+        "id": "1481762141564661761",
+        "location": "🤓🤓🤓可以匿名箱找我丸↓↓",
+        "name": "下睫毛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045375034643079168/UUjzc_bG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 29,
+          "like_count": 801,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 208
+        },
+        "url": "https://t.co/WFI9Z6Ytoh",
+        "username": "iiuyfz1200",
+        "verified": false
+      }
+    ]
+  }
+}

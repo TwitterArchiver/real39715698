@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2049192370386948180",
+    "created_at": "2026-05-04T17:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T18:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051350147888758912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1655968466967621632",
+          "start": 0,
+          "username": "IhlAzWdUgb24844"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051350147888758912",
+    "in_reply_to_user_id": "1655968466967621632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051348599913771468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IhlAzWdUgb24844 膜拜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 943,
+        "media_key": "3_2051348584449404928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfaq0abcAAzAcE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2049192370386948180",
+        "created_at": "2026-05-04T17:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051350147888758912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1655968466967621632",
+              "start": 0,
+              "username": "IhlAzWdUgb24844"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051350147888758912",
+        "in_reply_to_user_id": "1655968466967621632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051348599913771468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IhlAzWdUgb24844 膜拜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051348584449404928"
+          ]
+        },
+        "author_id": "1655968466967621632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049192370386948180",
+        "created_at": "2026-05-04T17:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051348599913771468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5PmryBLPmD",
+              "end": 46,
+              "expanded_url": "https://x.com/IhlAzWdUgb24844/status/2051348599913771468/photo/1",
+              "media_key": "3_2051348584449404928",
+              "start": 23,
+              "url": "https://t.co/5PmryBLPmD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051348599913771468",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049192370386948180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 刚上400点hh https://t.co/5PmryBLPmD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 179,
+          "like_count": 17132,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 2602
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-09T16:10:34.000Z",
+        "description": "双鱼座",
+        "id": "1655968466967621632",
+        "name": "宁采橙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002093849921884160/jNWG3PJ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 75,
+          "like_count": 38,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 16
+        },
+        "username": "IhlAzWdUgb24844",
+        "verified": false
+      }
+    ]
+  }
+}

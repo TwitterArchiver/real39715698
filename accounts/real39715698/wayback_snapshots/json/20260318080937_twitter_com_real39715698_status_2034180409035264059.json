@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2034180409035264059",
+    "created_at": "2026-03-18T08:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T09:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034180409035264059"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034180409035264059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "保持长久羁绊的唯一条件就是双方都不愿松手，如果你想松手，那我就抓的更紧一点好吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2034180409035264059",
+        "created_at": "2026-03-18T08:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T09:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034180409035264059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034180409035264059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "保持长久羁绊的唯一条件就是双方都不愿松手，如果你想松手，那我就抓的更紧一点好吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 94,
+          "like_count": 4460,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1101
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

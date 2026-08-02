@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942505326995202048"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "1942200966029471954",
+    "created_at": "2025-07-08T08:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T09:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942505330057097466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1780421301401956352",
+          "start": 0,
+          "username": "ZzzXDt00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9h1GGvqozs",
+          "end": 54,
+          "expanded_url": "https://x.com/real39715698/status/1942505330057097466/photo/1",
+          "media_key": "3_1942505326995202048",
+          "start": 31,
+          "url": "https://t.co/9h1GGvqozs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942505330057097466",
+    "in_reply_to_user_id": "1780421301401956352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942200966029471954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZzzXDt00 宝宝看！这是双彩虹！好运加倍！ᗜ 𖥦 ᗜ https://t.co/9h1GGvqozs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942505326995202048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvUqTZXaYAAQR92.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942505326995202048"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "1942200966029471954",
+        "created_at": "2025-07-08T08:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T09:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942505330057097466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780421301401956352",
+              "start": 0,
+              "username": "ZzzXDt00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9h1GGvqozs",
+              "end": 54,
+              "expanded_url": "https://x.com/real39715698/status/1942505330057097466/photo/1",
+              "media_key": "3_1942505326995202048",
+              "start": 31,
+              "url": "https://t.co/9h1GGvqozs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942505330057097466",
+        "in_reply_to_user_id": "1780421301401956352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942200966029471954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZzzXDt00 宝宝看！这是双彩虹！好运加倍！ᗜ 𖥦 ᗜ https://t.co/9h1GGvqozs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780421301401956352",
+        "conversation_id": "1942200966029471954",
+        "created_at": "2025-07-07T12:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T13:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942200966029471954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942200966029471954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 25538,
+          "like_count": 209,
+          "quote_count": 0,
+          "reply_count": 154,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们一个迟到的4000fo抽奖😇 7.15开\n1.52🧧一份\n2.两杯姬姬水\n3.五杯萌萌水\n4.互关抽一个小女孩送随机盲盒 里面肯定会有一个全新未拆封的花知晓粉饼ovo（特别注明这个需要填地址哦 \n5.一双原味（恋足癖来\n抽奖方式就关注点赞➕评论一张你最喜欢的照片！谢谢大家都来给我捧场"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 64,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 102
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T02:22:02.000Z",
+        "description": "接🥣 互关+V）不线下没福利｜喜欢请投喂窝｜私信看见会回｜小女孩快来找我互关 （偷我图的一辈子发不了财替我挡灾｜自用蜂鸟🪜：https://t.co/d57Pa5BeTg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 85,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=FjuLanNw",
+                "start": 62,
+                "url": "https://t.co/d57Pa5BeTg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxdt29",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxdt29",
+                "start": 0,
+                "url": "https://t.co/zr29Cn7fHo"
+              }
+            ]
+          }
+        },
+        "id": "1780421301401956352",
+        "location": "🚪88纯绿",
+        "name": "小小怪",
+        "pinned_tweet_id": "1931814169999007857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891117922539417600/IlgQGF0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4481,
+          "following_count": 210,
+          "like_count": 984,
+          "listed_count": 15,
+          "media_count": 46,
+          "tweet_count": 441
+        },
+        "url": "https://t.co/zr29Cn7fHo",
+        "username": "ZzzXDt00",
+        "verified": false
+      }
+    ]
+  }
+}

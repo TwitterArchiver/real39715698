@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2000126499555508632",
+    "created_at": "2025-12-14T08:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T09:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000126499555508632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1863473278247141376",
+          "start": 3,
+          "username": "qaq5777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000126499555508632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999824962371424657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qaq5777: 哥哥吊我我也无所谓 做妹妹也无所谓  我要一辈子和哥哥在一起^ ^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2000126499555508632",
+        "created_at": "2025-12-14T08:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T09:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000126499555508632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1863473278247141376",
+              "start": 3,
+              "username": "qaq5777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000126499555508632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999824962371424657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qaq5777: 哥哥吊我我也无所谓 做妹妹也无所谓  我要一辈子和哥哥在一起^ ^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863473278247141376",
+        "conversation_id": "1999824962371424657",
+        "created_at": "2025-12-13T12:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T13:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999824962371424657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999824962371424657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15018,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 71,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥吊我我也无所谓 做妹妹也无所谓  我要一辈子和哥哥在一起^ ^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "说了再见才发现再也见不到",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1990020111521272078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 72,
+          "like_count": 746,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 525
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T06:40:37.000Z",
+        "description": "想发什么发什么 防走丢小号@neverovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "neverovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kbg.mi.le.mileoffice.com/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://kbg.mi.le.mileoffice.com/index.php#/register?code=0xQPXqQf",
+                "start": 0,
+                "url": "https://t.co/clDC5C127S"
+              }
+            ]
+          }
+        },
+        "id": "1863473278247141376",
+        "location": "🚪188/520 置顶关评推广自辨 🪜👇🏻",
+        "name": "不加冰",
+        "pinned_tweet_id": "1999105016549015882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000062520586072064/vJET3-qr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39043,
+          "following_count": 262,
+          "like_count": 12133,
+          "listed_count": 78,
+          "media_count": 177,
+          "tweet_count": 5148
+        },
+        "url": "https://t.co/clDC5C127S",
+        "username": "qaq5777",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1955935518094746032",
+    "created_at": "2025-08-14T10:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T11:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955935518094746032"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1955935518094746032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "富人偷我人生 穷人偷我外卖 队友抢我人头 网友偷我段子 你们全都欠我的 看到这条消息的 学生给我发一块 上班的发五块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1955935518094746032",
+        "created_at": "2025-08-14T10:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T11:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955935518094746032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955935518094746032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "富人偷我人生 穷人偷我外卖 队友抢我人头 网友偷我段子 你们全都欠我的 看到这条消息的 学生给我发一块 上班的发五块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950788203742703617/m3VNyVQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 79,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 257
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

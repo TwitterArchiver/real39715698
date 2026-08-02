@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2041912454989672867",
+    "created_at": "2026-04-08T16:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T17:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041913033627484498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2040418548909268992",
+          "start": 0,
+          "username": "catdogwlrd123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041913033627484498",
+    "in_reply_to_user_id": "2040418548909268992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041912454989672867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catdogwlrd123 同意"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2041912454989672867].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2041912454989672867",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2041912454989672867"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2041912454989672867",
+        "created_at": "2026-04-08T16:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041913033627484498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2040418548909268992",
+              "start": 0,
+              "username": "catdogwlrd123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041913033627484498",
+        "in_reply_to_user_id": "2040418548909268992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041912454989672867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catdogwlrd123 同意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 138,
+          "like_count": 9878,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1731
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T13:20:02.000Z",
+        "description": "神之忧郁",
+        "id": "2040418548909268992",
+        "name": "dio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040419604003221505/f9ZTRsuR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 0,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 69
+        },
+        "username": "catdogwlrd123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2038609434411507916",
+    "created_at": "2026-03-30T13:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038613263651647552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1661178391784194049",
+          "start": 0,
+          "username": "yuanyua26917401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038613263651647552",
+    "in_reply_to_user_id": "1661178391784194049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038610337935630846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyua26917401 那我是天赋异禀⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄（我臭不要脸中）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2038609434411507916",
+        "created_at": "2026-03-30T13:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038613263651647552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1661178391784194049",
+              "start": 0,
+              "username": "yuanyua26917401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038613263651647552",
+        "in_reply_to_user_id": "1661178391784194049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038610337935630846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyua26917401 那我是天赋异禀⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄（我臭不要脸中）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661178391784194049",
+        "conversation_id": "2038609434411507916",
+        "created_at": "2026-03-30T13:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038610337935630846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038610337935630846",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038609434411507916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 如果可爱是种天赋₍˄·͈༝·͈˄₎◞︎ ̑̑ෆ⃛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 107,
+          "like_count": 6726,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1330
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T01:12:58.000Z",
+        "description": "05 188 75㎏ 丨\n薄肌瘦宅 INTJ丨\n性别男 男同绕道丨\n来推是为了看模型制作范例丨\n喜欢动画漫画（背景图会更新我最近在看的动漫）丨\n无情点赞机器丨\n视奸爱好者丨\n欢迎互fo/私信聊天  (°∀°)ﾉ丨\n玩Q区王者＆金铲铲的也欢迎滴滴丨",
+        "id": "1661178391784194049",
+        "location": "99.9km",
+        "name": "你太可爱了所以我",
+        "pinned_tweet_id": "1803379050112753898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907749220250980352/fVXKDkm-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 640,
+          "like_count": 56426,
+          "listed_count": 1,
+          "media_count": 376,
+          "tweet_count": 1898
+        },
+        "username": "yuanyua26917401",
+        "verified": false
+      }
+    ]
+  }
+}

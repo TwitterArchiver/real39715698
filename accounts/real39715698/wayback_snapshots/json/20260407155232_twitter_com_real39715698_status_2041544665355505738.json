@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2031380199506587809",
+    "created_at": "2026-04-07T15:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T16:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041544665355505738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1759061197264130048",
+          "start": 0,
+          "username": "zici369218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041544665355505738",
+    "in_reply_to_user_id": "1759061197264130048",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031380199506587809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zici369218 b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2031380199506587809",
+        "created_at": "2026-04-07T15:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041544665355505738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1759061197264130048",
+              "start": 0,
+              "username": "zici369218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041544665355505738",
+        "in_reply_to_user_id": "1759061197264130048",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031380199506587809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zici369218 b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759061197264130048",
+        "conversation_id": "2031380199506587809",
+        "created_at": "2026-03-10T14:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031380199506587809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031380199506587809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 694,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿瑾一个人待着有点无聊 但是没人跟他说话 所以你的选择是\nA:无视他\nB:跟他对话\nC:先打一顿试试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 130,
+          "like_count": 9419,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 1650
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T03:44:18.000Z",
+        "description": "entp 直男 不4i s",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zici87532",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zici87532",
+                "start": 0,
+                "url": "https://t.co/niPLoAJulI"
+              }
+            ]
+          }
+        },
+        "id": "1759061197264130048",
+        "location": "栗子🌰",
+        "name": "瑾",
+        "pinned_tweet_id": "1999501543322653017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041165178512035840/0967PpOd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 134,
+          "like_count": 5195,
+          "listed_count": 2,
+          "media_count": 312,
+          "tweet_count": 5002
+        },
+        "url": "https://t.co/niPLoAJulI",
+        "username": "zici369218",
+        "verified": false
+      }
+    ]
+  }
+}

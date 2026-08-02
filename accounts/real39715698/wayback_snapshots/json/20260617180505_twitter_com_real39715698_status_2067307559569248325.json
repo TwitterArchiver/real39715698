@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067307473204391936"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2067307559569248325",
+    "created_at": "2026-06-17T18:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T19:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067307559569248325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jioVdQ2NDl",
+          "end": 51,
+          "expanded_url": "https://x.com/real39715698/status/2067307559569248325/photo/1",
+          "media_key": "3_2067307473204391936",
+          "start": 28,
+          "url": "https://t.co/jioVdQ2NDl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067307559569248325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我靠 这个味道好好吃 早知道多买点了 大半夜给我吃美了 https://t.co/jioVdQ2NDl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067307473204391936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCNMZ3bsAAAooG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067307473204391936"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067307559569248325",
+        "created_at": "2026-06-17T18:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067307559569248325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jioVdQ2NDl",
+              "end": 51,
+              "expanded_url": "https://x.com/real39715698/status/2067307559569248325/photo/1",
+              "media_key": "3_2067307473204391936",
+              "start": 28,
+              "url": "https://t.co/jioVdQ2NDl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067307559569248325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠 这个味道好好吃 早知道多买点了 大半夜给我吃美了 https://t.co/jioVdQ2NDl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 199,
+          "like_count": 24330,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 3431
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

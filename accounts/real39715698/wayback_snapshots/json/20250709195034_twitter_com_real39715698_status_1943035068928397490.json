@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1943034575443370219",
+    "created_at": "2025-07-09T19:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T20:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943035068928397490"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1943035068928397490",
+    "in_reply_to_user_id": "1473529668263628805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943034575443370219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "头像不好看 声音也没有 因为没回你上面那两条上来就是老子 我欠你的？我求着你跟我说话的？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943034572624850944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvcLpi-bcAAfuNU.jpg",
+        "width": 982
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1943034575443370219",
+        "created_at": "2025-07-09T19:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T20:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943035068928397490"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943035068928397490",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943034575443370219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "头像不好看 声音也没有 因为没回你上面那两条上来就是老子 我欠你的？我求着你跟我说话的？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943034572624850944"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "1943034575443370219",
+        "created_at": "2025-07-09T19:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T20:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943034575443370219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5as3ISpSP5",
+              "end": 35,
+              "expanded_url": "https://x.com/real39715698/status/1943034575443370219/photo/1",
+              "media_key": "3_1943034572624850944",
+              "start": 12,
+              "url": "https://t.co/5as3ISpSP5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943034575443370219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老子跟你说话 看不见吗 https://t.co/5as3ISpSP5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 67,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 113
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

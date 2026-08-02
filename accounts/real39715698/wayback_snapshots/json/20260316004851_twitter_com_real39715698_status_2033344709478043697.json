@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2033344540338438481",
+    "created_at": "2026-03-16T00:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T01:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033344709478043697"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033344709478043697",
+    "in_reply_to_user_id": "1473529668263628805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033344540338438481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有想看的朋友们以后可以私信我要会议号观看我唐唐的操作 -⩊-"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2033344540338438481",
+        "created_at": "2026-03-16T00:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T01:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033344709478043697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033344709478043697",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033344540338438481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有想看的朋友们以后可以私信我要会议号观看我唐唐的操作 -⩊-"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2033344540338438481",
+        "created_at": "2026-03-16T00:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T01:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033344540338438481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033344540338438481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我决定以后每次放假打铲都要骚扰朋友们 我要开腾讯会议展示我唐唐的操作给朋友们看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 93,
+          "like_count": 4205,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1089
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

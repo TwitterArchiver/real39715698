@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938947488028712960"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1938947507616424186",
+    "created_at": "2025-06-28T13:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T14:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938947507616424186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4buwEe3GDX",
+          "end": 34,
+          "expanded_url": "https://x.com/real39715698/status/1938947507616424186/photo/1",
+          "media_key": "3_1938947488028712960",
+          "start": 11,
+          "url": "https://t.co/4buwEe3GDX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938947507616424186",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做饭成就感up^ ^ https://t.co/4buwEe3GDX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938947488028712960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuiGd6YWYAAPhvw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938947488028712960"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1938947507616424186",
+        "created_at": "2025-06-28T13:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T14:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938947507616424186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4buwEe3GDX",
+              "end": 34,
+              "expanded_url": "https://x.com/real39715698/status/1938947507616424186/photo/1",
+              "media_key": "3_1938947488028712960",
+              "start": 11,
+              "url": "https://t.co/4buwEe3GDX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938947507616424186",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做饭成就感up^ ^ https://t.co/4buwEe3GDX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933977754120474624/RWP6FLXG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 52,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 28
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

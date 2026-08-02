@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1997727857532133839",
+    "created_at": "2025-12-08T04:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T05:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997886990981959815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1895326120922488833",
+          "start": 0,
+          "username": "YIYING_SHIWO"
+        },
+        {
+          "end": 24,
+          "id": "1823031909599043584",
+          "start": 14,
+          "username": "asd996054"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997886990981959815",
+    "in_reply_to_user_id": "1895326120922488833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997835325507522940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YIYING_SHIWO @asd996054 谢谢宝宝推荐～有机会我会去听的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1997727857532133839",
+        "created_at": "2025-12-08T04:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T05:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997886990981959815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1895326120922488833",
+              "start": 0,
+              "username": "YIYING_SHIWO"
+            },
+            {
+              "end": 24,
+              "id": "1823031909599043584",
+              "start": 14,
+              "username": "asd996054"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997886990981959815",
+        "in_reply_to_user_id": "1895326120922488833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997835325507522940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YIYING_SHIWO @asd996054 谢谢宝宝推荐～有机会我会去听的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895326120922488833",
+        "conversation_id": "1997727857532133839",
+        "created_at": "2025-12-08T01:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T02:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997835325507522940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            },
+            {
+              "end": 24,
+              "id": "1823031909599043584",
+              "start": 14,
+              "username": "asd996054"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997835325507522940",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997727857532133839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 @asd996054 推荐个好饭吧~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "说了再见才发现再也见不到",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1990020111521272078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 75,
+          "like_count": 674,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 498
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T04:12:24.000Z",
+        "description": "女的，活的，INTJ",
+        "id": "1895326120922488833",
+        "name": "伊影",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956187235600228352/bIYApbak_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 55,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 178
+        },
+        "username": "YIYING_SHIWO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T16:20:59.000Z",
+        "description": "她说我声音好听/ESTJ/活好/水多/事少/白羊/匿名箱https://t.co/4C6rVV3eGk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B7%B4%E8%B…",
+                "end": 51,
+                "expanded_url": "https://ngl.link/%E5%B7%B4%E8%B5%AB",
+                "start": 28,
+                "url": "https://t.co/4C6rVV3eGk"
+              }
+            ]
+          }
+        },
+        "id": "1823031909599043584",
+        "name": "巴赫（我要做男喘王！）",
+        "pinned_tweet_id": "1988905394022793717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976854093751894017/fr92xvhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2902,
+          "following_count": 15,
+          "like_count": 619,
+          "listed_count": 10,
+          "media_count": 82,
+          "tweet_count": 204
+        },
+        "username": "asd996054",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1999062654808428890",
+    "created_at": "2025-12-11T10:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T11:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999062654808428890"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1999062654808428890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因为哥哥是全世界最温柔的人，所以常年恋哥的人大都目光清澈，极度自信，且智商逐年提高，最后完全变成天才。恋哥会改善身体状况，治好各种疑难杂症。人一旦开始恋哥就说明这个人的智慧品行样貌通通都是上等，这辈子注定成功。恋哥的人具有极高的素质，恋哥的人注定度过幸福的一生。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1999062654808428890",
+        "created_at": "2025-12-11T10:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999062654808428890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999062654808428890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为哥哥是全世界最温柔的人，所以常年恋哥的人大都目光清澈，极度自信，且智商逐年提高，最后完全变成天才。恋哥会改善身体状况，治好各种疑难杂症。人一旦开始恋哥就说明这个人的智慧品行样貌通通都是上等，这辈子注定成功。恋哥的人具有极高的素质，恋哥的人注定度过幸福的一生。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "说了再见才发现再也见不到",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1990020111521272078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 77,
+          "like_count": 712,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 507
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

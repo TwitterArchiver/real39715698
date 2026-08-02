@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1958335242366070981",
+    "created_at": "2025-08-21T11:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T12:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958490568440340680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1568386203304562688",
+          "start": 0,
+          "username": "susuli8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958490568440340680",
+    "in_reply_to_user_id": "1568386203304562688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 9,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958335242366070981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@susuli8964 老师求解码"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1958335242366070981",
+        "created_at": "2025-08-21T11:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T12:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958490568440340680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1568386203304562688",
+              "start": 0,
+              "username": "susuli8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958490568440340680",
+        "in_reply_to_user_id": "1568386203304562688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958335242366070981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@susuli8964 老师求解码"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568386203304562688",
+        "conversation_id": "1958335242366070981",
+        "created_at": "2025-08-21T01:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T02:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958335242366070981"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958335242366070981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 34805,
+          "like_count": 257,
+          "quote_count": 0,
+          "reply_count": 156,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "首页有个女推365天全年无休发且只发自己的约炮心酸史，津津乐道，乐在其中，看一眼感觉脑子被强奸，我仇人过成这样我都得心疼。好想屏蔽又忍不住接着看热闹。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950788203742703617/m3VNyVQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 79,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 273
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-09T23:49:51.000Z",
+        "description": "天灵灵地灵灵贱人都远离",
+        "id": "1568386203304562688",
+        "name": "胡福福",
+        "pinned_tweet_id": "1958490467860902236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903458476128706560/HR89cqxC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7865,
+          "following_count": 340,
+          "like_count": 19837,
+          "listed_count": 12,
+          "media_count": 619,
+          "tweet_count": 8334
+        },
+        "username": "susuli8964",
+        "verified": false
+      }
+    ]
+  }
+}

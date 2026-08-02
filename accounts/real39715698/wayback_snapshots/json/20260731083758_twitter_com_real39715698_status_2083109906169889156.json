@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2083109906169889156",
+    "created_at": "2026-07-31T08:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083109906169889156"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083109906169889156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想象一下我是你对象，每天熬到四五点，睡醒第一件事就是看你的消息，发的少了就跟你闹脾气，遇到一点小事就立马发一百条消息告诉你，每天除了打游戏就是找你，你不找我我就生气，不理我我也生气，你和别人玩更是气上加气，但是一哄就好，跟你闹别扭认错也只会说老公我好想你，每天就这样缠着你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2083109906169889156",
+        "created_at": "2026-07-31T08:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083109906169889156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083109906169889156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你对象，每天熬到四五点，睡醒第一件事就是看你的消息，发的少了就跟你闹脾气，遇到一点小事就立马发一百条消息告诉你，每天除了打游戏就是找你，你不找我我就生气，不理我我也生气，你和别人玩更是气上加气，但是一哄就好，跟你闹别扭认错也只会说老公我好想你，每天就这样缠着你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 211,
+          "like_count": 29507,
+          "listed_count": 1,
+          "media_count": 408,
+          "tweet_count": 3977
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

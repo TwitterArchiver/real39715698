@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2047005691727245497",
+    "created_at": "2026-04-22T17:32:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T18:32:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047005691727245497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1946511553710481408",
+          "start": 3,
+          "username": "lting362620"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047005691727245497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 203
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046279280993460330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lting362620: 好想给在意的人发一句好想操你然后把手机扔了睡觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2047005691727245497",
+        "created_at": "2026-04-22T17:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T18:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047005691727245497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1946511553710481408",
+              "start": 3,
+              "username": "lting362620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047005691727245497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 203
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046279280993460330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lting362620: 好想给在意的人发一句好想操你然后把手机扔了睡觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946511553710481408",
+        "conversation_id": "2046279280993460330",
+        "created_at": "2026-04-20T17:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T18:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046279280993460330"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046279280993460330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 118204,
+          "like_count": 1844,
+          "quote_count": 35,
+          "reply_count": 149,
+          "retweet_count": 203
+        },
+        "reply_settings": "everyone",
+        "text": "好想给在意的人发一句好想操你然后把手机扔了睡觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 173,
+          "like_count": 14258,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 2239
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T10:05:10.000Z",
+        "description": "Lily",
+        "id": "1946511553710481408",
+        "location": "私信已关🙄💅🏻",
+        "name": "春嵐",
+        "pinned_tweet_id": "1970330126866125026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041930779991928834/6iDYyhxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3098,
+          "following_count": 213,
+          "like_count": 8077,
+          "listed_count": 7,
+          "media_count": 25,
+          "tweet_count": 204
+        },
+        "username": "lting362620",
+        "verified": false
+      }
+    ]
+  }
+}

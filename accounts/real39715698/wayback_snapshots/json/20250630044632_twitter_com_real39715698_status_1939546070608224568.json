@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1939546050655821825"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "1939546070608224568",
+    "created_at": "2025-06-30T04:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T05:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939546070608224568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y5ufnIws0Q",
+          "end": 47,
+          "expanded_url": "https://x.com/real39715698/status/1939546070608224568/video/1",
+          "media_key": "7_1939546050655821825",
+          "start": 24,
+          "url": "https://t.co/Y5ufnIws0Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939546070608224568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "非常喜欢这样的声音给我唱歌^^幸福的要晕过去了 https://t.co/Y5ufnIws0Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33504,
+        "height": 1280,
+        "media_key": "7_1939546050655821825",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1939546050655821825/pu/img/1Q6n8WxorNpqyBjp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1939546050655821825/pu/vid/avc1/320x568/ElPgMiKJRsnRsca5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1939546050655821825/pu/vid/avc1/480x852/w9TRtPI4zqMz_icA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1939546050655821825/pu/vid/avc1/720x1280/24DMIgdsXFQ7KNsh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1939546050655821825/pu/pl/r0DCFRjp5jj7oXIt.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1939546050655821825"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "1939546070608224568",
+        "created_at": "2025-06-30T04:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T05:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939546070608224568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y5ufnIws0Q",
+              "end": 47,
+              "expanded_url": "https://x.com/real39715698/status/1939546070608224568/video/1",
+              "media_key": "7_1939546050655821825",
+              "start": 24,
+              "url": "https://t.co/Y5ufnIws0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939546070608224568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常喜欢这样的声音给我唱歌^^幸福的要晕过去了 https://t.co/Y5ufnIws0Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933977754120474624/RWP6FLXG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 57,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 36
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

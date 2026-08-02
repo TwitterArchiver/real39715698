@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2020144142341324941",
+    "created_at": "2026-02-07T14:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T15:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020144142341324941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/acclzd_clz/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/acclzd_clz/status/2020097846629003740",
+          "start": 9,
+          "url": "https://t.co/eiab6EdWD7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020144142341324941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020097846629003740",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "震撼美味！好爽。 https://t.co/eiab6EdWD7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1480,
+        "media_key": "3_2020097824793456643",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAjURMpacAMSuO7.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2020144142341324941",
+        "created_at": "2026-02-07T14:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T15:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020144142341324941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acclzd_clz/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/acclzd_clz/status/2020097846629003740",
+              "start": 9,
+              "url": "https://t.co/eiab6EdWD7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020144142341324941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020097846629003740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "震撼美味！好爽。 https://t.co/eiab6EdWD7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020097824793456643"
+          ]
+        },
+        "author_id": "1590695308463288321",
+        "conversation_id": "2020097846629003740",
+        "created_at": "2026-02-07T11:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T12:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020097846629003740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WrbU3gZbgp",
+              "end": 65,
+              "expanded_url": "https://x.com/acclzd_clz/status/2020097846629003740/photo/1",
+              "media_key": "3_2020097824793456643",
+              "start": 42,
+              "url": "https://t.co/WrbU3gZbgp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020097846629003740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 11784,
+          "like_count": 404,
+          "quote_count": 5,
+          "reply_count": 24,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥是不是教过你不许说谎\n\nԅ(¯﹃¯ԅ)msk我要变成恶鬼吃了你 \n为什么限流！ https://t.co/WrbU3gZbgp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 78,
+          "like_count": 1579,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 802
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-10T13:18:17.000Z",
+        "description": "求宝宝定制ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ｜无排单随时可找哈！",
+        "id": "1590695308463288321",
+        "location": "黄文厨子",
+        "name": "荞麦厘子",
+        "pinned_tweet_id": "1977923915717742802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000918094051733504/efPaT4ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113080,
+          "following_count": 96,
+          "like_count": 10347,
+          "listed_count": 111,
+          "media_count": 428,
+          "tweet_count": 1915
+        },
+        "username": "acclzd_clz",
+        "verified": false
+      }
+    ]
+  }
+}

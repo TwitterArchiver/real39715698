@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1936512255291781226",
+    "created_at": "2025-06-21T22:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T23:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936551765090136358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1890483458344120320",
+          "start": 0,
+          "username": "kaneki_ouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936551765090136358",
+    "in_reply_to_user_id": "1890483458344120320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936512255291781226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaneki_ouo 喜欢"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47861,
+        "height": 550,
+        "media_key": "13_1936512164589969408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936512164589969408/img/PCgTK_LjEAwkYUwW.jpg",
+        "public_metrics": {
+          "view_count": 81
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936512164589969408/vid/avc1/434x270/j0ktAxqNALgobLFl.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936512164589969408/vid/avc1/578x360/PxyskXt-GwWsCV2t.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936512164589969408/vid/avc1/886x550/Wt74UnDqr_5im6vy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936512164589969408/pl/kaazSluM4ZxD1vuC.m3u8"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1936512255291781226",
+        "created_at": "2025-06-21T22:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T23:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936551765090136358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1890483458344120320",
+              "start": 0,
+              "username": "kaneki_ouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936551765090136358",
+        "in_reply_to_user_id": "1890483458344120320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936512255291781226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaneki_ouo 喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936512164589969408"
+          ]
+        },
+        "author_id": "1890483458344120320",
+        "conversation_id": "1936512255291781226",
+        "created_at": "2025-06-21T19:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T20:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936512255291781226"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "青年"
+            },
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "青年音"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gKRr9Uj9LH",
+              "end": 36,
+              "expanded_url": "https://x.com/kaneki_ouo/status/1936512255291781226/video/1",
+              "media_key": "13_1936512164589969408",
+              "start": 13,
+              "url": "https://t.co/gKRr9Uj9LH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936512255291781226",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 309,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听歌来 #青年 #青年音 https://t.co/gKRr9Uj9LH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933977754120474624/RWP6FLXG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 84,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T19:29:31.000Z",
+        "description": "好色但不下头",
+        "id": "1890483458344120320",
+        "name": "荆棘牢笼",
+        "pinned_tweet_id": "1927431657314717711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936515002971643905/0qeUzg7D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 56,
+          "like_count": 1688,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "username": "kaneki_ouo",
+        "verified": false
+      }
+    ]
+  }
+}

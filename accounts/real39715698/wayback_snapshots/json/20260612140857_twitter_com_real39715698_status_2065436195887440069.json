@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2065432854528692425",
+    "created_at": "2026-06-12T14:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T15:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065436195887440069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1560927630752247808",
+          "start": 0,
+          "username": "Yurainl1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065436195887440069",
+    "in_reply_to_user_id": "1560927630752247808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065435529584480332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yurainl1 起司宝宝请吃！🤲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2065432854528692425",
+        "created_at": "2026-06-12T14:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065436195887440069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1560927630752247808",
+              "start": 0,
+              "username": "Yurainl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065436195887440069",
+        "in_reply_to_user_id": "1560927630752247808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065435529584480332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yurainl1 起司宝宝请吃！🤲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560927630752247808",
+        "conversation_id": "2065432854528692425",
+        "created_at": "2026-06-12T14:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065435529584480332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065435529584480332",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065432854528692425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 我吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 197,
+          "like_count": 23051,
+          "listed_count": 1,
+          "media_count": 338,
+          "tweet_count": 3215
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T09:55:12.000Z",
+        "description": "爱是圆的｜不关注勿扰^ω^\n碎碎念@bevusueack",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "bevusueack"
+              }
+            ]
+          }
+        },
+        "id": "1560927630752247808",
+        "location": "0.1km",
+        "name": "乱篇",
+        "pinned_tweet_id": "2042894922752364650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026937275020619776/DGccCN2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2827,
+          "following_count": 79,
+          "like_count": 4792,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 171
+        },
+        "username": "Yurainl1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2043270555932196864",
+        "13_2043270673968300032"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "2043270838355624386",
+    "created_at": "2026-04-12T10:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T11:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043270838355624386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1784887323211280384",
+          "start": 5,
+          "username": "ljng15760"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ry0dITrecp",
+          "end": 39,
+          "expanded_url": "https://x.com/real39715698/status/2043270838355624386/video/1",
+          "media_key": "13_2043270555932196864",
+          "start": 16,
+          "url": "https://t.co/ry0dITrecp"
+        },
+        {
+          "display_url": "pic.x.com/ry0dITrecp",
+          "end": 39,
+          "expanded_url": "https://x.com/real39715698/status/2043270838355624386/video/1",
+          "media_key": "13_2043270673968300032",
+          "start": 16,
+          "url": "https://t.co/ry0dITrecp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043270838355624386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "台本老师：@ljng15760 https://t.co/ry0dITrecp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 203633,
+        "height": 1444,
+        "media_key": "13_2043270555932196864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043270555932196864/img/yK6tzjmbAy7ChDi4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043270555932196864/vid/avc1/320x426/MdeBGPMy_XVSr1qz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043270555932196864/vid/avc1/480x640/pfbj4pSvaIbak630.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043270555932196864/vid/avc1/720x962/ecEYAf8ZEOwy2xLb.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043270555932196864/pl/ruCT9BAh1R-7vS-v.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 161100,
+        "height": 1444,
+        "media_key": "13_2043270673968300032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043270673968300032/img/9ZnlpXJnlwuNzXvp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043270673968300032/vid/avc1/320x426/wvM5UcNWi4cTiWtZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043270673968300032/vid/avc1/480x640/_EZy0oWLqQY6cHsV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043270673968300032/vid/avc1/720x962/MMjKq8l0b8LYTOEx.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043270673968300032/pl/5B-iSdjFiFm1Ujnm.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043270555932196864",
+            "13_2043270673968300032"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "2043270838355624386",
+        "created_at": "2026-04-12T10:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043270838355624386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1784887323211280384",
+              "start": 5,
+              "username": "ljng15760"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ry0dITrecp",
+              "end": 39,
+              "expanded_url": "https://x.com/real39715698/status/2043270838355624386/video/1",
+              "media_key": "13_2043270555932196864",
+              "start": 16,
+              "url": "https://t.co/ry0dITrecp"
+            },
+            {
+              "display_url": "pic.x.com/ry0dITrecp",
+              "end": 39,
+              "expanded_url": "https://x.com/real39715698/status/2043270838355624386/video/1",
+              "media_key": "13_2043270673968300032",
+              "start": 16,
+              "url": "https://t.co/ry0dITrecp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043270838355624386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "台本老师：@ljng15760 https://t.co/ry0dITrecp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "你走后我的世界模糊一片 看心情过@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 152,
+          "like_count": 10887,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 1887
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T10:08:06.000Z",
+        "description": "喜欢看看就好🌙｜录制请先私信获取授权，发布请@ 我｜自用🪜（#AD）https://t.co/LQOg6OmAtp（定制晚点再接）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "AD"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "shorturl.at/laBRh",
+                "end": 57,
+                "expanded_url": "Https://shorturl.at/laBRh",
+                "start": 34,
+                "url": "https://t.co/LQOg6OmAtp"
+              }
+            ]
+          }
+        },
+        "id": "1784887323211280384",
+        "location": "星星之火",
+        "name": "星星⭐️❤️",
+        "pinned_tweet_id": "2024469379967336910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999656615763730432/lLbnNMuO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85177,
+          "following_count": 260,
+          "like_count": 10108,
+          "listed_count": 97,
+          "media_count": 720,
+          "tweet_count": 9078
+        },
+        "username": "ljng15760",
+        "verified": false
+      }
+    ]
+  }
+}

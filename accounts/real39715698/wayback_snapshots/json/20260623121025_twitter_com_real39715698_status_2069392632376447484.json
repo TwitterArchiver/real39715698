@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2069387173116432605",
+    "created_at": "2026-06-23T12:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069392632376447484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "830059152407814145",
+          "start": 0,
+          "username": "shelly_nice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069392632376447484",
+    "in_reply_to_user_id": "830059152407814145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069391920351387788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shelly_nice 嘿嘿嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2069387173116432605",
+        "created_at": "2026-06-23T12:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069392632376447484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "830059152407814145",
+              "start": 0,
+              "username": "shelly_nice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069392632376447484",
+        "in_reply_to_user_id": "830059152407814145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069391920351387788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shelly_nice 嘿嘿嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830059152407814145",
+        "conversation_id": "2069387173116432605",
+        "created_at": "2026-06-23T12:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069391920351387788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069391920351387788",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069387173116432605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 超级萌的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 199,
+          "like_count": 24750,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 3506
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-10T14:21:38.000Z",
+        "description": "以爱之名，畅行诸恶\nhttps://t.co/Uwg5c2tJ3e",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shelly_nice",
+                "end": 33,
+                "expanded_url": "https://ngl.link/shelly_nice",
+                "start": 10,
+                "url": "https://t.co/Uwg5c2tJ3e"
+              }
+            ]
+          }
+        },
+        "id": "830059152407814145",
+        "location": "Tianjin",
+        "name": "逸",
+        "pinned_tweet_id": "1792910345646002502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1063648464385597441/_rj1Mc3L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 62,
+          "like_count": 12561,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 3620
+        },
+        "url": "",
+        "username": "shelly_nice",
+        "verified": false
+      }
+    ]
+  }
+}

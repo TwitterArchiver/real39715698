@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2061751700084699510",
+    "created_at": "2026-06-02T13:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T14:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061796002114490769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1796952906517590016",
+          "start": 0,
+          "username": "sxl3417208228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061796002114490769",
+    "in_reply_to_user_id": "1796952906517590016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061790341691240654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sxl3417208228 我号更牢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2061751700084699510",
+        "created_at": "2026-06-02T13:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061796002114490769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1796952906517590016",
+              "start": 0,
+              "username": "sxl3417208228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061796002114490769",
+        "in_reply_to_user_id": "1796952906517590016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061790341691240654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sxl3417208228 我号更牢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796952906517590016",
+        "conversation_id": "2061751700084699510",
+        "created_at": "2026-06-02T12:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061790341691240654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061790341691240654",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061751700084699510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 我俩号巅峰赛都在一千九到两千一徘徊可能因为我是玩射手的牢号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 196,
+          "like_count": 21307,
+          "listed_count": 1,
+          "media_count": 314,
+          "tweet_count": 3040
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T17:12:39.000Z",
+        "description": "。",
+        "id": "1796952906517590016",
+        "name": "res.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058357106638520320/KisBqvWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 420,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 362
+        },
+        "username": "sxl3417208228",
+        "verified": false
+      }
+    ]
+  }
+}

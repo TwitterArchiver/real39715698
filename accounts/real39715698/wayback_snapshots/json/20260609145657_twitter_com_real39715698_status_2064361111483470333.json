@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064361102574825472"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "2064361111483470333",
+    "created_at": "2026-06-09T14:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064361111483470333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9jnxdQoeeU",
+          "end": 46,
+          "expanded_url": "https://x.com/real39715698/status/2064361111483470333/photo/1",
+          "media_key": "3_2064361102574825472",
+          "start": 23,
+          "url": "https://t.co/9jnxdQoeeU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064361111483470333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "占有欲100%但是控制欲为0的金牛座就这样。 https://t.co/9jnxdQoeeU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2064361102574825472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYVfD8bMAAaIBz.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064361102574825472"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "2064361111483470333",
+        "created_at": "2026-06-09T14:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064361111483470333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9jnxdQoeeU",
+              "end": 46,
+              "expanded_url": "https://x.com/real39715698/status/2064361111483470333/photo/1",
+              "media_key": "3_2064361102574825472",
+              "start": 23,
+              "url": "https://t.co/9jnxdQoeeU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064361111483470333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "占有欲100%但是控制欲为0的金牛座就这样。 https://t.co/9jnxdQoeeU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 196,
+          "like_count": 22397,
+          "listed_count": 1,
+          "media_count": 332,
+          "tweet_count": 3175
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2025829685922279500",
+    "created_at": "2026-02-23T07:12:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T08:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025831236825153943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1455934423614963716",
+          "start": 0,
+          "username": "jack26116326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025831236825153943",
+    "in_reply_to_user_id": "1455934423614963716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025829685922279500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jack26116326 我只适合一辈子躺在我的床上。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2025829685922279500",
+        "created_at": "2026-02-23T07:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T08:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025831236825153943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1455934423614963716",
+              "start": 0,
+              "username": "jack26116326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025831236825153943",
+        "in_reply_to_user_id": "1455934423614963716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025829685922279500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jack26116326 我只适合一辈子躺在我的床上。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455934423614963716",
+        "conversation_id": "2025829685922279500",
+        "created_at": "2026-02-23T07:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T08:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025829685922279500"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025829685922279500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这种人只适合呆在家里春天呆在家里夏天呆在家里秋天呆在家里冬天呆在家里白天呆在家里夜晚呆在家里黎明呆在家里 清晨呆在家里早上呆在家里正午呆在家里黄昏呆在家里 傍晚呆在家里半夜呆在家里后面懒得打了总之我想呆在家里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 86,
+          "like_count": 2284,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 935
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T16:26:38.000Z",
+        "description": "我要杀了所有骗我的人",
+        "id": "1455934423614963716",
+        "name": "xkkk",
+        "pinned_tweet_id": "2024760498252894681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024114539537760256/mdQyfzCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 28,
+          "like_count": 377,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 259
+        },
+        "username": "jack26116326",
+        "verified": false
+      }
+    ]
+  }
+}

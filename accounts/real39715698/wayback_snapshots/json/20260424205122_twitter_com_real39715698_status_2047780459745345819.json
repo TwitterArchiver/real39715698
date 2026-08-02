@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2047779946467307666",
+    "created_at": "2026-04-24T20:51:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T21:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047780459745345819"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047780459745345819",
+    "in_reply_to_user_id": "1473529668263628805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047779946467307666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想起来上次几个人抢那个未定事件簿的联动奶茶为了买周边每个人都买了一百块钱的奶茶、、人均三杯起步，回家之后到处发奶茶，不然的话得喝出糖尿病。好幸福哦这样的日子可以再过一百年吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2047779946467307666",
+        "created_at": "2026-04-24T20:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T21:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047780459745345819"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047780459745345819",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047779946467307666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起来上次几个人抢那个未定事件簿的联动奶茶为了买周边每个人都买了一百块钱的奶茶、、人均三杯起步，回家之后到处发奶茶，不然的话得喝出糖尿病。好幸福哦这样的日子可以再过一百年吗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2047779946467307666",
+        "created_at": "2026-04-24T20:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T21:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047779946467307666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047779946467307666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打了两把铲准备睡觉了明早还得起来帮朋友抢崩铁联动的奶茶 回来继续睡觉 睡醒了就打游戏 我们宅宅的生活就这样没有意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 172,
+          "like_count": 14743,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 2289
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1936429344802648294",
+    "created_at": "2025-06-23T08:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T09:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937069390635454658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1869932876084719617",
+          "start": 0,
+          "username": "Inosukee017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937069390635454658",
+    "in_reply_to_user_id": "1869932876084719617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936429344802648294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inosukee017 好爽好爽哥哥好爽"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 313166,
+        "height": 720,
+        "media_key": "13_1936429184781524994",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936429184781524994/img/W1_G4Xzfc1G8iiTh.jpg",
+        "public_metrics": {
+          "view_count": 5393
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936429184781524994/vid/avc1/320x320/CKZJBVNJQBOzT_ic.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936429184781524994/vid/avc1/540x540/V7-n5pUkLM6Hp_4S.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936429184781524994/vid/avc1/720x720/gnm9H3GQFrF7Dvzb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936429184781524994/pl/gZ0uMzeu1dzP7aP3.m3u8?v=4ce"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1936429344802648294",
+        "created_at": "2025-06-23T08:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T09:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937069390635454658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1869932876084719617",
+              "start": 0,
+              "username": "Inosukee017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937069390635454658",
+        "in_reply_to_user_id": "1869932876084719617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936429344802648294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inosukee017 好爽好爽哥哥好爽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936429184781524994"
+          ]
+        },
+        "author_id": "1869932876084719617",
+        "conversation_id": "1936429344802648294",
+        "created_at": "2025-06-21T14:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T15:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936429344802648294"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "青年音"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "青年"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "男喘"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "连麦"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "骨科"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u2HYTKiocN",
+              "end": 61,
+              "expanded_url": "https://x.com/Inosukee017/status/1936429344802648294/video/1",
+              "media_key": "13_1936429184781524994",
+              "start": 38,
+              "url": "https://t.co/u2HYTKiocN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936429344802648294",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 16995,
+          "like_count": 216,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "偷偷去喝酒的妹妹回家被哥哥抓到\n\n#青年音 #青年 #男喘 #连麦 #骨科 https://t.co/u2HYTKiocN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933977754120474624/RWP6FLXG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 46,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T02:28:44.000Z",
+        "description": "青年 接连麦 瓦🥣",
+        "id": "1869932876084719617",
+        "location": "🚪52",
+        "name": "Inosukee",
+        "pinned_tweet_id": "1934297618907312384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927959273163870212/bijajG3c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2650,
+          "following_count": 46,
+          "like_count": 186,
+          "listed_count": 6,
+          "media_count": 31,
+          "tweet_count": 78
+        },
+        "username": "Inosukee017",
+        "verified": false
+      }
+    ]
+  }
+}

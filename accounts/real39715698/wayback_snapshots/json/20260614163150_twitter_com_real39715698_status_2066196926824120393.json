@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066196897627533312"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2066195735482396806",
+    "created_at": "2026-06-14T16:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066196926824120393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1554936634139090944",
+          "start": 0,
+          "username": "tukesiwomenzou1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M12A1Sd1Wi",
+          "end": 45,
+          "expanded_url": "https://x.com/real39715698/status/2066196926824120393/photo/1",
+          "media_key": "3_2066196897627533312",
+          "start": 22,
+          "url": "https://t.co/M12A1Sd1Wi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066196926824120393",
+    "in_reply_to_user_id": "1554936634139090944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066195735482396806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tukesiwomenzou1 陪一盆。 https://t.co/M12A1Sd1Wi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066196897627533312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKybIZcacAAWc0m.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066195731044802560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyaEflaoAA3MzG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066196897627533312"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066195735482396806",
+        "created_at": "2026-06-14T16:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066196926824120393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1554936634139090944",
+              "start": 0,
+              "username": "tukesiwomenzou1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M12A1Sd1Wi",
+              "end": 45,
+              "expanded_url": "https://x.com/real39715698/status/2066196926824120393/photo/1",
+              "media_key": "3_2066196897627533312",
+              "start": 22,
+              "url": "https://t.co/M12A1Sd1Wi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066196926824120393",
+        "in_reply_to_user_id": "1554936634139090944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066195735482396806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tukesiwomenzou1 陪一盆。 https://t.co/M12A1Sd1Wi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066195731044802560"
+          ]
+        },
+        "author_id": "1554936634139090944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066195735482396806",
+        "created_at": "2026-06-14T16:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066195735482396806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ptj9aBEob",
+              "end": 35,
+              "expanded_url": "https://x.com/tukesiwomenzou1/status/2066195735482396806/photo/1",
+              "media_key": "3_2066195731044802560",
+              "start": 12,
+              "url": "https://t.co/7ptj9aBEob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066195735482396806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自律会遇见更好的自己💪 https://t.co/7ptj9aBEob"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 197,
+          "like_count": 23577,
+          "listed_count": 1,
+          "media_count": 349,
+          "tweet_count": 3331
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T21:06:08.000Z",
+        "description": "我本就是最干净纯粹光明正大的存在",
+        "id": "1554936634139090944",
+        "location": "距你-1m",
+        "name": "Coconut",
+        "pinned_tweet_id": "2055634228990394615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889040074643513344/08Ciy0ji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 80,
+          "like_count": 7179,
+          "listed_count": 1,
+          "media_count": 521,
+          "tweet_count": 2998
+        },
+        "username": "tukesiwomenzou1",
+        "verified": false
+      }
+    ]
+  }
+}

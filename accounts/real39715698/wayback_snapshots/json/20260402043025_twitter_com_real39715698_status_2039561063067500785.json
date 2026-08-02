@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2039555202760712461",
+    "created_at": "2026-04-02T04:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T05:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039561063067500785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028430373458456576",
+          "start": 0,
+          "username": "o65518kuguagua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039561063067500785",
+    "in_reply_to_user_id": "2028430373458456576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039555202760712461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o65518kuguagua 看到我啦！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2039555198931329024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE30pbwaYAAz4sr.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2039555202760712461",
+        "created_at": "2026-04-02T04:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039561063067500785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039561063067500785",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039555202760712461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 看到我啦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039555198931329024"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2039555202760712461",
+        "created_at": "2026-04-02T04:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039555202760712461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2038324114537271296/BDCA_d_l?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2038324114537271296/BDCA_d_l?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/gwKmnlvHo2"
+            },
+            {
+              "display_url": "pic.x.com/kwp6S6PTdP",
+              "end": 64,
+              "expanded_url": "https://x.com/o65518kuguagua/status/2039555202760712461/photo/1",
+              "media_key": "3_2039555198931329024",
+              "start": 41,
+              "url": "https://t.co/kwp6S6PTdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039555202760712461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/gwKmnlvHo2 https://t.co/kwp6S6PTdP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 115,
+          "like_count": 7588,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1432
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 302,
+          "like_count": 2892,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 922
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

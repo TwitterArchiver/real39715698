@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2045504141242577230",
+    "created_at": "2026-04-18T14:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T15:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045510591557877806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1957852552286060544",
+          "start": 0,
+          "username": "qi_si72468"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045510591557877806",
+    "in_reply_to_user_id": "1957852552286060544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045504141242577230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_si72468 我操主人"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8080,
+        "height": 1280,
+        "media_key": "7_2045504101405110272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2045504101405110272/pu/img/Njmk6Ph5u8F3izR7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045504101405110272/pu/vid/avc1/320x568/4IYE_ucETwr1H17r.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045504101405110272/pu/vid/avc1/480x852/PCktygpUbJB1RWqv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045504101405110272/pu/vid/avc1/720x1280/BIUQujcVNpQOmVqm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2045504101405110272/pu/pl/pEd55c9boyX4tV5N.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2045504141242577230",
+        "created_at": "2026-04-18T14:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T15:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045510591557877806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1957852552286060544",
+              "start": 0,
+              "username": "qi_si72468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045510591557877806",
+        "in_reply_to_user_id": "1957852552286060544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045504141242577230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_si72468 我操主人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2045504101405110272"
+          ]
+        },
+        "author_id": "1957852552286060544",
+        "conversation_id": "2045504141242577230",
+        "created_at": "2026-04-18T14:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T15:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045504141242577230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dr3eY7a4DA",
+              "end": 43,
+              "expanded_url": "https://x.com/qi_si72468/status/2045504141242577230/video/1",
+              "media_key": "7_2045504101405110272",
+              "start": 20,
+              "url": "https://t.co/Dr3eY7a4DA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045504141242577230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是一条吱吱很久以前很久违的男装ehh https://t.co/Dr3eY7a4DA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "还给我那些天真和眼泪@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 163,
+          "like_count": 12754,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 2133
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T17:10:51.000Z",
+        "description": "不为人知的少女日记本丨碎碎念丨08丨世界上最帅最萌之推",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukomo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yukomo",
+                "start": 0,
+                "url": "https://t.co/k0398NYtHU"
+              }
+            ]
+          }
+        },
+        "id": "1957852552286060544",
+        "location": "这里幸运女高碎碎念bot",
+        "name": "yukomo",
+        "pinned_tweet_id": "2037821389626085494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040268323246813185/dqLPTa68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 64,
+          "like_count": 2872,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1193
+        },
+        "url": "https://t.co/k0398NYtHU",
+        "username": "qi_si72468",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1945589657577959856",
+    "created_at": "2025-07-18T12:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T13:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946186751854461189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1890483458344120320",
+          "start": 0,
+          "username": "faaaakelove_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946186751854461189",
+    "in_reply_to_user_id": "1890483458344120320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945589657577959856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@faaaakelove_ 老公老公老公老公"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37385,
+        "height": 422,
+        "media_key": "13_1945589641698230272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1945589641698230272/img/L7YpXDaVMq2W_mCH.jpg",
+        "public_metrics": {
+          "view_count": 516
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945589641698230272/vid/avc1/566x270/kshWtgVMrP09QKKT.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945589641698230272/vid/avc1/886x422/UKzsTznR3xT6ShmJ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1945589641698230272/pl/JAWeH7Lc03twSUho.m3u8?tag=14&v=013"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1945589657577959856",
+        "created_at": "2025-07-18T12:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T13:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946186751854461189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1890483458344120320",
+              "start": 0,
+              "username": "faaaakelove_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946186751854461189",
+        "in_reply_to_user_id": "1890483458344120320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945589657577959856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@faaaakelove_ 老公老公老公老公"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1945589641698230272"
+          ]
+        },
+        "author_id": "1890483458344120320",
+        "conversation_id": "1945589657577959856",
+        "created_at": "2025-07-16T21:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T22:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945589657577959856"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "青年音"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "青年"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CWyM1IHp8I",
+              "end": 40,
+              "expanded_url": "https://x.com/faaaakelove_/status/1945589657577959856/video/1",
+              "media_key": "13_1945589641698230272",
+              "start": 17,
+              "url": "https://t.co/CWyM1IHp8I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945589657577959856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2146,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坏女孩（江辰版）#青年音 #青年 https://t.co/CWyM1IHp8I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 69,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 171
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T19:29:31.000Z",
+        "description": "州瓦🥣  不定时删推",
+        "id": "1890483458344120320",
+        "name": "荆棘牢笼",
+        "pinned_tweet_id": "1936141259422462005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945584774648664064/ToF7CjSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 24,
+          "like_count": 1854,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 7
+        },
+        "username": "faaaakelove_",
+        "verified": false
+      }
+    ]
+  }
+}

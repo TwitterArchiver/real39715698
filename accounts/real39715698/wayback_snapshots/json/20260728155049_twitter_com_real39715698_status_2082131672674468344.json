@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2081835376327741507",
+    "created_at": "2026-07-28T15:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T16:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082131672674468344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1632008719406956547",
+          "start": 0,
+          "username": "Olivier62354822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082131672674468344",
+    "in_reply_to_user_id": "1632008719406956547",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081910437445046780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Olivier62354822 ᴛ ω ᴛ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2081835376327741507",
+        "created_at": "2026-07-28T15:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082131672674468344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1632008719406956547",
+              "start": 0,
+              "username": "Olivier62354822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082131672674468344",
+        "in_reply_to_user_id": "1632008719406956547",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081910437445046780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olivier62354822 ᴛ ω ᴛ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632008719406956547",
+        "conversation_id": "2081835376327741507",
+        "created_at": "2026-07-28T01:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081910437445046780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081910437445046780",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081835376327741507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 那你是小宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 208,
+          "like_count": 28969,
+          "listed_count": 1,
+          "media_count": 405,
+          "tweet_count": 3902
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T13:23:06.000Z",
+        "description": "传奇怪盗，指引前路的苍蓝星，大宋vv战神烧冬瓜，",
+        "id": "1632008719406956547",
+        "name": "脆皮水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043712216386404352/jZc2RQEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 8,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 420
+        },
+        "url": "",
+        "username": "Olivier62354822",
+        "verified": false
+      }
+    ]
+  }
+}

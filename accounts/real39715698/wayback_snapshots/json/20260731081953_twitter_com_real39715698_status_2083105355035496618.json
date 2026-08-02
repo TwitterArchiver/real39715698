@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2082459504260825465",
+    "created_at": "2026-07-31T08:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083105355035496618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1842979020570542080",
+          "start": 0,
+          "username": "7497_bety"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083105355035496618",
+    "in_reply_to_user_id": "1842979020570542080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083101811389681916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7497_bety 宝宝请吃🤲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2082459504260825465",
+        "created_at": "2026-07-31T08:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083105355035496618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1842979020570542080",
+              "start": 0,
+              "username": "7497_bety"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083105355035496618",
+        "in_reply_to_user_id": "1842979020570542080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083101811389681916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7497_bety 宝宝请吃🤲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842979020570542080",
+        "conversation_id": "2082459504260825465",
+        "created_at": "2026-07-31T08:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083101811389681916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083101811389681916",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082459504260825465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 我好想吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 211,
+          "like_count": 29502,
+          "listed_count": 1,
+          "media_count": 408,
+          "tweet_count": 3976
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-06T17:23:44.000Z",
+        "description": "可爱又迷人的反派角色",
+        "id": "1842979020570542080",
+        "name": "小小的钠钾泵",
+        "pinned_tweet_id": "2058838482240327844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081661497466355712/BCRRPdls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4462,
+          "following_count": 224,
+          "like_count": 2303,
+          "listed_count": 11,
+          "media_count": 333,
+          "tweet_count": 2035
+        },
+        "url": "",
+        "username": "7497_bety",
+        "verified": false
+      }
+    ]
+  }
+}

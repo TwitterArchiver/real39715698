@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986779619199188992"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "1986779622995062921",
+    "created_at": "2025-11-07T12:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T13:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986779622995062921"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TPXFYGCMLF",
+          "end": 35,
+          "expanded_url": "https://x.com/real39715698/status/1986779622995062921/photo/1",
+          "media_key": "3_1986779619199188992",
+          "start": 12,
+          "url": "https://t.co/TPXFYGCMLF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986779622995062921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "普天同庆！我长了格调！ https://t.co/TPXFYGCMLF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 414,
+        "media_key": "3_1986779619199188992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5J1iYlagAAmu4U.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986779619199188992"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "1986779622995062921",
+        "created_at": "2025-11-07T12:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T13:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986779622995062921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TPXFYGCMLF",
+              "end": 35,
+              "expanded_url": "https://x.com/real39715698/status/1986779622995062921/photo/1",
+              "media_key": "3_1986779619199188992",
+              "start": 12,
+              "url": "https://t.co/TPXFYGCMLF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986779622995062921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普天同庆！我长了格调！ https://t.co/TPXFYGCMLF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1952695269616910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980654074484731904/B7DmcC9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 78,
+          "like_count": 464,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 426
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

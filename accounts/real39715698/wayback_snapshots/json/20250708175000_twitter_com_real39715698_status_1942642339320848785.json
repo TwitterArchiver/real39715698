@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1942641265025376598",
+    "created_at": "2025-07-08T17:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T18:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942642339320848785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862557266890956800",
+          "start": 0,
+          "username": "lzb_haishui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942642339320848785",
+    "in_reply_to_user_id": "1862557266890956800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942641265025376598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzb_haishui 我可以跟他说我喜欢一个拉💩通畅的小男孩（bushi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15166,
+        "height": 1280,
+        "media_key": "7_1942641185006252032",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1942641185006252032/pu/img/WfGvNnA09ny1ZFVA.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942641185006252032/pu/vid/avc1/320x568/8SFzEPkkW5YSN3j2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942641185006252032/pu/vid/avc1/480x852/llMN_BKI8pfl3-Ze.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942641185006252032/pu/vid/avc1/720x1280/J7xmD0u8EO6Kqr8V.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1942641185006252032/pu/pl/MOAWKIZhlpcLCLxF.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1942641265025376598",
+        "created_at": "2025-07-08T17:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T18:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942642339320848785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862557266890956800",
+              "start": 0,
+              "username": "lzb_haishui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942642339320848785",
+        "in_reply_to_user_id": "1862557266890956800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942641265025376598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzb_haishui 我可以跟他说我喜欢一个拉💩通畅的小男孩（bushi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1942641185006252032"
+          ]
+        },
+        "author_id": "1862557266890956800",
+        "conversation_id": "1942641265025376598",
+        "created_at": "2025-07-08T17:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T18:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942641265025376598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AjlCbEC3ql",
+              "end": 46,
+              "expanded_url": "https://x.com/lzb_haishui/status/1942641265025376598/video/1",
+              "media_key": "7_1942641185006252032",
+              "start": 23,
+              "url": "https://t.co/AjlCbEC3ql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942641265025376598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要是有别的小帅哥靠近你你可以跟他说你性冷淡吗 https://t.co/AjlCbEC3ql"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 65,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 107
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T18:00:42.000Z",
+        "description": "当朋友圈发",
+        "id": "1862557266890956800",
+        "location": "🚪52/88/188/388/520",
+        "name": "拉屎通畅大王",
+        "pinned_tweet_id": "1926284374053372153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941329370133544960/rj7Pin-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6569,
+          "following_count": 479,
+          "like_count": 22081,
+          "listed_count": 8,
+          "media_count": 93,
+          "tweet_count": 3626
+        },
+        "username": "lzb_haishui",
+        "verified": false
+      }
+    ]
+  }
+}

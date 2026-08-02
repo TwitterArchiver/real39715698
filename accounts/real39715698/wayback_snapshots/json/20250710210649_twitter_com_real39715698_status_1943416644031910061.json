@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1943349581627941315",
+    "created_at": "2025-07-10T21:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T22:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943416644031910061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1724690231981756416",
+          "start": 0,
+          "username": "WxFEy335W055785"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943416644031910061",
+    "in_reply_to_user_id": "1724690231981756416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943349581627941315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WxFEy335W055785 生日快乐抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1943349581627941315",
+        "created_at": "2025-07-10T21:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T22:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943416644031910061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1724690231981756416",
+              "start": 0,
+              "username": "WxFEy335W055785"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943416644031910061",
+        "in_reply_to_user_id": "1724690231981756416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943349581627941315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WxFEy335W055785 生日快乐抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724690231981756416",
+        "conversation_id": "1943349581627941315",
+        "created_at": "2025-07-10T16:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T17:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943349581627941315"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943349581627941315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2784,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生日快乐 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 67,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 133
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-15T07:26:17.000Z",
+        "description": "刚接触 🥣私信 🚪128 接定制 女喘",
+        "id": "1724690231981756416",
+        "name": "抱",
+        "pinned_tweet_id": "1862137744761500001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939611616884019200/PeChE3_E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14325,
+          "following_count": 37,
+          "like_count": 60,
+          "listed_count": 71,
+          "media_count": 22,
+          "tweet_count": 126
+        },
+        "username": "WxFEy335W055785",
+        "verified": false
+      }
+    ]
+  }
+}

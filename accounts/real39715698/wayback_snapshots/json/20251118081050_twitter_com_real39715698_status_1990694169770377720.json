@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1990694169770377720",
+    "created_at": "2025-11-18T08:10:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T09:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990694169770377720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Amaya_11ovo/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/Amaya_11ovo/status/1990353010434937221",
+          "start": 17,
+          "url": "https://t.co/5uU451BCNf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990694169770377720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990353010434937221",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我支持 遇到喜欢的人就要喊哥哥！ https://t.co/5uU451BCNf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1990694169770377720",
+        "created_at": "2025-11-18T08:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T09:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990694169770377720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Amaya_11ovo/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Amaya_11ovo/status/1990353010434937221",
+              "start": 17,
+              "url": "https://t.co/5uU451BCNf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990694169770377720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990353010434937221",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我支持 遇到喜欢的人就要喊哥哥！ https://t.co/5uU451BCNf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513898402366439427",
+        "conversation_id": "1990353010434937221",
+        "created_at": "2025-11-17T09:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990353010434937221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990353010434937221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 15097,
+          "like_count": 212,
+          "quote_count": 13,
+          "reply_count": 68,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得哥哥这个称呼才是最涩的这是可以说的吗 （"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1952695269616910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990014207287508992/I8TKk0DW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 79,
+          "like_count": 550,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 492
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T15:14:50.000Z",
+        "description": "可以脆弱可以是不完美的//男的别私信🤗",
+        "id": "1513898402366439427",
+        "location": "抱抱",
+        "name": "烦烦",
+        "pinned_tweet_id": "1989400290320421039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986441853252870144/k8sqxodJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 293,
+          "like_count": 2478,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 1421
+        },
+        "username": "Amaya_11ovo",
+        "verified": false
+      }
+    ]
+  }
+}

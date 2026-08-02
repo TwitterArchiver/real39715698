@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2047946320975974518",
+    "created_at": "2026-04-25T15:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T16:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048064208848531768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1959091822812438529",
+          "start": 0,
+          "username": "oTvTog33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048064208848531768",
+    "in_reply_to_user_id": "1959091822812438529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048063415974044009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oTvTog33 好心酸呀ᴛ ᴛ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2047946320975974518",
+        "created_at": "2026-04-25T15:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048064208848531768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1959091822812438529",
+              "start": 0,
+              "username": "oTvTog33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048064208848531768",
+        "in_reply_to_user_id": "1959091822812438529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048063415974044009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oTvTog33 好心酸呀ᴛ ᴛ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959091822812438529",
+        "conversation_id": "2047946320975974518",
+        "created_at": "2026-04-25T15:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048063415974044009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048063415974044009",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047946320975974518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 好心酸呀…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 172,
+          "like_count": 14974,
+          "listed_count": 1,
+          "media_count": 240,
+          "tweet_count": 2310
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-23T03:14:56.000Z",
+        "description": "彼年我拼命在你手上留下的牙印消失了吗",
+        "id": "1959091822812438529",
+        "location": "不在场",
+        "name": "萌感。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047916267747835904/b6qYnD-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 169,
+          "like_count": 1196,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 953
+        },
+        "username": "oTvTog33",
+        "verified": false
+      }
+    ]
+  }
+}

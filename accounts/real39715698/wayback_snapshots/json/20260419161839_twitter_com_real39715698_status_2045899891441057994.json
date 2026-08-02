@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2045897926615146609",
+    "created_at": "2026-04-19T16:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T17:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045899891441057994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1736821968614436865",
+          "start": 0,
+          "username": "Badnight2003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045899891441057994",
+    "in_reply_to_user_id": "1736821968614436865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045898542221537679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Badnight2003 离职倒计时八天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2045897926615146609",
+        "created_at": "2026-04-19T16:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045899891441057994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1736821968614436865",
+              "start": 0,
+              "username": "Badnight2003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045899891441057994",
+        "in_reply_to_user_id": "1736821968614436865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045898542221537679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Badnight2003 离职倒计时八天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736821968614436865",
+        "conversation_id": "2045897926615146609",
+        "created_at": "2026-04-19T16:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045898542221537679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045898542221537679",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045897926615146609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 不上了！（bushi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "还给我那些天真和眼泪@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 166,
+          "like_count": 13224,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 2189
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T18:53:33.000Z",
+        "description": "花有重开日，人无再少年",
+        "id": "1736821968614436865",
+        "location": "在你心里😗",
+        "name": "收敛水",
+        "pinned_tweet_id": "1775040732279275782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044724437682094080/Ap3Uelj6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 251,
+          "like_count": 1252,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1466
+        },
+        "username": "Badnight2003",
+        "verified": false
+      }
+    ]
+  }
+}

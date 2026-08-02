@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2041374314184983034",
+    "created_at": "2026-04-07T12:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041488179380011092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1807677070656651264",
+          "start": 0,
+          "username": "baobao0_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041488179380011092",
+    "in_reply_to_user_id": "1807677070656651264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041482388094734691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baobao0_o 谁扮演我小号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2041374314184983034",
+        "created_at": "2026-04-07T12:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041488179380011092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1807677070656651264",
+              "start": 0,
+              "username": "baobao0_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041488179380011092",
+        "in_reply_to_user_id": "1807677070656651264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041482388094734691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baobao0_o 谁扮演我小号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807677070656651264",
+        "conversation_id": "2041374314184983034",
+        "created_at": "2026-04-07T11:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041482388094734691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041482388094734691",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041374314184983034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 谁扮演我小号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 130,
+          "like_count": 9335,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 1632
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T07:26:21.000Z",
+        "description": "如果幸福是一个爆汁的小小包",
+        "id": "1807677070656651264",
+        "location": "🚪188/344/520/999 不线下",
+        "name": "小小包",
+        "pinned_tweet_id": "2041172201744081044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003749367204003841/AfXmXqbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 21,
+          "like_count": 584,
+          "listed_count": 4,
+          "media_count": 95,
+          "tweet_count": 713
+        },
+        "username": "baobao0_o",
+        "verified": false
+      }
+    ]
+  }
+}

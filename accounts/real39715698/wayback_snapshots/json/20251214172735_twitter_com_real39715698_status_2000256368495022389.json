@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000256361695961088"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "2000256368495022389",
+    "created_at": "2025-12-14T17:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T18:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000256368495022389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BPc0VAoq36",
+          "end": 73,
+          "expanded_url": "https://x.com/real39715698/status/2000256368495022389/photo/1",
+          "media_key": "3_2000256361695961088",
+          "start": 50,
+          "url": "https://t.co/BPc0VAoq36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000256368495022389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉人还是得打游戏 一打游戏什么家庭创伤青春期抑郁少女思春爱恨纠缠全没了 只有对傻子队友的不可置信 https://t.co/BPc0VAoq36"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000256361695961088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8JWkCqaYAAFlpu.jpg",
+        "width": 966
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000256361695961088"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "2000256368495022389",
+        "created_at": "2025-12-14T17:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T18:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000256368495022389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BPc0VAoq36",
+              "end": 73,
+              "expanded_url": "https://x.com/real39715698/status/2000256368495022389/photo/1",
+              "media_key": "3_2000256361695961088",
+              "start": 50,
+              "url": "https://t.co/BPc0VAoq36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000256368495022389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉人还是得打游戏 一打游戏什么家庭创伤青春期抑郁少女思春爱恨纠缠全没了 只有对傻子队友的不可置信 https://t.co/BPc0VAoq36"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "说了再见才发现再也见不到",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1990020111521272078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 73,
+          "like_count": 749,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 528
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

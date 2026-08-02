@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2041904661444374627",
+    "created_at": "2026-04-09T02:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T03:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042070110073209101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2041405162070417408",
+          "start": 0,
+          "username": "ouohuii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042070110073209101",
+    "in_reply_to_user_id": "2041405162070417408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041917909568778271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouohuii 你也是好宝宝好宝宝(๑&gt; &lt;๑）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2041904661444374627",
+        "created_at": "2026-04-09T02:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T03:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042070110073209101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2041405162070417408",
+              "start": 0,
+              "username": "ouohuii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042070110073209101",
+        "in_reply_to_user_id": "2041405162070417408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041917909568778271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouohuii 你也是好宝宝好宝宝(๑&gt; &lt;๑）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041405162070417408",
+        "conversation_id": "2041904661444374627",
+        "created_at": "2026-04-08T16:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041917909568778271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041917909568778271",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041904661444374627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 因为你是好宝宝呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 138,
+          "like_count": 9973,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1740
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T06:39:01.000Z",
+        "description": "",
+        "id": "2041405162070417408",
+        "name": "老鼠人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041912309124313088/vwz0UqH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 6,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 205
+        },
+        "username": "ouohuii",
+        "verified": false
+      }
+    ]
+  }
+}

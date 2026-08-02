@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2048258347426820591",
+    "created_at": "2026-04-26T04:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T05:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048263435763515872"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048263435763515872",
+    "in_reply_to_user_id": "1473529668263628805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048258347426820591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而且不出意外可能会附带一份篇幅很小的小作文。还在思考中要不要这么做。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2048258347426820591",
+        "created_at": "2026-04-26T04:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048263435763515872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048263435763515872",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048258347426820591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且不出意外可能会附带一份篇幅很小的小作文。还在思考中要不要这么做。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2048258347426820591",
+        "created_at": "2026-04-26T04:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048258347426820591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048258347426820591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "28离职如果工资发下来我将黑幕几个我喜欢的小女孩小男孩喝奶茶 没黑幕到的也不要怀疑自己 不是不喜欢你们 这是我工资太少的问题(`-ω-`) 每一个互关我都爱你们哟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 174,
+          "like_count": 15041,
+          "listed_count": 1,
+          "media_count": 240,
+          "tweet_count": 2315
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

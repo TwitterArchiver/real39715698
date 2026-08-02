@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067235754087251969"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2043708536417657162",
+    "created_at": "2026-06-17T13:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067236111521615989"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n761avn334",
+          "end": 97,
+          "expanded_url": "https://x.com/real39715698/status/2067236111521615989/photo/1",
+          "media_key": "3_2067235754087251969",
+          "start": 74,
+          "url": "https://t.co/n761avn334"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067236111521615989",
+    "in_reply_to_user_id": "1473529668263628805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043708536417657162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "6.17 晚饭 炒泡面 配料有青菜 鸡蛋 火腿肠 辣条 金针菇 还有一些肉 忙了一天倒霉了一天最后糊弄自己晚饭的时候 还给我手腕上烫个水泡 我好累 https://t.co/n761avn334"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067235754087251969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBL9zVbgAEU4VK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067235754087251969"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2043708536417657162",
+        "created_at": "2026-06-17T13:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067236111521615989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n761avn334",
+              "end": 97,
+              "expanded_url": "https://x.com/real39715698/status/2067236111521615989/photo/1",
+              "media_key": "3_2067235754087251969",
+              "start": 74,
+              "url": "https://t.co/n761avn334"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067236111521615989",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043708536417657162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6.17 晚饭 炒泡面 配料有青菜 鸡蛋 火腿肠 辣条 金针菇 还有一些肉 忙了一天倒霉了一天最后糊弄自己晚饭的时候 还给我手腕上烫个水泡 我好累 https://t.co/n761avn334"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2043708536417657162",
+        "created_at": "2026-04-13T15:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043708536417657162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043708536417657162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 19558,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 65,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小雨今天吃什么(｡ì _ í｡)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 199,
+          "like_count": 24283,
+          "listed_count": 1,
+          "media_count": 356,
+          "tweet_count": 3425
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

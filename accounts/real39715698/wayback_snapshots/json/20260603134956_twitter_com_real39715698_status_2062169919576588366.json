@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062169717025218560"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2043708536417657162",
+    "created_at": "2026-06-03T13:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T14:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062169919576588366"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3poAfGMDdJ",
+          "end": 66,
+          "expanded_url": "https://x.com/real39715698/status/2062169919576588366/photo/1",
+          "media_key": "3_2062169717025218560",
+          "start": 43,
+          "url": "https://t.co/3poAfGMDdJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062169919576588366",
+    "in_reply_to_user_id": "1473529668263628805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043708536417657162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "6.3 晚饭 可乐鸡翅 清炒四季豆 莲藕排骨汤 这次的菜都很成功呀大家吃的都很开心！ https://t.co/3poAfGMDdJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2062169717025218560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5MbonbIAA6HRU.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062169717025218560"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2043708536417657162",
+        "created_at": "2026-06-03T13:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062169919576588366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3poAfGMDdJ",
+              "end": 66,
+              "expanded_url": "https://x.com/real39715698/status/2062169919576588366/photo/1",
+              "media_key": "3_2062169717025218560",
+              "start": 43,
+              "url": "https://t.co/3poAfGMDdJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062169919576588366",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043708536417657162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6.3 晚饭 可乐鸡翅 清炒四季豆 莲藕排骨汤 这次的菜都很成功呀大家吃的都很开心！ https://t.co/3poAfGMDdJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2043708536417657162",
+        "created_at": "2026-04-13T15:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043708536417657162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043708536417657162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16286,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小雨今天吃什么(｡ì _ í｡)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 196,
+          "like_count": 21442,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 3067
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

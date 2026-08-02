@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039537683337478144"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "2039537690895663279",
+    "created_at": "2026-04-02T02:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T03:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039537690895663279"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Efpuqr2GS",
+          "end": 27,
+          "expanded_url": "https://x.com/real39715698/status/2039537690895663279/photo/1",
+          "media_key": "3_2039537683337478144",
+          "start": 4,
+          "url": "https://t.co/1Efpuqr2GS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039537690895663279",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ᴛ ᴛ https://t.co/1Efpuqr2GS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039537683337478144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3kt5FagAAEv1M.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039537683337478144"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "2039537690895663279",
+        "created_at": "2026-04-02T02:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T03:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039537690895663279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Efpuqr2GS",
+              "end": 27,
+              "expanded_url": "https://x.com/real39715698/status/2039537690895663279/photo/1",
+              "media_key": "3_2039537683337478144",
+              "start": 4,
+              "url": "https://t.co/1Efpuqr2GS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039537690895663279",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ᴛ ᴛ https://t.co/1Efpuqr2GS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 115,
+          "like_count": 7570,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1431
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

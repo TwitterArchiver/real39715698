@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2029580423496614237",
+    "created_at": "2026-03-05T15:30:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T16:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029580423496614237"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029580423496614237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "水来哥挡，兵来哥掩，哥哥为我铤而走险。有哥哥再横行霸道也有人兜底，有哥哥的人没理也变得有理，哥哥的肘弯是埋葬悲伤的温床，哥哥的嘱咐是不用检验的真理，爱哥的人呼风唤雨，有哥的人天下无敌，哥好哥是我的充电宝，哥好我是哥的晴雨表，哥哥就算做鬼我也会死死地黏着你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2029580423496614237",
+        "created_at": "2026-03-05T15:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T16:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029580423496614237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029580423496614237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "水来哥挡，兵来哥掩，哥哥为我铤而走险。有哥哥再横行霸道也有人兜底，有哥哥的人没理也变得有理，哥哥的肘弯是埋葬悲伤的温床，哥哥的嘱咐是不用检验的真理，爱哥的人呼风唤雨，有哥的人天下无敌，哥好哥是我的充电宝，哥好我是哥的晴雨表，哥哥就算做鬼我也会死死地黏着你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 87,
+          "like_count": 3374,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1029
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

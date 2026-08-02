@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2029428653432688902",
+    "created_at": "2026-03-05T05:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T06:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029431115581407465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1385592677492686991",
+          "start": 0,
+          "username": "Ykawsog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029431115581407465",
+    "in_reply_to_user_id": "1385592677492686991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029428653432688902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ykawsog 那我带你去吃刘文祥。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2029428653432688902",
+        "created_at": "2026-03-05T05:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T06:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029431115581407465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1385592677492686991",
+              "start": 0,
+              "username": "Ykawsog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029431115581407465",
+        "in_reply_to_user_id": "1385592677492686991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029428653432688902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ykawsog 那我带你去吃刘文祥。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385592677492686991",
+        "conversation_id": "2029428653432688902",
+        "created_at": "2026-03-05T05:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T06:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029428653432688902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029428653432688902",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果全世界指责你.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 87,
+          "like_count": 3335,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1023
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-23T13:53:37.000Z",
+        "description": "别不幸福",
+        "id": "1385592677492686991",
+        "name": "下雪",
+        "pinned_tweet_id": "1951076712676282699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974812834249994240/kMop3uq__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 3414,
+          "like_count": 13326,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 10708
+        },
+        "username": "Ykawsog",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949836807962800128"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1949836811842330633",
+    "created_at": "2025-07-28T14:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T15:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949836811842330633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L3GwE44wRn",
+          "end": 36,
+          "expanded_url": "https://x.com/real39715698/status/1949836811842330633/photo/1",
+          "media_key": "3_1949836807962800128",
+          "start": 13,
+          "url": "https://t.co/L3GwE44wRn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949836811842330633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "五块钱的大西瓜ᗜ 𖥦 ᗜ https://t.co/L3GwE44wRn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949836807962800128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw82PwSasAAfAoP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949836807962800128"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1949836811842330633",
+        "created_at": "2025-07-28T14:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T15:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949836811842330633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L3GwE44wRn",
+              "end": 36,
+              "expanded_url": "https://x.com/real39715698/status/1949836811842330633/photo/1",
+              "media_key": "3_1949836807962800128",
+              "start": 13,
+              "url": "https://t.co/L3GwE44wRn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949836811842330633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "五块钱的大西瓜ᗜ 𖥦 ᗜ https://t.co/L3GwE44wRn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 72,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 190
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2044064064197034099",
+    "created_at": "2026-04-14T14:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T15:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044064064197034099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1237186208104472576",
+          "start": 3,
+          "username": "Miranda1ove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044064064197034099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043650770147610880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miranda1ove: 做爱（调教）时对方用很严厉命令式语气说话 会让我很爽 光是想想脑袋都晕乎乎的 比如过来 快点 跪下 趴好 吃下去 还有一些羞辱性言语 我很吃dirty talk……嗯我就这样一直意淫下去吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2044064064197034099",
+        "created_at": "2026-04-14T14:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044064064197034099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1237186208104472576",
+              "start": 3,
+              "username": "Miranda1ove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044064064197034099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043650770147610880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miranda1ove: 做爱（调教）时对方用很严厉命令式语气说话 会让我很爽 光是想想脑袋都晕乎乎的 比如过来 快点 跪下 趴好 吃下去 还有一些羞辱性言语 我很吃dirty talk……嗯我就这样一直意淫下去吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1237186208104472576",
+        "conversation_id": "2043650770147610880",
+        "created_at": "2026-04-13T11:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043650770147610880"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043650770147610880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 50062,
+          "like_count": 1195,
+          "quote_count": 6,
+          "reply_count": 37,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "做爱（调教）时对方用很严厉命令式语气说话 会让我很爽 光是想想脑袋都晕乎乎的 比如过来 快点 跪下 趴好 吃下去 还有一些羞辱性言语 我很吃dirty talk……嗯我就这样一直意淫下去吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "你走后我的世界模糊一片 看心情过@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 155,
+          "like_count": 11572,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1999
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-10T01:19:30.000Z",
+        "description": "壊す\n\nhttps://t.co/1O76qJ2CKo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miranda1ove",
+                "end": 27,
+                "expanded_url": "http://ngl.link/miranda1ove",
+                "start": 4,
+                "url": "https://t.co/1O76qJ2CKo"
+              }
+            ]
+          }
+        },
+        "id": "1237186208104472576",
+        "name": "Miranda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042830340499345412/vWPhIGoT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 48,
+          "like_count": 1534,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 497
+        },
+        "username": "Miranda1ove",
+        "verified": false
+      }
+    ]
+  }
+}

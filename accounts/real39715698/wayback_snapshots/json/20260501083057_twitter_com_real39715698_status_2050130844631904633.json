@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2050124118469861639",
+    "created_at": "2026-05-01T08:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T09:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050130844631904633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1949735161698103296",
+          "start": 0,
+          "username": "imsry4what"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050130844631904633",
+    "in_reply_to_user_id": "1949735161698103296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050124118469861639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@imsry4what 买！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2050124118469861639",
+        "created_at": "2026-05-01T08:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050130844631904633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1949735161698103296",
+              "start": 0,
+              "username": "imsry4what"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050130844631904633",
+        "in_reply_to_user_id": "1949735161698103296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050124118469861639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@imsry4what 买！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949735161698103296",
+        "conversation_id": "2050124118469861639",
+        "created_at": "2026-05-01T08:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050124118469861639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050124118469861639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "一直在纠结给不给敖隐买衣服穿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 178,
+          "like_count": 16465,
+          "listed_count": 1,
+          "media_count": 255,
+          "tweet_count": 2530
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-28T07:34:31.000Z",
+        "description": "某一天你走进了我的生命@StarryLove_1005",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "StarryLove_1005"
+              }
+            ]
+          }
+        },
+        "id": "1949735161698103296",
+        "name": "留给你的我从未",
+        "pinned_tweet_id": "2031050111758090612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042995209798291456/iguqIjfQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 85,
+          "like_count": 8019,
+          "listed_count": 4,
+          "media_count": 11,
+          "tweet_count": 2239
+        },
+        "username": "imsry4what",
+        "verified": false
+      }
+    ]
+  }
+}

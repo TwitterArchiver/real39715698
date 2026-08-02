@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995818148726276098"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1995818151259304210",
+    "created_at": "2025-12-02T11:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T12:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995818151259304210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tX1LKbE1Cd",
+          "end": 46,
+          "expanded_url": "https://x.com/real39715698/status/1995818151259304210/photo/1",
+          "media_key": "3_1995818148726276098",
+          "start": 23,
+          "url": "https://t.co/tX1LKbE1Cd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995818151259304210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然但是 我还是没有看懂 这些羁绊到底啥意思 https://t.co/tX1LKbE1Cd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_1995818148726276098",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7KSCC8bgAIeQbp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995818148726276098"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995818151259304210",
+        "created_at": "2025-12-02T11:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T12:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995818151259304210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tX1LKbE1Cd",
+              "end": 46,
+              "expanded_url": "https://x.com/real39715698/status/1995818151259304210/photo/1",
+              "media_key": "3_1995818148726276098",
+              "start": 23,
+              "url": "https://t.co/tX1LKbE1Cd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995818151259304210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然但是 我还是没有看懂 这些羁绊到底啥意思 https://t.co/tX1LKbE1Cd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "说了再见才发现再也见不到",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1990047104321122696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 75,
+          "like_count": 630,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 479
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

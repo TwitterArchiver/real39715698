@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2052780639204802971",
+    "created_at": "2026-05-08T17:23:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052801475425005771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2035042891853139968",
+          "start": 0,
+          "username": "Kk2kqf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052801475425005771",
+    "in_reply_to_user_id": "2035042891853139968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052787636100833760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kk2kqf 谢谢你贪欢老师！祝你天天开心！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2052780639204802971",
+        "created_at": "2026-05-08T17:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052801475425005771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2035042891853139968",
+              "start": 0,
+              "username": "Kk2kqf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052801475425005771",
+        "in_reply_to_user_id": "2035042891853139968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052787636100833760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kk2kqf 谢谢你贪欢老师！祝你天天开心！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035042891853139968",
+        "conversation_id": "2052780639204802971",
+        "created_at": "2026-05-08T16:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052787636100833760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052787636100833760",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052780639204802971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 183,
+          "like_count": 18021,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 2686
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T17:17:41.000Z",
+        "description": "事缓则圆\n欢迎来到我的主页，祝你如愿，祝你生活顺意。",
+        "id": "2035042891853139968",
+        "name": "貪歡.",
+        "pinned_tweet_id": "2046226825584787604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046592628729511936/lfKckw0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 28,
+          "like_count": 1144,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 83
+        },
+        "username": "Kk2kqf",
+        "verified": false
+      }
+    ]
+  }
+}

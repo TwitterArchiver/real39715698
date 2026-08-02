@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2041576419445350635",
+    "created_at": "2026-04-08T04:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T05:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041741093021347848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809776727952093187",
+          "start": 0,
+          "username": "momuzi20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041741093021347848",
+    "in_reply_to_user_id": "1809776727952093187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041627365315678395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momuzi20 好难过吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2041576419445350635",
+        "created_at": "2026-04-08T04:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041741093021347848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809776727952093187",
+              "start": 0,
+              "username": "momuzi20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041741093021347848",
+        "in_reply_to_user_id": "1809776727952093187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041627365315678395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momuzi20 好难过吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809776727952093187",
+        "conversation_id": "2041576419445350635",
+        "created_at": "2026-04-07T21:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T22:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041627365315678395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041627365315678395",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 350,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041576419445350635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 故意不理人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 132,
+          "like_count": 9609,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1693
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T02:30:23.000Z",
+        "description": "超敏感地雷非量产/发泄现生想鼠纯负能量号/约死+++",
+        "id": "1809776727952093187",
+        "location": "Sydney, New South Wales",
+        "name": "momuzi/CN约死➕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012652698500268032/gefwIlEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 41,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 83
+        },
+        "username": "momuzi20",
+        "verified": false
+      }
+    ]
+  }
+}

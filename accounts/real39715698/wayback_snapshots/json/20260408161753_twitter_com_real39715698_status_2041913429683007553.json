@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2041576419445350635",
+    "created_at": "2026-04-08T16:17:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T17:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041913429683007553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1236692456587948032",
+          "start": 0,
+          "username": "nyanya3000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041913429683007553",
+    "in_reply_to_user_id": "1236692456587948032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041913251764793758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyanya3000 我接受不了ᴛ ᴛ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2041576419445350635",
+        "created_at": "2026-04-08T16:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041913429683007553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1236692456587948032",
+              "start": 0,
+              "username": "nyanya3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041913429683007553",
+        "in_reply_to_user_id": "1236692456587948032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041913251764793758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyanya3000 我接受不了ᴛ ᴛ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236692456587948032",
+        "conversation_id": "2041576419445350635",
+        "created_at": "2026-04-08T16:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041913251764793758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041913251764793758",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041576419445350635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 很正常…我十年闺蜜甚至可以几个月不说话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 138,
+          "like_count": 9878,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1732
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-08T16:37:24.000Z",
+        "description": "想睡觉",
+        "id": "1236692456587948032",
+        "name": "ㅇㅊㅇ",
+        "pinned_tweet_id": "2035073162027966502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533536681827385344/y1WwQf0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 79,
+          "like_count": 235,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 856
+        },
+        "username": "nyanya3000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1982637137997783531",
+    "created_at": "2025-10-27T06:43:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T07:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982699538889789562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1881356410228998144",
+          "start": 0,
+          "username": "xin98212"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982699538889789562",
+    "in_reply_to_user_id": "1881356410228998144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982637137997783531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xin98212 我恨工作日"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1982637137997783531",
+        "created_at": "2025-10-27T06:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T07:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982699538889789562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1881356410228998144",
+              "start": 0,
+              "username": "xin98212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982699538889789562",
+        "in_reply_to_user_id": "1881356410228998144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982637137997783531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xin98212 我恨工作日"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881356410228998144",
+        "conversation_id": "1982637137997783531",
+        "created_at": "2025-10-27T02:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T03:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982637137997783531"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982637137997783531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 468,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我恨星期一 我恨上班 我恨工作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1952695269616910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980654074484731904/B7DmcC9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 77,
+          "like_count": 387,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 375
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T15:01:48.000Z",
+        "description": "🈚️小号 🚪88 互关免",
+        "id": "1881356410228998144",
+        "name": "心逃亡",
+        "pinned_tweet_id": "1927542864088637751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927228793724211200/i0YRiczO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6926,
+          "following_count": 134,
+          "like_count": 3866,
+          "listed_count": 11,
+          "media_count": 63,
+          "tweet_count": 626
+        },
+        "username": "xin98212",
+        "verified": false
+      }
+    ]
+  }
+}

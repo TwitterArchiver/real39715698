@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2043708536417657162",
+    "created_at": "2026-05-31T09:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T10:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061013405969093112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1080009291963088896",
+          "start": 0,
+          "username": "bxttamm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061013405969093112",
+    "in_reply_to_user_id": "1080009291963088896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060730779794342122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bxttamm 没错！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2043708536417657162",
+        "created_at": "2026-05-31T09:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T10:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061013405969093112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1080009291963088896",
+              "start": 0,
+              "username": "bxttamm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061013405969093112",
+        "in_reply_to_user_id": "1080009291963088896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060730779794342122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bxttamm 没错！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1080009291963088896",
+        "conversation_id": "2043708536417657162",
+        "created_at": "2026-05-30T14:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060730779794342122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060730779794342122",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060729880657248754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 天下第一无敌紫菜蛋花汤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 193,
+          "like_count": 20961,
+          "listed_count": 1,
+          "media_count": 312,
+          "tweet_count": 3009
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-01T07:54:15.000Z",
+        "description": "这是第一次遇见\n✍️ https://t.co/7axgsNpy6I\n不定期抽风删帖爱好者",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bxttamm",
+                "end": 34,
+                "expanded_url": "https://ngl.link/bxttamm",
+                "start": 11,
+                "url": "https://t.co/7axgsNpy6I"
+              }
+            ]
+          }
+        },
+        "id": "1080009291963088896",
+        "location": "_NightZ",
+        "name": "薄荷头",
+        "pinned_tweet_id": "2057352833343902125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035051810952814593/K_rVpsI-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 45,
+          "like_count": 1465,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 402
+        },
+        "username": "bxttamm",
+        "verified": false
+      }
+    ]
+  }
+}

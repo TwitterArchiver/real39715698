@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2038219488488005689",
+    "created_at": "2026-03-29T11:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T12:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038220397204898132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936481820608208897",
+          "start": 0,
+          "username": "tcxxstoutou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038220397204898132",
+    "in_reply_to_user_id": "1936481820608208897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038219488488005689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tcxxstoutou 我要亲亲你亲亲你好萌呀好萌呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038219460285530112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEk1zNibgAAP5_p.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2038219488488005689",
+        "created_at": "2026-03-29T11:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038220397204898132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936481820608208897",
+              "start": 0,
+              "username": "tcxxstoutou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038220397204898132",
+        "in_reply_to_user_id": "1936481820608208897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038219488488005689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tcxxstoutou 我要亲亲你亲亲你好萌呀好萌呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038219460285530112"
+          ]
+        },
+        "author_id": "1936481820608208897",
+        "conversation_id": "2038219488488005689",
+        "created_at": "2026-03-29T11:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038219488488005689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eJXugcF5Ic",
+              "end": 30,
+              "expanded_url": "https://x.com/tcxxstoutou/status/2038219488488005689/photo/1",
+              "media_key": "3_2038219460285530112",
+              "start": 7,
+              "url": "https://t.co/eJXugcF5Ic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038219488488005689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久不见^^ https://t.co/eJXugcF5Ic"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 102,
+          "like_count": 6163,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1286
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T17:50:26.000Z",
+        "description": "时间静止 我将再次起飞｜日常废话小号@imissmyegg互关宝宝们快来和我玩🤲🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imissmyegg"
+              }
+            ]
+          }
+        },
+        "id": "1936481820608208897",
+        "name": "头头",
+        "pinned_tweet_id": "2003427154764398769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025826399534346240/4hLQ2xaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3903,
+          "following_count": 305,
+          "like_count": 14266,
+          "listed_count": 3,
+          "media_count": 339,
+          "tweet_count": 4793
+        },
+        "username": "tcxxstoutou",
+        "verified": false
+      }
+    ]
+  }
+}

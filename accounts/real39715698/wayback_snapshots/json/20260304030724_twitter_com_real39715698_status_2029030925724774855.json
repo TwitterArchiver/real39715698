@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2029030925724774855",
+    "created_at": "2026-03-04T03:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T04:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029030925724774855"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029030925724774855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我活着的唯一意义，就是被哥哥需要、被哥哥偏爱，哪怕哥哥偶尔的冷漠都像恩赐，我要缠哥哥一辈子，直到灵魂都和哥哥绑在一起。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2029030925724774855",
+        "created_at": "2026-03-04T03:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T04:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029030925724774855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029030925724774855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我活着的唯一意义，就是被哥哥需要、被哥哥偏爱，哪怕哥哥偶尔的冷漠都像恩赐，我要缠哥哥一辈子，直到灵魂都和哥哥绑在一起。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 87,
+          "like_count": 3245,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1016
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

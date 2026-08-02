@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2065845581340373130",
+    "created_at": "2026-06-13T17:39:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065851512849674246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1995497695201693696",
+          "start": 0,
+          "username": "MauriZalic22579"
+        },
+        {
+          "end": 32,
+          "id": "1942995969043501056",
+          "start": 17,
+          "username": "XIAOMAIMI_miao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065851512849674246",
+    "in_reply_to_user_id": "1995497695201693696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065851113723793749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MauriZalic22579 @XIAOMAIMI_miao 其实我在学校吃的也很开心…但是我在学校也会自己偷偷做一点简单的东西吃就是哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2065845581340373130",
+        "created_at": "2026-06-13T17:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065851512849674246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1995497695201693696",
+              "start": 0,
+              "username": "MauriZalic22579"
+            },
+            {
+              "end": 32,
+              "id": "1942995969043501056",
+              "start": 17,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065851512849674246",
+        "in_reply_to_user_id": "1995497695201693696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065851113723793749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MauriZalic22579 @XIAOMAIMI_miao 其实我在学校吃的也很开心…但是我在学校也会自己偷偷做一点简单的东西吃就是哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995497695201693696",
+        "conversation_id": "2065845581340373130",
+        "created_at": "2026-06-13T17:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065851113723793749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            },
+            {
+              "end": 29,
+              "id": "1473529668263628805",
+              "start": 16,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065851113723793749",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065850633530507703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao @real39715698 每天吃自己做的饭一切都好了，学校里面的饭怎么吃都感觉，怎么说呢，只是吃东西，没有幸福感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 197,
+          "like_count": 23400,
+          "listed_count": 1,
+          "media_count": 346,
+          "tweet_count": 3302
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-01T14:18:35.000Z",
+        "description": "",
+        "id": "1995497695201693696",
+        "name": "Zalic Mauri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007820511964020737/uyTkkAC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 436,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 26
+        },
+        "username": "MauriZalic22579",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/VzLfPDoUHG安安静静@XIAOSHUgugu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "XIAOSHUgugu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimimimiao/",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mimimimimiao/",
+                "start": 46,
+                "url": "https://t.co/VzLfPDoUHG"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2065457116639637994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8269,
+          "following_count": 212,
+          "like_count": 21871,
+          "listed_count": 28,
+          "media_count": 176,
+          "tweet_count": 2498
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1943035874075382188",
+    "created_at": "2025-07-09T19:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T20:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943035874075382188"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/real39715698/s…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/real39715698/status/1939295479709495379",
+          "start": 26,
+          "url": "https://t.co/N4C5Rqb3jf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943035874075382188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939295479709495379",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "私信我之前能不能搞清楚 一副天王老子的模样到底要咋 https://t.co/N4C5Rqb3jf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1943035874075382188",
+        "created_at": "2025-07-09T19:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T20:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943035874075382188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/real39715698/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/real39715698/status/1939295479709495379",
+              "start": 26,
+              "url": "https://t.co/N4C5Rqb3jf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943035874075382188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939295479709495379",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "私信我之前能不能搞清楚 一副天王老子的模样到底要咋 https://t.co/N4C5Rqb3jf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1939295479709495379",
+        "created_at": "2025-06-29T12:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T13:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939295479709495379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939295479709495379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "^ ^大叔不要骚扰我了 我只喜欢回头像好看＋声音好听的 私信我请直接发语音给我听 不然我懒得回^^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 67,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 114
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

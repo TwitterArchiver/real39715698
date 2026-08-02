@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2082188089599152293",
+    "created_at": "2026-07-29T10:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T11:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082414673060917675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2072045596223946752",
+          "start": 0,
+          "username": "Zwace666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082414673060917675",
+    "in_reply_to_user_id": "2072045596223946752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082265887256535102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zwace666 太极品的青年音的话，我可以忍他到200斤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2082188089599152293",
+        "created_at": "2026-07-29T10:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082414673060917675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2072045596223946752",
+              "start": 0,
+              "username": "Zwace666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082414673060917675",
+        "in_reply_to_user_id": "2072045596223946752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082265887256535102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zwace666 太极品的青年音的话，我可以忍他到200斤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072045596223946752",
+        "conversation_id": "2082188089599152293",
+        "created_at": "2026-07-29T00:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082265887256535102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082265887256535102",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082188089599152293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 我最多忍青年音到180斤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 208,
+          "like_count": 29107,
+          "listed_count": 1,
+          "media_count": 405,
+          "tweet_count": 3923
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-30T19:53:34.000Z",
+        "description": "",
+        "id": "2072045596223946752",
+        "location": "没有蠢货的世界",
+        "name": "睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079540503008415744/8jQvUQ4T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 4,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "Zwace666",
+        "verified": false
+      }
+    ]
+  }
+}

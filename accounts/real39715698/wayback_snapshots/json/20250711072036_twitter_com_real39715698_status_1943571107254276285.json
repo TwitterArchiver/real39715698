@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1943384270762127558",
+    "created_at": "2025-07-11T07:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T08:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943571107254276285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1492180186078527488",
+          "start": 0,
+          "username": "ye80369809"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943571107254276285",
+    "in_reply_to_user_id": "1492180186078527488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943570727019413841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ye80369809 T^T烦人的很"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1943384270762127558",
+        "created_at": "2025-07-11T07:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T08:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943571107254276285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1492180186078527488",
+              "start": 0,
+              "username": "ye80369809"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943571107254276285",
+        "in_reply_to_user_id": "1492180186078527488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943570727019413841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye80369809 T^T烦人的很"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492180186078527488",
+        "conversation_id": "1943384270762127558",
+        "created_at": "2025-07-11T07:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T08:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943570727019413841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943570727019413841",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943384270762127558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 笑死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 67,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 139
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T16:54:31.000Z",
+        "description": "固连d",
+        "id": "1492180186078527488",
+        "location": "Hong Kong",
+        "name": "夜行",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509213531995971588/srBXkCVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 220,
+          "like_count": 515,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 26
+        },
+        "username": "ye80369809",
+        "verified": false
+      }
+    ]
+  }
+}

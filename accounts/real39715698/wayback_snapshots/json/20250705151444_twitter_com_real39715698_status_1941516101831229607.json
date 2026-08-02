@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1941471445114290621",
+    "created_at": "2025-07-05T15:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T16:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941516101831229607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1501899236211707910",
+          "start": 0,
+          "username": "1Elema_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941516101831229607",
+    "in_reply_to_user_id": "1501899236211707910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941471445114290621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1Elema_ 好帅…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1474,
+        "media_key": "3_1941471428563419136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvF9-lkXwAA3V4O.jpg",
+        "width": 1105
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1941471445114290621",
+        "created_at": "2025-07-05T15:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T16:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941516101831229607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1501899236211707910",
+              "start": 0,
+              "username": "1Elema_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941516101831229607",
+        "in_reply_to_user_id": "1501899236211707910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941471445114290621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1Elema_ 好帅…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941471428563419136"
+          ]
+        },
+        "author_id": "1501899236211707910",
+        "conversation_id": "1941471445114290621",
+        "created_at": "2025-07-05T12:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T13:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941471445114290621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kO8RBBIDFm",
+              "end": 23,
+              "expanded_url": "https://x.com/1Elema_/status/1941471445114290621/photo/1",
+              "media_key": "3_1941471428563419136",
+              "start": 0,
+              "url": "https://t.co/kO8RBBIDFm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941471445114290621",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2844,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kO8RBBIDFm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 63,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 79
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-10T12:34:25.000Z",
+        "description": "",
+        "id": "1501899236211707910",
+        "name": "饿了吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910423607198769153/dCmiC9IE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4184,
+          "following_count": 11,
+          "like_count": 672,
+          "listed_count": 4,
+          "media_count": 49,
+          "tweet_count": 94
+        },
+        "username": "1Elema_",
+        "verified": false
+      }
+    ]
+  }
+}

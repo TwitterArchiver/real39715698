@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2038937259286945792"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "2038937281692913873",
+    "created_at": "2026-03-31T11:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T12:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038937281692913873"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pRA2pLEEKL",
+          "end": 48,
+          "expanded_url": "https://x.com/real39715698/status/2038937281692913873/video/1",
+          "media_key": "7_2038937259286945792",
+          "start": 25,
+          "url": "https://t.co/pRA2pLEEKL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038937281692913873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢。淋成落汤鸡了，给这个世界来了一场湿身诱惑。 https://t.co/pRA2pLEEKL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3050,
+        "height": 1280,
+        "media_key": "7_2038937259286945792",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2038937259286945792/pu/img/7swieHagG3fhGnU1.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038937259286945792/pu/vid/avc1/320x568/EyvwHm7k2h2VRRWO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038937259286945792/pu/vid/avc1/480x852/xclSGiDRUcLqzQ6f.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038937259286945792/pu/vid/avc1/720x1280/80k0lTUv-f_5v0Og.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2038937259286945792/pu/pl/kiB8JKhTbWu353xh.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2038937259286945792"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "2038937281692913873",
+        "created_at": "2026-03-31T11:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038937281692913873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pRA2pLEEKL",
+              "end": 48,
+              "expanded_url": "https://x.com/real39715698/status/2038937281692913873/video/1",
+              "media_key": "7_2038937259286945792",
+              "start": 25,
+              "url": "https://t.co/pRA2pLEEKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038937281692913873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢。淋成落汤鸡了，给这个世界来了一场湿身诱惑。 https://t.co/pRA2pLEEKL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 107,
+          "like_count": 6973,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1360
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

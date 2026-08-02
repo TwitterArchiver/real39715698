@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2059692083049623983",
+    "created_at": "2026-05-27T18:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059698932146692199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1539930409617608705",
+          "start": 0,
+          "username": "huasang999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059698932146692199",
+    "in_reply_to_user_id": "1539930409617608705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059692083049623983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huasang999 自我之下等级森严是吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18796,
+        "height": 592,
+        "media_key": "13_2059691980175953920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059691980175953920/img/UbK6WycuaGL8g3Cs.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059691980175953920/vid/avc1/582x270/oFlR5A2saOTTJCXQ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059691980175953920/vid/avc1/778x360/_o2999tz7RiJy9Cf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059691980175953920/vid/avc1/1280x592/GS8apXF9qQm6CXw4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059691980175953920/pl/R_gUoO9W1DBJBrOa.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2059692083049623983",
+        "created_at": "2026-05-27T18:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059698932146692199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1539930409617608705",
+              "start": 0,
+              "username": "huasang999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059698932146692199",
+        "in_reply_to_user_id": "1539930409617608705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059692083049623983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huasang999 自我之下等级森严是吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059691980175953920"
+          ]
+        },
+        "author_id": "1539930409617608705",
+        "conversation_id": "2059692083049623983",
+        "created_at": "2026-05-27T17:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059692083049623983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vT9W1s2Ofl",
+              "end": 42,
+              "expanded_url": "https://x.com/huasang999/status/2059692083049623983/video/1",
+              "media_key": "13_2059691980175953920",
+              "start": 19,
+              "url": "https://t.co/vT9W1s2Ofl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059692083049623983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还在和你的巅峰1439分小狗一起玩？ https://t.co/vT9W1s2Ofl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 188,
+          "like_count": 20862,
+          "listed_count": 1,
+          "media_count": 308,
+          "tweet_count": 2993
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-23T11:16:51.000Z",
+        "description": "提问箱https://t.co/nwOpRVhFZc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B440344",
+                "end": 26,
+                "expanded_url": "https://ngl.link/%E6%B0%B440344",
+                "start": 3,
+                "url": "https://t.co/nwOpRVhFZc"
+              }
+            ]
+          }
+        },
+        "id": "1539930409617608705",
+        "location": "Tokyo-to, Japan",
+        "name": "花花",
+        "pinned_tweet_id": "2054972927913988313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059349434572636160/JmhsrXRQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 64,
+          "like_count": 3369,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 667
+        },
+        "username": "huasang999",
+        "verified": false
+      }
+    ]
+  }
+}

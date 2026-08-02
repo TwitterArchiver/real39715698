@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984875418483376128"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "1984875421259968772",
+    "created_at": "2025-11-02T06:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T07:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984875421259968772"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OTkzWJqLpp",
+          "end": 36,
+          "expanded_url": "https://x.com/real39715698/status/1984875421259968772/photo/1",
+          "media_key": "3_1984875418483376128",
+          "start": 13,
+          "url": "https://t.co/OTkzWJqLpp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984875421259968772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想起来还是觉得蓝眼泪很美 https://t.co/OTkzWJqLpp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1984875418483376128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4uxrUIbQAAViBL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984875418483376128"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "1984875421259968772",
+        "created_at": "2025-11-02T06:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T07:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984875421259968772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTkzWJqLpp",
+              "end": 36,
+              "expanded_url": "https://x.com/real39715698/status/1984875421259968772/photo/1",
+              "media_key": "3_1984875418483376128",
+              "start": 13,
+              "url": "https://t.co/OTkzWJqLpp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984875421259968772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起来还是觉得蓝眼泪很美 https://t.co/OTkzWJqLpp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1952695269616910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980654074484731904/B7DmcC9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 76,
+          "like_count": 427,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 403
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

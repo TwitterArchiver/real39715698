@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2050865906931396768",
+    "created_at": "2026-05-03T09:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T10:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050865906931396768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1913186795560607744",
+          "start": 3,
+          "username": "zo5MLozhgp61405"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050865906931396768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050590697431220338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zo5MLozhgp61405: 男朋友就应该像小狗一样围着我转"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2050865906931396768",
+        "created_at": "2026-05-03T09:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T10:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050865906931396768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1913186795560607744",
+              "start": 3,
+              "username": "zo5MLozhgp61405"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050865906931396768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050590697431220338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zo5MLozhgp61405: 男朋友就应该像小狗一样围着我转"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913186795560607744",
+        "conversation_id": "2050590697431220338",
+        "created_at": "2026-05-02T14:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050590697431220338"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050590697431220338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5010,
+          "like_count": 156,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "男朋友就应该像小狗一样围着我转"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 176,
+          "like_count": 16802,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 2575
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T11:04:25.000Z",
+        "description": "我是一颗美丽的四季豆，我金贵，我自由，我寡淡，我油盐不进，我不随便跟人说话，我也不理人，我没有媚男的义务，没有看你们脸色的义务，我喜欢我自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%8A%B9%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%8A%B9%E8%8C%B610498",
+                "start": 0,
+                "url": "https://t.co/sYKN6YG3yp"
+              }
+            ]
+          }
+        },
+        "id": "1913186795560607744",
+        "name": "抹茶重度爱好者",
+        "pinned_tweet_id": "2046941222594592930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036089276451192832/0MvXvljX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 104,
+          "like_count": 4597,
+          "listed_count": 3,
+          "media_count": 636,
+          "tweet_count": 6540
+        },
+        "url": "https://t.co/sYKN6YG3yp",
+        "username": "zo5MLozhgp61405",
+        "verified": false
+      }
+    ]
+  }
+}

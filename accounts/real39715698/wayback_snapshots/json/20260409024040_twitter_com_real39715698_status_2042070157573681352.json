@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2041904661444374627",
+    "created_at": "2026-04-09T02:40:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T03:40:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042070157573681352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1961661417612087297",
+          "start": 0,
+          "username": "just1594220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042070157573681352",
+    "in_reply_to_user_id": "1961661417612087297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041936555783459229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@just1594220 哈哈哈没事我都乱发的老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2041904661444374627",
+        "created_at": "2026-04-09T02:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T03:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042070157573681352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1961661417612087297",
+              "start": 0,
+              "username": "just1594220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042070157573681352",
+        "in_reply_to_user_id": "1961661417612087297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041936555783459229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@just1594220 哈哈哈没事我都乱发的老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961661417612087297",
+        "conversation_id": "2041904661444374627",
+        "created_at": "2026-04-08T17:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T18:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041936555783459229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041936555783459229",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041904661444374627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 有点羡慕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 138,
+          "like_count": 9974,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1741
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T05:25:17.000Z",
+        "description": "神人 想到什么说什么 可以找我聊天 我会视奸你们的",
+        "id": "1961661417612087297",
+        "name": "嘉陵江",
+        "pinned_tweet_id": "2040868524835651610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034520928613548032/p-rVEOMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 125,
+          "like_count": 879,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 256
+        },
+        "username": "just1594220",
+        "verified": false
+      }
+    ]
+  }
+}

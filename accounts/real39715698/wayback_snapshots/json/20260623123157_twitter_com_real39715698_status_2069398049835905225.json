@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2068693234545819870",
+    "created_at": "2026-06-23T12:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069398049835905225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1560927630752247808",
+          "start": 0,
+          "username": "Yurainl1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069398049835905225",
+    "in_reply_to_user_id": "1560927630752247808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068693234545819870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yurainl1 好萌呀！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068693208964689920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV5g12acAA2wG0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068693229508448256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV5iCYbUAA5kCL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2068693234545819870",
+        "created_at": "2026-06-23T12:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069398049835905225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1560927630752247808",
+              "start": 0,
+              "username": "Yurainl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069398049835905225",
+        "in_reply_to_user_id": "1560927630752247808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068693234545819870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yurainl1 好萌呀！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068693208964689920",
+            "3_2068693229508448256"
+          ]
+        },
+        "author_id": "1560927630752247808",
+        "conversation_id": "2068693234545819870",
+        "created_at": "2026-06-21T13:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068693234545819870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K9Wys8AIZt",
+              "end": 39,
+              "expanded_url": "https://x.com/Yurainl1/status/2068693234545819870/photo/1",
+              "media_key": "3_2068693208964689920",
+              "start": 16,
+              "url": "https://t.co/K9Wys8AIZt"
+            },
+            {
+              "display_url": "pic.x.com/K9Wys8AIZt",
+              "end": 39,
+              "expanded_url": "https://x.com/Yurainl1/status/2068693234545819870/photo/1",
+              "media_key": "3_2068693229508448256",
+              "start": 16,
+              "url": "https://t.co/K9Wys8AIZt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068693234545819870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 392,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "周大福怎么不找我们飞鼠做手模？ https://t.co/K9Wys8AIZt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 199,
+          "like_count": 24769,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 3508
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T09:55:12.000Z",
+        "description": "爱是圆的｜不关注勿扰^ω^\n碎碎念@bevusueack",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "bevusueack"
+              }
+            ]
+          }
+        },
+        "id": "1560927630752247808",
+        "location": "0.1km",
+        "name": "乱篇",
+        "pinned_tweet_id": "2042894922752364650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065776573110992896/JSCTHBhn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2811,
+          "following_count": 77,
+          "like_count": 4815,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "Yurainl1",
+        "verified": false
+      }
+    ]
+  }
+}

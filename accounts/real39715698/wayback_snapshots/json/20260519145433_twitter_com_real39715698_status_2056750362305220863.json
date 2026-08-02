@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2056749207256756622",
+    "created_at": "2026-05-19T14:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056750362305220863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883157644711796736",
+          "start": 0,
+          "username": "TvTbreak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056750362305220863",
+    "in_reply_to_user_id": "1883157644711796736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056749207256756622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@TvTbreak 女神"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25671,
+        "height": 960,
+        "media_key": "13_2056749126898130945",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056749126898130945/img/F_uEkOOfiZcFZhPh.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056749126898130945/vid/avc1/320x426/_TdNlyZZ0TsvrQN9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056749126898130945/vid/avc1/480x640/Pju92Lch4RAaki_D.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056749126898130945/vid/avc1/720x960/jgR1KeZYe5C_ao2v.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056749126898130945/pl/_MAoCjndzf3PaKD8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2056749207256756622",
+        "created_at": "2026-05-19T14:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056750362305220863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883157644711796736",
+              "start": 0,
+              "username": "TvTbreak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056750362305220863",
+        "in_reply_to_user_id": "1883157644711796736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056749207256756622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@TvTbreak 女神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056749126898130945"
+          ]
+        },
+        "author_id": "1883157644711796736",
+        "conversation_id": "2056749207256756622",
+        "created_at": "2026-05-19T14:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056749207256756622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jGiH1CvrJQ",
+              "end": 28,
+              "expanded_url": "https://x.com/TvTbreak/status/2056749207256756622/video/1",
+              "media_key": "13_2056749126898130945",
+              "start": 5,
+              "url": "https://t.co/jGiH1CvrJQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056749207256756622",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我已成神 https://t.co/jGiH1CvrJQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 185,
+          "like_count": 20398,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 2896
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T14:19:15.000Z",
+        "description": "只是一个爱说废话爱玩游戏的臭屌丝",
+        "id": "1883157644711796736",
+        "location": "无门槛不认识不闲聊不要骚扰我",
+        "name": "怎么了又怪我",
+        "pinned_tweet_id": "2022324932739486012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056277514134433792/WHyTv6Zy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5907,
+          "following_count": 93,
+          "like_count": 9193,
+          "listed_count": 19,
+          "media_count": 128,
+          "tweet_count": 4344
+        },
+        "username": "TvTbreak",
+        "verified": false
+      }
+    ]
+  }
+}

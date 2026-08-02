@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1971247567913861120"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "1971247584347132373",
+    "created_at": "2025-09-25T16:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T17:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971247584347132373"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NrVkSmvhPU",
+          "end": 32,
+          "expanded_url": "https://x.com/real39715698/status/1971247584347132373/video/1",
+          "media_key": "7_1971247567913861120",
+          "start": 9,
+          "url": "https://t.co/NrVkSmvhPU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971247584347132373",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很爱哼一些抖歌。 https://t.co/NrVkSmvhPU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17966,
+        "height": 1280,
+        "media_key": "7_1971247567913861120",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1971247567913861120/pu/img/Cqk2hi-ewHgn2vX7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971247567913861120/pu/vid/avc1/320x568/huO7b-QgWjUc8VFX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971247567913861120/pu/vid/avc1/480x852/11zr41cM7Calsdw9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971247567913861120/pu/vid/avc1/720x1280/fGdc9AKGpgCqxLiX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1971247567913861120/pu/pl/ZbRNJFK5gL9nRGGz.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1971247567913861120"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "1971247584347132373",
+        "created_at": "2025-09-25T16:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T17:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971247584347132373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NrVkSmvhPU",
+              "end": 32,
+              "expanded_url": "https://x.com/real39715698/status/1971247584347132373/video/1",
+              "media_key": "7_1971247567913861120",
+              "start": 9,
+              "url": "https://t.co/NrVkSmvhPU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971247584347132373",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很爱哼一些抖歌。 https://t.co/NrVkSmvhPU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950788203742703617/m3VNyVQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 78,
+          "like_count": 309,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 297
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

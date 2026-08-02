@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994628156351991808"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "1994628159153869013",
+    "created_at": "2025-11-29T04:43:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T05:43:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994628159153869013"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T2YOj9mMGt",
+          "end": 40,
+          "expanded_url": "https://x.com/real39715698/status/1994628159153869013/photo/1",
+          "media_key": "3_1994628156351991808",
+          "start": 17,
+          "url": "https://t.co/T2YOj9mMGt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994628159153869013",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "燃尽了 未定事件簿我为你拼过命了 https://t.co/T2YOj9mMGt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1994628156351991808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G65XvX5aUAAPuVG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994628156351991808"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "1994628159153869013",
+        "created_at": "2025-11-29T04:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T05:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994628159153869013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T2YOj9mMGt",
+              "end": 40,
+              "expanded_url": "https://x.com/real39715698/status/1994628159153869013/photo/1",
+              "media_key": "3_1994628156351991808",
+              "start": 17,
+              "url": "https://t.co/T2YOj9mMGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994628159153869013",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "燃尽了 未定事件簿我为你拼过命了 https://t.co/T2YOj9mMGt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1952695269616910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990014207287508992/I8TKk0DW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 82,
+          "like_count": 614,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 482
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

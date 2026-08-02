@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1939892319924494849",
+    "created_at": "2025-07-01T09:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T10:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939974825138589796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1734598399327088640",
+          "start": 0,
+          "username": "ln2umerical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939974825138589796",
+    "in_reply_to_user_id": "1734598399327088640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939892745294029210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ln2umerical 一盒全部拿走"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1939892706425069569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuviI3TWYAEct4x.jpg",
+        "width": 3076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1939892319924494849",
+        "created_at": "2025-07-01T09:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T10:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939974825138589796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1734598399327088640",
+              "start": 0,
+              "username": "ln2umerical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939974825138589796",
+        "in_reply_to_user_id": "1734598399327088640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939892745294029210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ln2umerical 一盒全部拿走"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939892706425069569"
+          ]
+        },
+        "author_id": "1734598399327088640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1939892319924494849",
+        "created_at": "2025-07-01T03:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T04:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939892745294029210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tgVVJe102f",
+              "end": 30,
+              "expanded_url": "https://x.com/ln2umerical/status/1939892745294029210/photo/1",
+              "media_key": "3_1939892706425069569",
+              "start": 7,
+              "url": "https://t.co/tgVVJe102f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939892745294029210",
+        "in_reply_to_user_id": "1734598399327088640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939892319924494849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来口鸡翅😋😋 https://t.co/tgVVJe102f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933977754120474624/RWP6FLXG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 60,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 53
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T15:37:47.000Z",
+        "description": "07/男生/想到啥发啥/互关宝宝来加我v😽 /    \n畅联世界！无广告干扰，机场节点随便挑，自用蜂鸟VPN\nhttps://t.co/3t28hH2Mrc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 78,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=w0eaXhwD",
+                "start": 55,
+                "url": "https://t.co/3t28hH2Mrc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/being88129",
+                "end": 23,
+                "expanded_url": "https://ngl.link/being88129",
+                "start": 0,
+                "url": "https://t.co/mZpOgIfr35"
+              }
+            ]
+          }
+        },
+        "id": "1734598399327088640",
+        "name": "北",
+        "pinned_tweet_id": "1930867043198554210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734598546262003712/kRkc1y0b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 183,
+          "like_count": 15126,
+          "listed_count": 7,
+          "media_count": 300,
+          "tweet_count": 8617
+        },
+        "url": "https://t.co/mZpOgIfr35",
+        "username": "ln2umerical",
+        "verified": false
+      }
+    ]
+  }
+}

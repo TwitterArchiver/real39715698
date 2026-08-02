@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2041576419445350635",
+    "created_at": "2026-04-08T04:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T05:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041741059848597887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2040784533172486144",
+          "start": 0,
+          "username": "catmiaoaipp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041741059848597887",
+    "in_reply_to_user_id": "2040784533172486144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041609260052971940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catmiaoaipp 可能是只有我认真吧 但是他也亲口承认过我对他很重要呀ᴛ ᴛ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2041576419445350635",
+        "created_at": "2026-04-08T04:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041741059848597887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040784533172486144",
+              "start": 0,
+              "username": "catmiaoaipp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041741059848597887",
+        "in_reply_to_user_id": "2040784533172486144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041609260052971940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catmiaoaipp 可能是只有我认真吧 但是他也亲口承认过我对他很重要呀ᴛ ᴛ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040784533172486144",
+        "conversation_id": "2041576419445350635",
+        "created_at": "2026-04-07T20:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T21:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041609260052971940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041609260052971940",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 511,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041576419445350635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 我竟然觉得没什么，我的朋友有两个极端，一个是天天腻一起，一个是突然被联系然后又一起玩\n好朋友真的会一个月不回吗   。这段关系好像只有你认真了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 132,
+          "like_count": 9608,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1692
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T13:34:46.000Z",
+        "description": "骚扰我先发口令🥰",
+        "id": "2040784533172486144",
+        "name": "catmiao",
+        "pinned_tweet_id": "2040789433180700906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040785675562389504/E9FRbr2V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "catmiaoaipp",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2043708536417657162",
+    "created_at": "2026-06-22T14:07:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T15:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069059742119694759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789172509012893696",
+          "start": 0,
+          "username": "helei19670313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069059742119694759",
+    "in_reply_to_user_id": "1789172509012893696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069059635856990486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@helei19670313 吃吃吃吃吃请吃！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2043708536417657162",
+        "created_at": "2026-06-22T14:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069059742119694759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789172509012893696",
+              "start": 0,
+              "username": "helei19670313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069059742119694759",
+        "in_reply_to_user_id": "1789172509012893696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069059635856990486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@helei19670313 吃吃吃吃吃请吃！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789172509012893696",
+        "conversation_id": "2043708536417657162",
+        "created_at": "2026-06-22T14:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069059635856990486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069059635856990486",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069055100937736305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 我真求你了，给我吃吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 200,
+          "like_count": 24709,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 3501
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T05:55:50.000Z",
+        "description": "鸟，我是男的！！！大家的赛博宠物，网上邻居，梦想是去码头整点薯条。人机本机了，属于高级npc，不发消息就不会主动联系的那种",
+        "id": "1789172509012893696",
+        "name": "海鸥（",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812146004336005121/h_t-zyWa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 323,
+          "like_count": 22038,
+          "listed_count": 6,
+          "media_count": 267,
+          "tweet_count": 11689
+        },
+        "url": "",
+        "username": "helei19670313",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1997598308555280816",
+    "created_at": "2025-12-07T13:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T14:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997661918169796704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1204311506797649921",
+          "start": 0,
+          "username": "Gwendoline_1210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997661918169796704",
+    "in_reply_to_user_id": "1204311506797649921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997661170925215864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gwendoline_1210 谢谢你夸我宝宝！(៸៸᳐⦁⩊⦁៸៸᳐ )੭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1997598308555280816",
+        "created_at": "2025-12-07T13:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T14:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997661918169796704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1204311506797649921",
+              "start": 0,
+              "username": "Gwendoline_1210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997661918169796704",
+        "in_reply_to_user_id": "1204311506797649921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997661170925215864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gwendoline_1210 谢谢你夸我宝宝！(៸៸᳐⦁⩊⦁៸៸᳐ )੭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1204311506797649921",
+        "conversation_id": "1997598308555280816",
+        "created_at": "2025-12-07T13:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T14:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997661170925215864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997661170925215864",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997598308555280816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 kiyomi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "说了再见才发现再也见不到",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1990047104321122696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 75,
+          "like_count": 666,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 497
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-10T08:07:00.000Z",
+        "description": "一棵高大的树！",
+        "id": "1204311506797649921",
+        "location": "Paris, France",
+        "name": "Gwen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989438565827133441/grdYW_cn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 28,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 355
+        },
+        "username": "Gwendoline_1210",
+        "verified": false
+      }
+    ]
+  }
+}

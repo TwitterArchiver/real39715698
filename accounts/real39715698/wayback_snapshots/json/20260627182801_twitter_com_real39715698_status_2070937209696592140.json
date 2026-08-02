@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2070936759278694677",
+    "created_at": "2026-06-27T18:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T19:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070937209696592140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2045557342830260224",
+          "start": 0,
+          "username": "KeiiKeiixy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070937209696592140",
+    "in_reply_to_user_id": "2045557342830260224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070936759278694677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KeiiKeiixy1 完全美女漂亮女神可爱性感天仙下凡我的妻子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2070936759278694677",
+        "created_at": "2026-06-27T18:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T19:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070937209696592140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2045557342830260224",
+              "start": 0,
+              "username": "KeiiKeiixy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070937209696592140",
+        "in_reply_to_user_id": "2045557342830260224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070936759278694677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KeiiKeiixy1 完全美女漂亮女神可爱性感天仙下凡我的妻子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045557342830260224",
+        "conversation_id": "2070936759278694677",
+        "created_at": "2026-06-27T18:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T19:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070936759278694677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070936759278694677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然感觉自己长得好丑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 199,
+          "like_count": 25128,
+          "listed_count": 1,
+          "media_count": 372,
+          "tweet_count": 3574
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T17:38:44.000Z",
+        "description": "盗我图死全家 没🚪不陪聊不约不线下不处不卖不拍片不互看不接定制不出衣服袜子鞋子  不更新就是跑路了没有偷偷幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kkyri9",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kkyri9",
+                "start": 0,
+                "url": "https://t.co/oZIz49Ivsd"
+              }
+            ]
+          }
+        },
+        "id": "2045557342830260224",
+        "name": "Keii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056386616378499072/StLraDs-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2509,
+          "following_count": 88,
+          "like_count": 818,
+          "listed_count": 8,
+          "media_count": 19,
+          "tweet_count": 35
+        },
+        "url": "https://t.co/oZIz49Ivsd",
+        "username": "KeiiKeiixy1",
+        "verified": false
+      }
+    ]
+  }
+}

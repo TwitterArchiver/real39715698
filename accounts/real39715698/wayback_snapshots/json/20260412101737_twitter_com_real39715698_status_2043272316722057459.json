@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2043270838355624386",
+    "created_at": "2026-04-12T10:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T11:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043272316722057459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2039893419972014080",
+          "start": 0,
+          "username": "songzhurovz"
+        },
+        {
+          "end": 23,
+          "id": "1784887323211280384",
+          "start": 13,
+          "username": "ljng15760"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043272316722057459",
+    "in_reply_to_user_id": "2039893419972014080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043272132097114308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@songzhurovz @ljng15760 谢谢你宝宝ᴛ ᴛ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2043270838355624386",
+        "created_at": "2026-04-12T10:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043272316722057459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2039893419972014080",
+              "start": 0,
+              "username": "songzhurovz"
+            },
+            {
+              "end": 23,
+              "id": "1784887323211280384",
+              "start": 13,
+              "username": "ljng15760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043272316722057459",
+        "in_reply_to_user_id": "2039893419972014080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043272132097114308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@songzhurovz @ljng15760 谢谢你宝宝ᴛ ᴛ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039893419972014080",
+        "conversation_id": "2043270838355624386",
+        "created_at": "2026-04-12T10:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043272132097114308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            },
+            {
+              "end": 24,
+              "id": "1784887323211280384",
+              "start": 14,
+              "username": "ljng15760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043272132097114308",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043270838355624386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 @ljng15760 好萌🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "你走后我的世界模糊一片 看心情过@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 152,
+          "like_count": 10891,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 1890
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T02:32:11.000Z",
+        "description": "06年infp女大\n有🚪纯绿\n匿名信箱https://t.co/60ysWqr8iS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%80%E5%8…",
+                "end": 42,
+                "expanded_url": "https://ngl.link/%E4%B8%80%E5%8F%AA%E5%B0%8F%E6%99%9A%E6%99%9A%E6%99%9A%E6%99%9A%E6%99%9A",
+                "start": 19,
+                "url": "https://t.co/60ysWqr8iS"
+              }
+            ]
+          }
+        },
+        "id": "2039893419972014080",
+        "name": "一只小晚晚晚晚晚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039893854548000768/r5AFXUYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 48,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 150
+        },
+        "username": "songzhurovz",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T10:08:06.000Z",
+        "description": "喜欢看看就好🌙｜录制请先私信获取授权，发布请@ 我｜自用🪜（#AD）https://t.co/LQOg6OmAtp（定制晚点再接）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "AD"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "shorturl.at/laBRh",
+                "end": 57,
+                "expanded_url": "Https://shorturl.at/laBRh",
+                "start": 34,
+                "url": "https://t.co/LQOg6OmAtp"
+              }
+            ]
+          }
+        },
+        "id": "1784887323211280384",
+        "location": "星星之火",
+        "name": "星星⭐️❤️",
+        "pinned_tweet_id": "2024469379967336910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999656615763730432/lLbnNMuO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85177,
+          "following_count": 260,
+          "like_count": 10108,
+          "listed_count": 97,
+          "media_count": 720,
+          "tweet_count": 9078
+        },
+        "username": "ljng15760",
+        "verified": false
+      }
+    ]
+  }
+}

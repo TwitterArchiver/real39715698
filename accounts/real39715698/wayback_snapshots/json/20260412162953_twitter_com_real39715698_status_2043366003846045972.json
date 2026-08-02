@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2043364690160721999",
+    "created_at": "2026-04-12T16:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T17:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043366003846045972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1700262671637999616",
+          "start": 0,
+          "username": "Cutexiovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043366003846045972",
+    "in_reply_to_user_id": "1700262671637999616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043365817405063606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cutexiovo 好呀好呀好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2043364690160721999",
+        "created_at": "2026-04-12T16:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043366003846045972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1700262671637999616",
+              "start": 0,
+              "username": "Cutexiovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043366003846045972",
+        "in_reply_to_user_id": "1700262671637999616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043365817405063606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cutexiovo 好呀好呀好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700262671637999616",
+        "conversation_id": "2043364690160721999",
+        "created_at": "2026-04-12T16:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043365817405063606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043365817405063606",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043365517403304003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 好好休息呀宝宝我们明天再聊天！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "你走后我的世界模糊一片 看心情过@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 152,
+          "like_count": 11050,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 1928
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T21:39:57.000Z",
+        "description": "(ˆ⸝⸝• ꇴ •ˆ)ε •⸝⸝ˆ) @Puffey0v0只过眼熟互关和🚪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "Puffey0v0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xixiowo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xixiowo",
+                "start": 0,
+                "url": "https://t.co/pWfxXkENoj"
+              }
+            ]
+          }
+        },
+        "id": "1700262671637999616",
+        "location": "🚪88纯绿",
+        "name": "想变可爱",
+        "pinned_tweet_id": "2038290749855601004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040345693949431809/LK3YCa4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 115,
+          "like_count": 9970,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1263
+        },
+        "url": "https://t.co/pWfxXkENoj",
+        "username": "Cutexiovo",
+        "verified": false
+      }
+    ]
+  }
+}

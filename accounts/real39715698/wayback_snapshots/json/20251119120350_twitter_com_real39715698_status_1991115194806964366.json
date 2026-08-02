@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1991095935494185060",
+    "created_at": "2025-11-19T12:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T13:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991115194806964366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1577510555551956993",
+          "start": 0,
+          "username": "LuvSic02274433"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991115194806964366",
+    "in_reply_to_user_id": "1577510555551956993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991095935494185060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuvSic02274433 老公我火速前来支持"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50836,
+        "height": 552,
+        "media_key": "13_1991095836005294080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1991095836005294080/img/vq3Yw1M-1NtMm5aM.jpg",
+        "public_metrics": {
+          "view_count": 118
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991095836005294080/vid/avc1/432x270/N9Ptsb88ZTB0-7gI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991095836005294080/vid/avc1/576x360/_VcdRKFuxBuT3kNF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991095836005294080/vid/avc1/884x552/_qAvCyfeHIzIwbjq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1991095836005294080/pl/RJL-oAkPlZ5z-0zM.m3u8"
+          }
+        ],
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1991095935494185060",
+        "created_at": "2025-11-19T12:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T13:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991115194806964366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1577510555551956993",
+              "start": 0,
+              "username": "LuvSic02274433"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991115194806964366",
+        "in_reply_to_user_id": "1577510555551956993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991095935494185060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuvSic02274433 老公我火速前来支持"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1991095836005294080"
+          ]
+        },
+        "author_id": "1577510555551956993",
+        "conversation_id": "1991095935494185060",
+        "created_at": "2025-11-19T10:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T11:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991095935494185060"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "翻唱"
+            },
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "跟悲伤结了账"
+            },
+            {
+              "end": 31,
+              "start": 20,
+              "tag": "汤令山GarethT"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "揽佬"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gtWUDbKlyx",
+              "end": 59,
+              "expanded_url": "https://x.com/LuvSic02274433/status/1991095935494185060/video/1",
+              "media_key": "13_1991095836005294080",
+              "start": 36,
+              "url": "https://t.co/gtWUDbKlyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991095935494185060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 274,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟悲伤来了财\n\n#翻唱 #跟悲伤结了账 #汤令山GarethT #揽佬 https://t.co/gtWUDbKlyx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1952695269616910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990014207287508992/I8TKk0DW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 79,
+          "like_count": 558,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 456
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-05T04:06:47.000Z",
+        "description": "至少还在上坡路上｜推荐自用蜂鸟vpn：https://t.co/8ARScuzJZ2｜小小的老子@iiiamwhatusee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "iiiamwhatusee"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 42,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=hWet1hiQ",
+                "start": 19,
+                "url": "https://t.co/8ARScuzJZ2"
+              }
+            ]
+          }
+        },
+        "id": "1577510555551956993",
+        "location": "我们不会相见",
+        "name": "黑色剑士",
+        "pinned_tweet_id": "1930621743950905661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921493259827957760/0dtxwwrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12863,
+          "following_count": 342,
+          "like_count": 2029,
+          "listed_count": 25,
+          "media_count": 148,
+          "tweet_count": 4064
+        },
+        "username": "LuvSic02274433",
+        "verified": false
+      }
+    ]
+  }
+}

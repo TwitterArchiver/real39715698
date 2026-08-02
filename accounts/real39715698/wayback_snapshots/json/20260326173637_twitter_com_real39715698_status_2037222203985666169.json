@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2037222189045604352"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "2037222203985666169",
+    "created_at": "2026-03-26T17:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T18:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037222203985666169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lk4lAMNI5K",
+          "end": 44,
+          "expanded_url": "https://x.com/real39715698/status/2037222203985666169/video/1",
+          "media_key": "7_2037222189045604352",
+          "start": 21,
+          "url": "https://t.co/lk4lAMNI5K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037222203985666169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有小学生声音，慎点。对不起我乱唱的大家。 https://t.co/lk4lAMNI5K"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54000,
+        "height": 560,
+        "media_key": "7_2037222189045604352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2037222189045604352/pu/img/PTuM3mhKPTxO1kH5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037222189045604352/pu/vid/avc1/276x270/nO5dJZUnsnLuxYIT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037222189045604352/pu/vid/avc1/370x360/hOOZ9I0-VW3JZtGo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037222189045604352/pu/vid/avc1/576x560/pJ5E87QXIFQILQ5t.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2037222189045604352/pu/pl/yTFrhHSa7QkVo67I.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2037222189045604352"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "2037222203985666169",
+        "created_at": "2026-03-26T17:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T18:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037222203985666169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lk4lAMNI5K",
+              "end": 44,
+              "expanded_url": "https://x.com/real39715698/status/2037222203985666169/video/1",
+              "media_key": "7_2037222189045604352",
+              "start": 21,
+              "url": "https://t.co/lk4lAMNI5K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037222203985666169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有小学生声音，慎点。对不起我乱唱的大家。 https://t.co/lk4lAMNI5K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 96,
+          "like_count": 5584,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1219
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

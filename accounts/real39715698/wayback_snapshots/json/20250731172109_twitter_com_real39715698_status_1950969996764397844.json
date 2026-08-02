@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1950578308095074797",
+    "created_at": "2025-07-31T17:21:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T18:21:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950969996764397844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1844579370410835970",
+          "start": 0,
+          "username": "zaoshui418"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950969996764397844",
+    "in_reply_to_user_id": "1844579370410835970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950578308095074797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zaoshui418 这么萌萌的脸配上这么猛猛的肌肉"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11900,
+        "height": 1280,
+        "media_key": "13_1950578218274103296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1950578218274103296/img/YuqXYpmBejQGmKCw.jpg",
+        "public_metrics": {
+          "view_count": 24826
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950578218274103296/vid/avc1/320x568/pzo-eo-kKvEeGVPM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950578218274103296/vid/avc1/480x852/ua6PG5gM1GBeVXZt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950578218274103296/vid/avc1/720x1280/rLwFCHur-hVZtQZH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1950578218274103296/pl/Xm3NEX3B-AmvL9_M.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1950578308095074797",
+        "created_at": "2025-07-31T17:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T18:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950969996764397844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1844579370410835970",
+              "start": 0,
+              "username": "zaoshui418"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950969996764397844",
+        "in_reply_to_user_id": "1844579370410835970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950578308095074797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaoshui418 这么萌萌的脸配上这么猛猛的肌肉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1950578218274103296"
+          ]
+        },
+        "author_id": "1844579370410835970",
+        "conversation_id": "1950578308095074797",
+        "created_at": "2025-07-30T15:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T16:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950578308095074797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LxIBI9iLYn",
+              "end": 30,
+              "expanded_url": "https://x.com/zaoshui418/status/1950578308095074797/video/1",
+              "media_key": "13_1950578218274103296",
+              "start": 7,
+              "url": "https://t.co/LxIBI9iLYn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950578308095074797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 179,
+          "impression_count": 89974,
+          "like_count": 2432,
+          "quote_count": 5,
+          "reply_count": 52,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "穿衣显瘦系列 https://t.co/LxIBI9iLYn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利\nhttps://t.co/FMgiCVkSMp提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1939295479709495379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950788203742703617/m3VNyVQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 75,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 199
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-11T03:22:54.000Z",
+        "description": "热爱生命 /🚪可以是（）顿KFC增肌餐 /欢迎来找我玩/合作请私信",
+        "id": "1844579370410835970",
+        "name": "早水",
+        "pinned_tweet_id": "1913149112360349968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844582002361798656/8IODBvrp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23379,
+          "following_count": 60,
+          "like_count": 143,
+          "listed_count": 43,
+          "media_count": 39,
+          "tweet_count": 176
+        },
+        "username": "zaoshui418",
+        "verified": false
+      }
+    ]
+  }
+}

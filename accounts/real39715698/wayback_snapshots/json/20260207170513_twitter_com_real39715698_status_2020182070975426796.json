@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020182062872031234",
+        "3_2020182062884614145",
+        "3_2020182063148826624"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2020182070975426796",
+    "created_at": "2026-02-07T17:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T18:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020182070975426796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zWZFlFDZTr",
+          "end": 44,
+          "expanded_url": "https://x.com/real39715698/status/2020182070975426796/photo/1",
+          "media_key": "3_2020182062872031234",
+          "start": 21,
+          "url": "https://t.co/zWZFlFDZTr"
+        },
+        {
+          "display_url": "pic.x.com/zWZFlFDZTr",
+          "end": 44,
+          "expanded_url": "https://x.com/real39715698/status/2020182070975426796/photo/1",
+          "media_key": "3_2020182062884614145",
+          "start": 21,
+          "url": "https://t.co/zWZFlFDZTr"
+        },
+        {
+          "display_url": "pic.x.com/zWZFlFDZTr",
+          "end": 44,
+          "expanded_url": "https://x.com/real39715698/status/2020182070975426796/photo/1",
+          "media_key": "3_2020182063148826624",
+          "start": 21,
+          "url": "https://t.co/zWZFlFDZTr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020182070975426796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯！两天打了两千多战力吧！元辅榜至暗时刻 https://t.co/zWZFlFDZTr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_2020182062872031234",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkg4f8acAIXYrJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 926,
+        "media_key": "3_2020182062884614145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkg4f_acAEwMqK.jpg",
+        "width": 2048
+      },
+      {
+        "height": 926,
+        "media_key": "3_2020182063148826624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkg4g-aAAA2Wdz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020182062872031234",
+            "3_2020182062884614145",
+            "3_2020182063148826624"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020182070975426796",
+        "created_at": "2026-02-07T17:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T18:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020182070975426796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zWZFlFDZTr",
+              "end": 44,
+              "expanded_url": "https://x.com/real39715698/status/2020182070975426796/photo/1",
+              "media_key": "3_2020182062872031234",
+              "start": 21,
+              "url": "https://t.co/zWZFlFDZTr"
+            },
+            {
+              "display_url": "pic.x.com/zWZFlFDZTr",
+              "end": 44,
+              "expanded_url": "https://x.com/real39715698/status/2020182070975426796/photo/1",
+              "media_key": "3_2020182062884614145",
+              "start": 21,
+              "url": "https://t.co/zWZFlFDZTr"
+            },
+            {
+              "display_url": "pic.x.com/zWZFlFDZTr",
+              "end": 44,
+              "expanded_url": "https://x.com/real39715698/status/2020182070975426796/photo/1",
+              "media_key": "3_2020182063148826624",
+              "start": 21,
+              "url": "https://t.co/zWZFlFDZTr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020182070975426796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯！两天打了两千多战力吧！元辅榜至暗时刻 https://t.co/zWZFlFDZTr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 78,
+          "like_count": 1581,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 803
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2032877971007258820",
+    "created_at": "2026-03-14T17:54:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T18:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032877971007258820"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032877971007258820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你为什么总是不主动找我呀，你是把我当成小狗了吗??!挥之即去的小狗吗!!!?好吧好吧，是小狗我也愿意，可是我想你了呀怎么办!!!!(T . T)喂喂喂，在吗在吗，你有我就够了呀，不可以找别人喔!!喂，可以理理我这个小狗狗吗??(＞人＜)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2032877971007258820",
+        "created_at": "2026-03-14T17:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T18:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032877971007258820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032877971007258820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你为什么总是不主动找我呀，你是把我当成小狗了吗??!挥之即去的小狗吗!!!?好吧好吧，是小狗我也愿意，可是我想你了呀怎么办!!!!(T . T)喂喂喂，在吗在吗，你有我就够了呀，不可以找别人喔!!喂，可以理理我这个小狗狗吗??(＞人＜)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 89,
+          "like_count": 3991,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1073
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

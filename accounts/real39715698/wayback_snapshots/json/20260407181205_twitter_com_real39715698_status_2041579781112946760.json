@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2041577674532122984",
+    "created_at": "2026-04-07T18:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T19:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041579781112946760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1385592677492686991",
+          "start": 0,
+          "username": "Ykawsog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041579781112946760",
+    "in_reply_to_user_id": "1385592677492686991",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041577674532122984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ykawsog 循环播放2778遍"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4600,
+        "height": 584,
+        "media_key": "13_2041577663543046144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041577663543046144/img/8ofyyFb9wy40uhig.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041577663543046144/vid/avc1/272x270/pNigC-NoSoXgDKhO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041577663543046144/vid/avc1/364x360/6tynbaArXry3k8Q3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041577663543046144/vid/avc1/592x584/bPIpi1dOj46k4sBA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041577663543046144/pl/EdFtdMC8KtRaw-II.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2041577674532122984",
+        "created_at": "2026-04-07T18:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T19:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041579781112946760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1385592677492686991",
+              "start": 0,
+              "username": "Ykawsog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041579781112946760",
+        "in_reply_to_user_id": "1385592677492686991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041577674532122984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ykawsog 循环播放2778遍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041577663543046144"
+          ]
+        },
+        "author_id": "1385592677492686991",
+        "conversation_id": "2041577674532122984",
+        "created_at": "2026-04-07T18:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T19:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041577674532122984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TarsE7mWD0",
+              "end": 31,
+              "expanded_url": "https://x.com/Ykawsog/status/2041577674532122984/video/1",
+              "media_key": "13_2041577663543046144",
+              "start": 8,
+              "url": "https://t.co/TarsE7mWD0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041577674532122984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备入驻语音厅 https://t.co/TarsE7mWD0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 130,
+          "like_count": 9492,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1667
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-23T13:53:37.000Z",
+        "description": "别不幸福",
+        "id": "1385592677492686991",
+        "name": "下雪",
+        "pinned_tweet_id": "1951076712676282699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974812834249994240/kMop3uq__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 3086,
+          "like_count": 13070,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 10911
+        },
+        "username": "Ykawsog",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-23T13:53:37.000Z",
+        "description": "别不幸福",
+        "id": "1385592677492686991",
+        "name": "下雪",
+        "pinned_tweet_id": "1951076712676282699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974812834249994240/kMop3uq__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 3086,
+          "like_count": 13070,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 10911
+        },
+        "url": "",
+        "username": "Ykawsog",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-23T13:53:37.000Z",
+        "description": "别不幸福",
+        "id": "1385592677492686991",
+        "name": "下雪",
+        "pinned_tweet_id": "1951076712676282699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974812834249994240/kMop3uq__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 3086,
+          "like_count": 13070,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 10911
+        },
+        "username": "Ykawsog",
+        "verified": false
+      }
+    ]
+  }
+}

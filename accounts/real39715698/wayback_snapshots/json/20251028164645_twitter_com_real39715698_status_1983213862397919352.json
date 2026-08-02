@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983213859390533636",
+        "3_1983213859134689280"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1983213862397919352",
+    "created_at": "2025-10-28T16:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T17:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983213862397919352"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cimf9EXElb",
+          "end": 28,
+          "expanded_url": "https://x.com/real39715698/status/1983213862397919352/photo/1",
+          "media_key": "3_1983213859390533636",
+          "start": 5,
+          "url": "https://t.co/Cimf9EXElb"
+        },
+        {
+          "display_url": "pic.x.com/Cimf9EXElb",
+          "end": 28,
+          "expanded_url": "https://x.com/real39715698/status/1983213862397919352/photo/1",
+          "media_key": "3_1983213859134689280",
+          "start": 5,
+          "url": "https://t.co/Cimf9EXElb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983213862397919352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "手感火热 https://t.co/Cimf9EXElb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_1983213859390533636",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4XKf2KasAQFyTu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 926,
+        "media_key": "3_1983213859134689280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4XKf1Na0AAHi4A.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983213859390533636",
+            "3_1983213859134689280"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983213862397919352",
+        "created_at": "2025-10-28T16:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T17:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983213862397919352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cimf9EXElb",
+              "end": 28,
+              "expanded_url": "https://x.com/real39715698/status/1983213862397919352/photo/1",
+              "media_key": "3_1983213859390533636",
+              "start": 5,
+              "url": "https://t.co/Cimf9EXElb"
+            },
+            {
+              "display_url": "pic.x.com/Cimf9EXElb",
+              "end": 28,
+              "expanded_url": "https://x.com/real39715698/status/1983213862397919352/photo/1",
+              "media_key": "3_1983213859134689280",
+              "start": 5,
+              "url": "https://t.co/Cimf9EXElb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983213862397919352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手感火热 https://t.co/Cimf9EXElb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只跟青年音说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1952695269616910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980654074484731904/B7DmcC9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 76,
+          "like_count": 396,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 380
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

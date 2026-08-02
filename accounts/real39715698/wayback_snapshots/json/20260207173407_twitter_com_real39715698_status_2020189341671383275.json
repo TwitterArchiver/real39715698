@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2020189323241615364"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "2020189341671383275",
+    "created_at": "2026-02-07T17:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T18:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020189341671383275"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jQi8PQ5wHN",
+          "end": 36,
+          "expanded_url": "https://x.com/real39715698/status/2020189341671383275/video/1",
+          "media_key": "7_2020189323241615364",
+          "start": 13,
+          "url": "https://t.co/jQi8PQ5wHN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020189341671383275",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "依旧是诗朗诵中ᴛ ω ᴛ https://t.co/jQi8PQ5wHN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15540,
+        "height": 420,
+        "media_key": "7_2020189323241615364",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2020189323241615364/pu/img/xlxE9BN9BVPYu76d.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2020189323241615364/pu/vid/avc1/370x270/ycQVb-libfBn_qQO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2020189323241615364/pu/vid/avc1/576x420/hddhpYqWmIAxYtqO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2020189323241615364/pu/pl/nyXlSYUK4lhJ7glf.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2020189323241615364"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "2020189341671383275",
+        "created_at": "2026-02-07T17:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T18:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020189341671383275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jQi8PQ5wHN",
+              "end": 36,
+              "expanded_url": "https://x.com/real39715698/status/2020189341671383275/video/1",
+              "media_key": "7_2020189323241615364",
+              "start": 13,
+              "url": "https://t.co/jQi8PQ5wHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020189341671383275",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧是诗朗诵中ᴛ ω ᴛ https://t.co/jQi8PQ5wHN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 78,
+          "like_count": 1584,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 804
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

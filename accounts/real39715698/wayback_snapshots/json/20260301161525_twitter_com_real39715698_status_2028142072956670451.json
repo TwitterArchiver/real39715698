@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2028136603127099561",
+    "created_at": "2026-03-01T16:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T17:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028142072956670451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1577510555551956993",
+          "start": 0,
+          "username": "LuvSic02274433"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028142072956670451",
+    "in_reply_to_user_id": "1577510555551956993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028136603127099561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuvSic02274433 小剑士好久不见！终于等到你唱歌啦 (´｡-ω(-ω-｡`)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 96321,
+        "height": 1280,
+        "media_key": "13_2028136220493238273",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028136220493238273/img/z1JMuJGPyF5E2T_m.jpg",
+        "public_metrics": {
+          "view_count": 34
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028136220493238273/vid/avc1/320x694/PDzS2uAKTB1BSWLB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028136220493238273/vid/avc1/480x1040/ha8xCkmu00eTPeQZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028136220493238273/vid/avc1/590x1280/U9kHL3oEt0Xxxe95.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028136220493238273/pl/Zy7pKD4bWXnltZRP.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2028136603127099561",
+        "created_at": "2026-03-01T16:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T17:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028142072956670451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1577510555551956993",
+              "start": 0,
+              "username": "LuvSic02274433"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028142072956670451",
+        "in_reply_to_user_id": "1577510555551956993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028136603127099561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuvSic02274433 小剑士好久不见！终于等到你唱歌啦 (´｡-ω(-ω-｡`)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028136220493238273"
+          ]
+        },
+        "author_id": "1577510555551956993",
+        "conversation_id": "2028136603127099561",
+        "created_at": "2026-03-01T15:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T16:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028136603127099561"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "清唱"
+            },
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "词不达意"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "林忆莲"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1gJN6x2AAB",
+              "end": 53,
+              "expanded_url": "https://x.com/LuvSic02274433/status/2028136603127099561/video/1",
+              "media_key": "13_2028136220493238273",
+              "start": 30,
+              "url": "https://t.co/1gJN6x2AAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028136603127099561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我无法传达我自己 从何说起\n\n#清唱 #词不达意 #林忆莲 https://t.co/1gJN6x2AAB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 86,
+          "like_count": 3062,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 999
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-05T04:06:47.000Z",
+        "description": "至少还在上坡路上｜推荐自用蜂鸟vpn：https://t.co/8ARScuzc9u 小小的老子：@iiiamwhatusee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 49,
+                "username": "iiiamwhatusee"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 42,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=hWet1hiQ",
+                "start": 19,
+                "url": "https://t.co/8ARScuzc9u"
+              }
+            ]
+          }
+        },
+        "id": "1577510555551956993",
+        "location": "我们不会相见",
+        "name": "黑色剑士",
+        "pinned_tweet_id": "1875819081523458275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921493259827957760/0dtxwwrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12415,
+          "following_count": 344,
+          "like_count": 1902,
+          "listed_count": 24,
+          "media_count": 158,
+          "tweet_count": 4166
+        },
+        "username": "LuvSic02274433",
+        "verified": false
+      }
+    ]
+  }
+}

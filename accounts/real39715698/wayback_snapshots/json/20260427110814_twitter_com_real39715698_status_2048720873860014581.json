@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2048701777286205640",
+    "created_at": "2026-04-27T11:08:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T12:08:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048720873860014581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1481762141564661761",
+          "start": 0,
+          "username": "iiuyfz1200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048720873860014581",
+    "in_reply_to_user_id": "1481762141564661761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048713105434390832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiuyfz1200 好耶亲亲！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2048701777286205640",
+        "created_at": "2026-04-27T11:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048720873860014581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1481762141564661761",
+              "start": 0,
+              "username": "iiuyfz1200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048720873860014581",
+        "in_reply_to_user_id": "1481762141564661761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048713105434390832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiuyfz1200 好耶亲亲！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481762141564661761",
+        "conversation_id": "2048701777286205640",
+        "created_at": "2026-04-27T10:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048713105434390832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048713105434390832",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048701777286205640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 好耶恭喜恭喜！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 175,
+          "like_count": 15406,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 2378
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-13T22:56:51.000Z",
+        "description": "早睡博主碎碎念博主/偶尔暴露癖纯因为爱拍不代表我要聊骚/小女孩和我互关吧请求了…",
+        "id": "1481762141564661761",
+        "name": "下睫毛",
+        "pinned_tweet_id": "2046417916284072268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045375034643079168/UUjzc_bG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 19,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 129
+        },
+        "username": "iiuyfz1200",
+        "verified": false
+      }
+    ]
+  }
+}

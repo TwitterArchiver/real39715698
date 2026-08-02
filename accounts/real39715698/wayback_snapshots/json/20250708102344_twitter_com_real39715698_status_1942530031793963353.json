@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1942530010050428928"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "1942530031793963353",
+    "created_at": "2025-07-08T10:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T11:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942530031793963353"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "郑润泽"
+        },
+        {
+          "end": 9,
+          "start": 5,
+          "tag": "少女音"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4xX9uncZV9",
+          "end": 63,
+          "expanded_url": "https://x.com/real39715698/status/1942530031793963353/video/1",
+          "media_key": "7_1942530010050428928",
+          "start": 40,
+          "url": "https://t.co/4xX9uncZV9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942530031793963353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#郑润泽 ＃少女音 焦虑没什么不好的 就像饼干 焦焦的也很好吃(=-ω.^=) https://t.co/4xX9uncZV9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54266,
+        "height": 720,
+        "media_key": "7_1942530010050428928",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1942530010050428928/pu/img/x9rlmtOLci8bjNEQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942530010050428928/pu/vid/avc1/320x320/0BjMHbVj6u4wCGPw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942530010050428928/pu/vid/avc1/540x540/xaC51_I6OPwTYANE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942530010050428928/pu/vid/avc1/720x720/1xhp86frDHsQc49b.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1942530010050428928/pu/pl/KI2_Whlg_sfwIq75.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1942530010050428928"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "1942530031793963353",
+        "created_at": "2025-07-08T10:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T11:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942530031793963353"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "郑润泽"
+            },
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "少女音"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4xX9uncZV9",
+              "end": 63,
+              "expanded_url": "https://x.com/real39715698/status/1942530031793963353/video/1",
+              "media_key": "7_1942530010050428928",
+              "start": 40,
+              "url": "https://t.co/4xX9uncZV9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942530031793963353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#郑润泽 ＃少女音 焦虑没什么不好的 就像饼干 焦焦的也很好吃(=-ω.^=) https://t.co/4xX9uncZV9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 65,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 105
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

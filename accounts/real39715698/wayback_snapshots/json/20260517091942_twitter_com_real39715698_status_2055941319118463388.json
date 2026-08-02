@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2055927039300157507",
+    "created_at": "2026-05-17T09:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T10:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055941319118463388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1819030510053834752",
+          "start": 0,
+          "username": "TuMnnu04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055941319118463388",
+    "in_reply_to_user_id": "1819030510053834752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055938337962332367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuMnnu04 嘿嘿知知呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2055927039300157507",
+        "created_at": "2026-05-17T09:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055941319118463388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1819030510053834752",
+              "start": 0,
+              "username": "TuMnnu04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055941319118463388",
+        "in_reply_to_user_id": "1819030510053834752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055938337962332367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuMnnu04 嘿嘿知知呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819030510053834752",
+        "conversation_id": "2055927039300157507",
+        "created_at": "2026-05-17T09:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055938337962332367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055938337962332367",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055927039300157507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 好勇敢！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 186,
+          "like_count": 19927,
+          "listed_count": 1,
+          "media_count": 297,
+          "tweet_count": 2851
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T15:20:56.000Z",
+        "description": "好事多磨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tuqmmu1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tuqmmu1",
+                "start": 0,
+                "url": "https://t.co/qo7c7eyjcR"
+              }
+            ]
+          }
+        },
+        "id": "1819030510053834752",
+        "location": "知知の活着日记",
+        "name": "不要被命运找到",
+        "pinned_tweet_id": "2053514038055772623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055573893545435136/S6rKo36C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 54,
+          "like_count": 4715,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 352
+        },
+        "url": "https://t.co/qo7c7eyjcR",
+        "username": "TuMnnu04",
+        "verified": false
+      }
+    ]
+  }
+}

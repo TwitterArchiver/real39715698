@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2038606100233404676",
+    "created_at": "2026-03-30T13:26:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038608824303796299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883157644711796736",
+          "start": 0,
+          "username": "TvTbreak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038608824303796299",
+    "in_reply_to_user_id": "1883157644711796736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038606100233404676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TvTbreak 好萌宝宝⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄我要亲你一百下呀&gt;&lt;"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038606092071313408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqVcJLboAAeAyd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2038606100233404676",
+        "created_at": "2026-03-30T13:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038608824303796299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883157644711796736",
+              "start": 0,
+              "username": "TvTbreak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038608824303796299",
+        "in_reply_to_user_id": "1883157644711796736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038606100233404676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TvTbreak 好萌宝宝⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄我要亲你一百下呀&gt;&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038606092071313408"
+          ]
+        },
+        "author_id": "1883157644711796736",
+        "conversation_id": "2038606100233404676",
+        "created_at": "2026-03-30T13:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038606100233404676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8eJuqsK4t9",
+              "end": 47,
+              "expanded_url": "https://x.com/TvTbreak/status/2038606100233404676/photo/1",
+              "media_key": "3_2038606092071313408",
+              "start": 24,
+              "url": "https://t.co/8eJuqsK4t9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038606100233404676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这些网上骂我的人现实看见我只会想亲我⬮ ω ⬮ https://t.co/8eJuqsK4t9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 106,
+          "like_count": 6706,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1328
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T14:19:15.000Z",
+        "description": "没有🚪不加联系方式 分享日常和一些无厘头的碎碎念 请不要在意我 不沾黄色看黄男公狗给我发私信评论默认4000+",
+        "id": "1883157644711796736",
+        "location": "我的伤痕永远熄不灭",
+        "name": "不要跟我说话",
+        "pinned_tweet_id": "2022324932739486012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023731794240303104/4LaB7DuY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 4290
+        },
+        "username": "TvTbreak",
+        "verified": false
+      }
+    ]
+  }
+}

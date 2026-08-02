@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2048769136256491539",
+    "created_at": "2026-04-27T14:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048770961105977782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1922999120865751040",
+          "start": 0,
+          "username": "hvbetterchoice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048770961105977782",
+    "in_reply_to_user_id": "1922999120865751040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048769136256491539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hvbetterchoice 妈妈老婆宝宝主人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048769127620419584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6wqq6aIAAHFMC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2048769136256491539",
+        "created_at": "2026-04-27T14:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048770961105977782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1922999120865751040",
+              "start": 0,
+              "username": "hvbetterchoice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048770961105977782",
+        "in_reply_to_user_id": "1922999120865751040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048769136256491539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hvbetterchoice 妈妈老婆宝宝主人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048769127620419584"
+          ]
+        },
+        "author_id": "1922999120865751040",
+        "conversation_id": "2048769136256491539",
+        "created_at": "2026-04-27T14:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048769136256491539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EVbvH1zGdg",
+              "end": 32,
+              "expanded_url": "https://x.com/hvbetterchoice/status/2048769136256491539/photo/1",
+              "media_key": "3_2048769127620419584",
+              "start": 9,
+              "url": "https://t.co/EVbvH1zGdg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048769136256491539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快点叫我那两个字 https://t.co/EVbvH1zGdg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 176,
+          "like_count": 15490,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 2392
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T12:55:11.000Z",
+        "description": "",
+        "id": "1922999120865751040",
+        "name": "Briantiy",
+        "pinned_tweet_id": "2045475981658587219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048120265968926720/z6fdpnlf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2358,
+          "following_count": 25,
+          "like_count": 763,
+          "listed_count": 4,
+          "media_count": 62,
+          "tweet_count": 983
+        },
+        "username": "hvbetterchoice",
+        "verified": false
+      }
+    ]
+  }
+}

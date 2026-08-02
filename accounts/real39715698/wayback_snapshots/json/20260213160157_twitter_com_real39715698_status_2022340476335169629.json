@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2022340476335169629",
+    "created_at": "2026-02-13T16:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T17:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022340476335169629"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022340476335169629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们等会呢，12点的时候，点开我的聊天框，然后呢，点红包或者转账，输入数字52或520或1314，备注情人节和你，输入你的支付密码，然后呢，你们就会得到一个萌萌的我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2022340476335169629",
+        "created_at": "2026-02-13T16:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022340476335169629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022340476335169629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们等会呢，12点的时候，点开我的聊天框，然后呢，点红包或者转账，输入数字52或520或1314，备注情人节和你，输入你的支付密码，然后呢，你们就会得到一个萌萌的我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 80,
+          "like_count": 1811,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 856
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

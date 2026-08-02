@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2017906314383667395",
+    "created_at": "2026-02-01T10:22:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T11:22:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017906314383667395"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/echoooseo/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/echoooseo/status/2017875451763708095",
+          "start": 15,
+          "url": "https://t.co/WS9u9Pj5Qk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017906314383667395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017875451763708095",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯！我喜欢谁我就一直给谁点赞 https://t.co/WS9u9Pj5Qk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2017906314383667395",
+        "created_at": "2026-02-01T10:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T11:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017906314383667395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/echoooseo/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/echoooseo/status/2017875451763708095",
+              "start": 15,
+              "url": "https://t.co/WS9u9Pj5Qk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017906314383667395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017875451763708095",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯！我喜欢谁我就一直给谁点赞 https://t.co/WS9u9Pj5Qk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "948164217370112007",
+        "conversation_id": "2017875451763708095",
+        "created_at": "2026-02-01T08:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T09:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017875451763708095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017875451763708095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 769,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人的主动就是给你点赞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 78,
+          "like_count": 1375,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 738
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-02T12:09:00.000Z",
+        "description": "",
+        "id": "948164217370112007",
+        "name": "midnight",
+        "pinned_tweet_id": "1401433302821597184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013278586052964352/LL5DAZJW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 28,
+          "like_count": 1540,
+          "listed_count": 6,
+          "media_count": 32,
+          "tweet_count": 115
+        },
+        "username": "echoooseo",
+        "verified": true
+      }
+    ]
+  }
+}

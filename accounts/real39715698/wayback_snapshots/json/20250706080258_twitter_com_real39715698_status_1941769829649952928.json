@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1941767400741011642",
+    "created_at": "2025-07-06T08:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T09:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941769829649952928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1881356410228998144",
+          "start": 0,
+          "username": "xin98212"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941769829649952928",
+    "in_reply_to_user_id": "1881356410228998144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941767400741011642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xin98212 我要听第一段T^T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1941767400741011642",
+        "created_at": "2025-07-06T08:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T09:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941769829649952928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1881356410228998144",
+              "start": 0,
+              "username": "xin98212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941769829649952928",
+        "in_reply_to_user_id": "1881356410228998144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941767400741011642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xin98212 我要听第一段T^T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881356410228998144",
+        "conversation_id": "1941767400741011642",
+        "created_at": "2025-07-06T07:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T08:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941767400741011642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941767400741011642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一段发不出来 不发了😌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "只有青年音可以跟我说话\n加v🚪52 纯绿无福利",
+        "id": "1473529668263628805",
+        "name": "real",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295246752743429/8aMPksoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 61,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 92
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T15:01:48.000Z",
+        "description": "🈚️小号 有🚪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xintaowang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xintaowang",
+                "start": 0,
+                "url": "https://t.co/XZMvKYEZIz"
+              }
+            ]
+          }
+        },
+        "id": "1881356410228998144",
+        "location": "匿名箱👉",
+        "name": "心逃亡",
+        "pinned_tweet_id": "1927542864088637751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927228793724211200/i0YRiczO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2692,
+          "following_count": 110,
+          "like_count": 2245,
+          "listed_count": 8,
+          "media_count": 37,
+          "tweet_count": 310
+        },
+        "url": "https://t.co/XZMvKYEZIz",
+        "username": "xin98212",
+        "verified": false
+      }
+    ]
+  }
+}

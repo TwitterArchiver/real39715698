@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2070027830726144329",
+    "created_at": "2026-06-25T18:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T19:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070209225025057174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2026930479874846722",
+          "start": 0,
+          "username": "yy_7701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070209225025057174",
+    "in_reply_to_user_id": "2026930479874846722",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070203117115940899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yy_7701 老婆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2070027830726144329",
+        "created_at": "2026-06-25T18:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T19:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070209225025057174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2026930479874846722",
+              "start": 0,
+              "username": "yy_7701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070209225025057174",
+        "in_reply_to_user_id": "2026930479874846722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070203117115940899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yy_7701 老婆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026930479874846722",
+        "conversation_id": "2070027830726144329",
+        "created_at": "2026-06-25T17:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070203117115940899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070203117115940899",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070027830726144329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 报名"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 199,
+          "like_count": 25037,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 3556
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T08:01:11.000Z",
+        "description": "退推 互关想加我的可以私信找我要🫧\n@Abyssstxiiii 小号 只过互关\n我女神@Qnb6yC7f8r83780",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "Abyssstxiiii"
+              },
+              {
+                "end": 59,
+                "start": 43,
+                "username": "Qnb6yC7f8r83780"
+              }
+            ]
+          }
+        },
+        "id": "2026930479874846722",
+        "location": "只加互关",
+        "name": "鱼鱼",
+        "pinned_tweet_id": "2070194960771760459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040775700215664641/W7ypSKr1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2686,
+          "following_count": 96,
+          "like_count": 4683,
+          "listed_count": 4,
+          "media_count": 5,
+          "tweet_count": 1034
+        },
+        "url": "",
+        "username": "yy_7701",
+        "verified": false
+      }
+    ]
+  }
+}

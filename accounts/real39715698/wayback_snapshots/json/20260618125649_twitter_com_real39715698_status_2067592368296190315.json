@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067591770259767296"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2043708536417657162",
+    "created_at": "2026-06-18T12:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067592368296190315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BEXGiZMtiy",
+          "end": 152,
+          "expanded_url": "https://x.com/real39715698/status/2067592368296190315/photo/1",
+          "media_key": "3_2067591770259767296",
+          "start": 129,
+          "url": "https://t.co/BEXGiZMtiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067592368296190315",
+    "in_reply_to_user_id": "1473529668263628805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043708536417657162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "6.18 晚饭 我的雷霆乱炒饭 里面有猪耳朵 木耳 包菜 香肠 鸡蛋 还有其他乱七八糟的一些配菜 家里有啥我就放啥 我还放了火鸡面酱去炒 一口下去可能一万大卡吧可能 但是味道确实很美…这两天因为太倒霉了都不想起来做饭 明天端午节做水煮鱼片奖励自己 谢谢小雨 https://t.co/BEXGiZMtiy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2067591770259767296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGPwq7awAADSPz.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067591770259767296"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2043708536417657162",
+        "created_at": "2026-06-18T12:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067592368296190315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BEXGiZMtiy",
+              "end": 152,
+              "expanded_url": "https://x.com/real39715698/status/2067592368296190315/photo/1",
+              "media_key": "3_2067591770259767296",
+              "start": 129,
+              "url": "https://t.co/BEXGiZMtiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067592368296190315",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043708536417657162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6.18 晚饭 我的雷霆乱炒饭 里面有猪耳朵 木耳 包菜 香肠 鸡蛋 还有其他乱七八糟的一些配菜 家里有啥我就放啥 我还放了火鸡面酱去炒 一口下去可能一万大卡吧可能 但是味道确实很美…这两天因为太倒霉了都不想起来做饭 明天端午节做水煮鱼片奖励自己 谢谢小雨 https://t.co/BEXGiZMtiy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2043708536417657162",
+        "created_at": "2026-04-13T15:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043708536417657162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043708536417657162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 19697,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 66,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小雨今天吃什么(｡ì _ í｡)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 199,
+          "like_count": 24021,
+          "listed_count": 1,
+          "media_count": 359,
+          "tweet_count": 3436
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

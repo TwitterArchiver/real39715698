@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2064374719718055970",
+    "created_at": "2026-06-09T16:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T17:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064383523671388491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1922999120865751040",
+          "start": 0,
+          "username": "hvbetterchoice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064383523671388491",
+    "in_reply_to_user_id": "1922999120865751040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064379812756509136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hvbetterchoice 说实话呀嘿嘿 真的很漂亮！ 小宝宝美商极高(&gt;﹏&lt;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2064374719718055970",
+        "created_at": "2026-06-09T16:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064383523671388491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1922999120865751040",
+              "start": 0,
+              "username": "hvbetterchoice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064383523671388491",
+        "in_reply_to_user_id": "1922999120865751040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064379812756509136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hvbetterchoice 说实话呀嘿嘿 真的很漂亮！ 小宝宝美商极高(&gt;﹏&lt;)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922999120865751040",
+        "conversation_id": "2064374719718055970",
+        "created_at": "2026-06-09T16:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064379812756509136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064379812756509136",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064379022700847420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 小宝宝每次都这么宠我！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 196,
+          "like_count": 22424,
+          "listed_count": 1,
+          "media_count": 332,
+          "tweet_count": 3179
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T12:55:11.000Z",
+        "description": "",
+        "id": "1922999120865751040",
+        "name": "Briantiy",
+        "pinned_tweet_id": "2042562319499301281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055580564913258496/9o7nj6Yw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2631,
+          "following_count": 22,
+          "like_count": 906,
+          "listed_count": 4,
+          "media_count": 48,
+          "tweet_count": 689
+        },
+        "username": "hvbetterchoice",
+        "verified": false
+      }
+    ]
+  }
+}

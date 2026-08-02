@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062592712864624640"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "2062593632973287578",
+    "created_at": "2026-06-04T17:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T18:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062593632973287578"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b9RS079F23",
+          "end": 162,
+          "expanded_url": "https://x.com/real39715698/status/2062593632973287578/photo/1",
+          "media_key": "3_2062592712864624640",
+          "start": 139,
+          "url": "https://t.co/b9RS079F23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062593632973287578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大哥哥我说你呢 从我大号骂到我小号 你都在我小号被我骂的锁推了 现在又跑到我匿名里来骂我 我玩了一把朵莉亚把你全家克死了是不是 你这个骂的有什么攻击力啊 我可不是你这种整天在女孩帖子底下给自己脸上贴金说自己是4i小处男求调教的公狗啊 我真不想骂人的 你自己求我骂那我没办法了呀 https://t.co/b9RS079F23"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1775,
+        "media_key": "3_2062592712864624640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_NJO6a8AAo27w.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062592712864624640"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "2062593632973287578",
+        "created_at": "2026-06-04T17:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062593632973287578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b9RS079F23",
+              "end": 162,
+              "expanded_url": "https://x.com/real39715698/status/2062593632973287578/photo/1",
+              "media_key": "3_2062592712864624640",
+              "start": 139,
+              "url": "https://t.co/b9RS079F23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062593632973287578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大哥哥我说你呢 从我大号骂到我小号 你都在我小号被我骂的锁推了 现在又跑到我匿名里来骂我 我玩了一把朵莉亚把你全家克死了是不是 你这个骂的有什么攻击力啊 我可不是你这种整天在女孩帖子底下给自己脸上贴金说自己是4i小处男求调教的公狗啊 我真不想骂人的 你自己求我骂那我没办法了呀 https://t.co/b9RS079F23"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 196,
+          "like_count": 21657,
+          "listed_count": 1,
+          "media_count": 321,
+          "tweet_count": 3092
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

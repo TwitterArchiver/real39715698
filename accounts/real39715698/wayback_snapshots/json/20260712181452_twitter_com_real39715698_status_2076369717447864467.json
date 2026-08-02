@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076369702239305728"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "conversation_id": "2076369717447864467",
+    "created_at": "2026-07-12T18:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T19:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076369717447864467"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mV5jPumLAX",
+          "end": 28,
+          "expanded_url": "https://x.com/real39715698/status/2076369717447864467/video/1",
+          "media_key": "13_2076369702239305728",
+          "start": 5,
+          "url": "https://t.co/mV5jPumLAX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076369717447864467",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "完 没中 https://t.co/mV5jPumLAX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19017,
+        "height": 720,
+        "media_key": "13_2076369702239305728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076369702239305728/img/RH1ZROvq8IMYnHeZ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076369702239305728/vid/avc1/300x270/I5GdlkPWYAKS6CuO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076369702239305728/vid/avc1/402x360/Ppq8vN2nb7RWQST-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076369702239305728/vid/avc1/804x720/zqN0DydtVaqdX2Pp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076369702239305728/pl/xcixPUcYCAez-hMB.m3u8"
+          }
+        ],
+        "width": 804
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076369702239305728"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "conversation_id": "2076369717447864467",
+        "created_at": "2026-07-12T18:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076369717447864467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mV5jPumLAX",
+              "end": 28,
+              "expanded_url": "https://x.com/real39715698/status/2076369717447864467/video/1",
+              "media_key": "13_2076369702239305728",
+              "start": 5,
+              "url": "https://t.co/mV5jPumLAX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076369717447864467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完 没中 https://t.co/mV5jPumLAX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 201,
+          "like_count": 26487,
+          "listed_count": 1,
+          "media_count": 399,
+          "tweet_count": 3744
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

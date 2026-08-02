@@ -1,0 +1,113 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2049748038403657739",
+    "created_at": "2026-04-30T07:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T08:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049748038403657739"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049748038403657739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好恐怖啊我梦到我变成了一个男的 跟一个女孩做爱的时候我几把断了 直接给我吓醒了 断的跟淀粉肠一样的啥意思啊 真是吓死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2049748038403657739",
+        "created_at": "2026-04-30T07:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049748038403657739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049748038403657739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好恐怖啊我梦到我变成了一个男的 跟一个女孩做爱的时候我几把断了 直接给我吓醒了 断的跟淀粉肠一样的啥意思啊 真是吓死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 177,
+          "like_count": 16192,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 2487
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

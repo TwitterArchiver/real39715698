@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2040699833804312862",
+    "created_at": "2026-04-05T08:00:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T09:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040701217043775723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1880225171774316544",
+          "start": 0,
+          "username": "TvTx007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040701217043775723",
+    "in_reply_to_user_id": "1880225171774316544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040699833804312862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TvTx007 我喜欢你⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2040699833804312862",
+        "created_at": "2026-04-05T08:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040701217043775723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1880225171774316544",
+              "start": 0,
+              "username": "TvTx007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040701217043775723",
+        "in_reply_to_user_id": "1880225171774316544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040699833804312862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TvTx007 我喜欢你⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880225171774316544",
+        "conversation_id": "2040699833804312862",
+        "created_at": "2026-04-05T07:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040699833804312862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040699833804312862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你错过了愚人节表白 可以在今天表白 被拒绝了就说是鬼上身了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 124,
+          "like_count": 8595,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 1550
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T12:06:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rain07ovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rain07ovo",
+                "start": 0,
+                "url": "https://t.co/Pn60zJTJGp"
+              }
+            ]
+          }
+        },
+        "id": "1880225171774316544",
+        "name": "拥抱直到世界毁灭",
+        "pinned_tweet_id": "2040680525522935842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037953450328383488/IYoUQ68J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 12,
+          "like_count": 1118,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 281
+        },
+        "url": "https://t.co/Pn60zJTJGp",
+        "username": "TvTx007",
+        "verified": false
+      }
+    ]
+  }
+}

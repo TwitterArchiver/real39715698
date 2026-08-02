@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2038594177953636579",
+    "created_at": "2026-03-30T12:28:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T13:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038594177953636579"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038594177953636579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一旦我开始透露出我的脆弱 开始撒娇 开始流泪 好 我完蛋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2038594177953636579",
+        "created_at": "2026-03-30T12:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038594177953636579"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038594177953636579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一旦我开始透露出我的脆弱 开始撒娇 开始流泪 好 我完蛋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 106,
+          "like_count": 6689,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1326
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

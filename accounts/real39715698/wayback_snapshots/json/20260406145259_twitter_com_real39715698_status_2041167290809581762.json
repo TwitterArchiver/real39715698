@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2041166521519734974",
+    "created_at": "2026-04-06T14:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041167290809581762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1804213612619403271",
+          "start": 0,
+          "username": "Yenian001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041167290809581762",
+    "in_reply_to_user_id": "1804213612619403271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041166521519734974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yenian001 我喜欢你(๑&gt; &lt;๑）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2041166508047663104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOuH9-bAAAqL4Q.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2041166521519734974",
+        "created_at": "2026-04-06T14:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041167290809581762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1804213612619403271",
+              "start": 0,
+              "username": "Yenian001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041167290809581762",
+        "in_reply_to_user_id": "1804213612619403271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041166521519734974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yenian001 我喜欢你(๑&gt; &lt;๑）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041166508047663104"
+          ]
+        },
+        "author_id": "1804213612619403271",
+        "conversation_id": "2041166521519734974",
+        "created_at": "2026-04-06T14:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041166521519734974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qsOe9mii1X",
+              "end": 64,
+              "expanded_url": "https://x.com/Yenian001/status/2041166521519734974/photo/1",
+              "media_key": "3_2041166508047663104",
+              "start": 41,
+              "url": "https://t.co/qsOe9mii1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041166521519734974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【地球 online】 ★☆☆☆☆\n总是有其他玩家想跳过恋爱剧情解锁我的特殊cg https://t.co/qsOe9mii1X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 129,
+          "like_count": 9065,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1604
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T18:03:58.000Z",
+        "description": "我想要的那么简单又纯粹 为什么你显得那么无奈",
+        "id": "1804213612619403271",
+        "name": "你坏也好可爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991539613043945483/BptXYN1n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 44,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 179
+        },
+        "username": "Yenian001",
+        "verified": false
+      }
+    ]
+  }
+}

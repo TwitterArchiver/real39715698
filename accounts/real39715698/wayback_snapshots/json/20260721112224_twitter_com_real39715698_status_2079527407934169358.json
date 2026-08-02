@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2079523343011844465",
+    "created_at": "2026-07-21T11:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T12:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079527407934169358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053881744223522816",
+          "start": 0,
+          "username": "Escape_She"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079527407934169358",
+    "in_reply_to_user_id": "2053881744223522816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079523343011844465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Escape_She 这么多天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2079523343011844465",
+        "created_at": "2026-07-21T11:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079527407934169358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053881744223522816",
+              "start": 0,
+              "username": "Escape_She"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079527407934169358",
+        "in_reply_to_user_id": "2053881744223522816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079523343011844465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Escape_She 这么多天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053881744223522816",
+        "conversation_id": "2079523343011844465",
+        "created_at": "2026-07-21T11:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079523343011844465"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079523343011844465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不出意外的话我这个星期可以休息三天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 201,
+          "like_count": 27725,
+          "listed_count": 1,
+          "media_count": 403,
+          "tweet_count": 3821
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T16:57:06.000Z",
+        "description": "特别温良一个人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%86%B3",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%86%B3",
+                "start": 0,
+                "url": "https://t.co/UdgS1FRJzi"
+              }
+            ]
+          }
+        },
+        "id": "2053881744223522816",
+        "name": "你敢背叛我就杀了你",
+        "pinned_tweet_id": "2053919332082815080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079148795791872001/r8WmiWnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 53,
+          "like_count": 1118,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 140
+        },
+        "url": "https://t.co/UdgS1FRJzi",
+        "username": "Escape_She",
+        "verified": false
+      }
+    ]
+  }
+}

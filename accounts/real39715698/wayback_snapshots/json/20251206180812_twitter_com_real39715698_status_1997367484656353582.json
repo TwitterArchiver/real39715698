@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "1997251185515045001",
+    "created_at": "2025-12-06T18:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T19:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997367484656353582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1204311506797649921",
+          "start": 0,
+          "username": "Gwendoline_1210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997367484656353582",
+    "in_reply_to_user_id": "1204311506797649921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997330164871500140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gwendoline_1210 好！！！！谢谢宝宝安利(๑&gt; &lt;๑）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "1997251185515045001",
+        "created_at": "2025-12-06T18:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T19:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997367484656353582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1204311506797649921",
+              "start": 0,
+              "username": "Gwendoline_1210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997367484656353582",
+        "in_reply_to_user_id": "1204311506797649921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997330164871500140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gwendoline_1210 好！！！！谢谢宝宝安利(๑&gt; &lt;๑）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1204311506797649921",
+        "conversation_id": "1997251185515045001",
+        "created_at": "2025-12-06T15:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T16:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997330164871500140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997330164871500140",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997251185515045001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 宝宝或许你可以去看看春夏秋冬 兄妹骨po 真的非常香😣😣😣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "说了再见才发现再也见不到",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "1990047104321122696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 74,
+          "like_count": 660,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 494
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-10T08:07:00.000Z",
+        "description": "一棵高大的树！",
+        "id": "1204311506797649921",
+        "location": "Paris, France",
+        "name": "Gwen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989438565827133441/grdYW_cn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 31,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 330
+        },
+        "username": "Gwendoline_1210",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2081752349325050019",
+    "created_at": "2026-07-27T19:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T20:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081820612893511953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2020819965272522752",
+          "start": 0,
+          "username": "wsh1994899"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081820612893511953",
+    "in_reply_to_user_id": "2020819965272522752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081819150977286521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsh1994899 确实 但是就馋那第一口ᴛ ω ᴛ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2081752349325050019",
+        "created_at": "2026-07-27T19:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081820612893511953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2020819965272522752",
+              "start": 0,
+              "username": "wsh1994899"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081820612893511953",
+        "in_reply_to_user_id": "2020819965272522752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081819150977286521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsh1994899 确实 但是就馋那第一口ᴛ ω ᴛ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020819965272522752",
+        "conversation_id": "2081752349325050019",
+        "created_at": "2026-07-27T19:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081819150977286521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081819150977286521",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081752349325050019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 第一口很香 第二口就开始腻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 211,
+          "like_count": 28822,
+          "listed_count": 1,
+          "media_count": 405,
+          "tweet_count": 3897
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T11:20:18.000Z",
+        "description": "我是奶龙别来烦我",
+        "id": "2020819965272522752",
+        "name": "nnnsl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076463784718413826/aeJ66Nuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 34,
+          "like_count": 1303,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "wsh1994899",
+        "verified": false
+      }
+    ]
+  }
+}

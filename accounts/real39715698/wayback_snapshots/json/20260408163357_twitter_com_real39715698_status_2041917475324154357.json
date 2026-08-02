@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2041917139565867414",
+    "created_at": "2026-04-08T16:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T17:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041917475324154357"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041917475324154357",
+    "in_reply_to_user_id": "1473529668263628805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041917139565867414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢有人因为我感觉到幸福哪怕一点点，这样我也会很幸福，我已经努力的给每一个在我身边的人都提供好的情绪价值了，希望你们开心，我们都会开心幸福的^^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2041917139565867414",
+        "created_at": "2026-04-08T16:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041917475324154357"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041917475324154357",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041917139565867414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢有人因为我感觉到幸福哪怕一点点，这样我也会很幸福，我已经努力的给每一个在我身边的人都提供好的情绪价值了，希望你们开心，我们都会开心幸福的^^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2041917139565867414",
+        "created_at": "2026-04-08T16:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041917139565867414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041917139565867414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想变成一个更有责任心，能妥善处理好所有矛盾和感情，有能力毫无顾忌地被爱和相爱的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 138,
+          "like_count": 9896,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1735
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

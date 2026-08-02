@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073406894224576512"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2073091041922875827",
+    "created_at": "2026-07-04T14:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T15:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073408136703324426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ly8lhU1H2K",
+          "end": 63,
+          "expanded_url": "https://x.com/real39715698/status/2073408136703324426/photo/1",
+          "media_key": "3_2073406894224576512",
+          "start": 40,
+          "url": "https://t.co/Ly8lhU1H2K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073408136703324426",
+    "in_reply_to_user_id": "1473529668263628805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073091041922875827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "7.4 晚饭 毛豆炒肉沫 清炒花菜 紫菜蛋花汤 这个天气热的好没胃口 食欲全无 https://t.co/Ly8lhU1H2K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2073406894224576512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMY4lb0aEAA_FWT.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073406894224576512"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073091041922875827",
+        "created_at": "2026-07-04T14:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073408136703324426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ly8lhU1H2K",
+              "end": 63,
+              "expanded_url": "https://x.com/real39715698/status/2073408136703324426/photo/1",
+              "media_key": "3_2073406894224576512",
+              "start": 40,
+              "url": "https://t.co/Ly8lhU1H2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073408136703324426",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073091041922875827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "7.4 晚饭 毛豆炒肉沫 清炒花菜 紫菜蛋花汤 这个天气热的好没胃口 食欲全无 https://t.co/Ly8lhU1H2K"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2073091041922875827",
+        "created_at": "2026-07-03T17:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073091041922875827"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073091041922875827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 393,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很难跟你解释我缺爱这件事情，那太抽象了，说缺少睡眠或者缺少食物就清晰得多。我的心口在痛，我的肚子在饿，我的眼泪在流。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 200,
+          "like_count": 25824,
+          "listed_count": 1,
+          "media_count": 388,
+          "tweet_count": 3668
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

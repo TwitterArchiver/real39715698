@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2048320342599630911",
+    "created_at": "2026-04-26T12:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T13:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048374419886948620"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048374419886948620",
+    "in_reply_to_user_id": "1473529668263628805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048320342599630911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已黑幕两个小女孩一个小男孩:D剩下的等我发了工资之后再严肃黑幕嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2048320342599630911",
+        "created_at": "2026-04-26T12:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T13:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048374419886948620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048374419886948620",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048320342599630911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已黑幕两个小女孩一个小男孩:D剩下的等我发了工资之后再严肃黑幕嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2048320342599630911",
+        "created_at": "2026-04-26T08:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048320342599630911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/real39715698/s…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/real39715698/status/2048258347426820591",
+              "start": 45,
+              "url": "https://t.co/XPOyH0xWvV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048320342599630911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 623,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048258347426820591",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是我今天其实就想抽几个了 我连小作文内容都构思好了 我一下午在工位上啥也没干光想这些了 https://t.co/XPOyH0xWvV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 174,
+          "like_count": 15176,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 2342
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

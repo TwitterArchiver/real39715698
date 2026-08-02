@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2024145892950020427",
+    "created_at": "2026-02-18T15:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T16:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024145892950020427"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024145892950020427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因为很喜欢哥哥 所以才总是在哥哥面前撒娇的 你觉得我会在别人面前这样吗 哥哥 你要知道撒娇一点也不容易"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2024145892950020427",
+        "created_at": "2026-02-18T15:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T16:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024145892950020427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024145892950020427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为很喜欢哥哥 所以才总是在哥哥面前撒娇的 你觉得我会在别人面前这样吗 哥哥 你要知道撒娇一点也不容易"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 80,
+          "like_count": 1977,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 893
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

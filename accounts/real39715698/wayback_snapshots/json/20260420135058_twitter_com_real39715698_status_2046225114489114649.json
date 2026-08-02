@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2043708536417657162",
+    "created_at": "2026-04-20T13:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T14:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046225114489114649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "830059152407814145",
+          "start": 0,
+          "username": "shelly_nice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046225114489114649",
+    "in_reply_to_user_id": "830059152407814145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046224402946400280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shelly_nice 感觉紫菜完全适配任何汤类哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2043708536417657162",
+        "created_at": "2026-04-20T13:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046225114489114649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "830059152407814145",
+              "start": 0,
+              "username": "shelly_nice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046225114489114649",
+        "in_reply_to_user_id": "830059152407814145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046224402946400280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shelly_nice 感觉紫菜完全适配任何汤类哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830059152407814145",
+        "conversation_id": "2043708536417657162",
+        "created_at": "2026-04-20T13:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046224402946400280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046224402946400280",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046223735078924673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 哇塞神仙紫菜豆腐汤，最喜欢吃的菜就是紫菜！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "还给我那些天真和眼泪@Miao991ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Miao991ovo"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 166,
+          "like_count": 13482,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 2202
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-10T14:21:38.000Z",
+        "description": "以爱之名，畅行诸恶\nhttps://t.co/Uwg5c2tJ3e",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shelly_nice",
+                "end": 33,
+                "expanded_url": "https://ngl.link/shelly_nice",
+                "start": 10,
+                "url": "https://t.co/Uwg5c2tJ3e"
+              }
+            ]
+          }
+        },
+        "id": "830059152407814145",
+        "location": "Tianjin",
+        "name": "逸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1063648464385597441/_rj1Mc3L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 63,
+          "like_count": 8131,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 3361
+        },
+        "username": "shelly_nice",
+        "verified": false
+      }
+    ]
+  }
+}

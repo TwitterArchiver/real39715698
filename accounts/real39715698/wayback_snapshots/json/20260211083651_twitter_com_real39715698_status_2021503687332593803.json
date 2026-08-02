@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2021259114761027991",
+    "created_at": "2026-02-11T08:36:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T09:36:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021503687332593803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1891867182080065536",
+          "start": 0,
+          "username": "Boyatvt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021503687332593803",
+    "in_reply_to_user_id": "1891867182080065536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021492826094305613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Boyatvt 没有惹 我发出来之前就给我朋友们分掉惹(๑‾ ꇴ ‾๑)下次一定"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2021259114761027991",
+        "created_at": "2026-02-11T08:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021503687332593803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1891867182080065536",
+              "start": 0,
+              "username": "Boyatvt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021503687332593803",
+        "in_reply_to_user_id": "1891867182080065536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021492826094305613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Boyatvt 没有惹 我发出来之前就给我朋友们分掉惹(๑‾ ꇴ ‾๑)下次一定"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891867182080065536",
+        "conversation_id": "2021259114761027991",
+        "created_at": "2026-02-11T07:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T08:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021492826094305613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021492826094305613",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021259114761027991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 发给我谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "为什么越依赖就越痛苦",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 80,
+          "like_count": 1689,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 834
+        },
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T15:07:47.000Z",
+        "description": "我只是个宅",
+        "id": "1891867182080065536",
+        "name": "伯牙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963203963987410944/1amWLbSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 110,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 24
+        },
+        "username": "Boyatvt",
+        "verified": false
+      }
+    ]
+  }
+}

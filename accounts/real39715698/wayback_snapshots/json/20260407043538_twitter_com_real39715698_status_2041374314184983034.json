@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041374307348369408"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2041374314184983034",
+    "created_at": "2026-04-07T04:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T05:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041374314184983034"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4wKTsLGJiO",
+          "end": 93,
+          "expanded_url": "https://x.com/real39715698/status/2041374314184983034/photo/1",
+          "media_key": "3_2041374307348369408",
+          "start": 70,
+          "url": "https://t.co/4wKTsLGJiO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041374314184983034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看到有个关注的老师因为收款码收了1314在首页一直被说，我就想起来自己这种截图都是每年情人节自己大小号热演。一个很喜欢自娱自乐的小女孩。🚬 https://t.co/4wKTsLGJiO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 841,
+        "media_key": "3_2041374307348369408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFRrHesb0AAufGo.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041374307348369408"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041374314184983034",
+        "created_at": "2026-04-07T04:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041374314184983034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4wKTsLGJiO",
+              "end": 93,
+              "expanded_url": "https://x.com/real39715698/status/2041374314184983034/photo/1",
+              "media_key": "3_2041374307348369408",
+              "start": 70,
+              "url": "https://t.co/4wKTsLGJiO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041374314184983034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到有个关注的老师因为收款码收了1314在首页一直被说，我就想起来自己这种截图都是每年情人节自己大小号热演。一个很喜欢自娱自乐的小女孩。🚬 https://t.co/4wKTsLGJiO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我清楚我们之间只是过度陪伴产生的依赖",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 130,
+          "like_count": 9203,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 1622
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

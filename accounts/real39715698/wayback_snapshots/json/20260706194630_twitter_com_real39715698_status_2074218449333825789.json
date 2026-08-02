@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2074188722841719281",
+    "created_at": "2026-07-06T19:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T20:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074218449333825789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1775605396948111360",
+          "start": 0,
+          "username": "xxy_236077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074218449333825789",
+    "in_reply_to_user_id": "1775605396948111360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074217578403426577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxy_236077 但是七年的感情我实在有点舍不得。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2074188722841719281",
+        "created_at": "2026-07-06T19:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074218449333825789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1775605396948111360",
+              "start": 0,
+              "username": "xxy_236077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074218449333825789",
+        "in_reply_to_user_id": "1775605396948111360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074217578403426577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxy_236077 但是七年的感情我实在有点舍不得。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775605396948111360",
+        "conversation_id": "2074188722841719281",
+        "created_at": "2026-07-06T19:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074217578403426577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074217578403426577",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074188722841719281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 小宝宝这个人很坏，不要再把他当朋友了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 200,
+          "like_count": 26040,
+          "listed_count": 1,
+          "media_count": 391,
+          "tweet_count": 3683
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T19:25:11.000Z",
+        "description": "spinning at high speed💫",
+        "id": "1775605396948111360",
+        "name": "潇潇雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063680569389752320/QmLEMXsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 153,
+          "like_count": 5668,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2345
+        },
+        "url": "",
+        "username": "xxy_236077",
+        "verified": false
+      }
+    ]
+  }
+}

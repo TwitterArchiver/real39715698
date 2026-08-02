@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2007868765783064798",
+    "created_at": "2026-01-04T17:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T18:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007868765783064798"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2007868765783064798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎 其实我自己才是那个极度缺爱的人 因为家庭原因 总是得不到自己想要的爱 或者爱我的人不能再爱我 现在只有拥有了一点点爱我就会很开心 但是也不敢过多的索取属于我的那份 只需要将爱匀一点给我我就能反复的回味了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2007868765783064798",
+        "created_at": "2026-01-04T17:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T18:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007868765783064798"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007868765783064798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎 其实我自己才是那个极度缺爱的人 因为家庭原因 总是得不到自己想要的爱 或者爱我的人不能再爱我 现在只有拥有了一点点爱我就会很开心 但是也不敢过多的索取属于我的那份 只需要将爱匀一点给我我就能反复的回味了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "希望你天天开心",
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995542672451502080/2WX-GN-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 72,
+          "like_count": 826,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 564
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}
