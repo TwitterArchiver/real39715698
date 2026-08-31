@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2083582038943449290",
+    "created_at": "2026-08-01T15:54:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:54:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083582038943449290"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083582038943449290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我其实特别讨厌拉黑和删除，因为我很少这样对别人，要下很大的决心才能做这样的事情，我连聊天记录都会保存起来，所以我清楚地认识到如果别人这样对待我 那只是说明我是可以被这样对待的人，是可以随时在对方记忆里被驱赶的人，那如果这样的话我也不想在乎了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2083582038943449290",
+        "created_at": "2026-08-01T15:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083582038943449290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083582038943449290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实特别讨厌拉黑和删除，因为我很少这样对别人，要下很大的决心才能做这样的事情，我连聊天记录都会保存起来，所以我清楚地认识到如果别人这样对待我 那只是说明我是可以被这样对待的人，是可以随时在对方记忆里被驱赶的人，那如果这样的话我也不想在乎了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 204,
+          "like_count": 29779,
+          "listed_count": 1,
+          "media_count": 409,
+          "tweet_count": 4015
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

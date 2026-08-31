@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2083531248362996005",
+    "created_at": "2026-08-01T12:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083531248362996005"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/imissmyegg/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/imissmyegg/status/2083530470273487108",
+          "start": 11,
+          "url": "https://t.co/EpdDNdq4up"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083531248362996005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083530470273487108",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "头头宝宝的互关回家。 https://t.co/EpdDNdq4up"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1190,
+        "media_key": "3_2083530457250238464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOov6W8bkAAO4Xf.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2083531248362996005",
+        "created_at": "2026-08-01T12:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083531248362996005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/imissmyegg/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/imissmyegg/status/2083530470273487108",
+              "start": 11,
+              "url": "https://t.co/EpdDNdq4up"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083531248362996005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083530470273487108",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "头头宝宝的互关回家。 https://t.co/EpdDNdq4up"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083530457250238464"
+          ]
+        },
+        "author_id": "1994105609789341696",
+        "conversation_id": "2083530470273487108",
+        "created_at": "2026-08-01T12:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083530470273487108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VQgASvY9L1",
+              "end": 36,
+              "expanded_url": "https://x.com/imissmyegg/status/2083530470273487108/photo/1",
+              "media_key": "3_2083530457250238464",
+              "start": 13,
+              "url": "https://t.co/VQgASvY9L1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083530470273487108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关宝宝们你们在哪TwT https://t.co/VQgASvY9L1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 203,
+          "like_count": 29729,
+          "listed_count": 1,
+          "media_count": 409,
+          "tweet_count": 4010
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-27T18:06:48.000Z",
+        "description": "偶是头头…我的大号@tcxxstoutou被冻结了呀…互关宝宝回家🥺🫶🏻🫶🏻🫶🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "tcxxstoutou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tcxxstoutou",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tcxxstoutou",
+                "start": 0,
+                "url": "https://t.co/2vFQMUxLDK"
+              }
+            ]
+          }
+        },
+        "id": "1994105609789341696",
+        "location": "📬匿名提问箱",
+        "name": "头头2.0",
+        "pinned_tweet_id": "2083530470273487108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026704072586440709/sm7djmPx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 353,
+          "like_count": 3303,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 1713
+        },
+        "url": "https://t.co/2vFQMUxLDK",
+        "username": "imissmyegg",
+        "verified": false
+      }
+    ]
+  }
+}

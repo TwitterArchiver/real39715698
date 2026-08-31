@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085754896612294657"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085741607568216437",
+    "created_at": "2026-08-07T15:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085754911736938627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2036731606107611136",
+          "start": 0,
+          "username": "Charon6l1p"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WHGdX1CLk3",
+          "end": 40,
+          "expanded_url": "https://x.com/real39715698/status/2085754911736938627/photo/1",
+          "media_key": "3_2085754896612294657",
+          "start": 17,
+          "url": "https://t.co/WHGdX1CLk3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085754911736938627",
+    "in_reply_to_user_id": "2036731606107611136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085754552930992521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Charon6l1p 三层汉堡 https://t.co/WHGdX1CLk3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2085754896612294657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIXBxUbgAEEB1L.jpg",
+        "width": 2688
+      },
+      {
+        "height": 945,
+        "media_key": "3_2085754543586086913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIWtOMbEAE9Guz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085754896612294657"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085741607568216437",
+        "created_at": "2026-08-07T15:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085754911736938627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2036731606107611136",
+              "start": 0,
+              "username": "Charon6l1p"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WHGdX1CLk3",
+              "end": 40,
+              "expanded_url": "https://x.com/real39715698/status/2085754911736938627/photo/1",
+              "media_key": "3_2085754896612294657",
+              "start": 17,
+              "url": "https://t.co/WHGdX1CLk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085754911736938627",
+        "in_reply_to_user_id": "2036731606107611136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085754552930992521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Charon6l1p 三层汉堡 https://t.co/WHGdX1CLk3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085754543586086913"
+          ]
+        },
+        "author_id": "2036731606107611136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085741607568216437",
+        "created_at": "2026-08-07T15:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085754552930992521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9dhQ0pPv23",
+              "end": 40,
+              "expanded_url": "https://x.com/Charon6l1p/status/2085754552930992521/photo/1",
+              "media_key": "3_2085754543586086913",
+              "start": 17,
+              "url": "https://t.co/9dhQ0pPv23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085754552930992521",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085741607568216437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 恰！ https://t.co/9dhQ0pPv23"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo  仅过熟悉互关\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 51,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 28,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 215,
+          "like_count": 31089,
+          "listed_count": 1,
+          "media_count": 416,
+          "tweet_count": 4167
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T09:08:25.000Z",
+        "description": "在读音乐牲，喜欢自己哼点歌🤤",
+        "id": "2036731606107611136",
+        "location": "尼尔瓦纳",
+        "name": "迷路的美汁源🍊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140207179227136/BkEK1AyY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 15,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 363
+        },
+        "url": "",
+        "username": "Charon6l1p",
+        "verified": false
+      }
+    ]
+  }
+}

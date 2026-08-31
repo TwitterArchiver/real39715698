@@ -1,0 +1,440 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085407583024951298"
+      ]
+    },
+    "author_id": "1473529668263628805",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1338335420753440769",
+          "name": "Wang Junkai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1338335420753440769",
+          "name": "Wang Junkai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "C-Pop",
+          "id": "1098263006213881856",
+          "name": "C-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1338335420753440769",
+          "name": "Wang Junkai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Members: Suho (수호), Chanyeol (찬열), Kai (카이), D.O (디오), Baekhyun (백현), Sehun (세훈), Xiumin (시우민), Chen (첸), Lay (레이)",
+          "id": "889972468953128960",
+          "name": "EXO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Members: Suho (수호), Chanyeol (찬열), Kai (카이), D.O (디오), Baekhyun (백현), Sehun (세훈), Xiumin (시우민), Chen (첸), Lay (레이)",
+          "id": "889972468953128960",
+          "name": "EXO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Members: Suho (수호), Chanyeol (찬열), Kai (카이), D.O (디오), Baekhyun (백현), Sehun (세훈), Xiumin (시우민), Chen (첸), Lay (레이)",
+          "id": "889972468953128960",
+          "name": "EXO"
+        }
+      }
+    ],
+    "conversation_id": "2085407590125908297",
+    "created_at": "2026-08-06T16:48:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T17:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085407590125908297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/04vPIeJ2zt",
+          "end": 167,
+          "expanded_url": "https://x.com/real39715698/status/2085407590125908297/photo/1",
+          "media_key": "3_2085407583024951298",
+          "start": 144,
+          "url": "https://t.co/04vPIeJ2zt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085407590125908297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那是小时候的我第一次在现实里碰到王俊凯的男粉。然后我只对这个组合里的王俊凯的生日印象深刻，因为他喜欢，所以我俩在一起一年半内碰到过一次王俊凯生日，我们还一同为他祝福。但是我和他在一起的时候我喜欢的是exo，他喜欢的是tfb。分手后有一段时间我觉得我俩可能天生就不适合，就连粉籍都得大战。 https://t.co/04vPIeJ2zt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1241,
+        "media_key": "3_2085407583024951298",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDbJdYbsAIkgoV.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085407583024951298"
+          ]
+        },
+        "author_id": "1473529668263628805",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1338335420753440769",
+              "name": "Wang Junkai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1338335420753440769",
+              "name": "Wang Junkai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "C-Pop",
+              "id": "1098263006213881856",
+              "name": "C-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1338335420753440769",
+              "name": "Wang Junkai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Members: Suho (수호), Chanyeol (찬열), Kai (카이), D.O (디오), Baekhyun (백현), Sehun (세훈), Xiumin (시우민), Chen (첸), Lay (레이)",
+              "id": "889972468953128960",
+              "name": "EXO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Members: Suho (수호), Chanyeol (찬열), Kai (카이), D.O (디오), Baekhyun (백현), Sehun (세훈), Xiumin (시우민), Chen (첸), Lay (레이)",
+              "id": "889972468953128960",
+              "name": "EXO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Members: Suho (수호), Chanyeol (찬열), Kai (카이), D.O (디오), Baekhyun (백현), Sehun (세훈), Xiumin (시우민), Chen (첸), Lay (레이)",
+              "id": "889972468953128960",
+              "name": "EXO"
+            }
+          }
+        ],
+        "conversation_id": "2085407590125908297",
+        "created_at": "2026-08-06T16:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T17:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085407590125908297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/04vPIeJ2zt",
+              "end": 167,
+              "expanded_url": "https://x.com/real39715698/status/2085407590125908297/photo/1",
+              "media_key": "3_2085407583024951298",
+              "start": 144,
+              "url": "https://t.co/04vPIeJ2zt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085407590125908297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那是小时候的我第一次在现实里碰到王俊凯的男粉。然后我只对这个组合里的王俊凯的生日印象深刻，因为他喜欢，所以我俩在一起一年半内碰到过一次王俊凯生日，我们还一同为他祝福。但是我和他在一起的时候我喜欢的是exo，他喜欢的是tfb。分手后有一段时间我觉得我俩可能天生就不适合，就连粉籍都得大战。 https://t.co/04vPIeJ2zt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo  仅过熟悉互关\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 51,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 28,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 216,
+          "like_count": 30915,
+          "listed_count": 1,
+          "media_count": 413,
+          "tweet_count": 4151
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

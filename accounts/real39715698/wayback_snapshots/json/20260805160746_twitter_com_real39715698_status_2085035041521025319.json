@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2085035041521025319",
+    "created_at": "2026-08-05T16:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T17:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085035041521025319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1971941381280354305",
+          "start": 3,
+          "username": "AndyXu112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085035041521025319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085034770116100387",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AndyXu112: 心情：想有一个人一直粘在一起。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2085035041521025319",
+        "created_at": "2026-08-05T16:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085035041521025319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1971941381280354305",
+              "start": 3,
+              "username": "AndyXu112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085035041521025319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085034770116100387",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AndyXu112: 心情：想有一个人一直粘在一起。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971941381280354305",
+        "conversation_id": "2085034770116100387",
+        "created_at": "2026-08-05T16:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085034770116100387"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085034770116100387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "心情：想有一个人一直粘在一起。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo  仅过熟悉互关\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 51,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 28,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 214,
+          "like_count": 30751,
+          "listed_count": 1,
+          "media_count": 411,
+          "tweet_count": 4134
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T14:14:15.000Z",
+        "description": "05 数学 enfj  1i switch努力健身成为擦边男中... 养成系擦边男 还会更新一些碎碎念 调酒照片 学习日常 健身日常 私信看到都会回 回关看成分\n别找我看🐮我不发。\n另一个我@Martini31003",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Martini31003"
+              }
+            ]
+          }
+        },
+        "id": "1971941381280354305",
+        "location": "🚪52好友位/88/188互关可+v",
+        "name": "Martiniiiii",
+        "pinned_tweet_id": "2082133719079657691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051988248365514752/xmwFIcBa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 339,
+          "like_count": 4418,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 2167
+        },
+        "url": "",
+        "username": "AndyXu112",
+        "verified": false
+      }
+    ]
+  }
+}

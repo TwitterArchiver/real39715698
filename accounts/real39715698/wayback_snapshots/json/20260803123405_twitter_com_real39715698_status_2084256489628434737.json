@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2084255729821843694",
+    "created_at": "2026-08-03T12:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T13:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084256489628434737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1994105609789341696",
+          "start": 0,
+          "username": "imissmyegg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084256489628434737",
+    "in_reply_to_user_id": "1994105609789341696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084255729821843694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imissmyegg 这第一个看着好好吃！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2084255729821843694].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2084255729821843694",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2084255729821843694"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2084255729821843694",
+        "created_at": "2026-08-03T12:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084256489628434737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1994105609789341696",
+              "start": 0,
+              "username": "imissmyegg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084256489628434737",
+        "in_reply_to_user_id": "1994105609789341696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084255729821843694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imissmyegg 这第一个看着好好吃！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo  仅过熟悉互关\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 51,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 28,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 209,
+          "like_count": 30269,
+          "listed_count": 1,
+          "media_count": 409,
+          "tweet_count": 4063
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-27T18:06:48.000Z",
+        "description": "偶是头头…我的大号@tcxxstoutou被冻结了呀…互关宝宝回家😔🫶🏻🫶🏻🫶🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "tcxxstoutou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tcxxstoutou",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tcxxstoutou",
+                "start": 0,
+                "url": "https://t.co/3KI5osV7yk"
+              }
+            ]
+          }
+        },
+        "id": "1994105609789341696",
+        "location": "📬匿名提问箱",
+        "name": "头头二号",
+        "pinned_tweet_id": "2083530470273487108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083918119391961089/SAhBG63X_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 367,
+          "like_count": 3370,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 1736
+        },
+        "url": "https://t.co/3KI5osV7yk",
+        "username": "imissmyegg",
+        "verified": false
+      }
+    ]
+  }
+}

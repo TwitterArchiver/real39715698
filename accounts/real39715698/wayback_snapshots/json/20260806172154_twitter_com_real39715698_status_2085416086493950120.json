@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2085416086493950120",
+    "created_at": "2026-08-06T17:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T18:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085416086493950120"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xxkg3g/status/…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/Xxkg3g/status/2085314500467818928",
+          "start": 44,
+          "url": "https://t.co/CaBp8ckX1u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085416086493950120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085314500467818928",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对。不知道说什么就一直发表情包。然后再就是一直拍一拍骚扰人家。我就这样坚持不懈的骚扰。 https://t.co/CaBp8ckX1u"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2085416086493950120",
+        "created_at": "2026-08-06T17:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085416086493950120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xxkg3g/status/…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/Xxkg3g/status/2085314500467818928",
+              "start": 44,
+              "url": "https://t.co/CaBp8ckX1u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085416086493950120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085314500467818928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对。不知道说什么就一直发表情包。然后再就是一直拍一拍骚扰人家。我就这样坚持不懈的骚扰。 https://t.co/CaBp8ckX1u"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2085314500467818928",
+        "created_at": "2026-08-06T10:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085314500467818928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085314500467818928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1138,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想黏着一个人不知道说啥就喜欢一直发表情包😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo  仅过熟悉互关\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 51,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 28,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 216,
+          "like_count": 30935,
+          "listed_count": 1,
+          "media_count": 413,
+          "tweet_count": 4153
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 另一个我@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jiujin8848"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "5.2km",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 413,
+          "like_count": 455,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1607
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

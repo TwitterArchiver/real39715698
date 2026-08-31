@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2083222270856892920",
+    "created_at": "2026-08-01T18:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T19:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083615009670824312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1995805194421239809",
+          "start": 0,
+          "username": "shenmiren67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083615009670824312",
+    "in_reply_to_user_id": "1995805194421239809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083325875085602999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shenmiren67 我也爱你っω&lt;｡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2083222270856892920",
+        "created_at": "2026-08-01T18:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083615009670824312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1995805194421239809",
+              "start": 0,
+              "username": "shenmiren67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083615009670824312",
+        "in_reply_to_user_id": "1995805194421239809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083325875085602999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shenmiren67 我也爱你っω&lt;｡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995805194421239809",
+        "conversation_id": "2083222270856892920",
+        "created_at": "2026-07-31T22:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T23:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083325875085602999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083325875085602999",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083222270856892920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 爱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 205,
+          "like_count": 29810,
+          "listed_count": 1,
+          "media_count": 409,
+          "tweet_count": 4026
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T10:40:30.000Z",
+        "description": "万般皆我",
+        "id": "1995805194421239809",
+        "name": "小X",
+        "pinned_tweet_id": "2037542166885740807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028508656933957637/RCsA9YAS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 70,
+          "like_count": 7016,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1201
+        },
+        "url": "",
+        "username": "shenmiren67",
+        "verified": false
+      }
+    ]
+  }
+}

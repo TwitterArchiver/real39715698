@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2083542332822213041",
+    "created_at": "2026-08-01T13:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083543067202597249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1736821968614436865",
+          "start": 0,
+          "username": "Badnight2003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083543067202597249",
+    "in_reply_to_user_id": "1736821968614436865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083542332822213041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Badnight2003 咋这样铭晣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2083542332822213041",
+        "created_at": "2026-08-01T13:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083543067202597249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1736821968614436865",
+              "start": 0,
+              "username": "Badnight2003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083543067202597249",
+        "in_reply_to_user_id": "1736821968614436865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083542332822213041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Badnight2003 咋这样铭晣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736821968614436865",
+        "conversation_id": "2083542332822213041",
+        "created_at": "2026-08-01T13:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083542332822213041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083542332822213041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你的低精力回避型男友，觉得无聊了就找你聊聊，嫌你烦了就玩失踪，对着你的长篇大论回一个OK我都行看你，对着你分享的日常随便回一个表情包，看着你的崩溃抓狂隔半天回一个对不起，在线状态关闭起来隐身开起来，你质问我为什么不爱你我说一句我很爱你只是不想表现出来，你哭着要分手我说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 203,
+          "like_count": 29748,
+          "listed_count": 1,
+          "media_count": 409,
+          "tweet_count": 4012
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T18:53:33.000Z",
+        "description": "花有重开日，人无再少年",
+        "id": "1736821968614436865",
+        "location": "在你心里😗",
+        "name": "铭.",
+        "pinned_tweet_id": "1775040732279275782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082089919481364480/N_I6MLZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 84,
+          "like_count": 1179,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1481
+        },
+        "url": "",
+        "username": "Badnight2003",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2083222270856892920",
+    "created_at": "2026-08-01T18:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T19:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083614988527341999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1959091822812438529",
+          "start": 0,
+          "username": "oTvTog33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083614988527341999",
+    "in_reply_to_user_id": "1959091822812438529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083473114051285169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oTvTog33 宝宝 (´｡-ω(-ω-｡`)"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2083473114051285169].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2083473114051285169",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2083473114051285169"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2083222270856892920",
+        "created_at": "2026-08-01T18:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083614988527341999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1959091822812438529",
+              "start": 0,
+              "username": "oTvTog33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083614988527341999",
+        "in_reply_to_user_id": "1959091822812438529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083473114051285169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oTvTog33 宝宝 (´｡-ω(-ω-｡`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 43,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 20,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 205,
+          "like_count": 29810,
+          "listed_count": 1,
+          "media_count": 409,
+          "tweet_count": 4026
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-23T03:14:56.000Z",
+        "description": "诶嘿做你的小猪",
+        "id": "1959091822812438529",
+        "location": "不在场",
+        "name": "我是谁呀？",
+        "pinned_tweet_id": "2072606776936251609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082041548422963201/Bq9Xhx9C_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 203,
+          "like_count": 2104,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1600
+        },
+        "url": "",
+        "username": "oTvTog33",
+        "verified": false
+      }
+    ]
+  }
+}

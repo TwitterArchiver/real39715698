@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2083992969066209554",
+    "created_at": "2026-08-03T18:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T19:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084339216172175837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1896464135258595330",
+          "start": 0,
+          "username": "whatislife_kuro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084339216172175837",
+    "in_reply_to_user_id": "1896464135258595330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084325406845313528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whatislife_kuro 是的呀我们都是很好的宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2083992969066209554",
+        "created_at": "2026-08-03T18:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T19:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084339216172175837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1896464135258595330",
+              "start": 0,
+              "username": "whatislife_kuro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084339216172175837",
+        "in_reply_to_user_id": "1896464135258595330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084325406845313528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whatislife_kuro 是的呀我们都是很好的宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896464135258595330",
+        "conversation_id": "2083992969066209554",
+        "created_at": "2026-08-03T17:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084325406845313528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473529668263628805",
+              "start": 0,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084325406845313528",
+        "in_reply_to_user_id": "1473529668263628805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083992969066209554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real39715698 本质上我们都是很好的宝宝呀希望恋人和自己在一起的时候可以好好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo  仅过熟悉互关\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 51,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 28,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 212,
+          "like_count": 30362,
+          "listed_count": 1,
+          "media_count": 409,
+          "tweet_count": 4087
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T07:34:34.000Z",
+        "description": "",
+        "id": "1896464135258595330",
+        "location": "有🚪",
+        "name": "总而言之想让你幸福",
+        "pinned_tweet_id": "1993731215812382931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896464539153039360/0lrMTWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 65,
+          "like_count": 9764,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1116
+        },
+        "url": "",
+        "username": "whatislife_kuro",
+        "verified": false
+      }
+    ]
+  }
+}

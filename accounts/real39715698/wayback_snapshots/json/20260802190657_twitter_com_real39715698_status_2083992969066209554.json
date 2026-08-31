@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2083992969066209554",
+    "created_at": "2026-08-02T19:06:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T20:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083992969066209554"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083992969066209554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎其实我自己嘴上说着我自己是什么回避型焦虑型依恋，但是如果真的谈恋爱了对方需要的话，我应该是会变成引导型或者安全型依恋。原因也很简单，我不想看到对方在我们这段感情里不停陷入猜忌和恐慌甚至内耗，舍不得看到对方不开心。我自己是很缺乏安全感的那一类人，但是我根本没办法看到恋人受委屈。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2083992969066209554",
+        "created_at": "2026-08-02T19:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083992969066209554"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083992969066209554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎其实我自己嘴上说着我自己是什么回避型焦虑型依恋，但是如果真的谈恋爱了对方需要的话，我应该是会变成引导型或者安全型依恋。原因也很简单，我不想看到对方在我们这段感情里不停陷入猜忌和恐慌甚至内耗，舍不得看到对方不开心。我自己是很缺乏安全感的那一类人，但是我根本没办法看到恋人受委屈。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo  仅过熟悉互关\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 51,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 28,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 207,
+          "like_count": 30068,
+          "listed_count": 1,
+          "media_count": 409,
+          "tweet_count": 4043
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

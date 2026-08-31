@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1473529668263628805",
+    "conversation_id": "2083996422400254403",
+    "created_at": "2026-08-02T19:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T20:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083996422400254403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2083522467335942144",
+          "start": 3,
+          "username": "xfzzlrs11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083996422400254403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083662326302163395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xfzzlrs11: 觉得男人像小狗就是你当狗的开始"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2083996422400254403",
+        "created_at": "2026-08-02T19:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083996422400254403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2083522467335942144",
+              "start": 3,
+              "username": "xfzzlrs11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083996422400254403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083662326302163395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xfzzlrs11: 觉得男人像小狗就是你当狗的开始"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083522467335942144",
+        "conversation_id": "2083662326302163395",
+        "created_at": "2026-08-01T21:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083662326302163395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083662326302163395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14428,
+          "like_count": 145,
+          "quote_count": 6,
+          "reply_count": 44,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "觉得男人像小狗就是你当狗的开始"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo  仅过熟悉互关\nhttps://t.co/FMgiCVkkWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 51,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 28,
+                "url": "https://t.co/FMgiCVkkWR"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2065203230037148018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069387035408998400/kkCZr73S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 207,
+          "like_count": 30082,
+          "listed_count": 1,
+          "media_count": 409,
+          "tweet_count": 4046
+        },
+        "url": "",
+        "username": "real39715698",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-01T11:58:23.000Z",
+        "description": "眼泪是否比风轻",
+        "id": "2083522467335942144",
+        "name": "≡ω≡",
+        "pinned_tweet_id": "2083808061333106716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083522923915288576/QZ9wxiW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 12,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "xfzzlrs11",
+        "verified": false
+      }
+    ]
+  }
+}
